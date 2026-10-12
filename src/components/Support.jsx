@@ -79,19 +79,17 @@ export default function Support() {
           </a> */}
 
           <div className="sup-box upgrade free-el">
-            <span className="live"><span className="dot"></span><span className="lt">LIVE · 24/7 · VIP</span></span>
+            <span className="live"><span className="dot"></span><span className="lt">LIVE · 24/7</span></span>
             <span className="sup-t">A live agent on Zoom and a concierge on chat, at any hour</span>
             <span className="sup-s">Delta One VIP members speak to a real person around the clock, and Aria, their personal assistant, knows exactly where they are in the hallway. 99 USDT a month, paid in USDT like a module.</span>
             <a
               className="btn gold big"
-              href="#upgrade"
+              href="https://deltavip24.com"
               data-upgrade="support"
-              onClick={(e) => {
-                e.preventDefault();
-                openUpsell();
-              }}
+              target="_blank" 
+              rel="noopener"
             >
-              Go VIP · 99 USDT/month
+              Join Live Zoom
             </a>
           </div>
         </div>
