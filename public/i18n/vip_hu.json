@@ -1,0 +1,608 @@
+{
+"explainLabel": "Aria elmagyarázza",
+"ui": [
+"Olvass",
+"Csináld",
+"Aria, vezess végig",
+"Delta One VIP · A te tantermed",
+"Tanuld meg a Momentum Plant <em>három lépésben</em>.",
+"Ez az oldal egy folyosó három ajtóval, amelyek egymás után nyílnak: nézd meg, olvasd el, csináld. Menj végig mindhármon, és el tudod magyarázni a tervet egy barátodnak: mit veszel, mit fizet, és mit nem ígér soha.",
+"Kezdés az 1. lépésnél",
+"✓ Végigjártad az egész folyosót. A lenti könyvtár olyan mélyre megy, amilyenre csak szeretnéd.",
+"A terv filmen · 4 vagy 10 perc",
+"Három dokumentum, sorban · 15 perc",
+"Beállítás, tervezés, helyes szavak · 10 perc",
+"„Hallom és elfelejtem. Látom és emlékszem. Csinálom és megértem.” <span>— Konfuciusz. Ezért van a folyosónak három ajtaja.</span>",
+"— Konfuciusz. Ezért van a folyosónak három ajtaja.",
+"A 2 perces ismétlésed készen áll.",
+"Három gyors kérdés frissen tartja a tervet.",
+"Ismétlés",
+"1. lépés a 3-ból · Nézd meg",
+"Lásd az egész tervet egy ültő helyedben.",
+"Válassz egy filmet. A prezentáció az egész terv tíz percben, Aria olvassa fel. A rajzfilm ugyanezt a történetet négy percben meséli el. A másik kettő azoknak szól, akikkel később beszélni fogsz.",
+"E lépés után tudni fogod…",
+"Egy mondatban elmondani, mi a modul: egy szoftvervásárlás, amely akár az ára 2×-ét is visszaadhatja.",
+"Elmondani, hogyan fizet, ha bemutatsz egy barátot: annak 2%-a, amit a szerződése naponta keres, szintről szintre.",
+"Felsorolni a hét hegyet a Fujitól az Everestig.",
+"A Momentum Plan prezentáció",
+"Tizenhét dia, minden szabály és minden szám, Aria narrálásával. Ugyanezek a diák a könyvtárban PDF-ként is megvannak, a hangjával együtt.",
+"Maya, Sam és Bolt, a motor: a terv négy percben.",
+"A magfarm",
+"Kicsiknek és bárkinek: a terv farm-szinten.",
+"Csak ha alapítói székekről fogsz beszélni.",
+"Megnéztél egy filmet? Ügyes vagy — ez az 1. lépés. A következő ajtó három dokumentumra nyílik.",
+"Megnéztem — irány a 2. lépés ▸",
+"2. lépés a 3-ból · Olvass",
+"Három dokumentum, ebben a sorrendben.",
+"Minden dokumentumnál három lehetőséged van: <b>Megnyitás</b> és olvasás; nyomd meg a <b>Magyarázd el</b> gombot, és Aria tanárként elmagyarázza; vagy nyomd meg a <b>Olvasd fel</b> gombot, és az oldalt szóról szóra felolvassák neked. Töltsd le, amit meg szeretnél tartani.",
+"Rámutatni bármelyik rangra az egyoldalas terven, és leolvasni a részesedését (6%-tól 42%-ig) és a napi plafonját.",
+"Elmagyarázni a 11. napi kapcsolót: újravásárolni tovább, vagy a tárcába küldeni az eredményeket.",
+"Elmondani a három kulcstényt: ez vásárlás; semmit nem ígérnek; csak olyan pénzt használj, amelynek az elvesztését megengedheted magadnak.",
+"1. olvasmány a 3-ból · A terv egy oldalon",
+"<span class=\"ic\">▶</span> Olvasd fel",
+"2. olvasmány a 3-ból · Képek és rövid mondatok",
+"3. olvasmány a 3-ból · Egy oldal · olvasd el vásárlás előtt",
+"Elolvastad mindhármat? Jó. Most már tudod, mit veszel, mit fizet, és mit nem ígér soha.",
+"Elolvastam — irány a 3. lépés ▸",
+"3. lépés a 3-ból · Csináld",
+"Állj be, tervezz, és mondd helyesen.",
+"Most használod, amit tanultál. Két dokumentum, amelyet a szponzoroddal dolgozol végig, és két élő eszköz, amely új lapon nyílik meg, és megvár.",
+"Fiókot, tárcát és saját modult létrehozni a szponzoroddal, a helyes sorrendben.",
+"A helyes szavakat használni: vásárlás, nem befektetés; eredmény, nem hozam; újravásárlás, nem újrabefektetés; jutalom, nem jövedelem.",
+"Lefuttatni a kalkulátort egy modulra, és leolvasni, mit mutat napról napra.",
+"Csináld 1 · 3 · Fiók, tárca, saját modul",
+"Csináld 2 · 0 · Amit mondunk, és amit soha",
+"Csináld 3 · Élő eszköz",
+"Adj meg egy modulméretet és egy átlagos napi eredményt, válaszd ki a kapcsolót és a Kitartót, és nézd meg napról napra, mit ad a modul ezen az átlagon — mikor jön vissza az ár, mikor érkezik a 2×, és milyen újravásárlási modulok születnek közben.",
+"Kalkulátor megnyitása ↗",
+"Csináld 4 · Élő eszköz",
+"Fast Start 90 napos tervező",
+"Az első három napod, az első heted, az első hónapod és a 90. nap dátumozott feladatokként, rangcélokkal és csapatkalkulátorral. A bejegyzéseid az eszközödön maradnak.",
+"Tervező megnyitása ↗",
+"Kész? Akkor ellenőrizd magad: hat kis kérdés, mint egy iskolai kvíz. Megtudod, megragadt-e a terv.",
+"Kész — ellenőrzöm magam ▸",
+"Ellenőrzőpont",
+"Hat kérdés. Akkor ismered a tervet, ha válaszolni tudsz rájuk.",
+"Válassz egy választ. A helyes zölden világít, az indoklással. A rossz válasz is rendben van — így tanulunk. Semmit nem rögzítünk sehol, csak a saját eszközödön.",
+"1. kérdés a 6-ból",
+"A barátod szerződése ma keres valamit. Mit kapsz szintenként?",
+"Annak 2%-át, amit a szerződés aznap keres",
+"A vételár 2%-át",
+"Annak 42%-át, amit keres",
+"Két százalékát annak, amit a szerződés aznap keres. Soha nem a vételár egy részét.",
+"2. kérdés a 6-ból",
+"Az Everest a legmagasabb rang. Hány szinten fizet?",
+"Rangonként három szint: Fuji 3, Kilimandzsáró 6 … Everest 21.",
+"3. kérdés a 6-ból",
+"Mennyi a napi plafon a Fujin, az első rangon?",
+"Nincs plafon",
+"A plafonok a Fuji 1 000 USDT-jétől az Everest 7 000 USDT-jéig terjednek. Az alapmátrixra vonatkoznak; a különbözetnek nincs plafonja.",
+"4. kérdés a 6-ból",
+"A Fujin a forgalmad mekkora részét számíthatja egyetlen ág?",
+"Legfeljebb a felét",
+"Egyötödét",
+"Az egészet — elég egy ág",
+"Fele a Fujin és a Kilimandzsárón, harmada a Matterhornon és a Denalin, negyede a Rainieren, ötöde a K-2-n és az Everesten. Építs szélesre.",
+"5. kérdés a 6-ból",
+"Legfeljebb mennyit adhat vissza egy modul?",
+"Az ára 2×-ét, az árral együtt (Kitartónak 2,2×)",
+"Korlátlanul, amíg fut",
+"Csak az árat",
+"Egy modul az ára kétszeresénél ér véget, az árral együtt. Egy Kitartó, akinél az automatikus újravásárlás egész életében be van kapcsolva, 2,2×-nél ér véget.",
+"6. kérdés a 6-ból",
+"Melyik mondat jár minden beszélgetéssel?",
+"A motornak soha nincs nullás napja",
+"A legtöbb tag egyáltalán nem kap jutalékot; az eredmények és a jutalmak nem garantáltak",
+"Egy modul minden nap fizet, bármi történjék",
+"A tájékoztató mondat. Minden szám a motor átlagos napi eredményénél vett illusztráció.",
+"Újra",
+"Következő: mondd el a saját szavaiddal ▸",
+"Mondd el a saját szavaiddal",
+"Ha meg tudod tanítani, akkor tudod.",
+"Magyarázd el a Momentum Plant egy barátodnak három mondatban: mit veszel, hogyan fizet, ha embereket mutatsz be, és mit nem ígérnek soha. Írd ide, majd hasonlítsd össze a mintaválasszal. A szavaid az eszközödön maradnak.",
+"Szavaim mentése",
+"Mintaválasz mutatása",
+"Egy mintaválasz",
+"1. Veszel egy modult. Ez egy szoftvervásárlás, és a motor átlagos napi eredményénél akár az ára kétszeresét is visszaadhatja, az árral együtt.",
+"2. Amikor embereket mutatsz be, annak 2%-át kapod, amit a szerződéseik naponta keresnek, legfeljebb 21 szinten, a rangodtól függően. A vezetők hozzáteszik a különbözetet.",
+"3. Semmit nem ígérnek: egyes napok nullásak, az ár nem jár vissza, és a legtöbb tag egyáltalán nem kap jutalékot.",
+"A házi feladatod",
+"Mondd el hangosan egy valódi embernek ezen a héten. Ennyi az egész vizsga.",
+"Mélyebbre: a könyvtár ▸",
+"Ismétlés · 1., 3., 7. nap",
+"Egy kis ismétlés, háromszor.",
+"Az megmarad, amivel újra találkozol. Az ellenőrzőpont után három gyors kérdés visszatér holnap, majd három nap múlva, majd egy hét múlva. Az oldal az eszközödön jegyzi meg a dátumokat.",
+"Először fejezd be az ellenőrzőpontot. Az első ismétlésed másnap nyílik meg.",
+"A könyvtár · menj olyan mélyre, amilyenre szeretnél",
+"Minden dokumentum Aria magyarázatával és felolvasással.",
+"Minden kártya egy sorban elmondja, mi a dokumentum, kinek szól és mikor nyisd meg. A <b>Magyarázd el</b> Aria egyperces magyarázata; az <b>Olvasd fel</b> az egész dokumentumot felolvassa, oldalról oldalra.",
+"Keresd meg bal oldalon, mit szeretnél tenni. Nyisd meg jobb oldalon az egyetlen dokumentumot.",
+"Nyelvek megtekintése",
+"A prezentáció, a terv egy oldalon, és a három dokumentum, amely minden szabályt tartalmaz.",
+"17 dia · Aria felolvassa neked",
+"A 17 dia, amely az egész tervet elmagyarázza. Aria felolvassa neked.",
+"<b>Kinek:</b> mindenkinek &nbsp;·&nbsp; <b>Mikor:</b> az első órádban. Aztán minden prezentáció előtt.",
+"A Momentum Plan tizenhét diája Aria narrálásával minden oldalhoz csatolva (gemkapocs ikon). Az előadói kiadás értékesítési jegyzeteket ad hozzá.",
+"Tizennyolc rövid dokumentum abban a sorrendben, ahogy szükséged van rájuk: kezdd a készlet tartalomjegyzékével. Minden kártya egy sorban elmondja, mi a dokumentum, kinek szól és mikor használd.",
+"19 nyelven",
+"A terv egyszerű szavakkal és a kulcstények a tagod nyelvén. Az <b>Olvasd</b> az eszközöd hangját használja az adott nyelvhez, ahol van ilyen. Gépi fordítások, anyanyelvi lektorálás függőben; az angol kiadás a mérvadó.",
+"<span class=\"ic\">▶</span> Olvasd",
+"Mielőtt bármit megosztanál",
+"Ezen az oldalon és minden dokumentumban minden szám feltételezett illusztráció a motor átlagos napi eredményénél. A napok változnak, és lehetnek nullásak; az eredmények és a jutalmak nem garantáltak. A modul egy szoftvervásárlás, amelynek az ára nem jár vissza, és elveszhet; csak olyan pénzből vásárolj, amelynek az elvesztését megengedheted magadnak. <b>A legtöbb tag egyáltalán nem kap jutalékot.</b> Az elszámolás naponta 12:00-kor történik UTC szerint. Minden dokumentum jogi és megfelelőségi felülvizsgálatra váró vázlat; semmi itt nem jogi, adó- vagy pénzügyi tanács.",
+"Elakadtál? Kérdezd a szponzorodat.",
+"A szponzorod előtted járta végig ezt a folyosót. Küldd el neki a kérdést és a dokumentumot, amelyből származik.",
+"Folyosó újrakezdése",
+"Törli a három pipádat és az ellenőrzőpont pontszámodat ezen az eszközön.",
+"Haladásom törlése",
+"Szponzorok: tanítsd meg 45 perc alatt",
+"0–10 perc: nézzétek meg együtt a rajzfilmet. 10–25: nyissátok meg az egyoldalas tervet és a kulcstényeket, nyomjátok meg az Olvasd fel gombot. 25–35: a kezdő ellenőrzőlista, pontról pontra. 35–40: az ellenőrzőpont. 40–45: az új tag a saját szavaival mondja el. Aztán tűzzétek ki az 1. napi ismétlést.",
+"Mondd helyesen",
+"Vásárlás, nem befektetés. Eredmény, nem hozam. Újravásárlás, nem újrabefektetés. Jutalom, nem jövedelem. A többi a Nyelvi kártyán van.",
+"Nyelvi kártya megnyitása",
+"Delta One VIP · A Momentum Plan · 2026. október · Jogi és megfelelőségi felülvizsgálatra váró vázlat.",
+"▶ Olvasd fel",
+"Lassabban",
+"Normál sebesség",
+"Gyorsabban",
+"▶ Magyarázd el",
+"<span class=\"ic\">▶</span> Magyarázd el <span class=\"tm\">{n1}:{n2}</span>",
+"PDF · {n1} oldal · {n2} MB",
+"<span class=\"ic\">▶</span>&nbsp; Aria, a tanárom végigvezet · {n1}:{n2}"
+],
+"ui2": [
+"Most azonnal segítség kell?",
+"Három út a válaszhoz.",
+"ÉLŐ · 0–24",
+"Beszélj most egy ügyintézővel Zoomon",
+"Egy ügyintéző a nap minden órájában elérhető. Egy kattintás megnyitja a szobát — fiók nem kell.",
+"Csatlakozás az élő Zoomhoz ↗",
+"Van kérdésed a Delta One-ról?",
+"Kérdezz a saját szavaiddal. A válasz a terv közzétett szabályaiból jön, egyszerű nyelven.",
+"A kérdésed",
+"Kérdezek",
+"A válaszok a motor átlagos napi eredményénél vett szemléltetések; semmi itt nem ígéret. Személyes ügyben kérdezd a szponzorodat vagy egy ügyintézőt.",
+"Élő chat a Delta One VIP ügyfélszolgálattal",
+"Írj egy valódi embernek. Nyisd meg új lapon, és tanulj tovább itt.",
+"Élő chat megnyitása ↗",
+"Kérdésed van?",
+"Beszélj most egy ügyintézővel Zoomon · 0–24 ↗",
+"Szemléltetések a motor átlagos napi eredményénél; semmi itt nem ígéret. A legtöbb tag egyáltalán nem kap jutalékot.",
+"A három mondatod",
+"„Az ezer mérföldes út is egyetlen lépéssel kezdődik.” <span>— Lao-ce. Ez a folyosó három lépés hosszú.</span>",
+"— Lao-ce. Ez a folyosó három lépés hosszú."
+],
+"js": {
+"preparingDownload": "Letöltés előkészítése…",
+"saved": "Mentve.",
+"savedDownloads": "Mentve a letöltéseid közé.",
+"dlCancelled": "Letöltés megszakítva.",
+"dlWaiting": "Egy másik letöltés a megerősítésedre vár. Próbáld újra egy pillanat múlva.",
+"dlFailed": "A fájl nem töltődött be. Frissítsd az oldalt, és próbáld újra.",
+"dlNoStart": "A letöltés itt nem indult el. Nyomd meg a Megnyitás gombot, és olvasd el a teljes dokumentumot ezen az oldalon.",
+"loading": "Betöltés…",
+"pages": "{n} oldal",
+"pagesPage": "{n} oldal · {p}. oldal",
+"endWalk": "A bemutató vége",
+"endTour": "Ez volt az egész folyosó. Nyomd meg a lejátszást, hogy újra végigmenj, vagy zárd be a lejátszót.",
+"endExplain": "Ez volt a magyarázat. Nyomd meg a lejátszást, hogy újra meghallgasd, vagy az Olvasd fel gombot a teljes szöveghez.",
+"readAlong": "olvasd velem",
+"readBtn": "▶ Olvasd fel",
+"pauseBtn": "❚❚ Felolvasás szüneteltetése",
+"continueBtn": "▶ Felolvasás folytatása",
+"pausedOn": "Szünet a(z) {n}. oldalon.",
+"readingPage": "{n}. oldal felolvasása a(z) {m}-ből",
+"preparingReading": "Felolvasás előkészítése…",
+"endDoc": "A dokumentum vége.",
+"noVoice": "Ennek a böngészőnek nincs beépített hangja. Nyisd meg a dokumentumot, és használd helyette a Magyarázd el gombot.",
+"quizAll": "Ismered a tervet. Menj mélyebbre a könyvtárban, vagy kezdd újra bármikor.",
+"quizGood": "Jó. Olvasd újra, amit elrontottál, aztán próbáld újra.",
+"quizRetry": "Menj végig még egyszer a folyosón: nézd, olvasd, csináld. Aztán gyere vissza.",
+"of": "{a} / {b}",
+"thinking": "Gondolkodom…",
+"noAnswer": "Ez nincs a válaszbankomban. A leggyorsabb út: nyomd meg a Beszélj most egy ügyintézővel Zoomon gombot, vagy kérdezd a szponzorodat. A könyvtár dokumentumaiban minden szabály benne van — próbáld a Melyik dokumentumra van szükségem? táblát.",
+"savedDevice": "Mentve ezen az eszközön.",
+"reviewFirst": "Előbb fejezd be az ellenőrzőpontot. Az első ismétlésed másnap nyílik meg.",
+"reviewAllDone": "Mindhárom ismétlés kész. Gyere vissza, amikor akarsz — a folyosó mindig nyitva.",
+"reviewOpens": "A(z) {n}. ismétlés a 3-ból {when} nyílik meg.",
+"reviewNow": "{n}. ismétlés a 3-ból — három kérdés.",
+"reviewQ": "{n}. ismétlő kérdés a 3-ból",
+"reviewLast": "Ez volt az utolsó ismétlés. A terv mostantól a tiéd.",
+"reviewNext": "Következő ismétlés: {when}.",
+"now": "most",
+"tomorrow": "holnap",
+"inDays": "{n} nap múlva",
+"phAsk": "Például: mi történik a 11. napon?",
+"phAsk2": "Kérdezz bármit a tervről…",
+"phTeach": "1. Veszel egy modult…  2. Amikor bemutatsz valakit…  3. Semmi sem…"
+},
+"bank": [
+{
+"k": [
+"modul",
+"mi az",
+"micsoda",
+"mit"
+],
+"a": "A modul a Delta One MI-alapú kereskedési motorjának megvásárlása, 1 000 USDT-tól, USDT-ben fizetve. Legfeljebb az ára kétszeresét adhatja, az árral együtt, aztán véget ér. Az ár nem visszatéríthető. Minden szám a motor átlagos napi eredményénél vett szemléltetés; az eredmények és a jutalmak nem garantáltak, és a legtöbb tag egyáltalán nem kap jutalékot."
+},
+{
+"k": [
+"11. nap",
+"11",
+"tizenegy",
+"kapcsoló"
+],
+"a": "A 11. napon megkapod az automatikus újravásárlás kapcsolóját. BE: minden nap eredménye új újravásárlási modult vesz; KI: az app-pénztárcádba kerül, ahonnan bármikor kiveheted (minimum 5 USDT). A 11. nap előtt minden eredmény újravásárol. A Kitartó a modul egész élete alatt BE-kapcsolva hagyja, és a modul 200% helyett 220%-ot ad."
+},
+{
+"k": [
+"szintenként",
+"szint",
+"2%",
+"két",
+"százalék",
+"minden"
+],
+"a": "Minden jogosult felső pozíció egy szerződés napi hozamának 2%-át kapja, szintről szintre, a rangtól függően legfeljebb 21 szinten. Soha nem a vételár egy része. Minden szám a motor átlagos napi eredményénél vett szemléltetés; az eredmények és a jutalmak nem garantáltak, és a legtöbb tag egyáltalán nem kap jutalékot."
+},
+{
+"k": [
+"rang",
+"rangok",
+"hét",
+"hegy",
+"fuji",
+"everest",
+"summits"
+],
+"a": "Hét rang van: Fuji, Kilimandzsáró, Matterhorn, Denali, Rainier, K-2 és Everest. Minden rang három további fizetett szintet nyit (Fujinál 3, Everestnél 21), a jogosultság 6%-ról 42%-ra nő, a napi felső határ pedig 1 000 USDT-ról 7 000 USDT-ra. Csak az aktív modulok számítanak, és a rangokat minden elszámolásnál újra ellenőrzik."
+},
+{
+"k": [
+"felső határ",
+"határ",
+"napi",
+"maximum",
+"limit"
+],
+"a": "Minden rangnak van napi jutalomhatára az alapmátrixon: 1 000 USDT Fujinál, 2 000 Kilimandzsárónál, 3 000 Matterhornnál, 4 000 Denalinál, 5 000 Rainiernél, 6 000 K-2-nél és 7 000 USDT Everestnél. A különbözetnek nincs felső határa. Szemléltetések az átlagnál; semmi sem garantált."
+},
+{
+"k": [
+"ág",
+"ágak",
+"egyensúly",
+"szabály",
+"széles"
+],
+"a": "Az ágegyensúly szabálya: egyetlen ág sem számíthat a minősítő forgalmad felénél többet Fujinál és Kilimandzsárónál, harmadánál Matterhornnál és Denalinál, negyedénél Rainiernél, ötödénél K-2-nél és Everestnél. Az e feletti forgalom nem számít. Ezért építs szélességben: több ág, nem egyetlen magas torony."
+},
+{
+"k": [
+"különbözet",
+"vezető",
+"vezetők",
+"rés",
+"breakage"
+],
+"a": "A különbözet az, ahogyan a vezetők kapják a pénzüket: a rangod jogosultsága (6%–42%) és az adott ágban alattad már igényelt legmagasabb jogosultság közötti rés, ugyanazon a szerződésen. Nincs felső határa és mélységi korlátja, és bármely szerződésen az összeg soha nem haladja meg a 42%-ot. Maradj az ágaid előtt, és nyiss újakat."
+},
+{
+"k": [
+"átlag",
+"0,5",
+"0.5",
+"0,50",
+"eredmény",
+"napi"
+],
+"a": "Napi 0,50% a motor átlagos napi eredménye, és ez a kulcs minden szám mögött. A valódi napok nullától több százalékig változnak, az átlag változhat, és semmi sem garantált. Egy kereskedési nyereség nélküli nap senkinek sem fizet."
+},
+{
+"k": [
+"kivenni",
+"kivétel",
+"pénztárca",
+"pénz",
+"usdt",
+"minimum"
+],
+"a": "Az eredményeket és a jutalékokat az app-pénztárcádba írják jóvá USDT-ben, a BNB Smart Chainen (BEP-20). Bármikor kiveheted, minimum 5 USDT, azonnal, csak a gázdíjjal. Maga a vételár nem visszatéríthető és nem vehető ki."
+},
+{
+"k": [
+"elszámolás",
+"idő",
+"mikor",
+"fizet",
+"12",
+"utc",
+"utc",
+"4"
+],
+"a": "Az elszámolás minden nap 12:00-kor van UTC szerint. Ekkor osztják szét az eredményeket, és ekkor írják jóvá a jutalékokat USDT-ben az app-pénztárcába."
+},
+{
+"k": [
+"kitartó",
+"believer",
+"220",
+"automatikus",
+"újravásárlás"
+],
+"a": "A Kitartó a modul egész élete alatt BE-kapcsolva hagyja az automatikus újravásárlást. Cserébe a modul 200% helyett 220%-ot ad (egy 1 000 USDT-s modulnál az átlagon nagyjából a 440. napra). A döntés 220%-ig kötelező. Ez szemléltetés az átlagnál, nem ígéret."
+},
+{
+"k": [
+"garantált",
+"garancia",
+"biztonságos",
+"kockázat",
+"veszít",
+"ígéret"
+],
+"a": "Semmi sem garantált. Vannak napok, amikor az eredmény nulla, a vételár nem visszatéríthető és egészben vagy részben elveszhet, és a legtöbb tag egyáltalán nem kap jutalékot. Csak olyan pénzből vásárolj, amelynek elvesztését megengedheted magadnak. Minden szám a motor átlagos napi eredményénél vett szemléltetés."
+},
+{
+"k": [
+"felosztás",
+"100",
+"50",
+"25",
+"kincstár",
+"nyereség",
+"hova"
+],
+"a": "Minden 100 USDT kereskedési nyereség 50 / 25 / 25 arányban oszlik: 50 USDT a tagoknak a moduljaik napi eredményeként, 25 USDT a jutalmazási tervnek (minden jutalék innen jön, soha nem vásárlásból) és 25 USDT a DAO-kincstárnak. Nincs nyereség, nincs kifizetés."
+},
+{
+"k": [
+"jutalék",
+"keres",
+"jutalmak",
+"jövedelem",
+"mennyit"
+],
+"a": "A jutalmak két úton érkeznek: minden szerződés napi hozamának 2%-a a rangod minden fizetett szintjén (az alapmátrix, napi felső határral), és a különbözet a vezetőknek. Minden szám a motor átlagos napi eredményénél vett szemléltetés; az eredmények és a jutalmak nem garantáltak, és a legtöbb tag egyáltalán nem kap jutalékot."
+},
+{
+"k": [
+"kezd",
+"kezdés",
+"első",
+"új",
+"hogyan",
+"csatlakoz"
+],
+"a": "Kezdd az 1. lépésnél ezen az oldalon: nézd meg a bemutatót vagy a rajzfilmet. Aztán a 2. lépés: olvasd el a 7 Summits to Success-t, A terv egyszerű szavakkal-t és a Fontos tényeket. Aztán a 3. lépés: a Kezdő ellenőrzőlista a szponzoroddal. Elakadtál? Beszélj egy ügyintézővel Zoomon bármelyik órában."
+},
+{
+"k": [
+"befektetés",
+"befektet",
+"betét",
+"kamat",
+"hozam"
+],
+"a": "A modul szoftvervásárlás, nem betét és nem befektetés, és soha nem mondunk hozamot vagy kamatot. A motor eredményt termel; a modul ebből kap részt, átlagosan. Az ár nem visszatéríthető és elveszhet; csak olyan pénzből vásárolj, amelynek elvesztését megengedheted magadnak."
+},
+{
+"k": [
+"nyelv",
+"nyelvek",
+"fordítás",
+"angol",
+"arab",
+"kínai",
+"spanyol"
+],
+"a": "A terv egyszerű szavakkal és a Fontos tények 19 nyelven létezik: válassz nyelvet az oldal tetején, és ez a két dokumentum veled együtt vált. A többi dokumentum angolul van; az Olvasd fel így is fel tudja olvasni őket. A fordítások vázlatok, amíg anyanyelvi beszélő át nem nézi őket."
+},
+{
+"k": [
+"alapító",
+"alapítók",
+"ülés",
+"ülések",
+"founder",
+"nft"
+],
+"a": "Az alapítói ülések külön termék, saját dokumentumokkal (alapítói ülés útmutató, fontos tények és GYIK) és saját rajzfilmmel. A részletekért és a jelenlegi időablakért nyisd meg ezeket a dokumentumokat, vagy beszélj egy ügyintézővel Zoomon."
+},
+{
+"k": [
+"szponzor",
+"segítség",
+"ügyintéző",
+"zoom",
+"chat",
+"ügyfélszolgálat",
+"kapcsolat"
+],
+"a": "Három út a segítséghez: beszélj most egy ügyintézővel Zoomon (0–24), nyisd meg az élő chatet, vagy kérdezd a szponzorodat. A szponzorod előtted járta végig ezt a folyosót — küldd el neki a kérdést és a dokumentumot, amelyből jött."
+},
+{
+"k": [
+"kalkulátor",
+"számológép",
+"tervező",
+"fast",
+"eszköz",
+"eszközök"
+],
+"a": "Két élő eszköz nyílik új lapon: a Modulkalkulátor bármely modult napról napra mutat a motor átlagos napi eredményénél, a Fast Start tervező pedig az első 90 napodat rajzolja fel. Mindkettő a 3. lépésben van. Minden szám szemléltetés az átlagnál; semmi sem garantált."
+}
+],
+"tour": {
+"v01": {
+"t": "Üdvözöl a Delta One VIP",
+"text": "Szia, és üdvözöl a Delta One VIP. Aria vagyok, ma én leszek a tanárod. Ez az oldal egy folyosó három ajtóval, amelyek egymás után nyílnak. Egyes ajtó: nézd meg. Kettes ajtó: olvasd el. Hármas ajtó: csináld. Menj végig mindhármon, és el tudod majd magyarázni a Momentum Plant egy barátodnak. Készen állsz? Vágjunk bele."
+},
+"v02": {
+"t": "1. lépés · Nézd meg",
+"text": "Első lépés: nézd meg. Válassz egy filmet. Ha van tíz perced, indítsd el a prezentációt; minden diát felolvasok neked. Ha négy perced van, indítsd el a rajzfilmet; Maya, Sam és Bolt, a motor ugyanezt a történetet mesélik el. Amikor a film véget ér, nyomd meg a nagy gombot, amelyen az áll: megnéztem. Így lépsz tovább a második lépésre."
+},
+"v03": {
+"t": "2. lépés · Olvass",
+"text": "Második lépés: olvass. Három dokumentum, ebben a sorrendben. Először a 7 Summits to Success: az egész terv egy oldalon. Másodszor a terv egyszerű szavakkal: minden oldalon egy gondolat, egy képpel. Harmadszor a kulcstények: mi a modul, és mi mehet rosszul. Minden dokumentumnál három lehetőséged van. Megnyitod és elolvasod. Megnyomod a Magyarázd el gombot, és én elmagyarázom. Vagy megnyomod az Olvasd fel gombot, és az oldalt szóról szóra felolvassák neked."
+},
+"v04": {
+"t": "A terv egy oldalon",
+"text": "Nézzük meg együtt a tervet egy oldalon. Hét hegy, hét rang. A Fuji az első, az Everest az utolsó. Minden név alatt látsz egy százalékot. Ez a rang részesedése: hat százalék a Fujin, negyvenkét százalék az Everesten. Alatta az, amit a rang megkíván, és a napi plafon. Egyszerre egy hegy. Itt minden szám átlag, nem ígéret."
+},
+"v05": {
+"t": "3. lépés · Csináld",
+"text": "Harmadik lépés: csináld. Most használod, amit tanultál. Az ellenőrzőlista a fióktól az első modulig vezet; csináld végig a szponzoroddal. A Nyelvi kártya megtanítja, milyen szavakat mondunk, és milyeneket soha. A kalkulátor bármelyik modult megmutatja napról napra, az átlagon. A tervező pedig felrajzolja az első kilencven napodat. Nyomd meg a Kész gombot, ha kipróbáltad őket."
+},
+"v06": {
+"t": "Ellenőrizd magad",
+"text": "Most ellenőrizd magad. Hat kérdés, mint egy kis kvíz az iskolában. Ha egyet elrontasz, semmi baj; a helyes válasz világít, az indoklással. Aztán mondd el a tervet a saját szavaiddal, három mondatban, és hasonlítsd össze az enyémmel. Egy kis ismétlés visszatér holnap, és újra egy hét múlva, hogy a terv veled maradjon."
+},
+"v07": {
+"t": "A könyvtár",
+"text": "A három lépés alatt van a könyvtár. Minden itt van: a teljes terv, az ügyfeleidnek szóló dokumentumok, a készleted lépésről lépésre, és az alapítók. Minden kártya egy sorban elmondja, mi a dokumentum, kinek szól, és mikor nyisd meg. És minden dokumentumnál van Magyarázd el és Olvasd fel. Kettő közülük, az egyszerű szavak és a kulcstények, tizenkilenc nyelven is létezik."
+},
+"v08": {
+"t": "Mielőtt elmennél",
+"text": "Még egy dolog, és ez a legfontosabb. Ezen az oldalon minden szám a motor átlagos napi eredményénél vett illusztráció. Az eredmények és a jutalmak nem garantáltak. A legtöbb tag egyáltalán nem kap jutalékot. És minden dokumentum vázlat, amíg a jogászok jóvá nem hagyják. Ha elakadsz, kérdezd a szponzorodat. Ügyes voltál, hogy végigjártad a folyosót. Üdvözöl a Delta One VIP."
+}
+},
+"explain": {
+"Delta_One_Momentum_Plan_Presentation": {
+"title": "A Momentum Plan prezentáció",
+"text": "Kezdjük a prezentációval. Tizenhét dia, és a videóban felolvasom neked. Ez a nagy gondolat. Veszel egy modult. A modul akár az ára kétszeresét is visszaadhatja, és ebben az ár is benne van. Amikor embereket mutatsz be, annak két százalékát kapod, amit a szerződéseik naponta keresnek. Ez akár huszonegy szint mélyre is elérhet. Nézd meg egyszer, lassan. Aztán nézd meg újra egy barátoddal. Ne feledd: minden szám átlag, nem ígéret."
+},
+"Delta_One_7_Summits_to_Success": {
+"title": "7 Summits to Success",
+"text": "Ez az egész terv egy oldalon. Gondolj rá úgy, mint hét hegy térképére. Minden hegy egy rang. A Fuji az első. Az Everest az utolsó. Minden rang három további szinten fizet. A Fuji három szinten fizet. Az Everest huszonegyen. Minden hegy alatt látod, mit kíván a rang, és a napi plafont. A plafon a legtöbb, amit az alapmátrix egy nap alatt fizethet neked. Kérdezd meg magadtól: melyik hegyet mászom most? Tűzd ki ezt az oldalt. Minden szám illusztráció az átlagon."
+},
+"Delta_One_Momentum_Plan_Guide": {
+"title": "Momentum Plan útmutató",
+"text": "Ez a szabálykönyv. Amikor valaki megkérdezi, mi a pontos szabály, a válasz itt van. Benne van a rangtáblázat: mit veszel, hány embert regisztrálsz, és mennyi forgalomra van szüksége a csapatodnak. Vannak benne kiszámolt példák, valósághű számokkal, egy kis és egy nagy modulra. Nem kell ma az egészet elolvasnod. Tartsd kéznél, és keresd ki, amire szükséged van. És ne feledd a mondatot, amely minden számhoz jár: az eredmények nem garantáltak, és a legtöbb tag egyáltalán nem kap jutalékot."
+},
+"Delta_One_Line_Balance_Rule": {
+"title": "Ágegyensúly-szabály",
+"text": "Ez egy szabály egy oldalon, és nagyon fontos. A rangod a csapatod forgalmára épül. De egyetlen ág nem vihet el. A Fujin egy ág a forgalmad felét számíthatja, nem többet. Feljebb szigorúbb: harmadát, majd negyedét, majd ötödét. Mit tegyél hát? Építs szélesre. Több ág, ne egyetlen magas torony. Amikor valaki megkérdezi, miért nem mozdult a rangja, a válasz általában itt van."
+},
+"Delta_One_Momentum_Plan_Breakage_Differential": {
+"title": "Vezetői különbözet",
+"text": "Így fizetik a vezetőket. A kép egyszerű. Minden rangnak van egy száma, a Fuji hat százalékától az Everest negyvenkét százalékáig. A vezető a saját száma és az alatta már felhasznált legnagyobb szám közötti különbséget kapja, ugyanazon a szerződésen. Ha tehát az embereid előtt maradsz, a különbség a tiéd. Ha utolérnek, a különbség kisebb lesz. Egy szerződésen az összeg soha nem lépi túl a negyvenkét százalékot. Két lecke: maradj elöl, és nyiss új ágakat."
+},
+"Delta_One_Momentum_Plan_Distributor_Guide": {
+"title": "Forgalmazói útmutató",
+"text": "Ez a terv neked, a forgalmazónak írva. Minden szabály az okával együtt jön. Megtalálod a szavakat, amelyeket használunk, a rangtáblázatot, a napi plafonokat és azt, hogyan fizetik a vezetőket. A legjobb: négy kiszámolt történet, a kis csapattól a nagyig, a számokkal lépésről lépésre. Olvasd el a második napodon. Aztán egy hónap múlva olvasd el újra; másodszorra többet látsz majd. Minden történet illusztráció az átlagon. A legtöbb tag egyáltalán nem kap jutalékot."
+},
+"Delta_One_Momentum_Plan_Cheat_Sheet": {
+"title": "A puska",
+"text": "Ez a terv egyetlen oldalon, amikor gyorsan kell egy szám. Felül a rangtáblázat. Középen a három mód, ahogy egy szerződés fizet: szintenként, a különbözettel, és a napi plafon. Alul öt szabály, amelyet érdemes megjegyezni. Tartsd magad mellett, amikor emberekkel beszélsz. Ha ezt az oldalt el tudod magyarázni, a tervet is el tudod. A számok illusztrációk, nem ígéretek."
+},
+"Delta_One_Momentum_Plan_Napkin": {
+"title": "A szalvéta",
+"text": "Ez a szalvéta. A terv négy kis rajzban, ahogy egy kávé mellett lerajzolnád. Egyes rajz: egy tag vesz egy modult. Kettes rajz: minden száz USDT-ből, amit a motor keres, ötven a tagoké, huszonöt a tervé, huszonöt a cégé. Hármas rajz: kiegyensúlyozott ágak. Négyes rajz: kétféleképpen fizet. Próbáld ki te is. Fogj egy szalvétát, és rajzold le a négy képet. Ha le tudod rajzolni, érted."
+},
+"Delta_One_Momentum_Plan_Simple_Words": {
+"title": "A terv egyszerű szavakkal",
+"text": "Ez a terv egyszerű szavakkal. Minden oldalon egy gondolat. Egy kép. Három-négy rövid mondat. Azzal kezdődik, mit veszel. Aztán a napi rész. Aztán a tizenegyedik napi kapcsoló. Aztán a barátok és a szintek. Aztán a hét hegy. Az utolsó oldal a figyelmeztető oldal, és ez a legfontosabb. Add oda bárkinek, akinek a többi dokumentum nehéz. Tizenkilenc nyelven is létezik."
+},
+"Delta_One_Module_Product_Guide": {
+"title": "Termékútmutató",
+"text": "Ez a termékútmutató. Egy modul történetét meséli el az első naptól az utolsóig. Először azt, hogyan működik egy nap: a motor eredményt termel, és UTC szerint délben szétosztják. Aztán az első tizenegy napot, amikor minden eredmény egy új kis modult vásárol. Aztán a tizenegyedik napot, amikor kapsz egy kapcsolót: újravásárolni tovább, vagy a tárcádba küldeni az eredményeket. Aztán a véget, amikor a modul visszaadta az ára kétszeresét. Olvasd el a kulcstények után, vásárlás előtt."
+},
+"Delta_One_Module_Key_Facts": {
+"title": "Kulcstények és kockázatok",
+"text": "Ez a legfontosabb oldal mind közül. Olvasd el, mielőtt bármit vásárolnál. Mindenki ezt teszi. Elmondja, mi a modul: egy szoftvervásárlás. Nem betét. Nem befektetés. Az árat nem kapod vissza. Elmondja, mi mehet rosszul: egyes napokon az eredmény nulla, és semmi nem garantált. És elmondja az aranyszabályt: csak olyan pénzt használj, amelynek az elvesztését megengedheted magadnak. Ha egy oldalra emlékszel, erre emlékezz."
+},
+"Delta_One_Module_FAQ": {
+"title": "Tagi GYIK",
+"text": "Ezek a kérdések, amelyeket a tagok feltesznek, rövid és őszinte válaszokkal. Mi történik egy nyereség nélküli napon? Semmit nem fizetnek. Mit csinál az első tizenegy nap? Minden eredmény újravásárol. Legfeljebb mennyit adhat egy modul? Az ára kétszeresét, az árral együtt. Hová megy a pénzem? Az alkalmazás tárcájába, ha a kapcsoló ki van kapcsolva. Ha egy kérdés kétszer előjön, nézz ide. Harmadszorra már kész lesz a válaszod."
+},
+"Delta_One_Believer_Illustration": {
+"title": "A Kitartó",
+"text": "Ez a Kitartó története. A Kitartó a modul egész élete alatt bekapcsolva tartja az automatikus újravásárlást. Cserébe a modul kétszáz helyett kétszázhúsz százalékot adhat vissza. A dokumentum egy tízezer USDT-s modult mutat, az átlagon, amely a négyszáznegyvenedik napra kis modulok egész flottájává válik. Ez egy történet számokkal, nem ígéret. A valódi napok változnak. A döntés kötelező érvényű, ezért olvasd el lassan a tizenegyedik nap előtt."
+},
+"Delta_One_Founder_Profile_James_Pack": {
+"title": "James Pack",
+"text": "Ez James Pack, a Delta One alapítójának profilja. Három dolog, amit tudni érdemes: negyven év vállalkozásépítés; az ASEA társalapítója; és a saját szavai arról, mit képvisel a Delta One. Az utolsó oldal egy kártya, amelyet megoszthatsz. Vázlatként van megjelölve, amíg az alapítók jóvá nem hagyják."
+},
+"Delta_One_Founder_Profile_Ricky_Lundell": {
+"title": "Ricky Lundell",
+"text": "Ez Ricky Lundell, a Delta One elnökének profilja. Három dolog, amit tudni érdemes: világbajnok, többször is; UFC-világbajnokokat edzett; és magas mércét állít a csapat elé. Az utolsó oldal egy kártya, amelyet megoszthatsz. Vázlatként van megjelölve, amíg az alapítók jóvá nem hagyják."
+},
+"Delta_One_Founders_The_Partnership": {
+"title": "A partnerség",
+"text": "Ez a két alapító közös munkájának története. Mit hoz mindegyikük. Hogyan irányítják a céget, ahol a pénz mozgatásához egynél több kulcs kell. És miért számít ez neked. Amikor valaki megkérdezi, kik ezek az emberek, ezt az oldalt nyisd meg."
+},
+"Delta_One_Which_Document_Do_I_Need": {
+"title": "Melyik dokumentumra van szükségem?",
+"text": "Ez a térképed az összes dokumentumhoz. Mindegyik kap egy sort: mi az, kinek szól, és mikor nyisd meg. Az első táblázat a legjobb rész. Keresd meg bal oldalon, mit szeretnél tenni. A megnyitandó dokumentum jobb oldalon van. Ha csak három dokumentumot olvasol el, legyen az a kulcstények, a terv egyszerű szavakkal és a Nyelvi kártya. Nyisd meg ezt a térképet, valahányszor elveszettnek érzed magad."
+},
+"Delta_One_Distributor_Kit_Index": {
+"title": "A forgalmazói készlet tartalomjegyzéke",
+"text": "Ez a készleted tartalomjegyzéke. A készleted tizennyolc rövid dokumentum, abban a sorrendben, ahogy szükséged van rájuk. A nulladik lépés mindennél előbbre való: a kulcstények és a nyilatkozat. Aztán az első lépés, a második, egészen a kilencedikig. Azt is elmondja, ki melyik dokumentumot kapja, és mit nem adsz soha egy érdeklődőnek. És ad egy ötnapos tervet az első hetedre. Itt kezdd az első napon."
+},
+"Delta_One_Rewards_Disclosure_Statement": {
+"title": "Jutalom-tájékoztató nyilatkozat",
+"text": "Ez az oldal az igazat mondja a jutalmakról, rangról rangra. A legfontosabb sor ez: a legtöbb tag egyáltalán nem kap jutalékot. A számok modellszámok az átlagon, nem annak nyilvántartása, amit az emberek kerestek. A valódi jutalomhoz valódi csapat kell, és a legtöbb ember soha nem épít ilyet. Add oda ezt az oldalt minden érdeklődőnek, a kulcstényekkel együtt. Minden alkalommal."
+},
+"Delta_One_Language_Card": {
+"title": "A Nyelvi kártya",
+"text": "Ez a Nyelvi kártya: a szavak, amelyeket mondunk, és a szavak, amelyeket soha. Vásárlást mondunk, soha nem befektetést. Eredményt mondunk, soha nem hozamot. Újravásárlást mondunk, soha nem újrabefektetést. Jutalmat mondunk, soha nem jövedelmet. Ad öt mondatot is, amelyeket mindig biztonsággal elmondhatsz. Olvasd el az első beszélgetésed előtt. Aztán olvasd el újra hetente egyszer. A szavak számítanak."
+},
+"Delta_One_Rank_Roadmap": {
+"title": "A rangok útiterve",
+"text": "Ez a rangok útiterve: egy oldal a hét hegy mindegyikéhez. Minden ranghoz: mit kíván, hogyan néz ki egy csapat, amely tartja, és mennyit fizet a legkisebb csapat azon a rangon, az átlagon. Használd a következő célod kiválasztásához. Egyszerre egy hegy. A számok illusztrációk, nem ígéretek."
+},
+"Delta_One_Getting_Started_Checklist": {
+"title": "Kezdő ellenőrzőlista",
+"text": "Ez az első napi listád. Csináld végig a szponzoroddal, és pipálj ki minden pontot. Először a fiók és a személyazonosság ellenőrzése. Aztán a tárca. Aztán a saját modulod. Aztán az első tizenegy nap és a tizenegyedik napi döntés. Aztán az eszközeid és az első beszélgetéseid. Menj sorban. Ne hagyj ki egyetlen pontot sem."
+},
+"Delta_One_USDT_and_Wallet_Guide": {
+"title": "USDT és tárca útmutató",
+"text": "Ez az útmutató azoknak szól, akik még soha nem használtak USDT-t. Haladj lassan. Az USDT egy digitális dollár. A Delta One egyetlen hálózaton használja, amelynek neve B E P húsz. A hálózatnak mindig helyesnek kell lennie. Megmutatja, hogyan vegyél USDT-t, hogyan küldd az alkalmazásba, és hogyan vegyél ki pénzt, öt USDT minimummal. És felsorolja a pénzvesztő hibákat, hogy elkerülhesd őket. Olvasd el az első vásárlásod előtt."
+},
+"Delta_One_First_90_Days_Workbook": {
+"title": "Az első 90 nap munkafüzete",
+"text": "Ez az első kilencven napod papíron. Használj tollat. Oldalról oldalra: az első három napod, az első heted, az első hónapod és a kilencvenedik nap. Írd le a céljaidat. Írd le az ágakat, amelyeket megnyitsz. Írd le az ötven fős listádat. A tizenegyedik, a harmincadik és a kilencvenedik napon gyere vissza és ellenőrizd. Az oldal élő tervezője ugyanezt teszi a telefonodon."
+},
+"Delta_One_Member_Journey_Calendar": {
+"title": "A tag útjának naptára",
+"text": "Ez egy tag moduljának naptára. Nulladik nap: a vásárlás. Első nap: az első eredmény. Tizenegyedik nap: a kapcsoló. Kétszázadik és négyszázadik nap: a nagy mérföldkövek. Négyszáznegyvenedik nap: a vég kétszeresnél. Minden naphoz elmondja, mit mondj és mit küldj. Tartsd a taglistád mellett, és soha nem hagysz ki egy napot sem."
+},
+"Delta_One_Prospect_Conversation_Guide": {
+"title": "Beszélgetési útmutató érdeklődőkkel",
+"text": "Így megy egy jó beszélgetés. Kilenc lépés a köszönéstől a kulcstényekig. Tizenhét kérdés, amely hagyja beszélni a másikat. Tíz gyakori ellenvetés, őszinte válaszokkal. És tíz egyszerű hasonlat, amely a szabályokon belül marad. Olvasd el az első tíz beszélgetésed előtt. Készülj vele; ne szavald."
+},
+"Delta_One_Follow_Up_Messages": {
+"title": "Követő üzenetek",
+"text": "Ez tíz üzenet, amelyet úgy küldhetsz el, ahogy van. Az első kapcsolatfelvételtől a tizenegyedik napig. Minden üzenetet ellenőriztek a Nyelvi kártyával, tehát a szavak biztonságosak. Másold, illeszd be, küldd el. És mindig küldd el a kulcstényeket az első igazi beszélgetéssel."
+},
+"Delta_One_New_Member_Welcome_Pack": {
+"title": "Új tag üdvözlőcsomagja",
+"text": "Ez az, amit egy új tagnak küldesz, és mikor. Nulladik nap, első nap, tizenegyedik nap, kétszázadik nap. Minden naphoz a küldendő dokumentum és a szavak, amelyekkel küldd. Egy szabály, amelyet érdemes megjegyezni: a tag dönt a kapcsolóról a tizenegyedik napon, nem te. Használd ezt a csomagot, amint egy modult visszaigazoltak."
+},
+"Delta_One_Reading_Your_Statement": {
+"title": "A napi kivonat olvasása",
+"text": "Ez a napi kivonatot magyarázza el, sorról sorra. Minden nap délben, UTC szerint, érkezik egy kivonat. Megmutatja a nap eredményét, és hová ment: újravásárlási modulba vagy a tárcába. Megmutatja a jutalékokat szintről szintre, és a különbözetet. És elmondja, mit ellenőrizz minden nap. Nyisd meg, amikor először látsz kivonatot, és minden számot el tudsz majd magyarázni."
+},
+"Delta_One_Leaders_One_Pager": {
+"title": "A vezető egyoldalasa",
+"text": "Ez egy oldal vezetőknek, három szokással. Egyes szokás: nyiss új ágakat, mert az új ágak többet fizetnek. Kettes szokás: maradj az embereid előtt, mert a különbség a tiéd. Hármas szokás: tartsd aktívan a vezetőidet, mert csak az aktív modulok számítanak. Olvasd el havonta egyszer, és osztályozd magad mindhárom szempontból."
+},
+"Delta_One_About_Delta_One": {
+"title": "A Delta One-ról",
+"text": "Ez az, aki a Delta One. A motor, az alapítók, és az, hogyan tartják biztonságban a pénzt. A motor kereskedik, és az eredményt szétosztják: ötven a tagoknak, huszonöt a tervnek, huszonöt a cégnek. A pénz mozgatásához egynél több kulcs kell. Az elszámolás minden nap délben van, UTC szerint. Amikor valaki megkérdezi, kik ezek az emberek, nyisd meg ezt az oldalt a kulcstényekkel együtt."
+},
+"Delta_One_Distributor_Policies_and_Procedures": {
+"title": "Forgalmazói szabályzat és eljárások",
+"text": "Ezek a szabályok, amelyeket minden forgalmazó elfogad. Vázlat, amíg a jogászok jóvá nem hagyják. Mit nem állíthatsz soha. Hogyan bánsz a tagokkal és a pénzükkel. Mi történik panasz, inaktivitás és kilépés esetén. Olvasd el aláírás előtt. És nyisd meg, valahányszor nem vagy biztos benne, hogy valami megengedett-e."
+},
+"Delta_One_Distributor_Agreement": {
+"title": "Forgalmazói megállapodás",
+"text": "Ez a megállapodás közted és a Delta One között. Vázlat; a cég neve és az alkalmazandó jog még kitöltésre vár. Független vagy, nem alkalmazott. A jutalékot a közzétett terv szerint fizetik. És elmondja, hogyan ér véget a megállapodás. Olvasd el aláírás előtt. Kérdezz, ha valami nem világos."
+},
+"Delta_One_Privacy_and_KYC_Note": {
+"title": "Adatvédelmi és KYC-jegyzet",
+"text": "Ez a jegyzet a személyazonosság ellenőrzését magyarázza el. Mit gyűjtenek, miért szükséges, ki láthatja, és meddig őrzik meg. Amikor egy tag megkérdezi, miért kell személyazonosító okmányt küldenie, ez az az oldal. Jogi felülvizsgálatra váró vázlat."
+}
+}
+}

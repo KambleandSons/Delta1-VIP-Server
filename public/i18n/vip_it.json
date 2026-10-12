@@ -1,0 +1,607 @@
+{
+"explainLabel": "Aria spiega",
+"ui": [
+"Leggi",
+"Fai",
+"Aria, guidami",
+"Delta One VIP · La tua aula",
+"Impara il Momentum Plan in <em>tre passi</em>.",
+"Questa pagina è un corridoio con tre porte, che si aprono una dopo l'altra: guarda, leggi, fai. Attraversale tutte e tre e saprai spiegare il piano a un amico: cosa compri, cosa paga e cosa non viene mai promesso.",
+"Comincia dal passo 1",
+"✓ Hai percorso tutto il corridoio. La biblioteca qui sotto va in profondità quanto vuoi.",
+"Il piano in un film · 4 o 10 min",
+"Tre documenti, in ordine · 15 min",
+"Prepararsi, pianificare, dirlo bene · 10 min",
+"«Sento e dimentico. Vedo e ricordo. Faccio e capisco.» <span>— Confucio. Ecco perché il corridoio ha tre porte.</span>",
+"— Confucio. Ecco perché il corridoio ha tre porte.",
+"Il tuo ripasso di 2 minuti è pronto.",
+"Tre domande veloci tengono fresco il piano.",
+"Fai il ripasso",
+"Passo 1 di 3 · Guarda",
+"Vedi tutto il piano in una volta sola.",
+"Scegli un film. La presentazione è tutto il piano in dieci minuti, letto da Aria. Il cartone racconta la stessa storia in quattro. Gli altri due sono per le persone con cui parlerai dopo.",
+"Dopo questo passo saprai…",
+"Dire in una frase cos'è un modulo: un acquisto di software che può restituire fino a 2× il suo prezzo.",
+"Dire come presentare un amico ti paga: il 2% di ciò che il suo contratto guadagna ogni giorno, livello per livello.",
+"Nominare le sette montagne, dal Fuji all'Everest.",
+"La presentazione del Momentum Plan",
+"Diciassette diapositive, ogni regola e ogni numero, narrate da Aria. Le stesse diapositive sono in biblioteca come PDF con il suo audio allegato.",
+"Maya, Sam e Bolt il motore: il piano in quattro minuti.",
+"La fattoria dei semi",
+"Per i bambini e per chiunque: il piano a livello di fattoria.",
+"Solo se parlerai delle poltrone da fondatore.",
+"Hai guardato un film? Bravo — questo è il passo 1. La porta successiva si apre su tre documenti.",
+"L'ho guardato — vai al passo 2 ▸",
+"Passo 2 di 3 · Leggi",
+"Tre documenti, in quest'ordine.",
+"Ogni documento ti dà tre scelte: <b>Apri</b> e leggi; premi <b>Spiegamelo</b> e Aria lo spiega come un'insegnante; oppure premi <b>Leggimelo</b> e la pagina ti viene letta, parola per parola. Scarica ciò che vuoi tenere.",
+"Indicare un grado qualsiasi sul piano in una pagina e leggerne la quota (dal 6% al 42%) e il tetto giornaliero.",
+"Spiegare l'interruttore del giorno 11: continuare a riacquistare, o mandare i risultati al portafoglio.",
+"Dire i tre fatti chiave: è un acquisto; niente è promesso; usa solo denaro che puoi permetterti di perdere.",
+"Lettura 1 di 3 · Il piano in una pagina",
+"<span class=\"ic\">▶</span> Leggimelo",
+"Lettura 2 di 3 · Immagini e frasi brevi",
+"Lettura 3 di 3 · Una pagina · da leggere prima di comprare",
+"Letti tutti e tre? Bene. Ora sai cosa compri, cosa paga e cosa non viene mai promesso.",
+"Li ho letti — vai al passo 3 ▸",
+"Passo 3 di 3 · Fai",
+"Preparati, pianifica e dillo bene.",
+"Ora usi quello che hai imparato. Due documenti da fare con il tuo sponsor, e due strumenti dal vivo che si aprono in una nuova scheda e ti aspettano.",
+"Creare un account, un portafoglio e il tuo modulo, con il tuo sponsor, nell'ordine giusto.",
+"Usare le parole giuste: acquisto, non investimento; risultato, non rendimento; riacquisto, non reinvestimento; ricompense, non reddito.",
+"Usare il calcolatore per un modulo e leggere cosa mostra, giorno per giorno.",
+"Fai 1 · 3 · Account, portafoglio, modulo proprio",
+"Fai 2 · 0 · Cosa diciamo e cosa non diciamo mai",
+"Fai 3 · Strumento dal vivo",
+"Inserisci la taglia di un modulo e un risultato giornaliero medio, scegli l'interruttore e il Fedele, e guarda giorno per giorno cosa consegna il modulo a quella media: quando torna il prezzo, quando arriva il 2× e i moduli di riacquisto lungo la strada.",
+"Apri il calcolatore ↗",
+"Fai 4 · Strumento dal vivo",
+"Pianificatore Fast Start di 90 giorni",
+"I tuoi primi tre giorni, la prima settimana, il primo mese e il giorno 90 come compiti con data, con obiettivi di grado e un calcolatore di squadra. Ciò che scrivi resta sul tuo dispositivo.",
+"Apri il pianificatore ↗",
+"Fatto? Allora mettiti alla prova: sei piccole domande, come un quiz in classe. Saprai se il piano è rimasto.",
+"Fatto — mettiti alla prova ▸",
+"Punto di controllo",
+"Sei domande. Conosci il piano quando sai rispondere.",
+"Scegli una risposta. Quella giusta si accende in verde, con il motivo. Sbagliare va bene: è così che si impara. Niente viene registrato da nessuna parte se non sul tuo dispositivo.",
+"Domanda 1 di 6",
+"Il contratto del tuo amico guadagna qualcosa oggi. Cosa ricevi per ogni livello?",
+"Il 2% di ciò che il contratto guadagna quel giorno",
+"Il 2% del prezzo d'acquisto",
+"Il 42% di ciò che guadagna",
+"Il due per cento di ciò che il contratto guadagna quel giorno. Mai una parte del prezzo d'acquisto.",
+"Domanda 2 di 6",
+"L'Everest è il grado più alto. Su quanti livelli viene pagato?",
+"Tre livelli per grado: Fuji 3, Kilimangiaro 6 … Everest 21.",
+"Domanda 3 di 6",
+"Qual è il tetto giornaliero al Fuji, il primo grado?",
+"Non c'è tetto",
+"I tetti vanno da 1.000 USDT al Fuji a 7.000 USDT all'Everest. Valgono per la matrice base; il differenziale non ha tetto.",
+"Domanda 4 di 6",
+"Al Fuji, quanto del tuo volume può contare una sola linea?",
+"La metà, al massimo",
+"Un quinto",
+"Tutto: basta una linea",
+"La metà al Fuji e al Kilimangiaro, un terzo al Cervino e al Denali, un quarto al Rainier, un quinto al K-2 e all'Everest. Costruisci in larghezza.",
+"Domanda 5 di 6",
+"Qual è il massimo che un modulo può restituire?",
+"2× il suo prezzo, prezzo incluso (2,2× per un Fedele)",
+"Senza limite, finché gira",
+"Solo il prezzo",
+"Un modulo finisce a due volte il suo prezzo, prezzo incluso. Un Fedele, con il riacquisto automatico acceso per tutta la vita, finisce a 2,2×.",
+"Domanda 6 di 6",
+"Quale frase accompagna ogni conversazione?",
+"Il motore non ha mai un giorno a zero",
+"La maggior parte dei membri non guadagna alcuna commissione; risultati e ricompense non sono garantiti",
+"Un modulo paga ogni giorno, qualunque cosa accada",
+"La frase di avvertenza. Ogni cifra è un'illustrazione al risultato giornaliero medio del motore.",
+"Riprova",
+"Avanti: dillo con parole tue ▸",
+"Dillo con parole tue",
+"Se sai insegnarlo, lo sai.",
+"Spiega il Momentum Plan a un amico in tre frasi: cosa compri, come presentare persone paga, e cosa non viene mai promesso. Scrivilo qui, poi confronta con la risposta modello. Le tue parole restano sul tuo dispositivo.",
+"Salva le mie parole",
+"Mostra la risposta modello",
+"Una risposta modello",
+"1. Compri un modulo. È un acquisto di software e, al risultato giornaliero medio del motore, può restituire fino a due volte il suo prezzo, prezzo incluso.",
+"2. Quando presenti persone, ricevi il 2% di ciò che i loro contratti guadagnano ogni giorno, fino a 21 livelli, secondo il tuo grado. I leader aggiungono il differenziale.",
+"3. Niente è promesso: alcuni giorni sono a zero, il prezzo non viene rimborsato e la maggior parte dei membri non guadagna alcuna commissione.",
+"Il tuo compito",
+"Dillo ad alta voce a una persona vera questa settimana. È tutta qui la prova.",
+"Vai più a fondo: la biblioteca ▸",
+"Ripasso · giorno 1, giorno 3, giorno 7",
+"Un piccolo ripasso, tre volte.",
+"Le cose restano quando le incontri di nuovo. Dopo il punto di controllo, tre domande veloci tornano domani, poi fra tre giorni, poi fra una settimana. La pagina ricorda le date sul tuo dispositivo.",
+"Finisci prima il punto di controllo. Il primo ripasso si apre il giorno dopo.",
+"La biblioteca · vai a fondo quanto vuoi",
+"Ogni documento, con la spiegazione di Aria e la lettura ad alta voce.",
+"Ogni scheda dice in una riga cos'è il documento, per chi è e quando aprirlo. <b>Spiegamelo</b> è la spiegazione di un minuto di Aria; <b>Leggimelo</b> legge tutto il documento ad alta voce, pagina per pagina.",
+"Trova a sinistra cosa vuoi fare. Apri l'unico documento a destra.",
+"Vedi le lingue",
+"La presentazione, il piano in una pagina e i tre documenti che contengono ogni regola.",
+"17 diapositive · Aria te le legge",
+"Le 17 diapositive che spiegano tutto il piano. Aria te le legge.",
+"<b>Per:</b> tutti &nbsp;·&nbsp; <b>Quando:</b> la tua prima ora. Poi ogni volta che presenti.",
+"Le diciassette diapositive del Momentum Plan con la narrazione di Aria allegata a ogni pagina (icona graffetta). L'edizione per il relatore aggiunge note di vendita.",
+"Diciotto documenti brevi nell'ordine in cui ti servono: comincia dall'indice del kit. Ogni scheda dice in una riga cos'è il documento, per chi è e quando usarlo.",
+"In 19 lingue",
+"Il Piano in parole semplici e i fatti chiave nella lingua del tuo membro. <b>Leggi</b> usa la voce del tuo dispositivo per quella lingua, quando ce l'ha. Traduzioni automatiche, in attesa di revisione da parte di un madrelingua; l'edizione inglese è il riferimento.",
+"<span class=\"ic\">▶</span> Leggi",
+"Prima di condividere qualsiasi cosa",
+"Ogni cifra di questo sito e di ogni documento è un'illustrazione ipotetica al risultato giornaliero medio del motore. I giorni variano e possono essere zero; risultati e ricompense non sono garantiti. Un modulo è un acquisto di software il cui prezzo non è rimborsabile e può essere perso; acquista solo con denaro che puoi permetterti di perdere. <b>La maggior parte dei membri non guadagna alcuna commissione.</b> Il regolamento è giornaliero alle 12:00 UTC. Ogni documento è una bozza in attesa di revisione legale e di conformità; niente qui è consulenza legale, fiscale o finanziaria.",
+"Bloccato? Chiedi al tuo sponsor.",
+"Il tuo sponsor ha percorso questo corridoio prima di te. Mandagli la domanda e il documento da cui viene.",
+"Ricomincia il corridoio",
+"Cancella le tue tre spunte e il punteggio del punto di controllo su questo dispositivo.",
+"Azzera i miei progressi",
+"Sponsor: insegnalo in 45 minuti",
+"0–10 min: guardate il cartone insieme. 10–25: aprite il piano in una pagina e i fatti chiave, premete Leggimelo. 25–35: la lista di controllo per iniziare, casella per casella. 35–40: il punto di controllo. 40–45: il nuovo membro lo dice con parole sue. Poi fissate il ripasso del giorno 1.",
+"Dillo bene",
+"Acquisto, non investimento. Risultato, non rendimento. Riacquisto, non reinvestimento. Ricompense, non reddito. La Scheda del linguaggio ha il resto.",
+"Apri la Scheda del linguaggio",
+"Delta One VIP · Il Momentum Plan · Ottobre 2026 · Bozza in attesa di revisione legale e di conformità.",
+"▶ Leggimelo",
+"Più lento",
+"Velocità normale",
+"Più veloce",
+"▶ Spiegamelo",
+"<span class=\"ic\">▶</span> Spiegamelo <span class=\"tm\">{n1}:{n2}</span>",
+"PDF · {n1} pagina · {n2} MB",
+"<span class=\"ic\">▶</span>&nbsp; Aria, la mia insegnante, mi guida · {n1}:{n2}"
+],
+"ui2": [
+"Ti serve aiuto subito?",
+"Tre modi per avere una risposta.",
+"IN DIRETTA · 24/7",
+"Parla con un agente adesso su Zoom",
+"Un agente è in linea a qualsiasi ora. Un clic apre la stanza — non serve un account.",
+"Entra nello Zoom in diretta ↗",
+"Hai domande su Delta One?",
+"Chiedi con parole tue. La risposta viene dalle regole pubblicate del piano, in linguaggio semplice.",
+"La tua domanda",
+"Chiedi",
+"Le risposte sono illustrazioni al risultato giornaliero medio del motore; niente qui è una promessa. Per qualcosa di personale, chiedi al tuo sponsor o a un agente.",
+"Chat dal vivo con il supporto Delta One VIP",
+"Scrivi a una persona vera. Aprila in una nuova scheda e continua a imparare qui.",
+"Apri la chat dal vivo ↗",
+"Domande?",
+"Parla con un agente adesso su Zoom · 24/7 ↗",
+"Illustrazioni al risultato giornaliero medio del motore; niente qui è una promessa. La maggior parte dei membri non guadagna alcuna commissione.",
+"Le tue tre frasi",
+"«Un viaggio di mille miglia comincia con un solo passo.» <span>— Lao Tzu. Questo corridoio è lungo tre passi.</span>",
+"— Lao Tzu. Questo corridoio è lungo tre passi."
+],
+"js": {
+"preparingDownload": "Preparo il download…",
+"saved": "Salvato.",
+"savedDownloads": "Salvato nei tuoi download.",
+"dlCancelled": "Download annullato.",
+"dlWaiting": "Un altro download aspetta la tua conferma. Riprova tra un attimo.",
+"dlFailed": "Il file non si è caricato. Aggiorna la pagina e riprova.",
+"dlNoStart": "Il download non è partito qui. Premi Apri per leggere il documento completo in questa pagina.",
+"loading": "Caricamento…",
+"pages": "{n} pagine",
+"pagesPage": "{n} pagine · pagina {p}",
+"endWalk": "Fine del percorso",
+"endTour": "Questo è tutto il corridoio. Premi play per rifarlo, oppure chiudi il lettore.",
+"endExplain": "Questa è la spiegazione. Premi play per riascoltarla, oppure Leggimelo per il testo completo.",
+"readAlong": "leggi insieme",
+"readBtn": "▶ Leggimelo",
+"pauseBtn": "❚❚ Pausa lettura",
+"continueBtn": "▶ Continua a leggere",
+"pausedOn": "In pausa a pagina {n}.",
+"readingPage": "Leggo pagina {n} di {m}",
+"preparingReading": "Preparo la lettura…",
+"endDoc": "Fine del documento.",
+"noVoice": "Questo browser non ha una voce integrata. Apri il documento e usa Spiegamelo al suo posto.",
+"quizAll": "Conosci il piano. Vai più a fondo nella biblioteca, oppure ricomincia quando vuoi.",
+"quizGood": "Bene. Rileggi quelle che hai sbagliato, poi riprova.",
+"quizRetry": "Percorri il corridoio ancora una volta: guarda, leggi, fai. Poi torna.",
+"of": "{a} su {b}",
+"thinking": "Ci penso…",
+"noAnswer": "Questa non ce l'ho nella mia banca delle risposte. La via più rapida: premi Parla con un agente adesso su Zoom, oppure chiedi al tuo sponsor. I documenti della biblioteca contengono ogni regola — prova Di quale documento ho bisogno?",
+"savedDevice": "Salvato su questo dispositivo.",
+"reviewFirst": "Prima completa il punto di controllo. Il tuo primo ripasso si apre il giorno dopo.",
+"reviewAllDone": "Tutti e tre i ripassi sono fatti. Torna quando vuoi — il corridoio è sempre aperto.",
+"reviewOpens": "Il ripasso {n} di 3 si apre {when}.",
+"reviewNow": "Ripasso {n} di 3 — tre domande.",
+"reviewQ": "Domanda di ripasso {n} di 3",
+"reviewLast": "Era l'ultimo ripasso. Ora il piano è tuo.",
+"reviewNext": "Prossimo ripasso {when}.",
+"now": "adesso",
+"tomorrow": "domani",
+"inDays": "tra {n} giorni",
+"phAsk": "Per esempio: cosa succede il giorno 11?",
+"phAsk2": "Chiedi qualsiasi cosa sul piano…",
+"phTeach": "1. Compri un modulo…  2. Quando presenti qualcuno…  3. Niente è…"
+},
+"bank": [
+{
+"k": [
+"modulo",
+"cos'è",
+"cos'e",
+"cosa è",
+"cosa"
+],
+"a": "Un modulo è un acquisto del motore di trading con IA di Delta One, da 1.000 USDT, pagato in USDT. Può consegnare fino a due volte il suo prezzo, prezzo incluso, poi termina. Il prezzo non è rimborsabile. Ogni cifra è un'illustrazione al risultato giornaliero medio del motore; risultati e ricompense non sono garantiti, e la maggior parte dei membri non guadagna alcuna commissione."
+},
+{
+"k": [
+"giorno 11",
+"11",
+"undici",
+"interruttore"
+],
+"a": "Il giorno 11 ricevi l'interruttore del riacquisto automatico. ACCESO: il risultato di ogni giorno compra un nuovo modulo di riacquisto; SPENTO: va nel portafoglio dell'app, da cui puoi prelevare in qualsiasi momento (minimo 5 USDT). Prima del giorno 11 ogni risultato riacquista. Il Fedele tiene l'interruttore acceso per tutta la vita del modulo, e il modulo consegna il 220% invece del 200%."
+},
+{
+"k": [
+"per livello",
+"livello",
+"2%",
+"due",
+"per cento",
+"ogni"
+],
+"a": "Ogni posizione a monte qualificata riceve il 2% dei guadagni giornalieri di un contratto, livello per livello, fino a 21 livelli a seconda del grado. Non è mai una quota del prezzo d'acquisto. Ogni cifra è un'illustrazione al risultato giornaliero medio del motore; risultati e ricompense non sono garantiti, e la maggior parte dei membri non guadagna alcuna commissione."
+},
+{
+"k": [
+"grado",
+"gradi",
+"sette",
+"montagne",
+"fuji",
+"everest",
+"summits"
+],
+"a": "Ci sono sette gradi: Fuji, Kilimangiaro, Cervino, Denali, Rainier, K-2 ed Everest. Ogni grado sblocca tre livelli pagati in più (3 a Fuji, 21 a Everest), il diritto sale dal 6% al 42% e il tetto giornaliero da 1.000 USDT a 7.000 USDT. Contano solo i moduli attivi, e i gradi vengono ricontrollati a ogni regolamento."
+},
+{
+"k": [
+"tetto",
+"giornaliero",
+"massimo",
+"limite"
+],
+"a": "Ogni grado ha un tetto giornaliero di ricompense sulla matrice base: 1.000 USDT a Fuji, 2.000 a Kilimangiaro, 3.000 al Cervino, 4.000 a Denali, 5.000 a Rainier, 6.000 a K-2 e 7.000 USDT a Everest. Il differenziale non ha tetto. Illustrazioni alla media; niente è garantito."
+},
+{
+"k": [
+"linea",
+"linee",
+"equilibrio",
+"regola",
+"larghezza"
+],
+"a": "La regola di equilibrio delle linee: nessuna linea può contare per più della metà del tuo volume qualificante a Fuji e Kilimangiaro, un terzo al Cervino e a Denali, un quarto a Rainier e un quinto a K-2 ed Everest. Il volume oltre quella quota non conta. Quindi costruisci in larghezza: più linee, non una sola torre alta."
+},
+{
+"k": [
+"differenziale",
+"leader",
+"divario",
+"breakage"
+],
+"a": "Il differenziale è il modo in cui vengono pagati i leader: il divario tra il diritto del tuo grado (dal 6% al 42%) e il diritto più alto già reclamato sotto di te in quella linea, sullo stesso contratto. Non ha tetto né limite di profondità, e il totale su qualsiasi contratto non supera mai il 42%. Resta davanti alle tue linee e aprine di nuove."
+},
+{
+"k": [
+"media",
+"0,5",
+"0.5",
+"0,50",
+"risultato",
+"giornaliero"
+],
+"a": "Lo 0,50% al giorno è il risultato giornaliero medio del motore, ed è il tasso dietro ogni cifra. I giorni reali variano da zero a diversi punti percentuali, la media può cambiare e niente è garantito. Un giorno senza profitto di trading non paga nessuno."
+},
+{
+"k": [
+"prelevare",
+"prelievo",
+"portafoglio",
+"soldi",
+"usdt",
+"minimo"
+],
+"a": "Risultati e commissioni vengono accreditati nel portafoglio dell'app in USDT su BNB Smart Chain (BEP-20). Puoi prelevare in qualsiasi momento, minimo 5 USDT, all'istante, solo la commissione di gas. Il prezzo d'acquisto in sé non è rimborsabile e non può essere prelevato."
+},
+{
+"k": [
+"regolamento",
+"orario",
+"quando",
+"pagato",
+"12",
+"utc",
+"4"
+],
+"a": "Il regolamento avviene ogni giorno alle 12:00 UTC. È allora che i risultati vengono ripartiti e le commissioni accreditate, in USDT, nel portafoglio dell'app."
+},
+{
+"k": [
+"fedele",
+"believer",
+"220",
+"automatico",
+"riacquisto"
+],
+"a": "Un Fedele tiene il riacquisto automatico ACCESO per tutta la vita del modulo. In cambio il modulo consegna il 220% invece del 200% (verso il giorno 440 per un modulo da 1.000 USDT alla media). La scelta è vincolante fino al 220%. È un'illustrazione alla media, non una promessa."
+},
+{
+"k": [
+"garantito",
+"garanzia",
+"sicuro",
+"rischio",
+"perdere",
+"promessa"
+],
+"a": "Niente è garantito. Alcuni giorni il risultato è zero, il prezzo d'acquisto non è rimborsabile e può essere perso in tutto o in parte, e la maggior parte dei membri non guadagna alcuna commissione. Compra solo con denaro che puoi permetterti di perdere. Ogni cifra è un'illustrazione al risultato giornaliero medio del motore."
+},
+{
+"k": [
+"ripartizione",
+"100",
+"50",
+"25",
+"tesoreria",
+"profitto",
+"dove"
+],
+"a": "Ogni 100 USDT di profitto di trading sono ripartiti 50 / 25 / 25: 50 USDT ai membri come risultati giornalieri dei loro moduli, 25 USDT al piano di compensazione (ogni commissione viene da qui, mai da un acquisto) e 25 USDT alla Tesoreria DAO. Niente profitto, niente pagamento."
+},
+{
+"k": [
+"commissione",
+"guadagnare",
+"ricompense",
+"reddito",
+"quanto"
+],
+"a": "Le ricompense arrivano in due modi: il 2% dei guadagni giornalieri di ogni contratto su ogni livello pagato del tuo grado (la matrice base, con tetto giornaliero), e il differenziale per i leader. Ogni cifra è un'illustrazione al risultato giornaliero medio del motore; risultati e ricompense non sono garantiti, e la maggior parte dei membri non guadagna alcuna commissione."
+},
+{
+"k": [
+"iniziare",
+"cominciare",
+"inizio",
+"primo",
+"nuovo",
+"come",
+"unirmi"
+],
+"a": "Inizia dal Passo 1 di questa pagina: guarda la presentazione o il cartone. Poi il Passo 2: leggi 7 Summits to Success, Il Piano in parole semplici e i Punti chiave. Poi il Passo 3: la Lista di controllo per iniziare con il tuo sponsor. Bloccato? Parla con un agente su Zoom a qualsiasi ora."
+},
+{
+"k": [
+"investimento",
+"investire",
+"deposito",
+"interesse",
+"rendimento"
+],
+"a": "Un modulo è un acquisto di software, non un deposito né un investimento, e non diciamo mai rendimento o interesse. Il motore produce un risultato; il modulo ne riceve una parte, in media. Il prezzo non è rimborsabile e può essere perso; compra solo con denaro che puoi permetterti di perdere."
+},
+{
+"k": [
+"lingua",
+"lingue",
+"traduzione",
+"inglese",
+"arabo",
+"cinese",
+"spagnolo"
+],
+"a": "Il Piano in parole semplici e i Punti chiave esistono in 19 lingue: scegli una lingua in cima alla pagina e quei due documenti cambiano con te. Gli altri documenti sono in inglese; Leggimelo può comunque leggerli ad alta voce. Le traduzioni sono bozze finché un madrelingua non le rivede."
+},
+{
+"k": [
+"fondatore",
+"fondatori",
+"posto",
+"posti",
+"founder",
+"nft"
+],
+"a": "I posti da fondatore sono un prodotto separato con i propri documenti (la guida ai posti da fondatore, i punti chiave e le FAQ) e il proprio cartone. Per i dettagli e la finestra attuale, apri quei documenti o parla con un agente su Zoom."
+},
+{
+"k": [
+"sponsor",
+"aiuto",
+"agente",
+"zoom",
+"chat",
+"supporto",
+"contatto"
+],
+"a": "Tre modi per avere aiuto: parla con un agente adesso su Zoom (24/7), apri la chat dal vivo, oppure chiedi al tuo sponsor. Il tuo sponsor ha percorso questo corridoio prima di te — mandagli la domanda e il documento da cui viene."
+},
+{
+"k": [
+"calcolatore",
+"calcolatrice",
+"pianificatore",
+"fast",
+"strumento",
+"strumenti"
+],
+"a": "Due strumenti dal vivo si aprono in una nuova scheda: il Calcolatore del modulo mostra qualsiasi modulo giorno per giorno al risultato giornaliero medio del motore, e il pianificatore Fast Start traccia i tuoi primi 90 giorni. Entrambi sono nel Passo 3. Ogni cifra è un'illustrazione alla media; niente è garantito."
+}
+],
+"tour": {
+"v01": {
+"t": "Benvenuto in Delta One VIP",
+"text": "Ciao, e benvenuto in Delta One VIP. Sono Aria, e oggi sarò la tua insegnante. Questa pagina è un corridoio con tre porte, che si aprono una dopo l'altra. Porta uno: guarda. Porta due: leggi. Porta tre: fai. Attraversale tutte e tre e saprai spiegare il Momentum Plan a un amico. Pronto? Andiamo."
+},
+"v02": {
+"t": "Passo 1 · Guarda",
+"text": "Passo uno: guarda. Scegli un film. Se hai dieci minuti, avvia la presentazione; ti leggo ogni diapositiva. Se hai quattro minuti, avvia il cartone; Maya, Sam e Bolt il motore raccontano la stessa storia. Quando il film finisce, premi il grande pulsante che dice: l'ho guardato. Così passi al passo due."
+},
+"v03": {
+"t": "Passo 2 · Leggi",
+"text": "Passo due: leggi. Tre documenti, in quest'ordine. Primo, 7 Summits to Success: tutto il piano in una pagina. Secondo, il Piano in parole semplici: un'idea per pagina, con un'immagine. Terzo, i fatti chiave: cos'è un modulo e cosa può andare storto. Per ogni documento hai tre scelte. Aprirlo e leggere. Premere Spiegamelo, e lo spiego io. Oppure premere Leggimelo, e la pagina ti viene letta, parola per parola."
+},
+"v04": {
+"t": "Il piano in una pagina",
+"text": "Guardiamo insieme il piano in una pagina. Sette montagne, sette gradi. Il Fuji è il primo, l'Everest l'ultimo. Sotto ogni nome vedi una percentuale. È la quota del grado: sei per cento al Fuji, quarantadue per cento all'Everest. Sotto ancora, cosa chiede il grado, e il tetto giornaliero. Una montagna alla volta. Ogni numero qui è una media, non una promessa."
+},
+"v05": {
+"t": "Passo 3 · Fai",
+"text": "Passo tre: fai. Ora usi quello che hai imparato. La lista di controllo ti porta dall'account al primo modulo; falla con il tuo sponsor. La Scheda del linguaggio ti insegna le parole che diciamo e quelle che non diciamo mai. Il calcolatore mostra qualsiasi modulo, giorno per giorno, alla media. E il pianificatore traccia i tuoi primi novanta giorni. Premi Fatto quando li hai provati."
+},
+"v06": {
+"t": "Mettiti alla prova",
+"text": "Ora, mettiti alla prova. Sei domande, come un piccolo quiz in classe. Se ne sbagli una, va bene; la risposta giusta si accende, con il motivo. Poi di' il piano con parole tue, in tre frasi, e confrontalo con le mie. Un piccolo ripasso tornerà domani, e ancora fra una settimana, perché il piano resti con te."
+},
+"v07": {
+"t": "La biblioteca",
+"text": "Sotto i tre passi c'è la biblioteca. C'è tutto: il piano completo, i documenti per i tuoi clienti, il tuo kit passo dopo passo e i fondatori. Ogni scheda ti dice in una riga cos'è il documento, per chi è e quando aprirlo. E ogni documento ha Spiegamelo e Leggimelo. Due di loro, le parole semplici e i fatti chiave, esistono in diciannove lingue."
+},
+"v08": {
+"t": "Prima di andare",
+"text": "Un'ultima cosa, ed è la più importante. Ogni numero di questo sito è un'illustrazione al risultato giornaliero medio del motore. Risultati e ricompense non sono garantiti. La maggior parte dei membri non guadagna alcuna commissione. E ogni documento è una bozza finché gli avvocati non lo approvano. Se ti blocchi, chiedi al tuo sponsor. Bravo per aver percorso il corridoio. Benvenuto in Delta One VIP."
+}
+},
+"explain": {
+"Delta_One_Momentum_Plan_Presentation": {
+"title": "La presentazione del Momentum Plan",
+"text": "Cominciamo dalla presentazione. Sono diciassette diapositive, e te le leggo nel video. Ecco la grande idea. Compri un modulo. Il modulo può restituire fino a due volte il suo prezzo, e il prezzo fa parte di quella cifra. Quando presenti persone, ricevi il due per cento di ciò che i loro contratti guadagnano ogni giorno. Può arrivare fino a ventuno livelli di profondità. Guardala una volta, lentamente. Poi guardala di nuovo con un amico. Ricorda: ogni numero è una media, non una promessa."
+},
+"Delta_One_7_Summits_to_Success": {
+"title": "7 Summits to Success",
+"text": "Questo è tutto il piano in una pagina. Pensalo come una mappa di sette montagne. Ogni montagna è un grado. Il Fuji è il primo. L'Everest è l'ultimo. Ogni grado ti fa pagare su tre livelli in più. Il Fuji paga tre livelli. L'Everest ne paga ventuno. Sotto ogni montagna vedi cosa chiede il grado, e il tetto giornaliero. Il tetto è il massimo che la matrice base può pagarti in un giorno. Chiediti: quale montagna sto scalando adesso? Appendi questa pagina. Ogni numero è un'illustrazione alla media."
+},
+"Delta_One_Momentum_Plan_Guide": {
+"title": "Guida al Momentum Plan",
+"text": "Questo è il libro delle regole. Quando qualcuno chiede qual è la regola esatta, la risposta è qui. C'è la tabella dei gradi: cosa compri, quante persone iscrivi e quanto volume serve alla tua squadra. Ci sono esempi calcolati, con numeri realistici, per un modulo piccolo e uno grande. Non devi leggerlo tutto oggi. Tienilo vicino e cerca quello che ti serve. E ricorda la frase che accompagna ogni numero: i risultati non sono garantiti, e la maggior parte dei membri non guadagna alcuna commissione."
+},
+"Delta_One_Line_Balance_Rule": {
+"title": "Regola dell'equilibrio delle linee",
+"text": "Questa è una regola in una pagina, e conta molto. Il tuo grado si costruisce sul volume della tua squadra. Ma una sola linea non può portarti. Al Fuji, una linea può contare per la metà del tuo volume, non di più. Più in alto è più severa: un terzo, poi un quarto, poi un quinto. Allora cosa fai? Costruisci in larghezza. Più linee, non una sola torre alta. Quando qualcuno chiede perché il suo grado non è salito, la risposta di solito è qui."
+},
+"Delta_One_Momentum_Plan_Breakage_Differential": {
+"title": "Differenziale dei leader",
+"text": "Ecco come vengono pagati i leader. L'immagine è semplice. Ogni grado ha un numero, dal sei per cento al Fuji al quarantadue per cento all'Everest. Un leader riceve la differenza tra il suo numero e il numero più grande già usato sotto di lui, sullo stesso contratto. Quindi, se resti davanti alla tua gente, la differenza è tua. Se ti raggiungono, la differenza si riduce. Il totale su qualsiasi contratto non supera mai il quarantadue per cento. Due lezioni: resta davanti, e apri nuove linee."
+},
+"Delta_One_Momentum_Plan_Distributor_Guide": {
+"title": "Guida del distributore",
+"text": "Questo è il piano scritto per te, il distributore. Ogni regola viene con il suo motivo. Troverai le parole che usiamo, la tabella dei gradi, i tetti giornalieri e come vengono pagati i leader. La parte migliore: quattro storie calcolate, da una squadra piccola a una grande, con i numeri passo dopo passo. Leggilo il tuo secondo giorno. Poi rileggilo tra un mese; vedrai di più la seconda volta. Ogni storia è un'illustrazione alla media. La maggior parte dei membri non guadagna alcuna commissione."
+},
+"Delta_One_Momentum_Plan_Cheat_Sheet": {
+"title": "Il foglio riassuntivo",
+"text": "Questo è il piano in una sola pagina, per quando ti serve un numero in fretta. In alto, la tabella dei gradi. In mezzo, i tre modi in cui un contratto paga: per livello, con il differenziale, e il tetto giornaliero. In basso, cinque regole da ricordare. Tienilo accanto quando parli con le persone. Se sai spiegare questa pagina, sai spiegare il piano. I numeri sono illustrazioni, non promesse."
+},
+"Delta_One_Momentum_Plan_Napkin": {
+"title": "Il tovagliolo",
+"text": "Questo è il tovagliolo. È il piano in quattro piccoli disegni, come lo disegneresti davanti a un caffè. Disegno uno: un membro compra un modulo. Disegno due: di ogni cento USDT che il motore guadagna, cinquanta vanno ai membri, venticinque al piano e venticinque all'azienda. Disegno tre: linee equilibrate. Disegno quattro: pagato in due modi. Provaci tu. Prendi un tovagliolo e disegna le quattro immagini. Se sai disegnarlo, lo capisci."
+},
+"Delta_One_Momentum_Plan_Simple_Words": {
+"title": "Il Piano in parole semplici",
+"text": "Questo è il Piano in parole semplici. Un'idea per pagina. Un'immagine. Tre o quattro frasi brevi. Comincia con cosa compri. Poi la quota giornaliera. Poi l'interruttore del giorno undici. Poi gli amici e i livelli. Poi le sette montagne. L'ultima pagina è la pagina di avvertenza, ed è la più importante. Dallo a chiunque trovi difficili gli altri documenti. Esiste anche in diciannove lingue."
+},
+"Delta_One_Module_Product_Guide": {
+"title": "Guida al prodotto",
+"text": "Questa è la guida al prodotto. Racconta la storia di un modulo dal primo giorno all'ultimo. Prima, come funziona un giorno: il motore produce un risultato, e a mezzogiorno UTC, viene diviso. Poi i primi undici giorni, quando ogni risultato compra un nuovo piccolo modulo. Poi il giorno undici, quando ricevi un interruttore: continuare a riacquistare, o mandare i risultati al tuo portafoglio. Poi la fine, quando il modulo ha restituito due volte il suo prezzo. Leggila dopo i fatti chiave, prima di comprare."
+},
+"Delta_One_Module_Key_Facts": {
+"title": "Fatti chiave e rischi",
+"text": "Questa è la pagina più importante di tutte. Leggila prima di comprare qualsiasi cosa. Lo fanno tutti. Dice cos'è un modulo: un acquisto di software. Non un deposito. Non un investimento. Non puoi riavere il prezzo. Dice cosa può andare storto: certi giorni il risultato è zero, e niente è garantito. E dice la regola d'oro: usa solo denaro che puoi permetterti di perdere. Se ricordi una sola pagina, ricorda questa."
+},
+"Delta_One_Module_FAQ": {
+"title": "FAQ dei membri",
+"text": "Queste sono le domande che fanno i membri, con risposte brevi e oneste. Cosa succede in un giorno senza profitto? Non si paga niente. Cosa fanno i primi undici giorni? Ogni risultato riacquista. Qual è il massimo che un modulo può dare? Due volte il suo prezzo, prezzo incluso. Dove vanno i miei soldi? Nel portafoglio dell'app, quando l'interruttore è spento. Quando una domanda arriva due volte, guarda qui. La terza volta avrai la risposta pronta."
+},
+"Delta_One_Believer_Illustration": {
+"title": "Il Fedele",
+"text": "Questa è la storia del Fedele. Un Fedele tiene il riacquisto automatico acceso per tutta la vita di un modulo. In cambio, il modulo può restituire il duecentoventi per cento invece del duecento. Il documento mostra un modulo da diecimila USDT, alla media, che diventa un'intera flotta di piccoli moduli entro il giorno quattrocentoquaranta. È una storia con i numeri, non una promessa. I giorni veri variano. La scelta è vincolante, quindi leggilo con calma prima del giorno undici."
+},
+"Delta_One_Founder_Profile_James_Pack": {
+"title": "James Pack",
+"text": "Questo è il profilo di James Pack, il fondatore di Delta One. Tre cose da sapere: quarant'anni a costruire aziende; ha cofondato ASEA; e le sue parole su ciò che Delta One rappresenta. L'ultima pagina è una scheda che puoi condividere. È segnata come bozza finché i fondatori non la approvano."
+},
+"Delta_One_Founder_Profile_Ricky_Lundell": {
+"title": "Ricky Lundell",
+"text": "Questo è il profilo di Ricky Lundell, il presidente di Delta One. Tre cose da sapere: è campione del mondo, più di una volta; ha allenato campioni del mondo UFC; e pretende da una squadra uno standard alto. L'ultima pagina è una scheda che puoi condividere. È segnata come bozza finché i fondatori non la approvano."
+},
+"Delta_One_Founders_The_Partnership": {
+"title": "La partnership",
+"text": "Questa è la storia dei due fondatori che lavorano insieme. Cosa porta ciascuno. Come è governata l'azienda, con più di una chiave necessaria per spostare denaro. E perché questo conta per te. Quando qualcuno chiede chi sono queste persone, questa è la pagina da aprire."
+},
+"Delta_One_Which_Document_Do_I_Need": {
+"title": "Di quale documento ho bisogno?",
+"text": "Questa è la tua mappa di tutti i documenti. Ognuno ha una riga: cos'è, per chi è e quando aprirlo. La prima tabella è la parte migliore. Trova a sinistra cosa vuoi fare. Il documento da aprire è a destra. Se leggi solo tre documenti, leggi i fatti chiave, il Piano in parole semplici e la Scheda del linguaggio. Apri questa mappa ogni volta che ti senti perso."
+},
+"Delta_One_Distributor_Kit_Index": {
+"title": "Indice del kit del distributore",
+"text": "Questo è l'indice del tuo kit. Il tuo kit sono diciotto documenti brevi, nell'ordine in cui ti servono. Il passo zero viene prima di tutto: i fatti chiave e la dichiarazione. Poi il passo uno, il passo due, fino al passo nove. Ti dice anche chi riceve quale documento, e cosa non dare mai a un potenziale cliente. E ti dà un piano di cinque giorni per la tua prima settimana. Comincia qui il primo giorno."
+},
+"Delta_One_Rewards_Disclosure_Statement": {
+"title": "Dichiarazione delle ricompense",
+"text": "Questa pagina dice la verità sulle ricompense, grado per grado. La riga più importante è questa: la maggior parte dei membri non guadagna alcuna commissione. I numeri sono numeri di modello alla media, non un registro di ciò che le persone hanno guadagnato. Le ricompense vere richiedono una squadra vera, e la maggior parte delle persone non la costruisce mai. Dai questa pagina a ogni potenziale cliente, con i fatti chiave. Ogni volta."
+},
+"Delta_One_Language_Card": {
+"title": "La Scheda del linguaggio",
+"text": "Questa è la Scheda del linguaggio: le parole che diciamo e le parole che non diciamo mai. Diciamo acquisto, mai investimento. Diciamo risultato, mai rendimento. Diciamo riacquisto, mai reinvestimento. Diciamo ricompense, mai reddito. Ti dà anche cinque frasi che puoi sempre dire in sicurezza. Leggila prima della tua prima conversazione. Poi rileggila una volta a settimana. Le parole contano."
+},
+"Delta_One_Rank_Roadmap": {
+"title": "La mappa dei gradi",
+"text": "Questa è la mappa dei gradi: una pagina per ognuna delle sette montagne. Per ogni grado: cosa chiede, com'è una squadra che lo mantiene, e cosa paga la squadra più piccola a quel grado, alla media. Usala per scegliere il tuo prossimo obiettivo. Una montagna alla volta. I numeri sono illustrazioni, non promesse."
+},
+"Delta_One_Getting_Started_Checklist": {
+"title": "Lista di controllo per iniziare",
+"text": "Questa è la tua lista per il primo giorno. Falla con il tuo sponsor e spunta ogni casella. Prima l'account e la verifica dell'identità. Poi il portafoglio. Poi il tuo modulo. Poi i primi undici giorni e la decisione del giorno undici. Poi i tuoi strumenti e le tue prime conversazioni. Vai in ordine. Non saltare nessuna casella."
+},
+"Delta_One_USDT_and_Wallet_Guide": {
+"title": "Guida a USDT e portafoglio",
+"text": "Questa guida è per chi non ha mai usato USDT. Vai con calma. USDT è un dollaro digitale. Delta One lo usa su una sola rete, chiamata B E P venti. La rete deve essere quella giusta, ogni volta. Ti mostra come comprare USDT, come mandarlo all'app e come prelevare denaro, con un minimo di cinque USDT. Ed elenca gli errori che fanno perdere soldi, così puoi evitarli. Leggila prima del tuo primo acquisto."
+},
+"Delta_One_First_90_Days_Workbook": {
+"title": "Quaderno dei primi 90 giorni",
+"text": "Questi sono i tuoi primi novanta giorni su carta. Usa una penna. Pagina per pagina: i tuoi primi tre giorni, la tua prima settimana, il tuo primo mese e il giorno novanta. Scrivi i tuoi obiettivi. Scrivi le linee che aprirai. Scrivi la tua lista di cinquanta persone. Il giorno undici, il giorno trenta e il giorno novanta, torna e controlla. Il pianificatore dal vivo di questo sito fa la stessa cosa sul tuo telefono."
+},
+"Delta_One_Member_Journey_Calendar": {
+"title": "Calendario del percorso del membro",
+"text": "Questo è un calendario del modulo di un membro. Giorno zero, l'acquisto. Giorno uno, il primo risultato. Giorno undici, l'interruttore. Giorno duecento e giorno quattrocento, le grandi tappe. Giorno quattrocentoquaranta, la fine a due volte. Per ogni giorno, ti dice cosa dire e cosa mandare. Tienilo con la tua lista dei membri e non perderai mai un giorno."
+},
+"Delta_One_Prospect_Conversation_Guide": {
+"title": "Guida alla conversazione con un potenziale cliente",
+"text": "Ecco come va una buona conversazione. Nove mosse, dal saluto ai fatti chiave. Diciassette domande che fanno parlare l'altra persona. Dieci obiezioni comuni, con risposte oneste. E dieci paragoni semplici che restano dentro le regole. Leggila prima delle tue prime dieci conversazioni. Preparati con lei; non recitarla."
+},
+"Delta_One_Follow_Up_Messages": {
+"title": "Messaggi di follow-up",
+"text": "Questi sono dieci messaggi che puoi mandare così come sono. Dal primo contatto al giorno undici. Ogni messaggio è stato controllato con la Scheda del linguaggio, quindi le parole sono sicure. Copia, incolla, invia. E manda sempre i fatti chiave con la prima vera conversazione."
+},
+"Delta_One_New_Member_Welcome_Pack": {
+"title": "Pacchetto di benvenuto del nuovo membro",
+"text": "Questo è ciò che mandi a un nuovo membro, e quando. Giorno zero, giorno uno, giorno undici, giorno duecento. Per ogni giorno, il documento da mandare e le parole con cui mandarlo. Una regola da ricordare: è il membro a decidere l'interruttore il giorno undici, non tu. Usa questo pacchetto nel momento in cui un modulo viene confermato."
+},
+"Delta_One_Reading_Your_Statement": {
+"title": "Leggere l'estratto giornaliero",
+"text": "Questo spiega l'estratto giornaliero, riga per riga. Ogni giorno a mezzogiorno UTC, arriva un estratto. Mostra il risultato del giorno e dove è andato: in un modulo di riacquisto o nel portafoglio. Mostra le commissioni, livello per livello, e il differenziale. E ti dice cosa controllare ogni giorno. Aprilo la prima volta che vedi un estratto, e saprai spiegare ogni numero."
+},
+"Delta_One_Leaders_One_Pager": {
+"title": "La pagina del leader",
+"text": "Questa è una pagina per i leader, con tre abitudini. Abitudine uno: aprire nuove linee, perché le nuove linee pagano di più. Abitudine due: restare davanti alla tua gente, perché la differenza è tua. Abitudine tre: tenere attivi i tuoi leader, perché contano solo i moduli attivi. Leggila una volta al mese e datti un voto su tutte e tre."
+},
+"Delta_One_About_Delta_One": {
+"title": "Chi è Delta One",
+"text": "Questo è chi è Delta One. Il motore, i fondatori e come il denaro viene tenuto al sicuro. Il motore fa trading, e il risultato viene diviso: cinquanta ai membri, venticinque al piano, venticinque all'azienda. Serve più di una chiave per spostare i fondi. Il regolamento è ogni giorno a mezzogiorno UTC. Quando qualcuno chiede chi sono queste persone, apri questa pagina con i fatti chiave."
+},
+"Delta_One_Distributor_Policies_and_Procedures": {
+"title": "Politiche e procedure del distributore",
+"text": "Queste sono le regole che ogni distributore accetta. È una bozza finché gli avvocati non la approvano. Cosa non puoi mai affermare. Come tratti i membri e il loro denaro. Cosa succede con i reclami, l'inattività e l'uscita. Leggilo prima di firmare. E aprilo ogni volta che non sei sicuro che qualcosa sia permesso."
+},
+"Delta_One_Distributor_Agreement": {
+"title": "Accordo del distributore",
+"text": "Questo è l'accordo tra te e Delta One. È una bozza; il nome dell'azienda e la legge applicabile sono ancora da inserire. Sei indipendente, non un dipendente. La commissione viene pagata secondo il piano così come pubblicato. E dice come finisce l'accordo. Leggilo prima di firmare. Chiedi se qualcosa non è chiaro."
+},
+"Delta_One_Privacy_and_KYC_Note": {
+"title": "Nota su privacy e KYC",
+"text": "Questa nota spiega la verifica dell'identità. Cosa viene raccolto, perché serve, chi può vederlo e per quanto tempo viene conservato. Quando un membro chiede perché deve mandare un documento d'identità, questa è la pagina. È una bozza in attesa di revisione legale."
+}
+}
+}

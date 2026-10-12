@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Your tour host">
+  <defs>
+    <linearGradient id="hg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9C6A0A"/><stop offset=".35" stop-color="#E8A912"/>
+      <stop offset=".5" stop-color="#FFE9A3"/><stop offset=".65" stop-color="#FFC93C"/><stop offset="1" stop-color="#9C6A0A"/>
+    </linearGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4A2E1E"/><stop offset=".55" stop-color="#2A1911"/><stop offset="1" stop-color="#1A0F0A"/>
+    </linearGradient>
+    <linearGradient id="skin" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E2AC88"/><stop offset="1" stop-color="#D19773"/>
+    </linearGradient>
+    <radialGradient id="bgl" cx=".72" cy=".2" r=".7">
+      <stop offset="0" stop-color="#FFC93C" stop-opacity=".22"/><stop offset="1" stop-color="#FFC93C" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="hc"><circle cx="100" cy="100" r="95"/></clipPath>
+  </defs>
+  <circle cx="100" cy="100" r="99" fill="url(#hg)"/>
+  <circle cx="100" cy="100" r="95" fill="#111418"/>
+  <g clip-path="url(#hc)">
+    <rect width="200" height="200" fill="url(#bgl)"/>
+    <!-- hair back, long waves -->
+    <path d="M60 86 C56 46 80 28 104 28 C132 29 150 48 146 86 C145 108 150 124 158 138 C150 146 136 146 128 140 L72 140 C62 148 48 146 42 138 C52 124 61 108 60 86Z" fill="url(#hair)"/>
+    <!-- neck -->
+    <path d="M89 116 L111 116 L113 146 L87 146Z" fill="#C98E6B"/>
+    <path d="M89 120 Q100 128 111 120 L111 126 Q100 133 89 126Z" fill="#B97F5D" opacity=".6"/>
+    <!-- jacket -->
+    <path d="M28 212 C30 168 50 150 86 141 L100 162 L114 141 C150 150 170 168 172 212Z" fill="#0B0C0F"/>
+    <path d="M86 141 L100 162 L114 141 L107 137 L100 148 L93 137Z" fill="#F5F6F4"/>
+    <path d="M86 141 L100 162 L91 205 L66 152Z" fill="#1B1E24"/>
+    <path d="M114 141 L100 162 L109 205 L134 152Z" fill="#1B1E24"/>
+    <path d="M66 152 L86 141 L100 162 L114 141 L134 152" fill="none" stroke="url(#hg)" stroke-width="2.2" stroke-linejoin="round"/>
+    <!-- necklace -->
+    <path d="M90 134 Q100 146 110 134" fill="none" stroke="#FFC93C" stroke-width="1.4"/>
+    <path d="M98 143 L100 147 L102 143Z" fill="#FFC93C"/>
+    <!-- pin -->
+    <path d="M121 172 L127 161 L133 172Z" fill="url(#hg)"/>
+    <!-- face -->
+    <path d="M71 84 C71 62 84 50 100 50 C116 50 129 62 129 84 C129 104 116 122 100 122 C84 122 71 104 71 84Z" fill="url(#skin)"/>
+    <!-- earrings -->
+    <circle cx="71" cy="98" r="2.8" fill="#FFC93C"/><circle cx="129" cy="98" r="2.8" fill="#FFC93C"/>
+    <!-- side-swept fringe -->
+    <path d="M70 86 C66 54 88 38 108 40 C126 42 138 58 132 84 C130 70 122 60 110 56 C98 60 88 62 82 70 C76 76 72 80 70 86Z" fill="url(#hair)"/>
+    <path d="M110 56 C120 60 129 70 132 84 C136 66 128 48 114 44Z" fill="#5A3826" opacity=".7"/>
+    <path d="M84 52 C94 46 108 45 118 49" fill="none" stroke="#6B4530" stroke-width="1.6" stroke-linecap="round" opacity=".8"/>
+    <!-- brows -->
+    <path d="M80 80 Q87 76.5 94 79" fill="none" stroke="#2A1911" stroke-width="2.2" stroke-linecap="round"/>
+    <path d="M106 79 Q113 76.5 120 80" fill="none" stroke="#2A1911" stroke-width="2.2" stroke-linecap="round"/>
+    <!-- eyes -->
+    <path d="M81 89 Q87.5 83.5 94 89 Q87.5 92 81 89Z" fill="#FFF"/>
+    <path d="M106 89 Q112.5 83.5 119 89 Q112.5 92 106 89Z" fill="#FFF"/>
+    <circle cx="87.5" cy="88.2" r="3" fill="#3B2416"/><circle cx="112.5" cy="88.2" r="3" fill="#3B2416"/>
+    <circle cx="88.5" cy="87.2" r="0.9" fill="#FFF"/><circle cx="113.5" cy="87.2" r="0.9" fill="#FFF"/>
+    <path d="M80 88.5 Q87.5 82.5 95 88.5" fill="none" stroke="#1A0F0A" stroke-width="1.6" stroke-linecap="round"/>
+    <path d="M105 88.5 Q112.5 82.5 120 88.5" fill="none" stroke="#1A0F0A" stroke-width="1.6" stroke-linecap="round"/>
+    <!-- nose -->
+    <path d="M100 93 Q98.5 101 101.5 103.5" fill="none" stroke="#B37A59" stroke-width="1.8" stroke-linecap="round"/>
+    <!-- lips -->
+    <path d="M89 107.5 Q100 108 111 107.5 Q101 118 89 107.5Z" fill="#B5544A"/>
+    <path d="M90 108 Q100 111.5 110 108" fill="none" stroke="#8E3B33" stroke-width="1.1"/>
+    <path d="M88 106.6 Q88.6 108 89.6 108.2" fill="none" stroke="#B37A59" stroke-width="1"/><path d="M112 106.6 Q111.4 108 110.4 108.2" fill="none" stroke="#B37A59" stroke-width="1"/>
+    <!-- cheeks -->
+    <ellipse cx="82" cy="100" rx="5.5" ry="3" fill="#E58C7A" opacity=".25"/>
+    <ellipse cx="118" cy="100" rx="5.5" ry="3" fill="#E58C7A" opacity=".25"/>
+  </g>
+</svg>

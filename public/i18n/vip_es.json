@@ -1,0 +1,629 @@
+{
+"explainLabel": "Aria explica",
+"ui": [
+"Leer",
+"Hacer",
+"Aria, guíame",
+"Delta One VIP · Tu aula",
+"Aprende el Plan Momentum en <em>tres pasos</em>.",
+"Esta página es un pasillo con tres puertas, y se abren una después de otra: ver, leer, hacer. Cruza las tres y podrás explicar el plan a un amigo: qué compras, qué paga y qué nunca se promete.",
+"Empezar en el paso 1",
+"✓ Has recorrido todo el pasillo. La biblioteca de abajo llega tan lejos como quieras.",
+"El plan en película · 4 o 10 min",
+"Tres documentos, en orden · 15 min",
+"Prepararte, planificar, decirlo bien · 10 min",
+"«Oigo y olvido. Veo y recuerdo. Hago y entiendo.» <span>— Confucio. Por eso el pasillo tiene tres puertas.</span>",
+"— Confucio. Por eso el pasillo tiene tres puertas.",
+"Tu repaso de 2 minutos está listo.",
+"Tres preguntas rápidas mantienen fresco el plan.",
+"Hacer el repaso",
+"Paso 1 de 3 · Ver",
+"Ve todo el plan de una sola vez.",
+"Elige una película. La presentación es todo el plan en diez minutos, leído por Aria. El dibujo animado cuenta la misma historia en cuatro. Las otras dos son para las personas con las que hablarás después.",
+"Después de este paso podrás…",
+"Decir en una frase qué es un módulo: una compra de software que puede devolver hasta 2× su precio.",
+"Decir cómo te paga presentar a un amigo: el 2 % de lo que gana su contrato cada día, nivel por nivel.",
+"Nombrar las siete montañas, del Fuji al Everest.",
+"La presentación del Plan Momentum",
+"Diecisiete diapositivas, cada regla y cada número, narradas por Aria. Las mismas diapositivas están en la biblioteca como PDF con su audio adjunto.",
+"Maya, Sam y Bolt el motor: el plan en cuatro minutos.",
+"La granja de semillas",
+"Para los más pequeños y para cualquiera: el plan a nivel de granja.",
+"Solo si vas a hablar de los asientos de fundador.",
+"¿Viste una película? Muy bien: ese es el paso 1. La siguiente puerta se abre a tres documentos.",
+"La vi — ir al paso 2 ▸",
+"Paso 2 de 3 · Leer",
+"Tres documentos, en este orden.",
+"Cada documento te da tres opciones: <b>Abrir</b> y leer; pulsar <b>Explícalo</b> y Aria lo explica como una maestra; o pulsar <b>Léemelo</b> y la página se te lee palabra por palabra. Descarga lo que quieras guardar.",
+"Señalar cualquier rango en el plan de una página y leer su porcentaje (del 6 % al 42 %) y su tope diario.",
+"Explicar el interruptor del día 11: seguir recomprando, o enviar los resultados a la billetera.",
+"Decir los tres datos clave: es una compra; nada se promete; usa solo dinero que puedas permitirte perder.",
+"Lectura 1 de 3 · El plan en una página",
+"<span class=\"ic\">▶</span> Léemelo",
+"Lectura 2 de 3 · Dibujos y frases cortas",
+"Lectura 3 de 3 · Una página · léela antes de comprar",
+"¿Leíste los tres? Bien. Ya sabes qué compras, qué paga y qué nunca se promete.",
+"Los leí — ir al paso 3 ▸",
+"Paso 3 de 3 · Hacer",
+"Prepárate, planifica y dilo bien.",
+"Ahora usas lo que aprendiste. Dos documentos para trabajar con tu patrocinador, y dos herramientas en vivo que se abren en una pestaña nueva y te esperan.",
+"Crear una cuenta, una billetera y tu propio módulo, con tu patrocinador, en el orden correcto.",
+"Usar las palabras correctas: compra, no inversión; resultado, no rendimiento; recompra, no reinversión; recompensas, no ingresos.",
+"Usar la calculadora con un módulo y leer lo que muestra, día a día.",
+"Hacer 1 · 3 · Cuenta, billetera, módulo propio",
+"Hacer 2 · 0 · Lo que decimos y nunca decimos",
+"Hacer 3 · Herramienta en vivo",
+"Escribe el tamaño de un módulo y un resultado diario promedio, elige el interruptor y el Creyente, y mira día a día lo que entrega el módulo a ese promedio: cuándo vuelve el precio, cuándo llega el 2× y los módulos de recompra en el camino.",
+"Abrir la calculadora ↗",
+"Hacer 4 · Herramienta en vivo",
+"Planificador Fast Start de 90 días",
+"Tus tres primeros días, tu primera semana, tu primer mes y el día 90 como tareas con fecha, con metas de rango y una calculadora de equipo. Lo que escribes se queda en tu dispositivo.",
+"Abrir el planificador ↗",
+"¿Listo? Entonces compruébalo: seis preguntas pequeñas, como un examen en clase. Sabrás si el plan se quedó contigo.",
+"Listo — compruébalo ▸",
+"Punto de control",
+"Seis preguntas. Conoces el plan cuando puedes responderlas.",
+"Elige una respuesta. La correcta se ilumina en verde, con la razón. Una respuesta equivocada está bien: así se aprende. Nada se guarda en ningún sitio salvo en tu propio dispositivo.",
+"Pregunta 1 de 6",
+"El contrato de tu amigo gana algo hoy. ¿Qué recibes por cada nivel?",
+"El 2 % de lo que gana el contrato ese día",
+"El 2 % del precio de compra",
+"El 42 % de lo que gana",
+"El dos por ciento de lo que gana el contrato ese día. Nunca una parte del precio de compra.",
+"Pregunta 2 de 6",
+"El Everest es el rango más alto. ¿En cuántos niveles se paga?",
+"Tres niveles por rango: Fuji 3, Kilimanjaro 6 … Everest 21.",
+"Pregunta 3 de 6",
+"¿Cuál es el tope diario en el Fuji, el primer rango?",
+"No hay tope",
+"Los topes van de 1.000 USDT en el Fuji a 7.000 USDT en el Everest. Se aplican a la matriz base; el diferencial no tiene tope.",
+"Pregunta 4 de 6",
+"En el Fuji, ¿cuánto de tu volumen puede contar una sola línea?",
+"La mitad, como máximo",
+"Una quinta parte",
+"Todo: con una línea basta",
+"La mitad en Fuji y Kilimanjaro, un tercio en Matterhorn y Denali, un cuarto en Rainier, una quinta parte en K-2 y Everest. Construye en ancho.",
+"Pregunta 5 de 6",
+"¿Cuánto es lo máximo que un módulo puede devolver?",
+"2× su precio, precio incluido (2,2× para un Creyente)",
+"Sin límite, mientras siga en marcha",
+"Solo el precio",
+"Un módulo termina en dos veces su precio, precio incluido. Un Creyente, con la recompra automática activada toda la vida, termina en 2,2×.",
+"Pregunta 6 de 6",
+"¿Qué frase acompaña cada conversación?",
+"El motor nunca tiene un día en cero",
+"La mayoría de los miembros no gana ninguna comisión; los resultados y las recompensas no están garantizados",
+"Un módulo paga todos los días, pase lo que pase",
+"La frase de aviso. Cada cifra es una ilustración al resultado diario promedio del motor.",
+"Intentar de nuevo",
+"Siguiente: dilo con tus palabras ▸",
+"Dilo con tus palabras",
+"Si puedes enseñarlo, lo sabes.",
+"Explica el Plan Momentum a un amigo en tres frases: qué compras, cómo paga presentar a personas y qué nunca se promete. Escríbelo aquí y compáralo con la respuesta modelo. Tus palabras se quedan en tu dispositivo.",
+"Guardar mis palabras",
+"Ver la respuesta modelo",
+"Una respuesta modelo",
+"1. Compras un módulo. Es una compra de software y, al resultado diario promedio del motor, puede devolver hasta dos veces su precio, precio incluido.",
+"2. Cuando presentas a personas, recibes el 2 % de lo que ganan sus contratos cada día, en hasta 21 niveles, según tu rango. Los líderes suman el diferencial.",
+"3. Nada se promete: algunos días son cero, el precio no se devuelve y la mayoría de los miembros no gana ninguna comisión.",
+"Tu tarea",
+"Dilo en voz alta a una persona real esta semana. Esa es toda la prueba.",
+"Ir más a fondo: la biblioteca ▸",
+"Repaso · día 1, día 3, día 7",
+"Un pequeño repaso, tres veces.",
+"Las cosas se quedan cuando las vuelves a ver. Después de tu punto de control, tres preguntas rápidas vuelven mañana, luego en tres días y luego en una semana. La página recuerda las fechas en tu dispositivo.",
+"Termina primero el punto de control. Tu primer repaso se abre al día siguiente.",
+"La biblioteca · llega tan lejos como quieras",
+"Cada documento, con la explicación de Aria y lectura en voz alta.",
+"Cada tarjeta dice en una línea qué es el documento, para quién es y cuándo abrirlo. <b>Explícalo</b> es la explicación de un minuto de Aria; <b>Léemelo</b> lee el documento completo en voz alta, página por página.",
+"Busca a la izquierda lo que quieres hacer. Abre el único documento de la derecha.",
+"Ver los idiomas",
+"La presentación, el plan en una página y los tres documentos que contienen cada regla.",
+"17 diapositivas · Aria te las lee",
+"Las 17 diapositivas que explican todo el plan. Aria te las lee.",
+"<b>Para:</b> todos &nbsp;·&nbsp; <b>Cuándo:</b> tu primera hora. Luego cada vez que presentes.",
+"Las diecisiete diapositivas del Plan Momentum con la narración de Aria adjunta a cada página (icono de clip). La edición para presentadores añade notas de venta.",
+"Dieciocho documentos cortos en el orden en que los necesitas: empieza por el índice del kit. Cada tarjeta dice en una línea qué es el documento, para quién es y cuándo usarlo.",
+"En 19 idiomas",
+"El Plan en palabras sencillas y los datos clave en el idioma de tu miembro. <b>Leer</b> usa la voz de tu dispositivo para ese idioma cuando la tiene. Traducciones automáticas, pendientes de revisión por un hablante nativo; la edición en inglés es la referencia.",
+"<span class=\"ic\">▶</span> Leer",
+"Antes de compartir nada",
+"Cada cifra de este sitio y de cada documento es una ilustración hipotética al resultado diario promedio del motor. Los días varían y pueden ser cero; los resultados y las recompensas no están garantizados. Un módulo es una compra de software cuyo precio no se devuelve y puede perderse; compra solo con dinero que puedas permitirte perder. <b>La mayoría de los miembros no gana ninguna comisión.</b> La liquidación es diaria a las 12:00 UTC. Cada documento es un borrador pendiente de revisión legal y de cumplimiento; nada aquí es asesoramiento legal, fiscal ni financiero.",
+"¿Atascado? Pregunta a tu patrocinador.",
+"Tu patrocinador recorrió este pasillo antes que tú. Envíale la pregunta y el documento del que salió.",
+"Empezar el pasillo de nuevo",
+"Borra tus tres marcas y tu puntuación del punto de control en este dispositivo.",
+"Reiniciar mi progreso",
+"Patrocinadores: enséñalo en 45 minutos",
+"0–10 min: vean el dibujo animado juntos. 10–25: abran el plan de una página y los datos clave, pulsen Léemelo. 25–35: la lista de inicio, casilla por casilla. 35–40: el punto de control. 40–45: tu nuevo miembro lo dice con sus palabras. Luego fija el repaso del día 1.",
+"Dilo bien",
+"Compra, no inversión. Resultado, no rendimiento. Recompra, no reinversión. Recompensas, no ingresos. La Tarjeta de lenguaje tiene el resto.",
+"Abrir la Tarjeta de lenguaje",
+"Delta One VIP · El Plan Momentum · Octubre de 2026 · Borrador pendiente de revisión legal y de cumplimiento.",
+"▶ Léemelo",
+"Más lento",
+"Velocidad normal",
+"Más rápido",
+"▶ Explícalo",
+"<span class=\"ic\">▶</span> Explícalo <span class=\"tm\">{n1}:{n2}</span>",
+"PDF · {n1} página · {n2} MB",
+"<span class=\"ic\">▶</span>&nbsp; Aria, mi maestra, me guía · {n1}:{n2}"
+],
+"ui2": [
+"¿Necesitas ayuda ahora mismo?",
+"Tres formas de obtener una respuesta.",
+"EN VIVO · 24/7",
+"Habla con un agente ahora por Zoom",
+"Un agente está en línea a toda hora. Un clic abre la sala — no hace falta cuenta.",
+"Unirse al Zoom en vivo ↗",
+"¿Tienes alguna pregunta sobre Delta One?",
+"Pregunta con tus palabras. La respuesta sale de las reglas publicadas del plan, en lenguaje sencillo.",
+"Tu pregunta",
+"Preguntar",
+"Las respuestas son ilustraciones al resultado diario promedio del motor; nada aquí es una promesa. Para algo personal, pregunta a tu patrocinador o a un agente.",
+"Chat en vivo con el soporte de Delta One VIP",
+"Escríbele a una persona real. Ábrelo en una pestaña nueva y sigue aprendiendo aquí.",
+"Abrir el chat en vivo ↗",
+"¿Preguntas?",
+"Habla con un agente ahora por Zoom · 24/7 ↗",
+"Ilustraciones al resultado diario promedio del motor; nada aquí es una promesa. La mayoría de los miembros no gana ninguna comisión.",
+"Tus tres frases",
+"«Un viaje de mil millas comienza con un solo paso.» <span>— Lao Tse. Este pasillo tiene tres pasos de largo.</span>",
+"— Lao Tse. Este pasillo tiene tres pasos de largo."
+],
+"js": {
+"preparingDownload": "Preparando tu descarga…",
+"saved": "Guardado.",
+"savedDownloads": "Guardado en tus descargas.",
+"dlCancelled": "Descarga cancelada.",
+"dlWaiting": "Otra descarga está esperando tu confirmación. Inténtalo de nuevo en un momento.",
+"dlFailed": "El archivo no se cargó. Actualiza la página e inténtalo de nuevo.",
+"dlNoStart": "La descarga no pudo iniciarse aquí. Pulsa Abrir para leer el documento completo en esta página.",
+"loading": "Cargando…",
+"pages": "{n} páginas",
+"pagesPage": "{n} páginas · página {p}",
+"endWalk": "Fin del recorrido",
+"endTour": "Ese es todo el pasillo. Pulsa reproducir para recorrerlo de nuevo, o cierra el reproductor.",
+"endExplain": "Esa es la explicación. Pulsa reproducir para oírla otra vez, o Léemelo para el texto completo.",
+"readAlong": "lee conmigo",
+"readBtn": "▶ Léemelo",
+"pauseBtn": "❚❚ Pausar la lectura",
+"continueBtn": "▶ Seguir leyendo",
+"pausedOn": "En pausa en la página {n}.",
+"readingPage": "Leyendo la página {n} de {m}",
+"preparingReading": "Preparando la lectura…",
+"endDoc": "Fin del documento.",
+"noVoice": "Este navegador no tiene voz integrada. Abre el documento y usa Explícalo en su lugar.",
+"quizAll": "Conoces el plan. Profundiza en la biblioteca, o empieza de nuevo cuando quieras.",
+"quizGood": "Bien. Vuelve a leer las que fallaste y prueba otra vez.",
+"quizRetry": "Recorre el pasillo una vez más: ver, leer, hacer. Luego vuelve.",
+"of": "{a} de {b}",
+"thinking": "Pensando…",
+"noAnswer": "Esa no la tengo en mi banco de respuestas. Lo más rápido: pulsa Habla con un agente ahora por Zoom, o pregunta a tu patrocinador. Los documentos de la biblioteca tienen cada regla — prueba ¿Qué documento necesito?",
+"savedDevice": "Guardado en este dispositivo.",
+"reviewFirst": "Termina primero el punto de control. Tu primer repaso se abre al día siguiente.",
+"reviewAllDone": "Los tres repasos están hechos. Vuelve cuando quieras — el pasillo siempre está abierto.",
+"reviewOpens": "El repaso {n} de 3 se abre {when}.",
+"reviewNow": "Repaso {n} de 3 — tres preguntas.",
+"reviewQ": "Pregunta de repaso {n} de 3",
+"reviewLast": "Ese fue el último repaso. El plan ya es tuyo.",
+"reviewNext": "Próximo repaso {when}.",
+"now": "ahora",
+"tomorrow": "mañana",
+"inDays": "en {n} días",
+"phAsk": "Por ejemplo: ¿qué pasa el día 11?",
+"phAsk2": "Pregunta lo que quieras sobre el plan…",
+"phTeach": "1. Compras un módulo…  2. Cuando presentas a alguien…  3. Nada está…"
+},
+"bank": [
+{
+"k": [
+"módulo",
+"modulo",
+"qué es",
+"que es"
+],
+"a": "Un módulo es una compra del motor de trading con IA de Delta One, desde 1.000 USDT, pagada en USDT. Puede entregar hasta dos veces su precio, precio incluido, y luego termina. El precio no es reembolsable. Cada cifra es una ilustración al resultado diario promedio del motor; los resultados y las recompensas no están garantizados, y la mayoría de los miembros no gana ninguna comisión."
+},
+{
+"k": [
+"día 11",
+"dia 11",
+"11",
+"once",
+"interruptor"
+],
+"a": "El día 11 recibes el interruptor de recompra automática. ENCENDIDO significa que el resultado de cada día compra un nuevo módulo de recompra; APAGADO significa que va a tu billetera de la app, de donde puedes retirar cuando quieras (mínimo 5 USDT). Antes del día 11, cada resultado recompra. El Creyente mantiene el interruptor encendido toda la vida del módulo y el módulo entrega 220 % en vez de 200 %."
+},
+{
+"k": [
+"por nivel",
+"nivel",
+"2 %",
+"2%",
+"dos",
+"por ciento",
+"cada"
+],
+"a": "Cada posición ascendente calificada recibe el 2 % de las ganancias diarias de un contrato, nivel por nivel, hasta 21 niveles según el rango. Nunca es una parte del precio de compra. Cada cifra es una ilustración al resultado diario promedio del motor; los resultados y las recompensas no están garantizados, y la mayoría de los miembros no gana ninguna comisión."
+},
+{
+"k": [
+"rango",
+"rangos",
+"siete",
+"montañas",
+"fuji",
+"everest",
+"summits"
+],
+"a": "Hay siete rangos: Fuji, Kilimanjaro, Matterhorn, Denali, Rainier, K-2 y Everest. Cada rango desbloquea tres niveles pagados más (3 en Fuji, 21 en Everest), el derecho sube del 6 % al 42 % y el tope diario de 1.000 USDT a 7.000 USDT. Solo cuentan los módulos activos, y los rangos se revisan en cada liquidación."
+},
+{
+"k": [
+"tope",
+"diario",
+"máximo",
+"maximo",
+"límite",
+"limite"
+],
+"a": "Cada rango tiene un tope diario de recompensas en la matriz base: 1.000 USDT en Fuji, 2.000 en Kilimanjaro, 3.000 en Matterhorn, 4.000 en Denali, 5.000 en Rainier, 6.000 en K-2 y 7.000 USDT en Everest. El diferencial no tiene tope. Ilustraciones al promedio; nada está garantizado."
+},
+{
+"k": [
+"línea",
+"linea",
+"líneas",
+"lineas",
+"equilibrio",
+"regla",
+"ancho"
+],
+"a": "La regla de equilibrio de líneas: ninguna línea puede contar por más de la mitad de tu volumen calificable en Fuji y Kilimanjaro, un tercio en Matterhorn y Denali, un cuarto en Rainier y un quinto en K-2 y Everest. El volumen por encima de esa parte no cuenta. Así que construye a lo ancho: más líneas, no una sola torre alta."
+},
+{
+"k": [
+"diferencial",
+"líder",
+"lider",
+"líderes",
+"lideres",
+"brecha",
+"breakage"
+],
+"a": "El diferencial es la forma en que se paga a los líderes: la brecha entre el derecho de tu rango (6 % a 42 %) y el derecho más alto ya reclamado por debajo de ti en esa línea, sobre el mismo contrato. No tiene tope ni límite de profundidad, y el total en cualquier contrato nunca supera el 42 %. Mantente por delante de tus líneas y abre otras nuevas."
+},
+{
+"k": [
+"promedio",
+"0,5",
+"0.5",
+"0,50",
+"resultado",
+"diario"
+],
+"a": "0,50 % al día es el resultado diario promedio del motor, y es la tasa detrás de cada cifra. Los días reales varían de cero a varios por ciento, el promedio puede cambiar y nada está garantizado. Un día sin beneficio de trading no paga a nadie."
+},
+{
+"k": [
+"retirar",
+"retiro",
+"billetera",
+"dinero",
+"usdt",
+"mínimo",
+"minimo"
+],
+"a": "Los resultados y las comisiones se acreditan en tu billetera de la app en USDT en BNB Smart Chain (BEP-20). Puedes retirar cuando quieras, mínimo 5 USDT, al instante, solo con la comisión de gas. El precio de compra en sí no es reembolsable y no puede retirarse."
+},
+{
+"k": [
+"liquidación",
+"liquidacion",
+"hora",
+"cuándo",
+"cuando",
+"pagan",
+"12",
+"utc",
+"utc",
+"4"
+],
+"a": "La liquidación es cada día a las 12:00 UTC. En ese momento se reparten los resultados y se acreditan las comisiones, en USDT, en la billetera de la app."
+},
+{
+"k": [
+"creyente",
+"believer",
+"220",
+"automática",
+"automatica",
+"recompra"
+],
+"a": "Un Creyente mantiene la recompra automática ENCENDIDA toda la vida del módulo. A cambio, el módulo entrega 220 % en vez de 200 % (hacia el día 440 para un módulo de 1.000 USDT al promedio). La elección es vinculante hasta el 220 %. Es una ilustración al promedio, no una promesa."
+},
+{
+"k": [
+"garantizado",
+"garantía",
+"garantia",
+"seguro",
+"riesgo",
+"perder",
+"promesa"
+],
+"a": "Nada está garantizado. Algunos días el resultado es cero, el precio de compra no es reembolsable y puede perderse en todo o en parte, y la mayoría de los miembros no gana ninguna comisión. Compra solo con dinero que puedas permitirte perder. Cada cifra es una ilustración al resultado diario promedio del motor."
+},
+{
+"k": [
+"reparto",
+"100",
+"50",
+"25",
+"tesorería",
+"tesoreria",
+"beneficio",
+"dónde",
+"donde"
+],
+"a": "Cada 100 USDT de beneficio de trading se reparten 50 / 25 / 25: 50 USDT a los miembros como resultados diarios de sus módulos, 25 USDT al plan de compensación (cada comisión sale de aquí, nunca de una compra) y 25 USDT a la tesorería DAO. Sin beneficio, no hay pago."
+},
+{
+"k": [
+"comisión",
+"comision",
+"ganar",
+"recompensas",
+"ingreso",
+"cuánto",
+"cuanto"
+],
+"a": "Las recompensas llegan de dos formas: el 2 % de las ganancias diarias de cada contrato en cada nivel pagado de tu rango (la matriz base, con tope diario), y el diferencial para los líderes. Cada cifra es una ilustración al resultado diario promedio del motor; los resultados y las recompensas no están garantizados, y la mayoría de los miembros no gana ninguna comisión."
+},
+{
+"k": [
+"empezar",
+"comenzar",
+"inicio",
+"primero",
+"nuevo",
+"cómo",
+"como",
+"unirme"
+],
+"a": "Empieza en el Paso 1 de esta página: mira la presentación o la caricatura. Luego el Paso 2: lee 7 Summits to Success, El Plan en palabras sencillas y los Datos clave. Luego el Paso 3: la Lista de inicio con tu patrocinador. ¿Atascado? Habla con un agente por Zoom a cualquier hora."
+},
+{
+"k": [
+"inversión",
+"inversion",
+"invertir",
+"depósito",
+"deposito",
+"interés",
+"interes",
+"rendimiento"
+],
+"a": "Un módulo es una compra de software, no un depósito ni una inversión, y nunca decimos rendimiento ni interés. El motor produce un resultado; el módulo recibe una parte de él, en promedio. El precio no es reembolsable y puede perderse; compra solo con dinero que puedas permitirte perder."
+},
+{
+"k": [
+"idioma",
+"idiomas",
+"traducción",
+"traduccion",
+"inglés",
+"ingles",
+"árabe",
+"chino"
+],
+"a": "El Plan en palabras sencillas y los Datos clave existen en 19 idiomas: elige un idioma arriba en la página y esos dos documentos cambian contigo. Los demás documentos están en inglés; Léemelo puede leerlos igualmente en voz alta. Las traducciones son borradores hasta que un hablante nativo las revise."
+},
+{
+"k": [
+"fundador",
+"fundadores",
+"asiento",
+"asientos",
+"founder",
+"nft"
+],
+"a": "Los asientos de fundador son un producto aparte con sus propios documentos (la guía de asientos de fundador, los datos clave y las preguntas frecuentes) y su propia caricatura. Para los detalles y la ventana actual, abre esos documentos o habla con un agente por Zoom."
+},
+{
+"k": [
+"patrocinador",
+"ayuda",
+"agente",
+"zoom",
+"chat",
+"soporte",
+"contacto"
+],
+"a": "Tres formas de obtener ayuda: habla con un agente ahora por Zoom (24/7), abre el chat en vivo, o pregunta a tu patrocinador. Tu patrocinador recorrió este pasillo antes que tú — envíale la pregunta y el documento del que salió."
+},
+{
+"k": [
+"calculadora",
+"planificador",
+"fast",
+"herramienta",
+"herramientas"
+],
+"a": "Dos herramientas en vivo se abren en una pestaña nueva: la calculadora de módulos muestra cualquier módulo día a día al resultado diario promedio del motor, y el planificador Fast Start traza tus primeros 90 días. Ambas están en el Paso 3. Cada cifra es una ilustración al promedio; nada está garantizado."
+}
+],
+"tour": {
+"v01": {
+"t": "Bienvenido a Delta One VIP",
+"text": "Hola, y bienvenido a Delta One VIP. Soy Aria, y hoy seré tu maestra. Esta página es un pasillo con tres puertas, y se abren una después de otra. Puerta uno: ver. Puerta dos: leer. Puerta tres: hacer. Cruza las tres y podrás explicar el Plan Momentum a un amigo. ¿Listo? Vamos."
+},
+"v02": {
+"t": "Paso 1 · Ver",
+"text": "Paso uno: ver. Elige una película. Si tienes diez minutos, pon la presentación; te leo cada diapositiva. Si tienes cuatro minutos, pon el dibujo animado; Maya, Sam y Bolt el motor cuentan la misma historia. Cuando termine la película, pulsa el botón grande que dice: la vi. Así pasas al paso dos."
+},
+"v03": {
+"t": "Paso 2 · Leer",
+"text": "Paso dos: leer. Tres documentos, en este orden. Primero, 7 Summits to Success: todo el plan en una página. Segundo, el Plan en palabras sencillas: una idea en cada página, con un dibujo. Tercero, los datos clave: qué es un módulo y qué puede salir mal. En cada documento tienes tres opciones. Abrirlo y leer. Pulsar Explícalo, y yo lo explico. O pulsar Léemelo, y la página se te lee palabra por palabra."
+},
+"v04": {
+"t": "El plan en una página",
+"text": "Miremos juntos el plan en una página. Siete montañas, siete rangos. El Fuji es el primero, el Everest el último. Debajo de cada nombre ves un porcentaje. Es la parte del rango: seis por ciento en el Fuji, cuarenta y dos por ciento en el Everest. Debajo, lo que pide el rango y el tope diario. Una montaña a la vez. Cada número aquí es un promedio, no una promesa."
+},
+"v05": {
+"t": "Paso 3 · Hacer",
+"text": "Paso tres: hacer. Ahora usas lo que aprendiste. La lista de inicio te lleva de la cuenta al primer módulo; hazla con tu patrocinador. La Tarjeta de lenguaje te enseña las palabras que decimos y las que nunca decimos. La calculadora muestra cualquier módulo, día a día, al promedio. Y el planificador traza tus primeros noventa días. Pulsa Listo cuando los hayas probado."
+},
+"v06": {
+"t": "Compruébalo",
+"text": "Ahora, compruébalo. Seis preguntas, como un pequeño examen en clase. Si fallas una, no pasa nada; la respuesta correcta se ilumina, con la razón. Luego di el plan con tus palabras, en tres frases, y compáralo con las mías. Un pequeño repaso volverá mañana, y otra vez en una semana, para que el plan se quede contigo."
+},
+"v07": {
+"t": "La biblioteca",
+"text": "Debajo de los tres pasos está la biblioteca. Todo está aquí: el plan completo, los documentos para tus clientes, tu kit paso a paso y los fundadores. Cada tarjeta te dice en una línea qué es el documento, para quién es y cuándo abrirlo. Y cada documento tiene Explícalo y Léemelo. Dos de ellos, las palabras sencillas y los datos clave, existen en diecinueve idiomas."
+},
+"v08": {
+"t": "Antes de irte",
+"text": "Una última cosa, y es la más importante. Cada número de este sitio es una ilustración al resultado diario promedio del motor. Los resultados y las recompensas no están garantizados. La mayoría de los miembros no gana ninguna comisión. Y cada documento es un borrador hasta que los abogados lo aprueben. Si te atascas, pregunta a tu patrocinador. Muy bien por recorrer el pasillo. Bienvenido a Delta One VIP."
+}
+},
+"explain": {
+"Delta_One_Momentum_Plan_Presentation": {
+"title": "La presentación del Plan Momentum",
+"text": "Empecemos con la presentación. Son diecisiete diapositivas, y te las leo en el video. Esta es la gran idea. Compras un módulo. El módulo puede devolver hasta dos veces su precio, y el precio forma parte de eso. Cuando presentas a personas, recibes el dos por ciento de lo que ganan sus contratos cada día. Eso puede llegar a veintiún niveles de profundidad. Mírala una vez, despacio. Luego vuelve a verla con un amigo. Recuerda: cada número es un promedio, no una promesa."
+},
+"Delta_One_7_Summits_to_Success": {
+"title": "7 Summits to Success",
+"text": "Este es todo el plan en una página. Piensa en él como un mapa de siete montañas. Cada montaña es un rango. El Fuji es el primero. El Everest es el último. Cada rango te permite cobrar en tres niveles más. El Fuji paga tres niveles. El Everest paga veintiuno. Debajo de cada montaña ves lo que pide el rango y el tope diario. El tope es lo máximo que la matriz base puede pagarte en un día. Pregúntate: ¿qué montaña estoy subiendo ahora? Cuelga esta página. Cada número es una ilustración al promedio."
+},
+"Delta_One_Momentum_Plan_Guide": {
+"title": "Guía del Plan Momentum",
+"text": "Este es el libro de reglas. Cuando alguien pregunta cuál es la regla exacta, la respuesta está aquí. Tiene la tabla de rangos: qué compras, a cuántas personas inscribes y cuánto volumen necesita tu equipo. Tiene ejemplos calculados, con números realistas, para un módulo pequeño y uno grande. No necesitas leerlo todo hoy. Tenlo cerca y busca lo que necesites. Y recuerda la frase que acompaña cada número: los resultados no están garantizados y la mayoría de los miembros no gana ninguna comisión."
+},
+"Delta_One_Line_Balance_Rule": {
+"title": "Regla de equilibrio de líneas",
+"text": "Esta es una regla en una página, y es muy importante. Tu rango se construye con el volumen de tu equipo. Pero una sola línea no puede llevarte. En el Fuji, una línea puede contar la mitad de tu volumen, no más. Más arriba, es más estricto: un tercio, luego un cuarto, luego una quinta parte. ¿Entonces qué haces? Construir en ancho. Más líneas, no una sola torre alta. Cuando alguien pregunta por qué su rango no subió, la respuesta suele estar aquí."
+},
+"Delta_One_Momentum_Plan_Breakage_Differential": {
+"title": "Diferencial de liderazgo",
+"text": "Así se paga a los líderes. La imagen es sencilla. Cada rango tiene un número, del seis por ciento en el Fuji al cuarenta y dos por ciento en el Everest. Un líder recibe la diferencia entre su número y el número más grande ya usado por debajo de él, en el mismo contrato. Así que, si te mantienes por delante de tu gente, la diferencia es tuya. Si te alcanzan, la diferencia se hace más pequeña. El total en cualquier contrato nunca pasa del cuarenta y dos por ciento. Dos lecciones: mantente delante y abre líneas nuevas."
+},
+"Delta_One_Momentum_Plan_Distributor_Guide": {
+"title": "Guía del distribuidor",
+"text": "Este es el plan escrito para ti, el distribuidor. Cada regla viene con su razón. Encontrarás las palabras que usamos, la tabla de rangos, los topes diarios y cómo se paga a los líderes. Lo mejor: cuatro historias calculadas, de un equipo pequeño a uno grande, con los números paso a paso. Léelo en tu segundo día. Luego vuelve a leerlo en un mes; verás más la segunda vez. Cada historia es una ilustración al promedio. La mayoría de los miembros no gana ninguna comisión."
+},
+"Delta_One_Momentum_Plan_Cheat_Sheet": {
+"title": "La hoja resumen",
+"text": "Este es el plan en una sola página, para cuando necesitas un número rápido. Arriba, la tabla de rangos. En medio, las tres formas en que paga un contrato: por nivel, por el diferencial y el tope diario. Abajo, cinco reglas para recordar. Tenla a tu lado cuando hables con la gente. Si puedes explicar esta página, puedes explicar el plan. Los números son ilustraciones, no promesas."
+},
+"Delta_One_Momentum_Plan_Napkin": {
+"title": "La servilleta",
+"text": "Esta es la servilleta. Es el plan en cuatro dibujos pequeños, como lo dibujarías tomando un café. Dibujo uno: un miembro compra un módulo. Dibujo dos: de cada cien USDT que gana el motor, cincuenta van a los miembros, veinticinco al plan y veinticinco a la empresa. Dibujo tres: líneas equilibradas. Dibujo cuatro: pagado de dos formas. Pruébalo tú. Toma una servilleta y dibuja las cuatro imágenes. Si puedes dibujarlo, lo entiendes."
+},
+"Delta_One_Momentum_Plan_Simple_Words": {
+"title": "El Plan en palabras sencillas",
+"text": "Este es el Plan en palabras sencillas. Una idea en cada página. Un dibujo. Tres o cuatro frases cortas. Empieza con qué compras. Luego la parte diaria. Luego el interruptor del día once. Luego los amigos y los niveles. Luego las siete montañas. La última página es la página de aviso, y es la más importante. Dáselo a cualquiera que encuentre difíciles los otros documentos. También existe en diecinueve idiomas."
+},
+"Delta_One_Module_Product_Guide": {
+"title": "Guía del producto",
+"text": "Esta es la guía del producto. Cuenta la historia de un módulo desde el primer día hasta el último. Primero, cómo funciona un día: el motor produce un resultado y a las doce del mediodía UTC, se reparte. Luego los primeros once días, cuando cada resultado compra un nuevo módulo pequeño. Luego el día once, cuando recibes un interruptor: seguir recomprando o enviar los resultados a tu billetera. Luego el final, cuando el módulo ha devuelto dos veces su precio. Léela después de los datos clave, antes de comprar."
+},
+"Delta_One_Module_Key_Facts": {
+"title": "Datos clave y riesgos",
+"text": "Esta es la página más importante de todas. Léela antes de comprar nada. Todos lo hacen. Dice qué es un módulo: una compra de software. No un depósito. No una inversión. No puedes recuperar el precio. Dice qué puede salir mal: algunos días el resultado es cero y nada está garantizado. Y dice la regla de oro: usa solo dinero que puedas permitirte perder. Si recuerdas una página, recuerda esta."
+},
+"Delta_One_Module_FAQ": {
+"title": "Preguntas frecuentes para miembros",
+"text": "Estas son las preguntas que hacen los miembros, con respuestas cortas y honestas. ¿Qué pasa un día sin beneficio? No se paga nada. ¿Qué hacen los primeros once días? Cada resultado recompra. ¿Cuánto es lo máximo que puede dar un módulo? Dos veces su precio, precio incluido. ¿Adónde va mi dinero? A la billetera de la aplicación, cuando el interruptor está apagado. Cuando una pregunta se repite, mira aquí. A la tercera vez tendrás la respuesta lista."
+},
+"Delta_One_Believer_Illustration": {
+"title": "El Creyente",
+"text": "Esta es la historia del Creyente. Un Creyente mantiene la recompra automática activada toda la vida de un módulo. A cambio, el módulo puede devolver el doscientos veinte por ciento en lugar del doscientos. El documento muestra un módulo de diez mil USDT, al promedio, que se convierte en toda una flota de módulos pequeños para el día cuatrocientos cuarenta. Es una historia con números, no una promesa. Los días reales varían. La elección es definitiva, así que léelo despacio antes del día once."
+},
+"Delta_One_Founder_Profile_James_Pack": {
+"title": "James Pack",
+"text": "Este es el perfil de James Pack, el fundador de Delta One. Tres cosas que saber: cuarenta años construyendo empresas; cofundó ASEA; y sus propias palabras sobre lo que defiende Delta One. La última página es una tarjeta que puedes compartir. Está marcada como borrador hasta que los fundadores la aprueben."
+},
+"Delta_One_Founder_Profile_Ricky_Lundell": {
+"title": "Ricky Lundell",
+"text": "Este es el perfil de Ricky Lundell, el presidente de Delta One. Tres cosas que saber: es campeón del mundo, más de una vez; entrenó a campeones del mundo de la UFC; y exige a un equipo un nivel alto. La última página es una tarjeta que puedes compartir. Está marcada como borrador hasta que los fundadores la aprueben."
+},
+"Delta_One_Founders_The_Partnership": {
+"title": "La sociedad",
+"text": "Esta es la historia de los dos fundadores trabajando juntos. Qué aporta cada uno. Cómo se dirige la empresa, con más de una llave necesaria para mover dinero. Y por qué eso te importa. Cuando alguien pregunta quiénes son estas personas, esta es la página que debes abrir."
+},
+"Delta_One_Which_Document_Do_I_Need": {
+"title": "¿Qué documento necesito?",
+"text": "Este es tu mapa de todos los documentos. Cada uno tiene una línea: qué es, para quién es y cuándo abrirlo. La primera tabla es la mejor parte. Busca a la izquierda lo que quieres hacer. El documento que abrir está a la derecha. Si solo vas a leer tres documentos, lee los datos clave, el Plan en palabras sencillas y la Tarjeta de lenguaje. Abre este mapa cada vez que te sientas perdido."
+},
+"Delta_One_Distributor_Kit_Index": {
+"title": "Índice del kit del distribuidor",
+"text": "Este es el índice de tu kit. Tu kit son dieciocho documentos cortos, en el orden en que los necesitas. El paso cero va antes que nada: los datos clave y la declaración. Luego el paso uno, el paso dos, hasta el paso nueve. También te dice quién recibe qué documento y qué nunca entregas a un prospecto. Y te da un plan de cinco días para tu primera semana. Empieza aquí el primer día."
+},
+"Delta_One_Rewards_Disclosure_Statement": {
+"title": "Declaración de recompensas",
+"text": "Esta página dice la verdad sobre las recompensas, rango por rango. La línea más importante es esta: la mayoría de los miembros no gana ninguna comisión. Los números son números de modelo al promedio, no un registro de lo que la gente ganó. Las recompensas reales necesitan un equipo real, y la mayoría de la gente nunca lo construye. Entrega esta página a cada prospecto, con los datos clave. Cada vez."
+},
+"Delta_One_Language_Card": {
+"title": "La Tarjeta de lenguaje",
+"text": "Esta es la Tarjeta de lenguaje: las palabras que decimos y las palabras que nunca decimos. Decimos compra, nunca inversión. Decimos resultado, nunca rendimiento. Decimos recompra, nunca reinversión. Decimos recompensas, nunca ingresos. También te da cinco frases que siempre puedes decir con seguridad. Léela antes de tu primera conversación. Luego vuelve a leerla una vez por semana. Las palabras importan."
+},
+"Delta_One_Rank_Roadmap": {
+"title": "La hoja de ruta de los rangos",
+"text": "Esta es la hoja de ruta de los rangos: una página por cada una de las siete montañas. Para cada rango: qué pide, cómo es un equipo que lo mantiene y qué paga el equipo más pequeño de ese rango, al promedio. Úsala para elegir tu siguiente meta. Una montaña a la vez. Los números son ilustraciones, no promesas."
+},
+"Delta_One_Getting_Started_Checklist": {
+"title": "Lista de inicio",
+"text": "Esta es tu lista para el primer día. Hazla con tu patrocinador y marca cada casilla. Primero la cuenta y la verificación de identidad. Luego la billetera. Luego tu propio módulo. Luego los primeros once días y la decisión del día once. Luego tus herramientas y tus primeras conversaciones. Ve en orden. No te saltes ninguna casilla."
+},
+"Delta_One_USDT_and_Wallet_Guide": {
+"title": "Guía de USDT y billetera",
+"text": "Esta guía es para cualquiera que nunca haya usado USDT. Tómatelo con calma. USDT es un dólar digital. Delta One lo usa en una sola red, llamada B E P veinte. La red tiene que ser la correcta, siempre. Te muestra cómo comprar USDT, cómo enviarlo a la aplicación y cómo retirar dinero, con un mínimo de cinco USDT. Y enumera los errores que hacen perder dinero, para que los evites. Léela antes de tu primera compra."
+},
+"Delta_One_First_90_Days_Workbook": {
+"title": "Cuaderno de los primeros 90 días",
+"text": "Estos son tus primeros noventa días en papel. Usa un bolígrafo. Página por página: tus tres primeros días, tu primera semana, tu primer mes y el día noventa. Escribe tus metas. Escribe las líneas que vas a abrir. Escribe tu lista de cincuenta personas. El día once, el día treinta y el día noventa, vuelve y revisa. El planificador en vivo de este sitio hace lo mismo en tu teléfono."
+},
+"Delta_One_Member_Journey_Calendar": {
+"title": "Calendario del recorrido del miembro",
+"text": "Este es un calendario del módulo de un miembro. Día cero, la compra. Día uno, el primer resultado. Día once, el interruptor. Día doscientos y día cuatrocientos, los grandes hitos. Día cuatrocientos cuarenta, el final en dos veces. Para cada día, te dice qué decir y qué enviar. Tenlo con tu lista de miembros y nunca te perderás un día."
+},
+"Delta_One_Prospect_Conversation_Guide": {
+"title": "Guía de conversación con prospectos",
+"text": "Así va una buena conversación. Nueve movimientos, del hola a los datos clave. Diecisiete preguntas que dejan hablar a la otra persona. Diez objeciones comunes, con respuestas honestas. Y diez comparaciones sencillas que se mantienen dentro de las reglas. Léela antes de tus diez primeras conversaciones. Prepárate con ella; no la recites."
+},
+"Delta_One_Follow_Up_Messages": {
+"title": "Mensajes de seguimiento",
+"text": "Estos son diez mensajes que puedes enviar tal cual. Del primer contacto al día once. Cada mensaje se ha revisado con la Tarjeta de lenguaje, así que las palabras son seguras. Copia, pega, envía. Y envía siempre los datos clave con la primera conversación de verdad."
+},
+"Delta_One_New_Member_Welcome_Pack": {
+"title": "Paquete de bienvenida del nuevo miembro",
+"text": "Esto es lo que envías a un nuevo miembro, y cuándo. Día cero, día uno, día once, día doscientos. Para cada día, el documento que enviar y las palabras para acompañarlo. Una regla para recordar: el miembro decide el interruptor el día once, no tú. Usa este paquete en cuanto se confirme un módulo."
+},
+"Delta_One_Reading_Your_Statement": {
+"title": "Leer tu estado de cuenta diario",
+"text": "Esto explica el estado de cuenta diario, línea por línea. Cada día a las doce del mediodía UTC, llega un estado de cuenta. Muestra el resultado del día y adónde fue: a un módulo de recompra o a la billetera. Muestra las comisiones, nivel por nivel, y el diferencial. Y te dice qué revisar cada día. Ábrelo la primera vez que veas un estado de cuenta y podrás explicar cada número."
+},
+"Delta_One_Leaders_One_Pager": {
+"title": "La página del líder",
+"text": "Esta es una página para líderes, con tres hábitos. Hábito uno: abrir líneas nuevas, porque las líneas nuevas pagan más. Hábito dos: mantenerte delante de tu gente, porque la diferencia es tuya. Hábito tres: mantener activos a tus líderes, porque solo cuentan los módulos activos. Léela una vez al mes y califícate en los tres."
+},
+"Delta_One_About_Delta_One": {
+"title": "Acerca de Delta One",
+"text": "Esto es quién es Delta One. El motor, los fundadores y cómo se guarda el dinero a salvo. El motor opera, y el resultado se reparte: cincuenta a los miembros, veinticinco al plan, veinticinco a la empresa. Hace falta más de una llave para mover fondos. La liquidación es cada día a las doce del mediodía UTC. Cuando alguien pregunta quiénes son estas personas, abre esta página con los datos clave."
+},
+"Delta_One_Distributor_Policies_and_Procedures": {
+"title": "Políticas y procedimientos del distribuidor",
+"text": "Estas son las reglas que acepta cada distribuidor. Es un borrador hasta que los abogados lo aprueben. Lo que nunca puedes afirmar. Cómo tratas a los miembros y su dinero. Qué pasa con las quejas, la inactividad y la salida. Léelo antes de firmar. Y ábrelo cada vez que no estés seguro de si algo está permitido."
+},
+"Delta_One_Distributor_Agreement": {
+"title": "Acuerdo del distribuidor",
+"text": "Este es el acuerdo entre tú y Delta One. Es un borrador; el nombre de la empresa y la ley aplicable todavía están por rellenar. Eres independiente, no empleado. La comisión se paga según el plan tal como está publicado. Y dice cómo termina el acuerdo. Léelo antes de firmar. Pregunta si algo no está claro."
+},
+"Delta_One_Privacy_and_KYC_Note": {
+"title": "Nota de privacidad y KYC",
+"text": "Esta nota explica la verificación de identidad. Qué se recoge, por qué hace falta, quién puede verlo y cuánto tiempo se guarda. Cuando un miembro pregunta por qué debe enviar un documento de identidad, esta es la página. Es un borrador pendiente de revisión legal."
+}
+}
+}
