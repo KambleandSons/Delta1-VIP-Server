@@ -1,0 +1,198 @@
+WEBVTT
+
+1
+00:00:02.656 --> 00:00:07.196
+¡Hola! Esta es la historia de un tractor, unas semillas y una gran cosecha.
+
+2
+00:00:07.196 --> 00:00:11.668
+Conoce a Tracto el tractor. Conoce a Maya. Y conoce a Sam.
+
+3
+00:00:12.640 --> 00:00:18.403
+Una regla primero: esta es una historia sobre promedios. Nadie puede prometer una cosecha.
+
+4
+00:00:18.403 --> 00:00:20.027
+¿Listos? ¡Vamos!
+
+5
+00:00:21.791 --> 00:00:27.603
+Este es el granero de Delta One. ¡Está lleno de semillas! Tracto es un tractor muy listo.
+
+6
+00:00:28.287 --> 00:00:33.082
+Mira cada semilla, y solo planta las buenas. ¡Semilla buena, a plantar!
+
+7
+00:00:33.082 --> 00:00:37.010
+¡Semilla mala, no gracias! Tracto trabaja todos los días.
+
+8
+00:00:40.384 --> 00:00:46.409
+Maya compra una caja de semillas del granero. Ahora es suya. No puede volver a la tienda.
+
+9
+00:00:46.409 --> 00:00:47.162
+¡Pero mira!
+
+10
+00:00:48.352 --> 00:00:52.316
+Cada día que Tracto trae una cosecha, Maya recibe una parte.
+
+11
+00:00:52.316 --> 00:00:56.303
+Y sigue recibiendo una parte hasta que su caja le ha dado el valor de dos cajas.
+
+12
+00:00:57.376 --> 00:01:02.577
+Entonces la caja está vacía. ¡Hurra! Maya puede comprar una caja nueva.
+
+13
+00:01:03.424 --> 00:01:08.500
+¡Hora de la cosecha! Cada cesta de cien manzanas se reparte de tres maneras.
+
+14
+00:01:08.500 --> 00:01:11.998
+Cincuenta manzanas van a los dueños de las cajas, como Maya.
+
+15
+00:01:12.447 --> 00:01:15.611
+Veinticinco manzanas van a los ayudantes, como Sam.
+
+16
+00:01:15.611 --> 00:01:19.062
+Y veinticinco manzanas se quedan en el granero. ¡Fácil!
+
+17
+00:01:19.359 --> 00:01:25.875
+Oh, no. ¡Lluvia! Hoy Tracto recogió cero manzanas. Así que hoy, nadie recibe nada.
+
+18
+00:01:25.875 --> 00:01:31.236
+Ni Maya. Ni Sam. Ni siquiera el granero. Sin manzanas, no hay parte.
+
+19
+00:01:32.032 --> 00:01:35.017
+Esa es la regla. ¡Y algunos días llueve!
+
+20
+00:01:36.960 --> 00:01:42.623
+Algunos días, cero manzanas. Otros, unas pocas. ¡Y otros, una montaña de manzanas!
+
+21
+00:01:44.128 --> 00:01:47.248
+En la vida real, las manzanas son monedas: USDT.
+
+22
+00:01:47.248 --> 00:01:52.831
+Si sumas todos los días, la caja de Maya da unas cinco monedas al día. Eso es el promedio.
+
+23
+00:01:55.252 --> 00:01:57.588
+No es una promesa. Puede cambiar.
+
+24
+00:02:00.339 --> 00:02:02.090
+Ahora viene lo divertido.
+
+25
+00:02:02.090 --> 00:02:07.657
+Durante los primeros diez días, las monedas de Maya compran cajitas de semillas nuevas ellas solas.
+
+26
+00:02:07.657 --> 00:02:12.033
+¡Pop! ¡Pop! ¡Pop! Luego Maya recibe un interruptor.
+
+27
+00:02:12.373 --> 00:02:17.854
+Muévelo hacia un lado: ¡más cajas! Muévelo hacia el otro: las monedas van a su alcancía.
+
+28
+00:02:20.245 --> 00:02:24.228
+Una Creyente sigue plantando todo el tiempo, y su caja da aún más.
+
+29
+00:02:24.228 --> 00:02:26.033
+¡Dos cajas y un poquito más!
+
+30
+00:02:27.348 --> 00:02:30.666
+Ahora, Sam. Sam le habló a Maya de la granja.
+
+31
+00:02:30.666 --> 00:02:35.376
+Así que cada día que la caja de Maya recibe una parte, Sam recibe un pedacito de ella.
+
+32
+00:02:35.668 --> 00:02:41.667
+Dos manzanas de cada cien. ¡Pequeñito! Pero Sam se lo cuenta a mucha, mucha gente.
+
+33
+00:02:41.667 --> 00:02:44.159
+¡Muchos pedacitos hacen un montón grande!
+
+34
+00:02:45.235 --> 00:02:50.529
+Cuantos más amigos ayuda Sam, y más cajas tienen, más alto sube Sam. ¡Siete colinas!
+
+35
+00:02:52.563 --> 00:02:56.613
+En una colina más alta, Sam recibe un pedacito de más filas de amigos.
+
+36
+00:02:56.613 --> 00:02:59.498
+Pero aquí está el truco: planta ancho, como un campo.
+
+37
+00:03:02.612 --> 00:03:07.649
+No alto, como una planta gigante de habichuelas. ¡Los campos anchos suben colinas!
+
+38
+00:03:08.532 --> 00:03:15.900
+Y el primer granjero que sube la colina recibe un premio de líder: pedacitos extra de todas las filas de abajo, hasta que un amigo también sube.
+
+39
+00:03:16.596 --> 00:03:22.196
+Entonces ese amigo recibe su propio premio. Así que, Sam: ¡mantente por delante!
+
+40
+00:03:22.196 --> 00:03:23.231
+¡Sigue subiendo!
+
+41
+00:03:23.552 --> 00:03:26.956
+Cada día a las doce del mediodía, hora UTC, ¡din don din!
+
+42
+00:03:26.956 --> 00:03:31.632
+Suena la campana, y la parte de cada uno llega a su alcancía. Cada día.
+
+43
+00:03:31.632 --> 00:03:33.262
+Saca monedas cuando quieras.
+
+44
+00:03:34.799 --> 00:03:38.541
+Recuerda las tres reglas. Sin manzanas, no hay parte.
+
+45
+00:03:38.541 --> 00:03:44.169
+La caja de semillas no puede volver a la tienda, así que compra solo lo que puedas permitirte perder.
+
+46
+00:03:45.839 --> 00:03:49.450
+Y cinco monedas al día es un promedio, nunca una promesa.
+
+47
+00:03:49.450 --> 00:03:54.804
+La mayoría de los ayudantes no recibe ninguna manzana de ayudante. Planta ancho.
+
+48
+00:03:54.804 --> 00:03:57.517
+Mantente por delante. Y di la verdad.
+
+49
+00:03:57.840 --> 00:04:00.951
+¡Fin! ¡Adiós de parte de Tracto, Maya y Sam!
+

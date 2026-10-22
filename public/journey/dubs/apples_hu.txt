@@ -1,0 +1,98 @@
+WEBVTT
+
+1
+00:00:02.620 --> 00:00:08.390
+Szia, barátom! Ma egy kis mese száz almáról. Megmutatja, honnan jön minden érme a Delta One-nál.
+
+2
+00:00:11.936 --> 00:00:18.221
+Bolt minden nap kereskedik. Ha Boltnak jó napja van, almát hoz haza. Minden alma egy érme.
+
+3
+00:00:18.221 --> 00:00:19.501
+Mondjuk száz almát.
+
+4
+00:00:21.700 --> 00:00:26.545
+A száz almát háromfelé osztják. Mindig ugyanúgy. Ötven, huszonöt, huszonöt.
+
+5
+00:00:31.460 --> 00:00:38.052
+Ötven alma a tagoké. Maya, Sam, mindenki, akinek doboza van. Minden doboz megkapja a részét az ötvenből.
+
+6
+00:00:40.484 --> 00:00:47.045
+Huszonöt alma a segítők tervébe megy. A segítők olyan tagok, akik szóltak a barátaiknak a Delta One-ról.
+
+7
+00:00:47.045 --> 00:00:49.126
+A jutalmuk innen jön. Csak innen.
+
+8
+00:00:49.732 --> 00:00:55.786
+Huszonöt alma a csűrbe kerül. A csűr a DAO Kincstár. Ez tartja működésben és növeli a Delta One-t.
+
+9
+00:00:58.116 --> 00:01:04.845
+Most jön a legfontosabb szabály. A segítő almái soha nem egy új tag érméiből jönnek. Soha nem vásárlásból.
+
+10
+00:01:04.845 --> 00:01:06.051
+Csak Bolt almáiból.
+
+11
+00:01:08.068 --> 00:01:14.334
+Esős napon Bolt nem hoz almát. Nullát. Akkor senki nem eszik. Se a tagok, se a segítők, se a csűr.
+
+12
+00:01:14.334 --> 00:01:16.124
+Nincs alma, senki nem eszik.
+
+13
+00:01:21.093 --> 00:01:23.988
+Van, hogy Bolt sok almát hoz. Van, hogy keveset.
+
+14
+00:01:23.988 --> 00:01:28.813
+Tedd össze az összes napot, és egy ezer érmés doboz nagyjából napi öt érmét kap.
+
+15
+00:01:30.500 --> 00:01:34.768
+Ez az átlag. Napi fél százalék. Nem ígéret. Változhat.
+
+16
+00:01:38.408 --> 00:01:43.901
+Miért ötven a tagoknak? Mert a dobozok az övék. Miért huszonöt a segítőknek?
+
+17
+00:01:43.901 --> 00:01:49.983
+Mert segítik a csapatuk dobozait, és a terv a kereskedés nyereségéből fizet, soha nem vásárlásból.
+
+18
+00:01:51.176 --> 00:01:55.432
+Miért huszonöt a csűrnek? Mert a csűr őriz mindent, amit senki nem kér.
+
+19
+00:01:55.432 --> 00:01:59.329
+És ha egy doboz eléri a két doboznyit, a maradék a csűrben marad.
+
+20
+00:02:03.660 --> 00:02:10.397
+Minden nap délben, UTC szerint megszámolják és szétosztják az almákat. Minden tag látja a kimutatásán.
+
+21
+00:02:11.180 --> 00:02:17.316
+Mondjuk el együtt. Száz alma. Ötven a tagoknak. Huszonöt a segítőknek. Huszonöt a csűrnek.
+
+22
+00:02:20.492 --> 00:02:25.157
+Nincs alma, senki nem eszik. A segítők soha nem eszik meg egy új tag érméit.
+
+23
+00:02:25.157 --> 00:02:28.164
+És a legtöbb segítő egyetlen plusz almát sem kap.
+
+24
+00:02:29.512 --> 00:02:36.199
+Már tudod, honnan jön minden érme. Legközelebb: érmék be, érmék ki, és a kimutatásod olvasása. Viszlát!
+

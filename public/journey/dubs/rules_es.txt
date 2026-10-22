@@ -1,0 +1,226 @@
+WEBVTT
+
+1
+00:00:02.588 --> 00:00:07.019
+Hola, amigo. Hoy, las reglas. Ser ayudante trae reglas.
+
+2
+00:00:07.019 --> 00:00:11.159
+Protegen a los miembros, te protegen a ti, y protegen a Delta One.
+
+3
+00:00:11.159 --> 00:00:12.976
+Romperlas termina el trabajo.
+
+4
+00:00:15.900 --> 00:00:18.792
+Estas reglas son un borrador para los abogados.
+
+5
+00:00:18.792 --> 00:00:22.938
+La versión del sitio de documentos es la que cuenta. Recorrámoslas.
+
+6
+00:00:23.744 --> 00:00:28.228
+¿Quién es un ayudante? Un miembro con una caja que presenta a otros.
+
+7
+00:00:28.228 --> 00:00:32.275
+Presentar es opcional. La mayoría de los miembros nunca lo hace.
+
+8
+00:00:34.780 --> 00:00:38.175
+Regla uno: una persona, una cuenta, una posición.
+
+9
+00:00:38.175 --> 00:00:41.889
+Tu inscriptor queda fijo una vez confirmada tu primera caja.
+
+10
+00:00:41.889 --> 00:00:45.737
+Debes tener dieciocho años y pasar la verificación de identidad.
+
+11
+00:00:46.811 --> 00:00:51.581
+Regla dos: lo que puedes decir. Solo números de un documento publicado.
+
+12
+00:00:51.581 --> 00:00:55.125
+Con la palabra promedio cada vez. Nunca como promesa.
+
+13
+00:00:57.340 --> 00:00:59.763
+Una caja es una compra de software.
+
+14
+00:00:59.763 --> 00:01:05.523
+Entrega como máximo dos veces su precio, y luego termina. Nunca un producto bancario.
+
+15
+00:01:05.523 --> 00:01:06.993
+Nunca un plan de ahorro.
+
+16
+00:01:07.324 --> 00:01:12.810
+La comisión es una parte de lo que una caja ganó ese día, pagada solo cuando Bolt tuvo ganancia.
+
+17
+00:01:12.810 --> 00:01:16.692
+Nunca por reclutar. A nadie se le paga por traer a una persona.
+
+18
+00:01:17.664 --> 00:01:23.173
+En cada presentación, dilo. Los resultados y las recompensas no están prometidos.
+
+19
+00:01:23.173 --> 00:01:26.466
+La mayoría de los miembros no gana ninguna comisión.
+
+20
+00:01:26.466 --> 00:01:28.907
+El precio nunca vuelve y se puede perder.
+
+21
+00:01:29.407 --> 00:01:34.057
+Nunca muestres tus propias monedas como algo típico. Nada de fotos de dinero.
+
+22
+00:01:34.057 --> 00:01:38.596
+Nunca digas que Delta One es un banco, que tiene respaldo del gobierno, o que no tiene riesgo.
+
+23
+00:01:38.912 --> 00:01:40.748
+Regla tres: publicidad.
+
+24
+00:01:40.748 --> 00:01:46.672
+Solo los materiales publicados de Delta One, sin cambios, o tus propias palabras que sigan la tarjeta.
+
+25
+00:01:46.672 --> 00:01:50.135
+Nada de gráficos o videos caseros con el nombre Delta One.
+
+26
+00:01:52.352 --> 00:01:57.464
+Cada publicación pública sobre resultados o comisiones lleva la línea de divulgación.
+
+27
+00:01:57.464 --> 00:02:01.632
+Nada de anuncios pagados, ni mensajes masivos, ni mensajes a desconocidos.
+
+28
+00:02:02.368 --> 00:02:04.331
+Regla cuatro: tus miembros.
+
+29
+00:02:04.331 --> 00:02:09.038
+Antes de que alguien decida: los Datos clave, los riesgos, y que el precio nunca vuelve.
+
+30
+00:02:11.808 --> 00:02:17.720
+Nunca recomiendes un tamaño de caja. Di solo: una cantidad que podrías permitirte perder.
+
+31
+00:02:17.720 --> 00:02:20.962
+Nunca prestes, cobres ni guardes monedas de un miembro.
+
+32
+00:02:20.962 --> 00:02:23.156
+Nunca entres en la billetera de un miembro.
+
+33
+00:02:24.032 --> 00:02:26.794
+Nunca compres una caja para otra persona.
+
+34
+00:02:26.794 --> 00:02:30.032
+Día cero y día once: siéntate con tu nuevo miembro.
+
+35
+00:02:30.032 --> 00:02:34.065
+La billetera, el camino, los diez días, el interruptor, el primer retiro.
+
+36
+00:02:36.000 --> 00:02:37.627
+Regla cinco: dinero.
+
+37
+00:02:37.627 --> 00:02:42.000
+Cada compra va de la propia billetera del miembro a la dirección de la aplicación.
+
+38
+00:02:42.000 --> 00:02:44.653
+Un ayudante nunca toca el dinero de una compra.
+
+39
+00:02:44.992 --> 00:02:51.249
+La comisión la paga Delta One en la liquidación de las doce del mediodía UTC, a tu billetera de la aplicación.
+
+40
+00:02:51.249 --> 00:02:54.774
+No existe otro pago. Tus impuestos son cosa tuya.
+
+41
+00:02:55.168 --> 00:02:57.045
+Qué sale mal, y qué pasa.
+
+42
+00:02:57.045 --> 00:03:01.555
+Una palabra prohibida en público: una advertencia escrita, corrígela en un día.
+
+43
+00:03:01.555 --> 00:03:04.414
+La segunda vez: comisión pausada treinta días.
+
+44
+00:03:09.439 --> 00:03:15.555
+Prometer un resultado o mostrar monedas como algo típico: pausa inmediata, y expulsión si se confirma.
+
+45
+00:03:15.555 --> 00:03:19.221
+Tocar el dinero de un miembro, o comprar cajas para otros: expulsión.
+
+46
+00:03:21.855 --> 00:03:26.266
+Venta con presión, acoso, o apuntar a personas vulnerables: expulsión.
+
+47
+00:03:26.266 --> 00:03:29.532
+Puedes responder por escrito en siete días y apelar una vez.
+
+48
+00:03:31.167 --> 00:03:37.031
+Irse. Puedes renunciar en cualquier momento por escrito. Tus cajas continúan.
+
+49
+00:03:37.031 --> 00:03:41.868
+Tu equipo se queda donde está. Después de irte, no hablas en nombre de Delta One.
+
+50
+00:03:42.336 --> 00:03:47.245
+Los cambios en las reglas llegan con aviso en el sitio de documentos y en la aplicación.
+
+51
+00:03:47.245 --> 00:03:50.429
+Los cambios nunca reducen la comisión ya ganada.
+
+52
+00:03:51.328 --> 00:03:55.955
+Digámoslo juntos. Di solo lo que está impreso. Di promedio.
+
+53
+00:03:55.955 --> 00:03:58.924
+Di que la mayoría de los miembros no gana comisión.
+
+54
+00:03:58.924 --> 00:04:02.484
+Nunca toques las monedas de un miembro. Nunca prometas.
+
+55
+00:04:03.199 --> 00:04:08.358
+Ahora conoces las reglas del camino. La próxima vez: los asientos de fundador.
+
+56
+00:04:08.358 --> 00:04:09.712
+Hasta pronto, amigo.
+

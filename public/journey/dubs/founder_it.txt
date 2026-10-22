@@ -1,0 +1,174 @@
+WEBVTT
+
+1
+00:00:02.624 --> 00:00:07.033
+Ciao di nuovo! Ecco il cartone dei Posti da Fondatore di Delta One.
+
+2
+00:00:07.584 --> 00:00:12.589
+Ecco Nora, che vuole un posto in cima alla montagna, e Bolt, il motore AI che fa il trading.
+
+3
+00:00:15.040 --> 00:00:20.069
+La regola di sempre: ogni numero è una media, e niente è una promessa. Saliamo!
+
+4
+00:00:23.104 --> 00:00:29.550
+Ci sono esattamente duecentosessanta posti da fondatore, in sei fasce, dalla cima della montagna in giù.
+
+5
+00:00:29.550 --> 00:00:32.178
+Dieci posti Sherpa a duecentomila USDT.
+
+6
+00:00:34.240 --> 00:00:40.066
+Venticinque Alpinista. Venticinque Apripista. Cinquanta Esploratore.
+
+7
+00:00:40.066 --> 00:00:44.844
+Cinquanta Pioniere a diecimila. E cento posti Guida a cinquemila.
+
+8
+00:00:44.844 --> 00:00:49.620
+Nora sceglie un posto Pioniere. Numero uno uno uno. È suo!
+
+9
+00:00:51.360 --> 00:00:54.108
+Un posto da fondatore dà a Nora due cose.
+
+10
+00:00:54.108 --> 00:01:00.482
+Uno: una parte da fondatore, una fetta del guadagno di Bolt, ogni giorno di guadagno, per tutta la vita del progetto.
+
+11
+00:01:02.368 --> 00:01:04.432
+Due: un modulo del posto.
+
+12
+00:01:04.432 --> 00:01:11.582
+I suoi diecimila lavorano anche come un modulo normale, guadagnando in media finché le hanno pagato il doppio del prezzo del posto.
+
+13
+00:01:11.582 --> 00:01:13.214
+Due flussi, un posto.
+
+14
+00:01:15.264 --> 00:01:17.383
+Ecco come funziona la parte.
+
+15
+00:01:17.383 --> 00:01:21.748
+Ogni giorno in cui Bolt guadagna, l'uno per cento va nel barattolo dei fondatori.
+
+16
+00:01:22.048 --> 00:01:30.011
+Il barattolo si divide per prezzo del posto: i diecimila di Nora, divisi per otto milioni, il prezzo di tutti i duecentosessanta posti.
+
+17
+00:01:30.011 --> 00:01:32.050
+Questa è la sua parte, per sempre.
+
+18
+00:01:33.568 --> 00:01:39.495
+Posti non venduti? La loro parte resta a Delta One. Quella di Nora non cambia mai.
+
+19
+00:01:39.840 --> 00:01:41.191
+Quanto vale?
+
+20
+00:01:41.191 --> 00:01:48.293
+Lo scenario di pianificazione: un miliardo di USDT di moduli venduti fa due miliardi di USDT di guadagno di trading nel tempo.
+
+21
+00:01:48.832 --> 00:01:52.892
+L'uno per cento di questo è un barattolo da venti milioni di USDT.
+
+22
+00:01:52.892 --> 00:01:56.241
+Un posto Guida ne riceve dodicimilacinquecento.
+
+23
+00:01:56.241 --> 00:01:59.361
+Il posto Pioniere di Nora ne riceve venticinquemila.
+
+24
+00:02:00.768 --> 00:02:06.437
+Un posto Sherpa, mezzo milione. Nel tempo, in media, e solo se il guadagno si fa davvero.
+
+25
+00:02:08.064 --> 00:02:10.182
+E c'è una finestra di lancio.
+
+26
+00:02:10.182 --> 00:02:18.633
+I posti pagati entro la liquidazione di mezzogiorno UTC dell'undici ottobre ricevono il due per cento invece dell'uno, per i primi dodici mesi.
+
+27
+00:02:21.032 --> 00:02:24.699
+Il doppio della parte su tutto quello che Bolt guadagna in quell'anno.
+
+28
+00:02:25.132 --> 00:02:29.455
+Dopo la finestra, è l'uno per cento per tutti. Tic tac, Nora!
+
+29
+00:02:31.180 --> 00:02:34.203
+Un compito per ogni fondatore: restare attivo.
+
+30
+00:02:34.203 --> 00:02:41.728
+Quando il modulo del posto di Nora arriva al doppio, parte un periodo di grazia di trenta giorni, e la sua parte continua ad arrivare.
+
+31
+00:02:42.156 --> 00:02:48.035
+Rinnova con un nuovo modulo del posto al prezzo del posto, dal suo portafoglio o con un nuovo pagamento.
+
+32
+00:02:48.396 --> 00:02:53.784
+Se non lo fa, la sua parte si ferma, e resta a Delta One. Ma il posto è ancora suo!
+
+33
+00:02:55.564 --> 00:03:00.701
+Può riattivarlo quando vuole, con un nuovo modulo del posto. L'NFT è per sempre.
+
+34
+00:03:03.692 --> 00:03:09.664
+Il posto di Nora vive come un NFT su BNB Smart Chain, numerato nell'ordine in cui è stato comprato.
+
+35
+00:03:09.964 --> 00:03:17.069
+È suo da tenere, e suo da trasferire: la parte segue l'NFT fino al nuovo proprietario, che può tenerlo attivo, o riattivarlo.
+
+36
+00:03:19.040 --> 00:03:21.646
+Può perfino lasciarlo nel testamento.
+
+37
+00:03:21.646 --> 00:03:25.900
+Pagato ogni giorno a mezzogiorno UTC, in USDT, nel portafoglio dell'app.
+
+38
+00:03:27.020 --> 00:03:28.620
+La parte seria.
+
+39
+00:03:28.620 --> 00:03:33.303
+Ogni numero è un esempio ipotetico al risultato medio giornaliero del motore.
+
+40
+00:03:34.316 --> 00:03:38.405
+La parte da fondatore dipende del tutto dal guadagno davvero fatto.
+
+41
+00:03:38.405 --> 00:03:42.590
+I risultati non sono garantiti, e il prezzo del posto si può perdere.
+
+42
+00:03:43.436 --> 00:03:51.023
+La società emittente e i termini devono ancora essere pubblicati, e questo cartone è una bozza per la revisione di conformità.
+
+43
+00:03:51.023 --> 00:03:55.851
+Leggi i Punti chiave per i fondatori prima di comprare. Ciao da Nora e Bolt!
+

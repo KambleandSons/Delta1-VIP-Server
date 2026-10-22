@@ -1,0 +1,210 @@
+WEBVTT
+
+1
+00:00:02.592 --> 00:00:09.700
+Szia! Ez a Momentum terv, egy vidám rajzfilmben. Ő Maya, aki vesz egy modult. Ő pedig Sam, aki bemutatta neki.
+
+2
+00:00:10.848 --> 00:00:15.507
+És ő Bolt, a Delta One AI motorja, aki az egész kereskedést végzi.
+
+3
+00:00:15.904 --> 00:00:22.324
+Egy szabály, mielőtt kezdünk: minden szám, amit látsz, átlag, és semmi sem ígéret. Kész vagy? Indulás!
+
+4
+00:00:24.064 --> 00:00:30.630
+Bolt egy kereskedő motor: okos szoftver, ami jó üzletekre vadászik, egész nap, minden nap.
+
+5
+00:00:30.630 --> 00:00:33.548
+Maya vesz egy Bolt-modult ezer USDT-ért.
+
+6
+00:00:34.336 --> 00:00:39.225
+Ez szoftvervásárlás, mint amikor egy játékot veszel, ezért a pénzt nem lehet visszakérni.
+
+7
+00:00:40.352 --> 00:00:48.471
+Ezután Bolt fizet Mayának egy részt abból, amit keres, amíg a modulja kétezer USDT-t nem adott: kétszer annyit, mint amennyit fizetett.
+
+8
+00:00:48.471 --> 00:00:50.144
+Aztán vége. Tádám!
+
+9
+00:00:50.580 --> 00:00:56.696
+Minden nap, amikor Bolt nyereséget termel, minden száz USDT-t háromfelé oszt. Ötven a tagoké, mint Maya.
+
+10
+00:00:56.696 --> 00:00:59.106
+Huszonöt a tervbe megy, ami Samet fizeti.
+
+11
+00:00:59.552 --> 00:01:01.867
+Huszonöt pedig a DAO Kincstárba.
+
+12
+00:01:01.867 --> 00:01:07.489
+De mi van, ha szürke az ég, és Bolt nem termel nyereséget? Senki nem kap egy érmét sem.
+
+13
+00:01:07.489 --> 00:01:10.758
+Nincs nyereség, nincs kifizetés. Még Bolt sem.
+
+14
+00:01:11.640 --> 00:01:16.551
+Ez Bolt hónapja. Van nap, hogy semmit nem keres. Nullát. Van nap, hogy sokat.
+
+15
+00:01:18.648 --> 00:01:24.325
+Add össze mindet, oszd el a napok számával, és nagyjából napi fél százalékot kapsz. Ez az átlag.
+
+16
+00:01:24.325 --> 00:01:27.045
+Ebben a rajzfilmben minden szám ezt használja.
+
+17
+00:01:27.576 --> 00:01:31.080
+És az átlag változhat, úgyhogy soha, de soha ne ígérd.
+
+18
+00:01:32.568 --> 00:01:39.984
+Átlaggal Maya modulja napi öt USDT-t keres. Az első tíz napban minden eredmény vesz egy pici új modult. Pop!
+
+19
+00:01:39.984 --> 00:01:40.602
+Pop! Pop!
+
+20
+00:01:43.960 --> 00:01:48.209
+A tizenegyedik naptól Mayának van egy kapcsolója: újravétel vagy tárca.
+
+21
+00:01:48.209 --> 00:01:51.980
+Nagyjából a kétszázadik napra annyit kapott, amennyit fizetett.
+
+22
+00:01:53.720 --> 00:01:58.677
+Nagyjából a négyszázadik napra a modul kétezer USDT-t fizetett, és kész.
+
+23
+00:01:58.677 --> 00:02:01.432
+Maya vesz egy újat, és kezdődik elölről.
+
+24
+00:02:02.680 --> 00:02:10.258
+Most Sam. Sam mutatta be Mayát, így minden nap, amikor Maya modulja keres, Sam kap belőle két százalékot.
+
+25
+00:02:10.258 --> 00:02:13.073
+Öt USDT Mayának, tíz cent Samnek. Pici!
+
+26
+00:02:13.752 --> 00:02:22.165
+Ez a lényeg: Sam sok modul után kap. Egymillió USDT modul Sam szintjein napi száz USDT. Nem egy érméből.
+
+27
+00:02:22.165 --> 00:02:23.783
+Egy hegynyi érméből.
+
+28
+00:02:27.448 --> 00:02:34.592
+Ha már hegyek: hét rang van, és mind hegy. Fuji, Kilimanjaro, Matterhorn, Denali, Rainier, K-2 és Everest.
+
+29
+00:02:37.592 --> 00:02:43.083
+Minél magasabbra mászik Sam, annál több szint fizet neki: három a Fujin, huszonegy az Everesten.
+
+30
+00:02:44.536 --> 00:02:49.360
+Minden ranghoz kell saját vásárlás, saját beléptetett tagok és csapatforgalom.
+
+31
+00:02:49.360 --> 00:02:51.896
+És a mászást minden egyes nap ellenőrzik.
+
+32
+00:02:53.624 --> 00:02:56.978
+Egy szabály dönt minden rangról: egyensúlyozd az ágaidat!
+
+33
+00:02:56.978 --> 00:03:00.331
+Egy ág: valaki, akit Sam beléptet, plusz mindenki alatta.
+
+34
+00:03:00.792 --> 00:03:07.571
+Egy óriási ág nem számít teljesen. Egy ág csak a részéig számít: a fele, a harmada, a negyede vagy az ötöde.
+
+35
+00:03:09.880 --> 00:03:13.874
+Ezért Sam szélesre épít, mint egy fa, nem magasra, mint egy torony.
+
+36
+00:03:15.744 --> 00:03:19.876
+És a vezetőket egy második módon is fizetik, ez a töréskülönbözet.
+
+37
+00:03:19.876 --> 00:03:23.599
+Minden rangnak van egy száma: hat a Fujin, negyvenkettőig az Everesten.
+
+38
+00:03:25.208 --> 00:03:28.152
+Sam Denali, huszonnégy. Alatta Fuji Fred, hat.
+
+39
+00:03:28.152 --> 00:03:33.720
+A különbség tizennyolc pont, és ez a különbség Samé, Fred ágában minden szerződés után.
+
+40
+00:03:36.056 --> 00:03:42.751
+Nincs plafon! De ha Fred is feljut a Denalira, a különbségből Fred része Fredé. Szóval, Sam: maradj elöl!
+
+41
+00:03:43.384 --> 00:03:44.921
+Minden nap fizetésnap.
+
+42
+00:03:44.921 --> 00:03:51.209
+Délben, UTC szerint Bolt csenget, és mindenki része megérkezik az app-tárcájába, USDT-ben.
+
+43
+00:03:52.280 --> 00:03:58.280
+Vegyél ki bármikor, öt USDT-től, csak a hálózati díjjal. A modulok kétszeresnél véget érnek.
+
+44
+00:03:58.280 --> 00:04:02.976
+És csak az aktív modulok számítanak, úgyhogy tartsd működésben a tiédet.
+
+45
+00:04:03.480 --> 00:04:09.594
+Hat szabály, mondd velem! Keresetből fizet, soha nem vásárlásból. Nincs nyereség, nincs kifizetés.
+
+46
+00:04:09.594 --> 00:04:14.148
+Egyensúlyozd az ágaidat. Maradj elöl. A modulok kétszeresnél véget érnek.
+
+47
+00:04:14.648 --> 00:04:18.377
+Fizetés naponta, USDT-ben. Megvan!
+
+48
+00:04:19.608 --> 00:04:24.252
+Még egy utolsó dolog, és ez komoly. Itt minden szám átlag, nem ígéret.
+
+49
+00:04:25.592 --> 00:04:30.897
+Az eredmények és a jutalmak nem garantáltak, és a legtöbb tag egyáltalán nem kap jutalékot.
+
+50
+00:04:31.576 --> 00:04:35.987
+A modul szoftvervásárlás: a pénzt nem lehet visszakérni, és elveszhet.
+
+51
+00:04:35.987 --> 00:04:40.524
+Vásárlás előtt olvasd el a Fontos tényeket. Építs szélesre. Maradj elöl.
+
+52
+00:04:41.656 --> 00:04:45.892
+És mondj igazat a kockázatokról. Szia Mayától, Samtől és Bolttól!
+

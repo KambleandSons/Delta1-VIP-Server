@@ -1,0 +1,198 @@
+WEBVTT
+
+1
+00:00:02.592 --> 00:00:09.542
+Szia, barátom! Ma Sam segítő lesz. Az első napja, lépésről lépésre. Maya mellette ül.
+
+2
+00:00:09.542 --> 00:00:10.666
+Te is követheted.
+
+3
+00:00:12.224 --> 00:00:14.097
+Első lépés: a fiók.
+
+4
+00:00:14.097 --> 00:00:18.366
+Sam megnyitja a Delta One appot azzal a linkkel, amit Maya küldött neki.
+
+5
+00:00:18.366 --> 00:00:24.000
+Őt Maya lépteti be. Ellenőrizd a nevet a képernyőn; később nem lehet megváltoztatni.
+
+6
+00:00:24.704 --> 00:00:27.160
+Második lépés: az azonosítás.
+
+7
+00:00:27.160 --> 00:00:32.208
+Sam megmutatja a személyi igazolványát a kamerának, és készít egy szelfit, csak egyszer.
+
+8
+00:00:33.696 --> 00:00:39.062
+Harmadik lépés: Sam megadja a saját tárcacímét a BEP-20 hálózaton.
+
+9
+00:00:39.062 --> 00:00:41.475
+A Delta One csak erre a címre küld érmét.
+
+10
+00:00:42.656 --> 00:00:48.916
+Aztán a kétlépcsős bejelentkezés. Sam bekapcsolja, és papírra írja a helyreállító kódokat.
+
+11
+00:00:48.916 --> 00:00:51.068
+A papír távol marad a telefontól.
+
+12
+00:00:52.704 --> 00:00:59.409
+Negyedik lépés: a saját doboza. A Fujihoz ezer érme kell. A Kilimanjaróhoz kétezer-ötszáz.
+
+13
+00:00:59.409 --> 00:01:02.934
+A Matterhornhoz hatezer. A Denalihoz tizenkétezer.
+
+14
+00:01:05.216 --> 00:01:09.977
+Sam csak annyit vesz, amennyit el bír veszíteni. Az ár soha nem jön vissza.
+
+15
+00:01:09.977 --> 00:01:11.664
+Az első dobozt választja.
+
+16
+00:01:12.160 --> 00:01:16.795
+A Kitartó-kérdés: a kapcsoló a doboz egész életére be állásban lezárva?
+
+17
+00:01:16.795 --> 00:01:22.797
+Kétszázhúsz kétszáz helyett. Később nem lehet megváltoztatni. Nem vagy biztos benne?
+
+18
+00:01:22.797 --> 00:01:23.995
+Válaszd a normált.
+
+19
+00:01:24.288 --> 00:01:28.386
+Sam a pontos összeget küldi el a BNB Smart Chain hálózaton.
+
+20
+00:01:28.386 --> 00:01:30.823
+Megvárja a megerősítő képernyőt.
+
+21
+00:01:30.823 --> 00:01:35.608
+A doboza az adott nap utáni első déli, UTC szerinti elszámoláskor indul.
+
+22
+00:01:36.608 --> 00:01:42.620
+Ötödik lépés: Sam elolvassa a Fontos tényeket, egy oldalt. Aztán a termékútmutatót.
+
+23
+00:01:42.620 --> 00:01:47.563
+Aztán egyszer hangosan felolvassa a tájékoztató oldalt. Maya hallgatja.
+
+24
+00:01:51.744 --> 00:01:57.542
+Az első tíz nap: minden eredmény magától nyit egy pici dobozt. Sam semmit nem csinál.
+
+25
+00:01:57.542 --> 00:01:59.274
+Csak nézi, ahogy megjelennek.
+
+26
+00:02:01.728 --> 00:02:05.156
+Tizenegyedik nap: az első eredmény, amit Sam kivehet.
+
+27
+00:02:05.156 --> 00:02:09.265
+Egyetlen kis kivételt csinál, öt érmét, a saját tárcájába.
+
+28
+00:02:09.265 --> 00:02:11.808
+Most már tudja, hogy az egész út működik.
+
+29
+00:02:12.736 --> 00:02:18.744
+A tizenegyedik naptól Sam beállítja a kapcsolóját. Be állás: minden eredmény újravétel.
+
+30
+00:02:18.744 --> 00:02:23.724
+Ki állás: minden eredmény az app-tárcába megy. Bármelyik nap átállíthatja.
+
+31
+00:02:24.832 --> 00:02:27.022
+Hatodik lépés: az eszközök.
+
+32
+00:02:27.022 --> 00:02:34.350
+A prezentáció, a Fontos tények, az Egyszerű szavak, a termékútmutató, a puska, a Nyelvi kártya és ez a lista.
+
+33
+00:02:35.808 --> 00:02:41.785
+Sam mindhárom filmet megnézi egyszer. A prezentációt, a Momentum tervet és a Magfarmot.
+
+34
+00:02:41.785 --> 00:02:46.064
+Aztán megnyitja a tervezőt, és kinyomtatja a kilencvennapos lapját.
+
+35
+00:02:46.784 --> 00:02:53.004
+Sam megírja az ötven nevet tartalmazó listáját. Ítélkezés nélkül. Csak nevek.
+
+36
+00:02:53.004 --> 00:02:58.331
+Erre a hétre tíz beszélgetést szervez, és mindenkinek először a Fontos tényeket küldi el.
+
+37
+00:02:59.360 --> 00:03:03.415
+Mielőtt bárkivel beszél, Sam kétszer elolvassa a Nyelvi kártyát.
+
+38
+00:03:03.415 --> 00:03:06.915
+Hangosan mondja az öt mondatot, amíg a sajátjai nem lesznek.
+
+39
+00:03:08.586 --> 00:03:14.265
+A tájékoztatót mindig magánál tartja. A legtöbb tag egyetlen plusz érmét sem keres.
+
+40
+00:03:14.265 --> 00:03:16.169
+Sam ezt minden alkalommal elmondja.
+
+41
+00:03:17.056 --> 00:03:21.633
+A hat szabály, fejből. Keresetből fizet, soha nem vásárlásból.
+
+42
+00:03:21.633 --> 00:03:26.990
+Nincs nyereség, nincs kifizetés. Egyensúlyozd az ágaidat. Maradj elöl.
+
+43
+00:03:26.990 --> 00:03:31.376
+A dobozok kétszeresnél véget érnek. Fizetés naponta, érmében.
+
+44
+00:03:32.960 --> 00:03:35.895
+Maya nem csak elküldte Samnek ezt a listát.
+
+45
+00:03:35.895 --> 00:03:40.153
+Leült mellé, és végigcsinálta vele, képernyőről képernyőre.
+
+46
+00:03:40.153 --> 00:03:42.314
+Ez a szponzor dolga az első napon.
+
+47
+00:03:42.720 --> 00:03:48.814
+Mondjuk el együtt. Fiók, azonosítás, tárca, doboz, tizenegy nap, eszközök, szavak.
+
+48
+00:03:48.814 --> 00:03:49.803
+Egy délután.
+
+49
+00:03:52.384 --> 00:03:57.590
+Már ismered az első napodat. Legközelebb: mondd ki helyesen. Viszlát, barátom!
+

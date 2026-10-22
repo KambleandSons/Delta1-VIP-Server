@@ -1,0 +1,138 @@
+WEBVTT
+
+1
+00:00:02.620 --> 00:00:06.744
+Olá, amigo. Hoje, uma pequena história sobre cem maçãs.
+
+2
+00:00:06.744 --> 00:00:09.717
+Ela explica de onde vem cada moeda na Delta One.
+
+3
+00:00:11.936 --> 00:00:18.431
+Bolt negocia todo dia. Num dia bom, ele traz maçãs para casa. Cada maçã é uma moeda.
+
+4
+00:00:18.431 --> 00:00:19.921
+Digamos, cem maçãs.
+
+5
+00:00:21.700 --> 00:00:26.547
+As cem maçãs são divididas em três partes. Sempre do mesmo jeito.
+
+6
+00:00:26.547 --> 00:00:29.118
+Cinquenta, vinte e cinco, vinte e cinco.
+
+7
+00:00:31.460 --> 00:00:36.299
+Cinquenta maçãs vão para os membros. Maya, Sam, todos que têm uma caixa.
+
+8
+00:00:36.299 --> 00:00:39.041
+Cada caixa recebe a sua parte das cinquenta.
+
+9
+00:00:40.484 --> 00:00:43.345
+Vinte e cinco maçãs vão para o plano dos ajudantes.
+
+10
+00:00:43.345 --> 00:00:46.736
+Ajudantes são membros que contaram aos amigos sobre a Delta One.
+
+11
+00:00:46.736 --> 00:00:49.439
+As recompensas deles vêm daqui. Só daqui.
+
+12
+00:00:49.732 --> 00:00:54.457
+Vinte e cinco maçãs vão para o celeiro. O celeiro é a Tesouraria DAO.
+
+13
+00:00:54.457 --> 00:00:57.166
+Ele mantém a Delta One funcionando e crescendo.
+
+14
+00:00:58.116 --> 00:01:00.334
+Agora a regra mais importante.
+
+15
+00:01:00.334 --> 00:01:05.810
+As maçãs de um ajudante nunca vêm das moedas de um membro novo. Nunca de uma compra.
+
+16
+00:01:05.810 --> 00:01:07.403
+Só das maçãs de Bolt.
+
+17
+00:01:08.068 --> 00:01:13.541
+Num dia de chuva, Bolt não traz maçãs. Zero. Então ninguém come.
+
+18
+00:01:13.541 --> 00:01:18.394
+Nem os membros, nem os ajudantes, nem o celeiro. Sem maçãs, ninguém come.
+
+19
+00:01:21.093 --> 00:01:25.517
+Alguns dias Bolt traz muitas maçãs. Outros dias, poucas.
+
+20
+00:01:25.517 --> 00:01:30.112
+Junte todos os dias, e uma caixa de mil moedas recebe umas cinco moedas por dia.
+
+21
+00:01:30.500 --> 00:01:36.397
+Essa é a média. Meio por cento por dia. Não é uma promessa. Pode mudar.
+
+22
+00:01:38.408 --> 00:01:42.591
+Por que cinquenta para os membros? Porque as caixas são deles.
+
+23
+00:01:42.591 --> 00:01:45.203
+Por que vinte e cinco para os ajudantes?
+
+24
+00:01:45.203 --> 00:01:50.867
+Porque eles ajudam as caixas do grupo deles, e o plano paga com o lucro das operações, nunca com uma compra.
+
+25
+00:01:51.176 --> 00:01:56.461
+Por que vinte e cinco para o celeiro? Porque o celeiro guarda tudo o que fica sem dono.
+
+26
+00:01:56.461 --> 00:02:00.559
+E quando uma caixa chega ao valor de duas caixas, o resto fica no celeiro.
+
+27
+00:02:03.660 --> 00:02:07.841
+Todo dia ao meio-dia UTC, as maçãs são contadas e divididas.
+
+28
+00:02:07.841 --> 00:02:09.780
+Cada membro vê isso no extrato.
+
+29
+00:02:11.180 --> 00:02:18.374
+Vamos dizer juntos. Cem maçãs. Cinquenta para os membros. Vinte e cinco para os ajudantes.
+
+30
+00:02:18.374 --> 00:02:20.067
+Vinte e cinco para o celeiro.
+
+31
+00:02:20.492 --> 00:02:25.951
+Sem maçãs, ninguém come. Os ajudantes nunca comem as moedas de um membro novo.
+
+32
+00:02:25.951 --> 00:02:29.104
+E a maioria dos ajudantes não ganha nenhuma maçã extra.
+
+33
+00:02:29.512 --> 00:02:32.451
+Agora você sabe de onde vem cada moeda.
+
+34
+00:02:32.451 --> 00:02:37.907
+Da próxima vez: moedas que entram, moedas que saem, e como ler o seu extrato. Até logo.
+

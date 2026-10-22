@@ -1,0 +1,90 @@
+WEBVTT
+
+1
+00:00:02.588 --> 00:00:08.731
+Hola, amigo. Hoy, la película más honesta del viaje. ¿Qué ganan de verdad los ayudantes?
+
+2
+00:00:08.731 --> 00:00:10.262
+Miremos a cuatro de ellos.
+
+3
+00:00:12.512 --> 00:00:17.815
+Primero, la verdad más grande. La mayoría de los ayudantes no gana ninguna moneda extra.
+
+4
+00:00:17.815 --> 00:00:22.491
+Muchos miembros solo tienen su caja. Está bien. La caja es el producto.
+
+5
+00:00:22.808 --> 00:00:26.953
+El ayudante A está en Fuji. Dos amigos, un equipo pequeño.
+
+6
+00:00:26.953 --> 00:00:30.513
+Al promedio, el ayudante A gana unas dieciocho monedas al mes.
+
+7
+00:00:32.856 --> 00:00:36.820
+El ayudante B está en Matterhorn con cuatro líneas equilibradas.
+
+8
+00:00:36.820 --> 00:00:40.105
+Al promedio, unas trescientas veinticuatro monedas al mes.
+
+9
+00:00:42.808 --> 00:00:47.921
+El ayudante C tiene un equipo del mismo tamaño que B, pero casi todo está en una sola línea.
+
+10
+00:00:47.921 --> 00:00:52.678
+La regla pone a C en Kilimanjaro. Unas doscientas cuarenta y tres al mes.
+
+11
+00:00:54.232 --> 00:00:57.698
+El ayudante D está en Denali con varias líneas fuertes.
+
+12
+00:00:57.698 --> 00:01:00.932
+Al promedio, unas novecientas noventa monedas al mes.
+
+13
+00:01:02.136 --> 00:01:08.818
+Dieciocho. Trescientas veinticuatro. Doscientas cuarenta y tres. Novecientas noventa.
+
+14
+00:01:08.818 --> 00:01:13.156
+Los cuatro son al promedio. En un día de lluvia, los cuatro ganan nada.
+
+15
+00:01:14.168 --> 00:01:18.126
+¿Y de dónde salen sus monedas? De las operaciones de Bolt.
+
+16
+00:01:18.126 --> 00:01:22.389
+Nunca de la compra de un miembro nuevo. Si no hay ganancia, no hay pago.
+
+17
+00:01:24.280 --> 00:01:30.385
+Nadie puede prometer estos números. El promedio puede cambiar. Un equipo puede encogerse.
+
+18
+00:01:30.385 --> 00:01:33.250
+Usa solo monedas que puedas permitirte perder.
+
+19
+00:01:34.208 --> 00:01:39.244
+Digámoslo juntos. La mayoría de los ayudantes no gana ninguna moneda extra.
+
+20
+00:01:39.244 --> 00:01:43.949
+El resto gana lo que hacen las cajas de su equipo, al promedio, solo en los días buenos.
+
+21
+00:01:46.272 --> 00:01:51.563
+Ahora conoces los números honestos. La próxima vez: tu primer día como ayudante.
+
+22
+00:01:51.563 --> 00:01:52.916
+Hasta pronto, amigo.
+

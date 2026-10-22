@@ -1,0 +1,166 @@
+WEBVTT
+
+1
+00:00:02.592 --> 00:00:04.746
+Helo, kawan. Hari ini, syiling.
+
+2
+00:00:04.746 --> 00:00:12.042
+Cara syiling masuk, cara syiling keluar, dan kesilapan yang buat syiling hilang. Perlahan-lahan, bersama.
+
+3
+00:00:12.896 --> 00:00:19.143
+Syiling Delta One ialah USDT. Dolar digital. Satu syiling dibuat supaya bernilai satu dolar.
+
+4
+00:00:19.143 --> 00:00:22.946
+Ia hidup di rantaian blok, buku catatan awam yang besar.
+
+5
+00:00:23.648 --> 00:00:30.237
+Dompet ialah aplikasi di telefon anda yang simpan syiling anda. Ia ada alamat, seperti nombor rumah.
+
+6
+00:00:30.237 --> 00:00:32.148
+Alamat itu boleh anda kongsi.
+
+7
+00:00:32.640 --> 00:00:39.290
+Dompet juga ada rahsia: dua belas perkataan. Sesiapa yang ada perkataan itu, memiliki syilingnya.
+
+8
+00:00:39.290 --> 00:00:43.540
+Tulis di atas kertas. Jangan taip di mana-mana. Jangan kongsi.
+
+9
+00:00:44.128 --> 00:00:48.836
+Dengan Delta One pun jangan. Delta One tidak akan minta dua belas perkataan anda.
+
+10
+00:00:48.836 --> 00:00:50.928
+Simpan kertas itu di tempat selamat.
+
+11
+00:00:51.456 --> 00:00:56.350
+Syiling bergerak di atas jalan. USDT ada beberapa jalan.
+
+12
+00:00:56.350 --> 00:01:02.206
+Delta One guna satu sahaja: BNB Smart Chain, juga dipanggil BEP-20.
+
+13
+00:01:02.688 --> 00:01:09.782
+Syiling yang dihantar di jalan salah akan hilang. Setiap kali anda hantar, skrin tanya jalan mana.
+
+14
+00:01:09.782 --> 00:01:12.388
+Jawapannya sentiasa BNB Smart Chain.
+
+15
+00:01:12.768 --> 00:01:18.239
+Dari mana syiling datang? Kebanyakan orang beli di bursa, kedai syiling.
+
+16
+00:01:18.239 --> 00:01:24.318
+Sahkan identiti, bayar melalui bank, lalu hantar syiling ke dompet anda sendiri.
+
+17
+00:01:24.768 --> 00:01:26.838
+BNB Smart Chain ialah jalannya.
+
+18
+00:01:26.838 --> 00:01:32.246
+Simpan sedikit syiling BNB dalam dompet juga: ia bayar yuran jalan, beberapa sen.
+
+19
+00:01:32.246 --> 00:01:35.184
+Dompet tanpa BNB tidak boleh hantar apa-apa.
+
+20
+00:01:35.584 --> 00:01:41.569
+Sekarang Maya beli kotaknya. Aplikasi tunjuk alamat bayaran. Maya salin.
+
+21
+00:01:41.569 --> 00:01:48.634
+Dia semak empat aksara pertama dan empat terakhir. Lalu dia hantar jumlah yang tepat.
+
+22
+00:01:49.088 --> 00:01:57.250
+Hantar ujian kecil dulu. Lalu jumlah sebenar. Dalam kira-kira seminit, syiling tiba.
+
+23
+00:01:57.250 --> 00:02:02.788
+Maya simpan kod resit yang panjang, iaitu hash transaksi.
+
+24
+00:02:03.232 --> 00:02:07.817
+Setiap hari pukul dua belas tengah hari UTC, penyata Maya tiba.
+
+25
+00:02:07.817 --> 00:02:15.532
+Ia tunjuk hasil Bolt hari itu, bahagian kotaknya, ke mana ia pergi, dan sejauh mana kotaknya sudah sampai.
+
+26
+00:02:16.096 --> 00:02:20.757
+Ke mana bahagian itu pergi? Hari satu hingga sepuluh: beli semula, kotak kecil.
+
+27
+00:02:20.757 --> 00:02:25.596
+Dari hari kesebelas, suis hidup: beli semula. Suis mati: dompetnya dalam aplikasi.
+
+28
+00:02:26.080 --> 00:02:32.793
+Keluarkan syiling itu mudah. Dari dompet aplikasi, bila-bila masa, lima syiling atau lebih.
+
+29
+00:02:32.793 --> 00:02:38.030
+Ia pergi ke alamat dompet dalam profil Maya. Hanya yuran jalan ditolak.
+
+30
+00:02:38.464 --> 00:02:44.416
+Buat pengeluaran pertama yang kecil, pada hari kesebelas. Maka anda tahu seluruh laluan berfungsi.
+
+31
+00:02:44.416 --> 00:02:47.514
+Selepas itu, keluarkan syiling bila-bila anda suka.
+
+32
+00:02:48.480 --> 00:02:56.077
+Kesilapan yang buat syiling hilang: jalan salah, alamat salah, tiada BNB untuk yuran, kongsi dua belas
+
+33
+00:02:56.077 --> 00:02:59.280
+perkataan, aplikasi palsu dan pautan palsu.
+
+34
+00:03:00.224 --> 00:03:03.598
+Delta One tidak pernah hantar pautan bayaran dalam sembang.
+
+35
+00:03:03.598 --> 00:03:06.686
+Tiada ejen sokongan perlukan dua belas perkataan anda.
+
+36
+00:03:06.686 --> 00:03:10.460
+Jika ada yang minta, itu tipu helah, umpan untuk memerangkap anda.
+
+37
+00:03:10.860 --> 00:03:16.252
+Dan satu lagi. Harga pembelian tidak pernah kembali. Hanya hasil boleh dikeluarkan.
+
+38
+00:03:16.252 --> 00:03:19.110
+Guna hanya syiling yang anda sanggup hilang.
+
+39
+00:03:19.948 --> 00:03:26.159
+Mari sebut bersama. BNB Smart Chain. Semak alamat. Simpan dua belas perkataan di atas kertas.
+
+40
+00:03:26.159 --> 00:03:29.498
+Keluarkan syiling bila-bila masa, lima atau lebih.
+
+41
+00:03:29.900 --> 00:03:37.450
+Kini anda tahu syiling masuk dan keluar. Lain kali: Pelan Momentum. Jumpa lagi, kawan.
+

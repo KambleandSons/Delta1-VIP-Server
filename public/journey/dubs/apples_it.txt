@@ -1,0 +1,138 @@
+WEBVTT
+
+1
+00:00:02.620 --> 00:00:06.693
+Ciao, amico. Oggi, una piccola storia di cento mele.
+
+2
+00:00:06.693 --> 00:00:09.405
+Spiega da dove viene ogni moneta di Delta One.
+
+3
+00:00:11.936 --> 00:00:17.235
+Bolt fa trading ogni giorno. In una buona giornata, porta a casa delle mele.
+
+4
+00:00:17.235 --> 00:00:20.778
+Ogni mela è una moneta. Diciamo cento mele.
+
+5
+00:00:21.700 --> 00:00:25.973
+Le cento mele si dividono in tre. Sempre allo stesso modo.
+
+6
+00:00:25.973 --> 00:00:28.420
+Cinquanta, venticinque, venticinque.
+
+7
+00:00:31.460 --> 00:00:36.520
+Cinquanta mele vanno ai membri. Maya, Sam, tutti quelli che hanno una scatola.
+
+8
+00:00:36.520 --> 00:00:39.472
+Ogni scatola riceve la sua parte delle cinquanta.
+
+9
+00:00:40.484 --> 00:00:43.157
+Venticinque mele vanno al piano degli aiutanti.
+
+10
+00:00:43.157 --> 00:00:46.513
+Gli aiutanti sono membri che hanno parlato di Delta One agli amici.
+
+11
+00:00:46.513 --> 00:00:49.436
+Le loro ricompense vengono da qui. Solo da qui.
+
+12
+00:00:49.732 --> 00:00:54.700
+Venticinque mele vanno al granaio. Il granaio è la Tesoreria DAO.
+
+13
+00:00:54.700 --> 00:00:57.006
+Fa funzionare e crescere Delta One.
+
+14
+00:00:58.116 --> 00:01:00.363
+Ora la regola più importante.
+
+15
+00:01:00.363 --> 00:01:04.518
+Le mele di un aiutante non vengono mai dalle monete di un nuovo membro.
+
+16
+00:01:04.518 --> 00:01:07.770
+Mai da un acquisto. Solo dalle mele di Bolt.
+
+17
+00:01:08.068 --> 00:01:13.932
+In un giorno di pioggia, Bolt non porta mele. Zero. Allora nessuno mangia.
+
+18
+00:01:13.932 --> 00:01:18.576
+Né i membri, né gli aiutanti, né il granaio. Niente mele, nessuno mangia.
+
+19
+00:01:21.093 --> 00:01:25.105
+Certi giorni Bolt porta tante mele. Altri giorni, poche.
+
+20
+00:01:25.105 --> 00:01:30.198
+Metti insieme tutti i giorni, e una scatola da mille monete riceve circa cinque monete al giorno.
+
+21
+00:01:30.500 --> 00:01:37.137
+Questa è la media. Mezzo per cento al giorno. Non è una promessa. Può cambiare.
+
+22
+00:01:38.408 --> 00:01:44.869
+Perché cinquanta ai membri? Perché le scatole sono loro. Perché venticinque agli aiutanti?
+
+23
+00:01:44.869 --> 00:01:50.871
+Perché aiutano le scatole della loro squadra, e il piano paga con il guadagno delle operazioni, mai con un acquisto.
+
+24
+00:01:51.176 --> 00:01:56.609
+Perché venticinque al granaio? Perché il granaio tiene tutto quello che nessuno prende.
+
+25
+00:01:56.609 --> 00:02:01.090
+E quando una scatola arriva al valore di due scatole, il resto resta nel granaio.
+
+26
+00:02:03.660 --> 00:02:08.014
+Ogni giorno a mezzogiorno UTC, le mele vengono contate e divise.
+
+27
+00:02:08.014 --> 00:02:10.626
+Ogni membro lo vede nel suo estratto conto.
+
+28
+00:02:11.180 --> 00:02:18.178
+Diciamolo insieme. Cento mele. Cinquanta ai membri. Venticinque agli aiutanti.
+
+29
+00:02:18.178 --> 00:02:19.813
+Venticinque al granaio.
+
+30
+00:02:20.492 --> 00:02:26.122
+Niente mele, nessuno mangia. Gli aiutanti non mangiano mai le monete dei nuovi membri.
+
+31
+00:02:26.122 --> 00:02:29.111
+E la maggior parte di loro non guadagna niente in più.
+
+32
+00:02:29.512 --> 00:02:31.916
+Ora sai da dove viene ogni moneta.
+
+33
+00:02:31.916 --> 00:02:37.396
+La prossima volta: monete che entrano, monete che escono, e come leggere il tuo estratto conto.
+
+34
+00:02:37.396 --> 00:02:38.337
+A presto.
+

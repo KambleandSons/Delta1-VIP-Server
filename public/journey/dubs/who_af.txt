@@ -1,0 +1,146 @@
+WEBVTT
+
+1
+00:00:02.588 --> 00:00:08.155
+Hallo, vriend. Vandag die laaste groot vraag. Wie is Delta One?
+
+2
+00:00:08.155 --> 00:00:13.988
+Wat dit is, wie dit bestuur, en hoe die munte beweeg. Kom ons kyk.
+
+3
+00:00:14.684 --> 00:00:19.971
+Delta One verkoop een ding: toegang tot sy AI-handelsenjin. Dit is Bolt.
+
+4
+00:00:19.971 --> 00:00:25.184
+Sagteware wat na die regte transaksies soek en al die handel self doen.
+
+5
+00:00:25.628 --> 00:00:33.704
+Lede koop die enjin in bokse, vanaf duisend munte, as sagteware as 'n diens. Niks om self te verhandel nie.
+
+6
+00:00:33.704 --> 00:00:37.478
+Niks om te bestuur nie. Die aankoop is die produk.
+
+7
+00:00:37.920 --> 00:00:38.871
+Wie bestuur dit?
+
+8
+00:00:38.871 --> 00:00:48.917
+'n Stigterspan, gelei deur James, die stigter, met veertig jaar se ervaring in die bou van maatskappye, en Ricky, die president, 'n swartgordel in Jiu-Jitsu en afrigter.
+
+9
+00:00:49.317 --> 00:00:51.818
+Hulle profiele is in die dokumentstel.
+
+10
+00:00:51.818 --> 00:00:57.017
+Die enjin self word deur sy argitek bestuur, onder die maatskappy se kontroles.
+
+11
+00:00:57.540 --> 00:01:06.262
+Hoe die munte beweeg. Stap een, aankoop. Jy betaal in USDT op BNB Smart Chain na die adres in die app.
+
+12
+00:01:06.262 --> 00:01:09.340
+Die munte gaan in bewaringsbeursies.
+
+13
+00:01:09.796 --> 00:01:16.121
+Geen enkele persoon kan daardie munte alleen skuif nie. Meer as een sleutelhouer moet teken.
+
+14
+00:01:16.121 --> 00:01:18.046
+Dit heet multi-handtekening.
+
+15
+00:01:18.788 --> 00:01:23.086
+Stap twee, handel. Goedgekeurde handelsrekeninge laat die enjin loop.
+
+16
+00:01:23.086 --> 00:01:29.688
+Elke dag se werklike wins word uit die beurs se state bevestig en saam met die handelsverslag gepubliseer.
+
+17
+00:01:30.212 --> 00:01:33.990
+Stap drie, afrekening, elke dag om twaalfuur middag UTC.
+
+18
+00:01:33.990 --> 00:01:41.343
+Die dag se wins word verdeel: vyftig vir lede, vyf-en-twintig vir die helpers se plan, vyf-en-twintig vir die
+
+19
+00:01:41.343 --> 00:01:42.962
+skuur, die DAO-tesourie.
+
+20
+00:01:43.396 --> 00:01:50.793
+Resultate, herkoop-boksies en kommissie word op daardie oomblik in die app-beursies geplaas. Elke dag.
+
+21
+00:01:50.793 --> 00:01:51.446
+In munte.
+
+22
+00:01:52.388 --> 00:01:59.753
+Stap vier, uithaal. Uit die app-beursie, enige tyd, vyf munte of meer, dadelik na jou eie beursie gestuur.
+
+23
+00:01:59.753 --> 00:02:01.838
+Net die padgeld word afgetrek.
+
+24
+00:02:02.501 --> 00:02:09.147
+Beheer. Uitbetalingsbondels word gemaak uit goedgekeurde resultate en deur meer as een sleutelhouer geteken.
+
+25
+00:02:09.147 --> 00:02:11.301
+Groot skuurbewegings is tydgesluit.
+
+26
+00:02:11.717 --> 00:02:18.417
+Die daaglikse siklus word teen die gepubliseerde reëls nagegaan. Elke dag dieselfde reëls, dieselfde rekenwerk.
+
+27
+00:02:19.268 --> 00:02:25.593
+Die dokumente wat dit bind. Die produkgids en die Kernfeite: wat jy koop en die risiko's.
+
+28
+00:02:25.593 --> 00:02:29.218
+Die plangids: elke reël, uitgewerk tot op die munt.
+
+29
+00:02:29.252 --> 00:02:33.021
+Die openbaarmaking: wat lede in die model regtig verdien.
+
+30
+00:02:33.021 --> 00:02:37.452
+Die wiskunde-oudit: die gepubliseerde syfers duisend keer nagegaan.
+
+31
+00:02:38.276 --> 00:02:45.170
+Delta One is nie 'n bank nie en nie 'n fonds nie. Dit belowe niks. Die enjin kan munte verloor.
+
+32
+00:02:45.170 --> 00:02:48.726
+USDT kan sy koppeling verloor. Netwerke kan faal.
+
+33
+00:02:49.248 --> 00:02:59.792
+Alles hier is 'n konsep vir regs- en nakomingshersiening.
+
+34
+00:03:00.192 --> 00:03:09.647
+Kom ons sê dit saam. Een produk: die enjin, in bokse. 'n Stigterspan. Meer as een sleutel.
+
+35
+00:03:09.647 --> 00:03:13.016
+Twaalfuur middag UTC. Die skuur.
+
+36
+00:03:13.416 --> 00:03:20.116
+Nou weet jy wie Delta One is. Volgende keer: die hele aanbieding, gebou uit blokke. Tot gou, vriend.
+

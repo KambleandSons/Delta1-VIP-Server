@@ -1,0 +1,174 @@
+WEBVTT
+
+1
+00:00:02.592 --> 00:00:05.496
+Ciao, amico. Oggi, monete.
+
+2
+00:00:05.496 --> 00:00:10.984
+Come entrano, come escono, e gli errori che fanno perdere monete. Piano piano, insieme.
+
+3
+00:00:12.896 --> 00:00:17.335
+Le monete di Delta One sono USDT. Un dollaro digitale.
+
+4
+00:00:17.335 --> 00:00:20.080
+Una moneta è fatta per valere un dollaro.
+
+5
+00:00:20.080 --> 00:00:23.141
+Vive su una blockchain, un grande quaderno pubblico.
+
+6
+00:00:23.648 --> 00:00:27.347
+Un portafoglio è un'app sul telefono che tiene le tue monete.
+
+7
+00:00:27.347 --> 00:00:32.047
+Ha un indirizzo, come il numero di una casa. L'indirizzo puoi condividerlo.
+
+8
+00:00:32.640 --> 00:00:38.028
+Il portafoglio ha anche un segreto: dodici parole. Chi ha le parole possiede le monete.
+
+9
+00:00:38.028 --> 00:00:43.836
+Scrivile su carta. Non digitarle mai da nessuna parte. Non condividerle mai.
+
+10
+00:00:44.128 --> 00:00:49.168
+Neanche con Delta One. Delta One non ti chiederà mai le tue dodici parole.
+
+11
+00:00:49.168 --> 00:00:51.160
+Tieni il foglio in un posto sicuro.
+
+12
+00:00:51.456 --> 00:00:55.806
+Le monete viaggiano su strade. USDT ha diverse strade.
+
+13
+00:00:55.806 --> 00:01:00.152
+Delta One ne usa solo una: BNB Smart Chain, chiamata anche B E P venti.
+
+14
+00:01:02.688 --> 00:01:06.173
+Le monete mandate sulla strada sbagliata sono perse.
+
+15
+00:01:06.173 --> 00:01:09.424
+Ogni volta che invii, lo schermo chiede quale strada.
+
+16
+00:01:09.424 --> 00:01:12.020
+La risposta è sempre BNB Smart Chain.
+
+17
+00:01:12.768 --> 00:01:18.525
+Da dove vengono le monete? Quasi tutti le comprano su un exchange, un negozio di monete.
+
+18
+00:01:18.525 --> 00:01:23.178
+Verifica la tua identità, paga con la tua banca, poi manda le monete al tuo portafoglio.
+
+19
+00:01:24.768 --> 00:01:26.978
+BNB Smart Chain è la strada.
+
+20
+00:01:26.978 --> 00:01:32.476
+Tieni anche un po' della moneta BNB nel portafoglio: paga il pedaggio della strada, pochi centesimi.
+
+21
+00:01:32.476 --> 00:01:35.287
+Un portafoglio senza BNB non può inviare niente.
+
+22
+00:01:35.584 --> 00:01:42.132
+Ora Maya compra la sua scatola. L'app mostra un indirizzo di pagamento. Maya lo copia.
+
+23
+00:01:42.132 --> 00:01:47.186
+Controlla i primi quattro e gli ultimi quattro segni. Poi invia la somma esatta.
+
+24
+00:01:49.088 --> 00:01:55.390
+Prima manda una piccola prova. Poi la somma vera. In circa un minuto arrivano le monete.
+
+25
+00:01:55.390 --> 00:01:59.441
+Maya tiene il lungo codice della ricevuta, l'hash della transazione.
+
+26
+00:02:03.232 --> 00:02:07.336
+Ogni giorno a mezzogiorno UTC arriva l'estratto conto di Maya.
+
+27
+00:02:07.336 --> 00:02:13.401
+Mostra il risultato di Bolt del giorno, la parte della sua scatola, dove è andata, e a che punto è la scatola.
+
+28
+00:02:16.096 --> 00:02:20.995
+Dov'è andata la parte? Giorni da uno a dieci: ricompra, una scatolina.
+
+29
+00:02:20.995 --> 00:02:25.774
+Dal giorno undici, acceso: ricompra. Spento: il suo portafoglio nell'app.
+
+30
+00:02:26.080 --> 00:02:31.722
+Prelevare monete è facile. Dal portafoglio dell'app, quando vuoi, cinque monete o più.
+
+31
+00:02:31.722 --> 00:02:36.857
+Vanno all'indirizzo del portafoglio nel profilo di Maya. Si paga solo il pedaggio.
+
+32
+00:02:38.464 --> 00:02:44.370
+Fai il primo prelievo piccolo, il giorno undici. Così sai che tutto il percorso funziona.
+
+33
+00:02:44.370 --> 00:02:46.164
+Dopo, preleva quando vuoi.
+
+34
+00:02:48.480 --> 00:02:57.792
+Errori che fanno perdere monete: la strada sbagliata, un indirizzo sbagliato, niente BNB per il pedaggio, condividere le dodici parole, app false e link falsi.
+
+35
+00:03:00.224 --> 00:03:03.354
+Delta One non manda mai link di pagamento in chat.
+
+36
+00:03:03.354 --> 00:03:07.279
+Nessun addetto all'assistenza ha mai bisogno delle tue dodici parole.
+
+37
+00:03:07.279 --> 00:03:10.561
+Se qualcuno te le chiede, è una truffa, un amo per prenderti.
+
+38
+00:03:10.860 --> 00:03:14.682
+E un'altra cosa. Il prezzo d'acquisto non torna mai indietro.
+
+39
+00:03:14.682 --> 00:03:19.647
+Si possono prelevare solo i risultati. Usa solo monete che puoi permetterti di perdere.
+
+40
+00:03:19.948 --> 00:03:25.243
+Diciamolo insieme. BNB Smart Chain. Controlla l'indirizzo.
+
+41
+00:03:25.243 --> 00:03:29.607
+Tieni le dodici parole su carta. Preleva quando vuoi, cinque o più.
+
+42
+00:03:29.900 --> 00:03:35.152
+Ora sai come entrano ed escono le monete. La prossima volta: il Piano Momentum.
+
+43
+00:03:35.152 --> 00:03:36.446
+A presto, amico.
+

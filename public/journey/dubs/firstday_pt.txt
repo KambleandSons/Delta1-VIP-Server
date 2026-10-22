@@ -1,0 +1,190 @@
+WEBVTT
+
+1
+00:00:02.592 --> 00:00:08.034
+Olá, amigo. Hoje Sam vira ajudante. O primeiro dia dele, passo a passo.
+
+2
+00:00:08.034 --> 00:00:11.498
+Maya senta ao lado dele. Você pode acompanhar.
+
+3
+00:00:12.224 --> 00:00:16.917
+Passo um: a conta. Sam abre o app da Delta One com o link que Maya mandou.
+
+4
+00:00:16.917 --> 00:00:21.725
+É Maya quem inscreve Sam. Confira o nome na tela; depois não dá para mudar.
+
+5
+00:00:24.704 --> 00:00:27.527
+Passo dois: a verificação de identidade.
+
+6
+00:00:27.527 --> 00:00:32.295
+Sam mostra o documento de identidade para a câmera e tira uma selfie, só uma vez.
+
+7
+00:00:33.696 --> 00:00:38.139
+Passo três: Sam adiciona o endereço da própria carteira na BEP-20.
+
+8
+00:00:38.139 --> 00:00:40.823
+A Delta One envia moedas só para esse endereço.
+
+9
+00:00:42.656 --> 00:00:48.553
+Depois, o login em duas etapas. Sam ativa e escreve os códigos de recuperação no papel.
+
+10
+00:00:48.553 --> 00:00:50.518
+O papel fica longe do celular.
+
+11
+00:00:52.704 --> 00:00:59.365
+Passo quatro: a própria caixa. Fuji pede mil moedas. Kilimanjaro, duas mil e quinhentas.
+
+12
+00:00:59.365 --> 00:01:02.274
+Matterhorn, seis mil. Denali, doze mil.
+
+13
+00:01:05.216 --> 00:01:10.861
+Sam compra só o que pode perder. O preço nunca volta. Ele escolhe a primeira caixa.
+
+14
+00:01:12.160 --> 00:01:16.474
+A pergunta do Fiel: botão travado no ligado durante toda a vida da caixa?
+
+15
+00:01:16.474 --> 00:01:22.314
+Duzentos e vinte em vez de duzentos. Depois não dá para mudar. Na dúvida?
+
+16
+00:01:22.314 --> 00:01:23.456
+Escolha o padrão.
+
+17
+00:01:24.288 --> 00:01:29.847
+Sam envia o valor exato pela BNB Smart Chain. Ele espera a tela de confirmação.
+
+18
+00:01:29.847 --> 00:01:34.742
+A caixa dele começa na primeira liquidação do meio-dia UTC depois desse dia.
+
+19
+00:01:36.608 --> 00:01:41.509
+Passo cinco: Sam lê os Pontos-Chave, uma página. Depois o guia do produto.
+
+20
+00:01:41.509 --> 00:01:46.014
+Depois lê em voz alta a declaração de ganhos, uma vez. Maya escuta.
+
+21
+00:01:51.744 --> 00:01:56.748
+Dias um a dez: cada resultado abre uma caixinha sozinho. Sam não faz nada.
+
+22
+00:01:56.748 --> 00:01:58.811
+Só olha as caixinhas aparecerem.
+
+23
+00:02:01.728 --> 00:02:05.110
+Dia onze: o primeiro resultado que Sam pode tirar.
+
+24
+00:02:05.110 --> 00:02:09.177
+Ele faz uma retirada pequena, cinco moedas, para a própria carteira.
+
+25
+00:02:09.177 --> 00:02:11.601
+Agora ele sabe que o caminho todo funciona.
+
+26
+00:02:12.736 --> 00:02:18.562
+Desde o dia onze, Sam escolhe a posição do botão. Ligado, cada resultado vira recompra.
+
+27
+00:02:18.562 --> 00:02:23.804
+Desligado, cada resultado vai para a carteira do app. Ele pode mudar em qualquer dia.
+
+28
+00:02:24.832 --> 00:02:26.917
+Passo seis: as ferramentas.
+
+29
+00:02:26.917 --> 00:02:33.964
+A apresentação, os Pontos-Chave, as Palavras Simples, o guia do produto, a folha de resumo, o Cartão de Linguagem, e esta lista.
+
+30
+00:02:35.808 --> 00:02:38.392
+Sam assiste aos três filmes uma vez cada.
+
+31
+00:02:38.392 --> 00:02:42.159
+A apresentação, o Plano Momentum, a Fazenda das Sementes.
+
+32
+00:02:42.159 --> 00:02:46.137
+Depois abre o planejador e imprime a sua página de noventa dias.
+
+33
+00:02:46.784 --> 00:02:51.897
+Sam escreve a sua lista de cinquenta nomes. Sem julgar. Só nomes.
+
+34
+00:02:51.897 --> 00:02:56.830
+Ele marca dez conversas para esta semana e primeiro envia os Pontos-Chave a cada pessoa.
+
+35
+00:02:59.360 --> 00:03:03.360
+Antes de falar com alguém, Sam lê o Cartão de Linguagem duas vezes.
+
+36
+00:03:03.360 --> 00:03:06.662
+Ele diz as cinco frases em voz alta até que sejam dele.
+
+37
+00:03:08.586 --> 00:03:11.247
+Ele leva a declaração de ganhos com ele.
+
+38
+00:03:11.247 --> 00:03:15.870
+A maioria dos membros não ganha nenhuma moeda extra. Sam diz isso, sempre.
+
+39
+00:03:17.056 --> 00:03:23.572
+As seis regras, de cor. Pago pelos ganhos, nunca pelas compras. Sem lucro, sem pagamento.
+
+40
+00:03:23.572 --> 00:03:28.753
+Equilibre as suas linhas. Fique à frente. Caixas acabam no dobro.
+
+41
+00:03:28.753 --> 00:03:30.635
+Pago todo dia, em moedas.
+
+42
+00:03:32.960 --> 00:03:38.271
+Maya não mandou esta lista para Sam. Ela sentou com ele e fez tudo, tela por tela.
+
+43
+00:03:38.271 --> 00:03:41.415
+Esse é o trabalho de um patrocinador no primeiro dia.
+
+44
+00:03:42.720 --> 00:03:49.087
+Vamos dizer juntos. Conta, identidade, carteira, caixa, onze dias, ferramentas, palavras.
+
+45
+00:03:49.087 --> 00:03:50.064
+Uma tarde.
+
+46
+00:03:52.384 --> 00:03:57.848
+Agora você conhece o seu primeiro dia. Da próxima vez: diga do jeito certo.
+
+47
+00:03:57.848 --> 00:03:59.169
+Até logo, amigo.
+

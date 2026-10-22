@@ -1,0 +1,170 @@
+WEBVTT
+
+1
+00:00:02.588 --> 00:00:09.346
+Halo, teman. Ini Maya. Hari ini Maya membeli kotak dari Delta One. Mari lihat apa itu kotak.
+
+2
+00:00:09.346 --> 00:00:10.888
+Pelan-pelan, bersama.
+
+3
+00:00:11.676 --> 00:00:19.305
+Kotak ini disebut modul. Ini sebuah perangkat lunak. Di dalamnya bekerja Bolt, si robot trading.
+
+4
+00:00:19.305 --> 00:00:20.576
+Sapa kami, Bolt.
+
+5
+00:00:21.116 --> 00:00:27.234
+Satu kotak harganya paling sedikit seribu koin. Koin itu USDT, dolar digital.
+
+6
+00:00:27.234 --> 00:00:31.366
+Maya boleh memilih kotak yang lebih besar kalau mau.
+
+7
+00:00:31.964 --> 00:00:38.003
+Maya membayar dengan koinnya. Koin itu pergi ke Delta One. Koin itu tidak kembali.
+
+8
+00:00:38.003 --> 00:00:41.464
+Sekarang kotak itu milik Maya. Itu aturan satu.
+
+9
+00:00:41.947 --> 00:00:47.321
+Setiap hari, Bolt mencari transaksi yang bagus. Transaksi bagus membawa pulang koin.
+
+10
+00:00:47.321 --> 00:00:50.647
+Bolt membaginya: separuh untuk anggota seperti Maya.
+
+11
+00:00:51.165 --> 00:00:54.855
+Besoknya, laporan Maya datang. Isinya bagian Maya.
+
+12
+00:00:54.855 --> 00:01:00.465
+Koin pertamanya datang pada pembagian pertama setelah kotaknya dikonfirmasi.
+
+13
+00:01:01.149 --> 00:01:04.906
+Pembagian terjadi setiap hari pukul dua belas siang UTC.
+
+14
+00:01:04.906 --> 00:01:09.199
+Saat itu Bolt menghitung koin dan memberi semua orang bagiannya.
+
+15
+00:01:10.204 --> 00:01:15.695
+Ada hari Bolt membawa sedikit koin. Ada hari banyak. Dan ada hari hujan.
+
+16
+00:01:15.695 --> 00:01:20.804
+Di hari hujan, Bolt tidak membawa apa-apa. Tak ada yang dapat koin.
+
+17
+00:01:21.276 --> 00:01:28.311
+Gabungkan semua hari. Hasilnya sekitar lima koin sehari untuk kotak seribu koin. Itulah rata-ratanya.
+
+18
+00:01:28.311 --> 00:01:29.426
+Setengah persen.
+
+19
+00:01:30.396 --> 00:01:39.496
+Rata-rata bukan janji. Bisa naik. Bisa turun. Tak ada yang bisa menjanjikan panen. Ingat itu.
+
+20
+00:01:40.284 --> 00:01:47.590
+Sekarang pertanyaan besar. Berapa lama kotak itu hidup? Kotak memberi paling banyak koin senilai dua kotak.
+
+21
+00:01:47.590 --> 00:01:50.184
+Dua ribu koin untuk kotak seribu koin.
+
+22
+00:01:50.685 --> 00:01:54.529
+Setelah sekitar dua ratus hari, seribu koin Maya kembali.
+
+23
+00:01:54.529 --> 00:01:59.385
+Setelah sekitar empat ratus hari, kotak sudah memberi dua ribu. Selesai.
+
+24
+00:01:59.872 --> 00:02:06.041
+Begitu mencapai senilai dua kotak, kotak selesai. Tak bisa dihentikan lebih awal. Tak bisa memberi lebih.
+
+25
+00:02:06.041 --> 00:02:06.922
+Itu aturan dua.
+
+26
+00:02:09.248 --> 00:02:16.096
+Koin dari Bolt pergi ke dua arah. Di sepuluh hari pertama, tiap koin membeli kotak mungil baru.
+
+27
+00:02:16.096 --> 00:02:20.998
+Setelah itu, Maya memilih dengan sakelar. Film lain menceritakannya.
+
+28
+00:02:20.657 --> 00:02:26.702
+Dari mana koin Bolt? Hanya dari transaksi. Tidak pernah dari kotak orang lain.
+
+29
+00:02:26.702 --> 00:02:29.957
+Kalau tidak ada untung, tidak ada bayaran.
+
+30
+00:02:30.609 --> 00:02:36.193
+Maya bisa membeli kotak lain kapan saja. Tiap kotak punya hidupnya sendiri.
+
+31
+00:02:36.193 --> 00:02:40.809
+Satu kotak, dua kotak, masing-masing sampai senilai dua kotak.
+
+32
+00:02:41.616 --> 00:02:51.597
+Apa yang bisa salah? Hujan bisa lama. Rata-rata bisa turun. Seribu koin Maya bisa hilang, semua atau sebagian.
+
+33
+00:02:51.597 --> 00:02:53.866
+Kotak ini bukan celengan.
+
+34
+00:02:54.304 --> 00:03:00.564
+Jadi Maya hanya memakai koin yang ia rela jika hilang. Itu aturan tiga.
+
+35
+00:03:00.564 --> 00:03:05.854
+Ucapkan bersama saya: hanya koin yang saya rela jika hilang.
+
+36
+00:03:05.256 --> 00:03:14.556
+Kotak ini celengan? Bukan. Pinjaman? Bukan. Ini pembelian perangkat lunak berisi robot. Ucapkan: pembelian.
+
+37
+00:03:15.272 --> 00:03:20.634
+Mari ucapkan aturannya bersama. Satu: harganya tidak kembali.
+
+38
+00:03:20.634 --> 00:03:29.072
+Dua: paling banyak senilai dua kotak, lalu selesai. Tiga: hanya koin yang Anda rela jika hilang.
+
+39
+00:03:29.544 --> 00:03:32.522
+Dan rata-rata bukan janji. Ada hari hujan.
+
+40
+00:03:32.522 --> 00:03:40.394
+Kebanyakan penolong yang memberi tahu teman tidak mendapat koin tambahan sama sekali. Itulah bagian yang jujur.
+
+41
+00:03:40.935 --> 00:03:47.738
+Sekarang Anda tahu apa itu kotak. Berikutnya: sepuluh hari pertama, kotak mungil, dan sakelar.
+
+42
+00:03:47.738 --> 00:03:49.185
+Sampai jumpa, teman.
+

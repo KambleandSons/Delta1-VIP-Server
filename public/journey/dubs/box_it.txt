@@ -1,0 +1,202 @@
+WEBVTT
+
+1
+00:00:02.588 --> 00:00:07.960
+Ciao, amico. Questa è Maya. Oggi Maya compra una scatola da Delta One.
+
+2
+00:00:07.960 --> 00:00:11.377
+Vediamo cos'è una scatola. Piano piano, insieme.
+
+3
+00:00:11.676 --> 00:00:15.701
+La scatola si chiama modulo. È un pezzo di software.
+
+4
+00:00:15.701 --> 00:00:19.729
+Dentro lavora Bolt, il robot del trading. Saluta, Bolt.
+
+5
+00:00:21.116 --> 00:00:26.634
+Una scatola costa almeno mille monete. Le monete sono USDT, un dollaro digitale.
+
+6
+00:00:26.634 --> 00:00:29.532
+Maya può scegliere una scatola più grande, se vuole.
+
+7
+00:00:31.964 --> 00:00:38.130
+Maya paga con le sue monete. Le monete vanno a Delta One. Non tornano indietro.
+
+8
+00:00:38.130 --> 00:00:41.633
+Ora la scatola è di Maya. Questa è la regola uno.
+
+9
+00:00:41.947 --> 00:00:47.762
+Ogni giorno, Bolt cerca buone operazioni. Una buona operazione porta a casa monete.
+
+10
+00:00:47.762 --> 00:00:50.329
+Bolt le divide: metà va ai membri come Maya.
+
+11
+00:00:51.165 --> 00:00:56.053
+Il giorno dopo arriva l'estratto conto di Maya. Mostra la sua parte.
+
+12
+00:00:56.053 --> 00:01:00.720
+Le prime monete arrivano alla prima liquidazione dopo che la scatola è confermata.
+
+13
+00:01:01.149 --> 00:01:04.638
+La liquidazione è ogni giorno a mezzogiorno UTC.
+
+14
+00:01:04.638 --> 00:01:07.897
+È quando Bolt conta le monete e dà a ognuno la sua parte.
+
+15
+00:01:10.204 --> 00:01:16.440
+Certi giorni Bolt porta poche monete. Altri giorni, tante. E certi giorni piove.
+
+16
+00:01:16.440 --> 00:01:20.978
+In un giorno di pioggia, Bolt non porta niente. Nessuno riceve monete.
+
+17
+00:01:21.276 --> 00:01:23.354
+Metti insieme tutti i giorni.
+
+18
+00:01:23.354 --> 00:01:27.403
+Allora sono circa cinque monete al giorno per una scatola da mille monete.
+
+19
+00:01:27.403 --> 00:01:30.104
+Questa è la media. Mezzo per cento.
+
+20
+00:01:30.396 --> 00:01:37.731
+La media non è una promessa. Può salire. Può scendere. Nessuno può promettere un raccolto.
+
+21
+00:01:37.731 --> 00:01:38.773
+Ricordalo.
+
+22
+00:01:40.284 --> 00:01:44.028
+Ora la grande domanda. Quanto vive la scatola?
+
+23
+00:01:44.028 --> 00:01:47.477
+La scatola dà al massimo il valore di due scatole in monete.
+
+24
+00:01:47.477 --> 00:01:49.891
+Duemila monete per una scatola da mille.
+
+25
+00:01:50.685 --> 00:01:54.424
+Verso il giorno duecento, Maya ha riavuto le sue mille monete.
+
+26
+00:01:54.424 --> 00:01:59.181
+Verso il giorno quattrocento, la scatola ha dato duemila. Poi è finita.
+
+27
+00:01:59.872 --> 00:02:05.377
+Quando la scatola arriva al valore di due scatole, finisce. Non si può fermare prima.
+
+28
+00:02:05.377 --> 00:02:08.726
+E non può dare di più. Questa è la regola due.
+
+29
+00:02:09.248 --> 00:02:12.041
+Le monete che porta Bolt vanno per due strade.
+
+30
+00:02:12.041 --> 00:02:15.803
+Nei primi dieci giorni, ogni moneta compra una scatolina nuova.
+
+31
+00:02:15.803 --> 00:02:20.359
+Dopo, Maya sceglie con un interruttore. Un altro film racconta questa storia.
+
+32
+00:02:20.657 --> 00:02:24.876
+Da dove vengono le monete di Bolt? Solo dalle operazioni.
+
+33
+00:02:24.876 --> 00:02:29.664
+Mai dalla scatola di qualcun altro. Se non c'è guadagno, non c'è pagamento.
+
+34
+00:02:30.609 --> 00:02:35.860
+Maya può comprare un'altra scatola quando vuole. Ogni scatola vive la sua vita.
+
+35
+00:02:35.860 --> 00:02:39.354
+Una scatola, due scatole, ognuna fino al valore di due scatole.
+
+36
+00:02:41.616 --> 00:02:47.453
+Cosa può andare storto? La pioggia può durare. La media può scendere.
+
+37
+00:02:47.453 --> 00:02:51.263
+Le mille monete di Maya si possono perdere, tutte o in parte.
+
+38
+00:02:51.263 --> 00:02:53.342
+La scatola non è un salvadanaio.
+
+39
+00:02:54.304 --> 00:02:59.887
+Per questo Maya usa solo monete che può permettersi di perdere. Questa è la regola tre.
+
+40
+00:02:59.887 --> 00:03:03.227
+Dillo con me: solo monete che posso permettermi di perdere.
+
+41
+00:03:05.256 --> 00:03:10.883
+La scatola è un salvadanaio? No. È un prestito? No.
+
+42
+00:03:10.883 --> 00:03:14.974
+È un acquisto di software con dentro un robot. Di': acquisto.
+
+43
+00:03:15.272 --> 00:03:19.777
+Diciamo le regole insieme. Uno: il prezzo non torna indietro.
+
+44
+00:03:19.777 --> 00:03:23.022
+Due: al massimo il valore di due scatole, poi la fine.
+
+45
+00:03:23.022 --> 00:03:25.894
+Tre: solo monete che puoi permetterti di perdere.
+
+46
+00:03:29.544 --> 00:03:33.575
+E la media non è una promessa. Certi giorni piove.
+
+47
+00:03:33.575 --> 00:03:38.445
+La maggior parte degli aiutanti che ne parlano agli amici non guadagna niente in più.
+
+48
+00:03:38.445 --> 00:03:40.122
+Questa è la parte onesta.
+
+49
+00:03:40.935 --> 00:03:42.981
+Ora sai cos'è una scatola.
+
+50
+00:03:42.981 --> 00:03:48.714
+La prossima volta: i primi dieci giorni, le scatoline e l'interruttore. A presto, amico.
+

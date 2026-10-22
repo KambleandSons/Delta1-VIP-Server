@@ -1,0 +1,198 @@
+WEBVTT
+
+1
+00:00:02.592 --> 00:00:07.809
+Hola, amigo. Hoy Sam se hace ayudante. Su primer día, paso a paso.
+
+2
+00:00:07.809 --> 00:00:11.300
+Maya se sienta a su lado. Tú también puedes seguirlo.
+
+3
+00:00:12.224 --> 00:00:17.833
+Paso uno: la cuenta. Sam abre la aplicación de Delta One con el enlace que Maya le envió.
+
+4
+00:00:17.833 --> 00:00:22.794
+Maya es su inscriptora. Revisa el nombre en la pantalla; después no se puede cambiar.
+
+5
+00:00:24.704 --> 00:00:27.364
+Paso dos: la verificación de identidad.
+
+6
+00:00:27.364 --> 00:00:31.655
+Sam muestra su documento de identidad a la cámara y se hace un selfi, solo una vez.
+
+7
+00:00:33.696 --> 00:00:38.231
+Paso tres: Sam añade la dirección de su propia billetera en BEP-20.
+
+8
+00:00:38.231 --> 00:00:40.942
+Delta One envía monedas solo a esa dirección.
+
+9
+00:00:42.656 --> 00:00:45.372
+Luego, el inicio de sesión en dos pasos.
+
+10
+00:00:45.372 --> 00:00:49.040
+Sam lo activa y escribe los códigos de recuperación en papel.
+
+11
+00:00:49.040 --> 00:00:51.404
+El papel se guarda lejos del teléfono.
+
+12
+00:00:52.704 --> 00:00:58.808
+Paso cuatro: su propia caja. Fuji pide mil monedas. Kilimanjaro, dos mil quinientas.
+
+13
+00:00:58.808 --> 00:01:01.849
+Matterhorn, seis mil. Denali, doce mil.
+
+14
+00:01:05.216 --> 00:01:10.165
+Sam compra solo lo que puede permitirse perder. El precio nunca vuelve.
+
+15
+00:01:10.165 --> 00:01:11.709
+Elige la primera caja.
+
+16
+00:01:12.160 --> 00:01:17.188
+La pregunta del Creyente: ¿interruptor bloqueado en encendido durante toda la vida de la caja?
+
+17
+00:01:17.188 --> 00:01:22.945
+Doscientos veinte en lugar de doscientos. Después no se puede cambiar. ¿No estás seguro?
+
+18
+00:01:22.945 --> 00:01:23.979
+Elige estándar.
+
+19
+00:01:24.288 --> 00:01:29.977
+Sam envía la cantidad exacta por BNB Smart Chain. Espera la pantalla de confirmación.
+
+20
+00:01:29.977 --> 00:01:35.316
+Su caja empieza en la primera liquidación de las doce del mediodía UTC después de ese día.
+
+21
+00:01:36.608 --> 00:01:41.672
+Paso cinco: Sam lee los Datos clave, una página. Luego la guía del producto.
+
+22
+00:01:41.672 --> 00:01:46.311
+Luego lee la página de divulgación en voz alta, una vez. Maya escucha.
+
+23
+00:01:51.744 --> 00:01:56.825
+Días uno a diez: cada resultado abre una cajita él solo. Sam no hace nada.
+
+24
+00:01:56.825 --> 00:01:58.402
+Solo mira cómo aparecen.
+
+25
+00:02:01.728 --> 00:02:05.044
+Día once: el primer resultado que Sam puede sacar.
+
+26
+00:02:05.044 --> 00:02:08.884
+Hace un retiro pequeño, cinco monedas, a su propia billetera.
+
+27
+00:02:08.884 --> 00:02:11.122
+Ahora sabe que todo el camino funciona.
+
+28
+00:02:12.736 --> 00:02:16.198
+Desde el día once, Sam elige la posición de su interruptor.
+
+29
+00:02:16.198 --> 00:02:19.166
+Encendido, cada resultado hace una recompra.
+
+30
+00:02:19.166 --> 00:02:24.511
+Apagado, cada resultado va a la billetera de la aplicación. Puede cambiarlo cualquier día.
+
+31
+00:02:24.832 --> 00:02:26.796
+Paso seis: las herramientas.
+
+32
+00:02:26.796 --> 00:02:34.316
+La presentación, los Datos clave, las Palabras sencillas, la guía del producto, la hoja resumen, la Tarjeta de lenguaje, y esta lista.
+
+33
+00:02:35.808 --> 00:02:38.550
+Sam ve las tres películas una vez cada una.
+
+34
+00:02:38.550 --> 00:02:42.213
+La presentación, el Plan Momentum, la Granja de Semillas.
+
+35
+00:02:42.213 --> 00:02:45.828
+Luego abre el planificador e imprime su página de noventa días.
+
+36
+00:02:46.784 --> 00:02:51.672
+Sam escribe su lista de cincuenta nombres. Sin juzgar. Solo nombres.
+
+37
+00:02:51.672 --> 00:02:56.964
+Agenda diez conversaciones para esta semana y primero envía a cada persona los Datos clave.
+
+38
+00:02:59.360 --> 00:03:03.179
+Antes de hablar con nadie, Sam lee la Tarjeta de lenguaje dos veces.
+
+39
+00:03:03.179 --> 00:03:06.283
+Dice las cinco frases en voz alta hasta que son suyas.
+
+40
+00:03:08.586 --> 00:03:14.122
+Lleva la divulgación consigo. La mayoría de los miembros no gana ninguna moneda extra.
+
+41
+00:03:14.122 --> 00:03:15.698
+Sam lo dice, cada vez.
+
+42
+00:03:17.056 --> 00:03:22.014
+Las seis reglas, de memoria. Se paga sobre ganancias, nunca sobre compras.
+
+43
+00:03:22.014 --> 00:03:27.247
+Sin ganancia, no hay pago. Equilibra tus líneas. Mantente por delante.
+
+44
+00:03:27.247 --> 00:03:31.118
+Las cajas terminan al doble. Se paga a diario, en monedas.
+
+45
+00:03:32.960 --> 00:03:38.349
+Maya no le envió esta lista a Sam. Se sentó con él y la hizo, pantalla por pantalla.
+
+46
+00:03:38.349 --> 00:03:41.433
+Ese es el trabajo de un patrocinador el primer día.
+
+47
+00:03:42.720 --> 00:03:48.677
+Digámoslo juntos. Cuenta, identidad, billetera, caja, once días, herramientas, palabras.
+
+48
+00:03:48.677 --> 00:03:49.544
+Una tarde.
+
+49
+00:03:52.384 --> 00:03:57.854
+Ahora conoces tu primer día. La próxima vez: dilo bien. Hasta pronto, amigo.
+

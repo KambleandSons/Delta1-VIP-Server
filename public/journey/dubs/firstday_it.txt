@@ -1,0 +1,198 @@
+WEBVTT
+
+1
+00:00:02.592 --> 00:00:08.478
+Ciao, amico. Oggi Sam diventa aiutante. Il suo primo giorno, passo dopo passo.
+
+2
+00:00:08.478 --> 00:00:11.927
+Maya si siede accanto a lui. Puoi seguire anche tu.
+
+3
+00:00:12.224 --> 00:00:17.573
+Primo passo: l'account. Sam apre l'app di Delta One con il link che Maya gli ha mandato.
+
+4
+00:00:17.573 --> 00:00:22.543
+È Maya che lo iscrive. Controlla il nome sullo schermo; dopo non si può cambiare.
+
+5
+00:00:24.704 --> 00:00:27.562
+Secondo passo: la verifica dell'identità.
+
+6
+00:00:27.562 --> 00:00:32.223
+Sam mostra la carta d'identità alla fotocamera e si fa un selfie, una volta sola.
+
+7
+00:00:33.696 --> 00:00:38.200
+Terzo passo: Sam aggiunge l'indirizzo del suo portafoglio su BEP-20.
+
+8
+00:00:38.200 --> 00:00:40.919
+Delta One manda monete solo a quell'indirizzo.
+
+9
+00:00:42.656 --> 00:00:48.395
+Poi l'accesso in due passaggi. Sam lo attiva e scrive i codici di recupero su carta.
+
+10
+00:00:48.395 --> 00:00:50.520
+Il foglio sta lontano dal telefono.
+
+11
+00:00:52.704 --> 00:00:59.577
+Quarto passo: la sua scatola. Fuji chiede mille monete. Kilimanjaro, duemilacinquecento.
+
+12
+00:00:59.577 --> 00:01:02.959
+Matterhorn, seimila. Denali, dodicimila.
+
+13
+00:01:05.216 --> 00:01:10.391
+Sam compra solo quello che può permettersi di perdere. Il prezzo non torna mai indietro.
+
+14
+00:01:10.391 --> 00:01:11.869
+Sceglie la prima scatola.
+
+15
+00:01:12.160 --> 00:01:16.902
+La domanda del Fedele: interruttore bloccato su acceso per tutta la vita della scatola?
+
+16
+00:01:16.902 --> 00:01:22.848
+Duecentoventi invece di duecento. Dopo non si può cambiare. Non sei sicuro?
+
+17
+00:01:22.848 --> 00:01:23.992
+Scegli standard.
+
+18
+00:01:24.288 --> 00:01:29.973
+Sam invia la somma esatta su BNB Smart Chain. Aspetta la schermata di conferma.
+
+19
+00:01:29.973 --> 00:01:35.004
+La sua scatola parte alla prima liquidazione di mezzogiorno UTC dopo quel giorno.
+
+20
+00:01:36.608 --> 00:01:41.856
+Quinto passo: Sam legge i Punti chiave, una pagina. Poi la guida al prodotto.
+
+21
+00:01:41.856 --> 00:01:47.173
+Poi legge ad alta voce l'informativa sui guadagni, una volta. Maya ascolta.
+
+22
+00:01:51.744 --> 00:01:57.541
+Giorni da uno a dieci: ogni risultato apre da solo una scatolina. Sam non fa niente.
+
+23
+00:01:57.541 --> 00:01:59.299
+Le guarda solo comparire.
+
+24
+00:02:01.728 --> 00:02:05.341
+Giorno undici: il primo risultato che Sam può prelevare.
+
+25
+00:02:05.341 --> 00:02:08.901
+Fa un piccolo prelievo, cinque monete, sul suo portafoglio.
+
+26
+00:02:08.901 --> 00:02:11.276
+Ora sa che tutto il percorso funziona.
+
+27
+00:02:12.736 --> 00:02:18.701
+Dal giorno undici, Sam imposta il suo interruttore. Acceso, ogni risultato va in ricompra.
+
+28
+00:02:18.701 --> 00:02:23.691
+Spento, ogni risultato va nel portafoglio dell'app. Può cambiarlo ogni giorno.
+
+29
+00:02:24.832 --> 00:02:27.041
+Sesto passo: gli strumenti.
+
+30
+00:02:27.041 --> 00:02:34.315
+La presentazione, i Punti chiave, le Parole semplici, la guida al prodotto, il promemoria, la Scheda del linguaggio, e questa lista.
+
+31
+00:02:35.808 --> 00:02:38.668
+Sam guarda i tre film una volta ciascuno.
+
+32
+00:02:38.668 --> 00:02:42.312
+La presentazione, il Piano Momentum, la Fattoria dei semi.
+
+33
+00:02:42.312 --> 00:02:46.215
+Poi apre il pianificatore e stampa la sua pagina dei novanta giorni.
+
+34
+00:02:46.784 --> 00:02:52.626
+Sam scrive la sua lista di cinquanta nomi. Senza giudicare. Solo nomi.
+
+35
+00:02:52.626 --> 00:02:57.652
+Fissa dieci conversazioni per questa settimana e prima manda a ognuno i Punti chiave.
+
+36
+00:02:59.360 --> 00:03:03.676
+Prima di parlare con chiunque, Sam legge due volte la Scheda del linguaggio.
+
+37
+00:03:03.676 --> 00:03:06.817
+Dice le cinque frasi ad alta voce finché sono sue.
+
+38
+00:03:08.586 --> 00:03:14.276
+Tiene l'informativa sempre con sé. La maggior parte dei membri non guadagna niente in più.
+
+39
+00:03:14.276 --> 00:03:16.008
+Sam lo dice, ogni volta.
+
+40
+00:03:17.056 --> 00:03:21.661
+Le sei regole, a memoria. Pagati sui guadagni, mai sugli acquisti.
+
+41
+00:03:21.661 --> 00:03:27.153
+Zero guadagno, zero soldi. Equilibra le tue linee. Resta avanti.
+
+42
+00:03:27.153 --> 00:03:31.419
+Le scatole finiscono al doppio. Pagati ogni giorno, in monete.
+
+43
+00:03:32.960 --> 00:03:35.592
+Maya non ha mandato questa lista a Sam.
+
+44
+00:03:35.592 --> 00:03:38.992
+Si è seduta con lui e l'ha fatta, schermata per schermata.
+
+45
+00:03:38.992 --> 00:03:41.542
+È il compito di uno sponsor il primo giorno.
+
+46
+00:03:42.720 --> 00:03:44.456
+Diciamolo insieme.
+
+47
+00:03:44.456 --> 00:03:50.214
+Account, identità, portafoglio, scatola, undici giorni, strumenti, parole. Un pomeriggio.
+
+48
+00:03:52.384 --> 00:03:57.517
+Ora conosci il tuo primo giorno. La prossima volta: dirlo nel modo giusto.
+
+49
+00:03:57.517 --> 00:03:58.814
+A presto, amico.
+

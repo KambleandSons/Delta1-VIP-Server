@@ -1,0 +1,170 @@
+WEBVTT
+
+1
+00:00:02.588 --> 00:00:07.807
+Ciao, amico. Oggi, l'ultima grande domanda. Chi è Delta One?
+
+2
+00:00:07.807 --> 00:00:11.817
+Cos'è, chi la guida, e come si muovono le monete. Guardiamo.
+
+3
+00:00:14.684 --> 00:00:19.882
+Delta One vende una cosa sola: l'accesso al suo motore di trading AI. È Bolt.
+
+4
+00:00:19.882 --> 00:00:23.971
+Un software che cerca le operazioni giuste e fa tutto il trading da solo.
+
+5
+00:00:25.628 --> 00:00:30.586
+I membri comprano il motore in scatole, da mille monete, come software come servizio.
+
+6
+00:00:30.586 --> 00:00:36.110
+Niente trading da fare da te. Niente da gestire. L'acquisto è il prodotto.
+
+7
+00:00:37.920 --> 00:00:39.255
+Chi la guida?
+
+8
+00:00:39.255 --> 00:00:48.235
+Un team fondatore: alla guida James, il fondatore, con quarant'anni passati a creare aziende, e Ricky, il presidente, cintura nera di Jiu-Jitsu e allenatore.
+
+9
+00:00:49.317 --> 00:00:52.504
+I loro profili sono nella raccolta dei documenti.
+
+10
+00:00:52.504 --> 00:00:56.489
+Il motore lo gestisce il suo architetto, sotto i controlli dell'azienda.
+
+11
+00:00:57.540 --> 00:01:01.525
+Come si muovono le monete. Primo passo, l'acquisto.
+
+12
+00:01:01.525 --> 00:01:05.102
+Paghi in USDT su BNB Smart Chain all'indirizzo nell'app.
+
+13
+00:01:05.102 --> 00:01:07.717
+Le monete vanno in portafogli di custodia.
+
+14
+00:01:09.796 --> 00:01:12.942
+Nessuna persona da sola può muovere quelle monete.
+
+15
+00:01:12.942 --> 00:01:17.321
+Deve firmare più di un custode delle chiavi. Si chiama multifirma.
+
+16
+00:01:18.788 --> 00:01:23.630
+Secondo passo, il trading. Conti di trading approvati fanno girare il motore.
+
+17
+00:01:23.630 --> 00:01:29.921
+Il guadagno vero di ogni giorno si conferma con gli estratti dell'exchange e si pubblica con il rapporto delle operazioni.
+
+18
+00:01:30.212 --> 00:01:34.266
+Terzo passo, la liquidazione, ogni giorno a mezzogiorno UTC.
+
+19
+00:01:34.266 --> 00:01:41.732
+Il guadagno del giorno si divide: cinquanta ai membri, venticinque al piano degli aiutanti, venticinque al granaio, la Tesoreria DAO.
+
+20
+00:01:43.396 --> 00:01:49.713
+Risultati, scatoline di ricompra e provvigioni vengono registrati nei portafogli dell'app in quel momento.
+
+21
+00:01:49.713 --> 00:01:52.085
+Ogni giorno. In monete.
+
+22
+00:01:52.388 --> 00:01:54.468
+Quarto passo, il prelievo.
+
+23
+00:01:54.468 --> 00:01:59.676
+Dal portafoglio dell'app, quando vuoi, cinque monete o più, inviate subito al tuo portafoglio.
+
+24
+00:01:59.676 --> 00:02:01.473
+Si paga solo il pedaggio.
+
+25
+00:02:02.501 --> 00:02:03.645
+Controllo.
+
+26
+00:02:03.645 --> 00:02:08.706
+I pagamenti si preparano a lotti da risultati approvati e li firma più di un custode delle chiavi.
+
+27
+00:02:08.706 --> 00:02:11.421
+I grandi movimenti del granaio hanno un blocco a tempo.
+
+28
+00:02:11.717 --> 00:02:15.599
+Il ciclo di ogni giorno si controlla con le regole pubblicate.
+
+29
+00:02:15.599 --> 00:02:18.512
+Ogni giorno, le stesse regole, gli stessi conti.
+
+30
+00:02:19.268 --> 00:02:21.411
+I documenti che la vincolano.
+
+31
+00:02:21.411 --> 00:02:25.103
+La guida al prodotto e i Punti chiave: cosa compri e i rischi.
+
+32
+00:02:25.103 --> 00:02:28.733
+La guida al piano: ogni regola, calcolata fino all'ultima moneta.
+
+33
+00:02:29.252 --> 00:02:33.669
+L'informativa sui guadagni: quanto guadagnano davvero i membri nel modello.
+
+34
+00:02:33.669 --> 00:02:37.820
+La verifica dei calcoli: le cifre pubblicate controllate mille volte.
+
+35
+00:02:38.276 --> 00:02:42.498
+Delta One non è una banca e non è un fondo. Non promette niente.
+
+36
+00:02:42.498 --> 00:02:47.064
+Il motore può perdere monete. USDT può perdere l'aggancio al dollaro.
+
+37
+00:02:47.064 --> 00:02:48.949
+Le reti possono guastarsi.
+
+38
+00:02:49.248 --> 00:02:52.678
+Tutto qui è una bozza per la revisione legale e di conformità.
+
+39
+00:03:00.192 --> 00:03:06.091
+Diciamolo insieme. Un prodotto: il motore, in scatole. Un team fondatore.
+
+40
+00:03:06.091 --> 00:03:10.579
+Più di una chiave. Mezzogiorno UTC. Il granaio.
+
+41
+00:03:13.416 --> 00:03:17.892
+Ora sai chi è Delta One. La prossima volta: la presentazione intera, costruita a blocchi.
+
+42
+00:03:17.892 --> 00:03:18.890
+A presto, amico.
+

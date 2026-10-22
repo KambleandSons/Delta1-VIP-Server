@@ -1,0 +1,146 @@
+WEBVTT
+
+1
+00:00:02.620 --> 00:00:06.732
+Bonjour, les amis. Aujourd'hui, une petite histoire de cent pommes.
+
+2
+00:00:06.732 --> 00:00:09.216
+Elle explique d'où vient chaque pièce chez Delta One.
+
+3
+00:00:11.936 --> 00:00:16.395
+Bolt fait du trading chaque jour. Un bon jour, il rapporte des pommes.
+
+4
+00:00:16.395 --> 00:00:19.278
+Chaque pomme est une pièce. Disons cent pommes.
+
+5
+00:00:21.700 --> 00:00:25.548
+Les cent pommes sont partagées en trois. Toujours de la même façon.
+
+6
+00:00:25.548 --> 00:00:27.408
+Cinquante, vingt-cinq, vingt-cinq.
+
+7
+00:00:31.460 --> 00:00:35.791
+Cinquante pommes vont aux membres. Maya, Sam, tous ceux qui ont une boîte.
+
+8
+00:00:35.791 --> 00:00:37.959
+Chaque boîte reçoit sa part des cinquante.
+
+9
+00:00:40.484 --> 00:00:42.891
+Vingt-cinq pommes vont au plan des assistants.
+
+10
+00:00:42.891 --> 00:00:46.658
+Les assistants sont des membres qui ont parlé de Delta One à des amis.
+
+11
+00:00:46.658 --> 00:00:49.432
+Leurs récompenses viennent d'ici. Seulement d'ici.
+
+12
+00:00:49.732 --> 00:00:54.150
+Vingt-cinq pommes vont à la grange. La grange, c'est la Trésorerie DAO.
+
+13
+00:00:54.150 --> 00:00:56.331
+Elle fait tourner et grandir Delta One.
+
+14
+00:00:58.116 --> 00:01:00.561
+Maintenant, la règle la plus importante.
+
+15
+00:01:00.561 --> 00:01:04.305
+Les pommes d'un assistant ne viennent jamais des pièces d'un nouveau membre.
+
+16
+00:01:04.305 --> 00:01:07.149
+Jamais d'un achat. Seulement des pommes de Bolt.
+
+17
+00:01:08.068 --> 00:01:13.687
+Un jour de pluie, Bolt ne rapporte pas de pommes. Zéro. Alors personne ne mange.
+
+18
+00:01:13.687 --> 00:01:18.317
+Ni les membres, ni les assistants, ni la grange. Pas de pommes, personne ne mange.
+
+19
+00:01:21.093 --> 00:01:25.310
+Certains jours, Bolt rapporte beaucoup de pommes. D'autres jours, peu.
+
+20
+00:01:25.310 --> 00:01:30.200
+Mettez tous les jours ensemble, et une boîte de mille pièces reçoit environ cinq pièces par jour.
+
+21
+00:01:30.500 --> 00:01:36.120
+C'est la moyenne. Un demi pour cent par jour. Pas une promesse. Ça peut changer.
+
+22
+00:01:38.408 --> 00:01:42.108
+Pourquoi cinquante pour les membres ? Parce que les boîtes sont à eux.
+
+23
+00:01:42.108 --> 00:01:44.309
+Pourquoi vingt-cinq pour les assistants ?
+
+24
+00:01:44.309 --> 00:01:49.790
+Parce qu'ils aident les boîtes de leur équipe, et le plan paie avec le profit du trading, jamais avec un achat.
+
+25
+00:01:51.176 --> 00:01:53.280
+Pourquoi vingt-cinq pour la grange ?
+
+26
+00:01:53.280 --> 00:01:56.441
+Parce que la grange garde tout ce que personne ne réclame.
+
+27
+00:01:56.441 --> 00:02:00.680
+Et quand une boîte atteint la valeur de deux boîtes, le surplus reste dans la grange.
+
+28
+00:02:03.660 --> 00:02:07.063
+Chaque jour à midi UTC, les pommes sont comptées et partagées.
+
+29
+00:02:07.063 --> 00:02:08.925
+Chaque membre le voit sur son relevé.
+
+30
+00:02:11.180 --> 00:02:17.136
+Disons-le ensemble. Cent pommes. Cinquante aux membres. Vingt-cinq aux assistants.
+
+31
+00:02:17.136 --> 00:02:18.599
+Vingt-cinq à la grange.
+
+32
+00:02:20.492 --> 00:02:22.561
+Pas de pommes, personne ne mange.
+
+33
+00:02:22.561 --> 00:02:26.159
+Les assistants ne mangent jamais les pièces d'un nouveau membre.
+
+34
+00:02:26.159 --> 00:02:28.430
+Et la plupart ne gagnent aucune pomme en plus.
+
+35
+00:02:29.512 --> 00:02:31.465
+Vous savez d'où vient chaque pièce.
+
+36
+00:02:31.465 --> 00:02:36.463
+La prochaine fois : les pièces qui entrent, qui sortent, et lire votre relevé. À bientôt.
+

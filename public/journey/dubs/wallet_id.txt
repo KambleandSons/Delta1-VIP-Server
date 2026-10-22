@@ -1,0 +1,166 @@
+WEBVTT
+
+1
+00:00:02.592 --> 00:00:10.442
+Halo, teman. Hari ini, koin. Cara koin masuk, cara koin keluar, dan kesalahan yang membuat koin hilang.
+
+2
+00:00:10.442 --> 00:00:12.042
+Pelan-pelan, bersama.
+
+3
+00:00:12.896 --> 00:00:18.680
+Koin Delta One adalah USDT. Dolar digital. Satu koin dibuat bernilai satu dolar.
+
+4
+00:00:18.680 --> 00:00:22.946
+Koin ini hidup di blockchain, buku catatan umum yang besar.
+
+5
+00:00:23.648 --> 00:00:30.186
+Dompet adalah aplikasi di ponsel yang menyimpan koin Anda. Dompet punya alamat, seperti nomor rumah.
+
+6
+00:00:30.186 --> 00:00:32.148
+Alamat itu boleh Anda bagikan.
+
+7
+00:00:32.640 --> 00:00:38.425
+Dompet juga punya rahasia: dua belas kata. Siapa pun yang punya kata-kata itu memiliki koinnya.
+
+8
+00:00:38.425 --> 00:00:43.540
+Tulis di kertas. Jangan pernah mengetiknya di mana pun. Jangan pernah membagikannya.
+
+9
+00:00:44.128 --> 00:00:49.002
+Bahkan kepada Delta One. Delta One tidak akan pernah meminta dua belas kata Anda.
+
+10
+00:00:49.002 --> 00:00:50.928
+Simpan kertasnya di tempat aman.
+
+11
+00:00:51.456 --> 00:00:56.050
+Koin berjalan di jalan. USDT punya beberapa jalan.
+
+12
+00:00:56.050 --> 00:01:02.206
+Delta One hanya memakai satu: BNB Smart Chain, juga disebut BEP-20.
+
+13
+00:01:02.688 --> 00:01:09.927
+Koin yang dikirim lewat jalan yang salah akan hilang. Tiap kali mengirim, layar bertanya jalan mana.
+
+14
+00:01:09.927 --> 00:01:12.388
+Jawabannya selalu BNB Smart Chain.
+
+15
+00:01:12.768 --> 00:01:18.275
+Dari mana koin berasal? Kebanyakan orang membelinya di bursa, toko koin.
+
+16
+00:01:18.275 --> 00:01:24.318
+Verifikasi identitas, bayar lewat bank, lalu kirim koin ke dompet Anda sendiri.
+
+17
+00:01:24.768 --> 00:01:26.825
+BNB Smart Chain adalah jalannya.
+
+18
+00:01:26.825 --> 00:01:32.291
+Simpan juga sedikit koin BNB di dompet: itu untuk membayar biaya jalan, beberapa sen.
+
+19
+00:01:32.291 --> 00:01:35.184
+Dompet tanpa BNB tidak bisa mengirim apa pun.
+
+20
+00:01:35.584 --> 00:01:41.931
+Sekarang Maya membeli kotaknya. Aplikasi menampilkan alamat pembayaran. Maya menyalinnya.
+
+21
+00:01:41.931 --> 00:01:48.634
+Ia memeriksa empat tanda pertama dan empat tanda terakhir. Lalu ia mengirim jumlah yang tepat.
+
+22
+00:01:49.088 --> 00:01:57.444
+Kirim uji coba kecil dulu. Lalu jumlah sebenarnya. Dalam sekitar satu menit koin tiba.
+
+23
+00:01:57.444 --> 00:02:02.788
+Maya menyimpan kode bukti yang panjang, hash transaksi.
+
+24
+00:02:03.232 --> 00:02:07.657
+Setiap hari pukul dua belas siang UTC, laporan Maya datang.
+
+25
+00:02:07.657 --> 00:02:15.532
+Isinya hasil Bolt hari itu, bagian kotaknya, ke mana bagian itu pergi, dan sejauh mana kotaknya berjalan.
+
+26
+00:02:16.096 --> 00:02:20.846
+Ke mana bagiannya pergi? Hari pertama sampai kesepuluh: beli lagi, kotak mungil.
+
+27
+00:02:20.846 --> 00:02:25.596
+Dari hari kesebelas, sakelar nyala: beli lagi. Sakelar mati: dompet di aplikasi.
+
+28
+00:02:26.080 --> 00:02:32.168
+Mengambil koin itu mudah. Dari dompet aplikasi, kapan saja, lima koin atau lebih.
+
+29
+00:02:32.168 --> 00:02:38.030
+Koin dikirim ke alamat dompet di profil Maya. Hanya biaya jalan yang dipotong.
+
+30
+00:02:38.464 --> 00:02:45.114
+Tarik sedikit dulu untuk pertama kali, di hari kesebelas. Maka Anda tahu seluruh jalannya lancar.
+
+31
+00:02:45.114 --> 00:02:47.514
+Setelah itu, ambil koin kapan saja.
+
+32
+00:02:48.480 --> 00:02:55.999
+Kesalahan yang membuat koin hilang: jalan yang salah, alamat yang salah, tidak ada BNB untuk biaya, membagikan
+
+33
+00:02:55.999 --> 00:02:59.280
+dua belas kata, aplikasi palsu dan tautan palsu.
+
+34
+00:03:00.224 --> 00:03:03.636
+Delta One tidak pernah mengirim tautan pembayaran lewat chat.
+
+35
+00:03:03.636 --> 00:03:06.824
+Tidak ada petugas bantuan yang butuh dua belas kata Anda.
+
+36
+00:03:06.824 --> 00:03:10.460
+Kalau ada yang memintanya, itu tipuan, umpan untuk menjerat Anda.
+
+37
+00:03:10.860 --> 00:03:16.252
+Dan satu lagi. Harga pembelian tidak pernah kembali. Hanya hasil yang bisa diambil.
+
+38
+00:03:16.252 --> 00:03:19.110
+Pakai hanya koin yang Anda rela jika hilang.
+
+39
+00:03:19.948 --> 00:03:26.611
+Mari ucapkan bersama. BNB Smart Chain. Periksa alamatnya. Simpan dua belas kata di kertas.
+
+40
+00:03:26.611 --> 00:03:29.498
+Ambil koin kapan saja, lima atau lebih.
+
+41
+00:03:29.900 --> 00:03:37.450
+Sekarang Anda tahu koin masuk dan koin keluar. Berikutnya: Rencana Momentum. Sampai jumpa, teman.
+

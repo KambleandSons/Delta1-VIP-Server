@@ -1,0 +1,2142 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><style>*,*::before,*::after{box-sizing:border-box}html,body{margin:0;padding:0}</style></head><body><div id="d1back" style="position:sticky;top:0;z-index:300;background:#0B1A33;color:#fff;font:600 14px/1.3 -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;padding:10px 16px;display:flex;align-items:center;gap:14px;flex-wrap:wrap;box-shadow:0 2px 8px rgba(0,0,0,.25)"><a href="../index.html" style="color:#fff;text-decoration:none;white-space:nowrap">&larr; Back to Delta One VIP</a><span style="opacity:.78;font-weight:500">Delta One VIP Pro &middot; demo data &middot; no login needed</span></div><meta charset="utf-8"><title>Delta One VIP Pro</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Inter:wght@400;500;600&display=swap">
+<style>
+:root {
+  --bg: #F3F8FF; --surface: #FFFFFF; --soft: #EAF2FF; --line: #D5E1F3; --fg: #0B1A33; --muted: #44587A;
+  --blue: #1F6FEB; --blue-ink: #0B4FB8; --sky: #38B6FF; --teal: #0FB5A4; --teal-ink: #087F73; --gold: #FFB400; --gold-ink: #8A5E00; --gold-soft: #FFF6DC;
+  --coral: #E8463A; --green: #14A05C; --green-soft: #E3F7EC; --warn: #B3261E; --on-dark: #FFFFFF; --shadow: 0 8px 24px rgba(11,26,51,.06);
+  --gold-grad: linear-gradient(115deg, #E9A300 0%, #FFC53D 45%, #FFE28A 60%, #FFC53D 75%, #E9A300 100%);
+  --sans: "Inter", "Segoe UI", Arial, sans-serif; --display: "Poppins", "Inter", Arial, sans-serif;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg: #0B1A33; --surface: #12254A; --soft: #172E5C; --line: #27406B; --fg: #F3F8FF; --muted: #A9BAD6; --gold-soft: #3A2E0E; --green-soft: #0F3D27; --shadow: 0 8px 24px rgba(0,0,0,.3); color-scheme: dark; } }
+:root[data-theme="dark"] { --bg: #0B1A33; --surface: #12254A; --soft: #172E5C; --line: #27406B; --fg: #F3F8FF; --muted: #A9BAD6; --gold-soft: #3A2E0E; --green-soft: #0F3D27; --shadow: 0 8px 24px rgba(0,0,0,.3); color-scheme: dark; }
+* { box-sizing: border-box; }
+html { font-size: 17px; }
+body { margin: 0; background: var(--bg); color: var(--fg); font-family: var(--sans); line-height: 1.55; min-height: 100vh; }
+h1, h2, h3, h4 { margin: 0; font-family: var(--display); font-weight: 600; line-height: 1.2; text-wrap: balance; }
+p { margin: 0; } a { color: var(--blue-ink); } img { max-width: 100%; display: block; }
+button, input, select, textarea { font: inherit; color: inherit; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+[hidden] { display: none !important; }
+
+/* shell: rail + main */
+.app { display: grid; grid-template-columns: 236px minmax(0, 1fr); min-height: 100vh; }
+.rail { position: sticky; top: 0; height: 100vh; background: var(--surface); border-right: 1px solid var(--line); display: flex; flex-direction: column; padding: 18px 14px; gap: 6px; }
+.brand { display: flex; align-items: center; gap: 10px; text-decoration: none; color: var(--fg); font-family: var(--display); font-weight: 700; font-size: 1.02rem; padding: 4px 8px 16px; }
+.brand .mark { width: 32px; height: 32px; } .brand .vip { color: var(--blue-ink); } .brand .pro { font-size: .7rem; letter-spacing: .18em; color: var(--gold-ink); background: var(--gold-soft); padding: 2px 8px; border-radius: 999px; margin-left: 2px; }
+.nav a { display: flex; align-items: center; gap: 12px; padding: 10px 12px; border-radius: 12px; text-decoration: none; color: var(--muted); font-weight: 600; font-size: .92rem; }
+.nav a svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; flex: none; }
+.nav a:hover { background: var(--soft); color: var(--fg); } .nav a.on { background: var(--blue); color: #fff; }
+.nav a .cnt { margin-left: auto; font-size: .72rem; font-weight: 700; background: var(--gold); color: var(--fg); padding: 2px 8px; border-radius: 999px; }
+.nav a.on .cnt { background: #fff; color: var(--blue-ink); }
+.nav a .lock { margin-left: auto; font-size: .7rem; color: var(--gold-ink); }
+.rail .me { margin-top: auto; display: flex; gap: 10px; align-items: center; padding: 12px; border-radius: 14px; background: var(--soft); }
+.rail .me .av { width: 40px; height: 40px; border-radius: 50%; display: grid; place-items: center; font-weight: 700; color: #fff; background: var(--blue-ink); flex: none; font-family: var(--display); }
+.rail .me b { display: block; font-size: .92rem; } .rail .me span { font-size: .78rem; color: var(--muted); }
+.plan-pill { font-size: .68rem; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; padding: 3px 8px; border-radius: 999px; background: var(--gold); color: var(--fg); }
+.plan-pill.free { background: var(--line); color: var(--muted); }
+main { min-width: 0; padding: 22px 28px 90px; }
+.topbar { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin-bottom: 18px; }
+.topbar h1 { font-size: clamp(1.35rem, 2.6vw, 1.8rem); margin-right: auto; }
+.pres { display: inline-flex; align-items: center; gap: 8px; font-size: .8rem; color: var(--muted); background: var(--surface); border: 1px solid var(--line); padding: 7px 12px; border-radius: 999px; white-space: nowrap; }
+.pdot { width: 10px; height: 10px; border-radius: 50%; background: #9AA7BD; flex: none; }
+.pdot.human { background: var(--green); box-shadow: 0 0 0 3px rgba(20,160,92,.25); } .pdot.ai { background: var(--gold); box-shadow: 0 0 0 3px rgba(255,180,0,.25); }
+.demo { display: inline-flex; border: 1px dashed var(--line); border-radius: 999px; padding: 2px; gap: 2px; }
+.demo button { border: 0; background: transparent; font: 700 .72rem/1 var(--sans); padding: 7px 10px; border-radius: 999px; cursor: pointer; color: var(--muted); }
+.demo button.on { background: var(--fg); color: var(--bg); }
+
+/* cards and type */
+.grid { display: grid; gap: 16px; } .g2 { grid-template-columns: repeat(2, minmax(0, 1fr)); } .g3 { grid-template-columns: repeat(3, minmax(0, 1fr)); } .g4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 18px; padding: 20px 22px; box-shadow: var(--shadow); min-width: 0; }
+.card h2 { font-size: 1.12rem; margin-bottom: 10px; } .card h3 { font-size: 1rem; }
+.kicker { font-size: .7rem; font-weight: 700; letter-spacing: .2em; text-transform: uppercase; color: var(--blue-ink); margin-bottom: 6px; }
+.muted { color: var(--muted); } .small { font-size: .85rem; } .tiny { font-size: .76rem; }
+.kpi { display: grid; gap: 2px; } .kpi .v { font: 700 1.8rem/1.1 var(--display); } .kpi .l { font-size: .8rem; color: var(--muted); }
+.kpi.warn .v { color: var(--warn); } .kpi.good .v { color: var(--green); } .kpi.gold .v { color: var(--gold-ink); }
+.btn { font: 600 .9rem/1 var(--sans); min-height: 44px; padding: 0 16px; border-radius: 12px; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; gap: 8px; text-decoration: none; border: 2px solid transparent; color: var(--fg); background: var(--soft); white-space: nowrap; }
+.btn.primary { background: var(--blue); color: #fff; } .btn.primary:hover { background: var(--blue-ink); }
+.btn.gold { background: var(--gold-grad); color: #0B1A33; } .btn.ghost { background: var(--surface); border-color: var(--line); } .btn.ghost:hover { border-color: var(--blue); }
+.btn.sm { min-height: 36px; padding: 0 12px; font-size: .82rem; border-radius: 10px; } .btn.big { min-height: 56px; font-size: 1rem; padding: 0 24px; }
+.btn:disabled { opacity: .5; cursor: default; } .btn:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+.btn.danger { color: var(--warn); border-color: var(--line); background: var(--surface); }
+.actions { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+.chip { display: inline-flex; align-items: center; gap: 6px; font-size: .74rem; font-weight: 700; padding: 4px 10px; border-radius: 999px; background: var(--soft); color: var(--muted); white-space: nowrap; }
+.chip.st-not_started { background: var(--line); color: var(--muted); } .chip.st-watching { background: #E9F2FF; color: var(--blue-ink); } .chip.st-reading { background: #E4FAF6; color: var(--teal-ink); }
+.chip.st-doing { background: var(--gold-soft); color: var(--gold-ink); } .chip.st-checkpoint { background: #FDE8E6; color: var(--warn); } .chip.st-ready { background: var(--green-soft); color: var(--green); } .chip.st-active { background: var(--green); color: #fff; }
+.chip.stalled { background: #FDE8E6; color: var(--warn); }
+.sty { display: inline-flex; align-items: center; gap: 6px; font-size: .76rem; font-weight: 700; padding: 3px 9px 3px 6px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); }
+.sty i { width: 10px; height: 10px; border-radius: 50%; background: var(--sc, #9AA7BD); flex: none; }
+.bar { height: 8px; border-radius: 6px; background: var(--line); overflow: hidden; } .bar i { display: block; height: 100%; background: var(--bc, var(--blue)); border-radius: 6px; }
+.row { display: flex; gap: 12px; align-items: center; } .row .grow { flex: 1; min-width: 0; }
+.list { display: grid; gap: 8px; }
+.item { display: grid; grid-template-columns: 44px minmax(0, 1fr) auto; gap: 12px; align-items: center; padding: 12px 14px; border: 1px solid var(--line); border-radius: 14px; background: var(--surface); text-align: left; cursor: pointer; width: 100%; }
+.item:hover { border-color: var(--blue); } .item .av { width: 44px; height: 44px; border-radius: 50%; display: grid; place-items: center; font-weight: 700; color: #fff; font-family: var(--display); background: var(--blue-ink); }
+.item b { display: block; font-size: .95rem; } .item .sub { font-size: .8rem; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.item .r { display: grid; gap: 4px; justify-items: end; }
+.search { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px; }
+.search input, .search select { min-height: 44px; border: 1px solid var(--line); border-radius: 12px; padding: 0 12px; background: var(--surface); min-width: 0; }
+.search input { flex: 1; min-width: 160px; }
+.tabs { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 14px; } .tabs button { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 8px 14px; font-weight: 600; font-size: .84rem; cursor: pointer; color: var(--muted); }
+.tabs button.on { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+table { width: 100%; border-collapse: collapse; font-size: .88rem; } th, td { text-align: left; padding: 8px 8px; border-bottom: 1px solid var(--line); vertical-align: middle; } th { color: var(--muted); font-weight: 600; font-size: .78rem; }
+.num { text-align: right; font-variant-numeric: tabular-nums; }
+.tl { display: grid; gap: 10px; } .tl .ev { display: grid; grid-template-columns: 84px minmax(0, 1fr); gap: 12px; font-size: .88rem; } .tl .ev time { color: var(--muted); font-size: .78rem; font-variant-numeric: tabular-nums; }
+.note { background: var(--gold-soft); border-left: 5px solid var(--gold); border-radius: 12px; padding: 12px 16px; font-size: .9rem; }
+.note.blue { background: var(--soft); border-color: var(--blue); } .note.green { background: var(--green-soft); border-color: var(--green); }
+.lock-card { text-align: center; display: grid; gap: 12px; justify-items: center; padding: 34px 24px; border: 2px solid var(--gold); }
+.lock-card h2 { font-size: 1.3rem; } .lock-card p { color: var(--muted); max-width: 46em; }
+.field { display: grid; gap: 4px; font-size: .85rem; color: var(--muted); } .field input, .field select, .field textarea { min-height: 44px; border: 1px solid var(--line); border-radius: 12px; padding: 8px 12px; background: var(--surface); color: var(--fg); width: 100%; }
+.field textarea { min-height: 90px; resize: vertical; } .fields { display: grid; gap: 12px; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.fields .wide { grid-column: 1 / -1; }
+#sh-prev { word-break: break-word; overflow-wrap: anywhere; }
+.msgbox { width: 100%; min-height: 120px; border: 1px solid var(--line); border-radius: 12px; padding: 12px; background: var(--surface); color: var(--fg); resize: vertical; line-height: 1.5; }
+.chan { display: grid; grid-template-columns: repeat(auto-fill, minmax(118px, 1fr)); gap: 8px; }
+.chan button { border: 2px solid var(--line); background: var(--surface); border-radius: 12px; padding: 10px 8px; display: grid; justify-items: center; gap: 6px; cursor: pointer; font-size: .78rem; font-weight: 600; color: var(--fg); }
+.chan button.on { border-color: var(--blue); background: var(--soft); } .chan button i { width: 30px; height: 30px; border-radius: 9px; display: grid; place-items: center; color: #fff; font-style: normal; font-weight: 800; font-size: .8rem; font-family: var(--display); }
+.pick { display: grid; gap: 6px; max-height: 320px; overflow: auto; padding: 2px; }
+.pick label { display: grid; grid-template-columns: 22px minmax(0, 1fr) auto; gap: 10px; align-items: center; padding: 8px 10px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); font-size: .88rem; cursor: pointer; }
+.pick input { width: 18px; height: 18px; }
+.pick-row { display: grid; grid-template-columns: 22px minmax(0, 1fr); gap: 12px; align-items: start; padding: 12px 14px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); cursor: pointer; } .pick-row input { width: 18px; height: 18px; margin-top: 3px; }
+.send-row { display: grid; grid-template-columns: minmax(0, 1fr) auto auto; gap: 10px; align-items: center; padding: 10px 12px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); }
+.send-row.done { opacity: .6; } .send-row b { font-size: .92rem; } .send-row .sub { font-size: .78rem; color: var(--muted); }
+.qr { background: #fff; padding: 12px; border-radius: 14px; display: inline-block; border: 1px solid var(--line); }
+.linkbox { display: flex; gap: 8px; align-items: center; background: var(--soft); border-radius: 12px; padding: 10px 12px; font-size: .88rem; word-break: break-all; }
+.linkbox code { flex: 1; min-width: 0; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .82rem; }
+.q { border: 1px solid var(--line); border-radius: 16px; padding: 18px 20px; background: var(--surface); }
+.q .qn { font-size: .72rem; font-weight: 700; letter-spacing: .18em; text-transform: uppercase; color: var(--muted); } .q h3 { font-size: 1.05rem; margin: 6px 0 12px; }
+.ml { display: grid; gap: 8px; } .ml .line { display: grid; grid-template-columns: minmax(0, 1fr) auto auto; gap: 8px; align-items: center; border: 1px solid var(--line); border-radius: 12px; padding: 8px 8px 8px 14px; font-size: .95rem; }
+.ml .line.most { border-color: var(--gold); background: var(--gold-soft); } .ml .line.least { border-color: var(--line); background: var(--soft); color: var(--muted); }
+.ml .line button { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 6px 10px; font-size: .74rem; font-weight: 700; cursor: pointer; color: var(--muted); }
+.ml .line button.on-most { background: var(--gold); border-color: var(--gold); color: #0B1A33; } .ml .line button.on-least { background: var(--muted); border-color: var(--muted); color: #fff; }
+.opts { display: grid; gap: 8px; } .opt { text-align: left; background: var(--surface); border: 2px solid var(--line); border-radius: 12px; padding: 10px 14px; cursor: pointer; font-size: .95rem; min-height: 46px; }
+.opt:hover { border-color: var(--blue); }
+.pr-card { background: var(--surface); border: 2px solid var(--pc, var(--line)); border-radius: 20px; overflow: hidden; }
+.pr-head { background: var(--ps, var(--soft)); padding: 22px 24px; display: grid; gap: 6px; } .pr-head h2 { font-size: 1.7rem; color: var(--pc); } .pr-badge { font-size: .7rem; font-weight: 800; letter-spacing: .18em; text-transform: uppercase; color: var(--pc); }
+.pr-bars { display: grid; gap: 6px; max-width: 520px; margin-top: 6px; } .pr-bar { display: grid; grid-template-columns: 120px 1fr 44px; gap: 10px; align-items: center; font-size: .82rem; }
+.pr-bar div { background: rgba(11,26,51,.1); border-radius: 6px; height: 10px; } .pr-bar i { display: block; height: 10px; border-radius: 6px; background: var(--bc); } .pr-bar b { text-align: right; font-variant-numeric: tabular-nums; }
+.pr-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px 24px; padding: 20px 24px; } .pr-grid ul { margin: 0; padding-left: 1.1em; } .pr-grid li { margin: 3px 0; } .pr-grid .lbl { font-size: .7rem; font-weight: 700; letter-spacing: .18em; text-transform: uppercase; color: var(--muted); margin-bottom: 4px; }
+.style-cards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+.style-card { border: 1px solid var(--line); border-left: 6px solid var(--sc); border-radius: 14px; padding: 14px 16px; background: var(--surface); } .style-card h4 { color: var(--sc); font-size: 1rem; margin-bottom: 4px; } .style-card ul { margin: 6px 0 0; padding-left: 1.1em; font-size: .88rem; }
+.map { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; } .map .cell { border-radius: 14px; padding: 14px; background: var(--ps); border: 2px solid var(--pc); } .map .cell b { font: 700 1.6rem/1 var(--display); color: var(--pc); display: block; } .map .cell span { font-size: .78rem; color: var(--muted); } .map .cell .who { font-size: .8rem; margin-top: 6px; color: var(--fg); }
+
+/* Aria */
+.chat { display: grid; grid-template-columns: minmax(0, 1fr); grid-template-rows: auto minmax(0, 1fr) auto; height: min(72vh, 720px); }
+.chat-log { overflow: auto; display: grid; gap: 10px; align-content: start; padding: 6px 2px; }
+.msg { max-width: 86%; padding: 10px 14px; border-radius: 16px; line-height: 1.5; font-size: .95rem; white-space: pre-wrap; }
+.msg.me { justify-self: end; background: var(--blue); color: #fff; border-bottom-right-radius: 4px; } .msg.aria { justify-self: start; background: var(--soft); border-left: 4px solid var(--gold); border-bottom-left-radius: 4px; }
+.msg.thinking { color: var(--muted); font-style: italic; } .msg.sys { justify-self: center; background: var(--gold-soft); color: var(--gold-ink); font-size: .82rem; text-align: center; }
+.chips { display: flex; gap: 6px; flex-wrap: wrap; } .chips button { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 7px 12px; font-size: .8rem; cursor: pointer; color: var(--fg); }
+.chips button:hover { border-color: var(--blue); }
+.chat-form { display: flex; gap: 8px; margin-top: 10px; } .chat-form input { flex: 1; min-width: 0; min-height: 46px; border: 1px solid var(--line); border-radius: 12px; padding: 0 12px; background: var(--surface); color: var(--fg); }
+
+/* modal */
+.modal { position: fixed; inset: 0; z-index: 90; background: rgba(11,26,51,.55); display: grid; place-items: center; padding: 16px; overflow: auto; }
+.modal-in { position: relative; background: var(--surface); border-radius: 22px; padding: 26px 28px; width: min(640px, 100%); max-height: calc(100vh - 32px); overflow: auto; display: grid; gap: 14px; box-shadow: 0 30px 80px rgba(11,26,51,.4); }
+.modal-x { position: absolute; top: 12px; right: 12px; border: 0; background: var(--soft); width: 36px; height: 36px; border-radius: 50%; cursor: pointer; }
+.toast { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%); background: var(--fg); color: var(--bg); padding: 10px 16px; border-radius: 999px; font-size: .88rem; z-index: 95; box-shadow: 0 10px 30px rgba(0,0,0,.3); }
+.guest { max-width: 820px; margin: 0 auto; padding: 24px 18px 60px; } .guest .hero { text-align: center; display: grid; gap: 10px; justify-items: center; margin-bottom: 22px; }
+.guest .hero h1 { font-size: clamp(1.6rem, 4vw, 2.3rem); } .guest .hero img { width: 72px; height: 72px; border-radius: 50%; }
+.foot { margin-top: 30px; font-size: .78rem; color: var(--muted); }
+.prog-row { display: grid; grid-template-columns: 110px minmax(0, 1fr) 48px; gap: 10px; align-items: center; font-size: .85rem; } .prog-row b { text-align: right; font-variant-numeric: tabular-nums; }
+.step3 { display: flex; gap: 8px; } .step3 span { flex: 1; text-align: center; padding: 8px 4px; border-radius: 10px; background: var(--line); font-size: .78rem; font-weight: 700; color: var(--muted); } .step3 span.on { background: var(--green); color: #fff; }
+
+@media (max-width: 980px) { .g3, .g4 { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; } .style-cards, .map { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 900px) {
+  .app { grid-template-columns: 1fr; }
+  .rail { position: fixed; top: auto; bottom: 0; left: 0; right: 0; height: auto; flex-direction: row; padding: 6px 6px calc(6px + env(safe-area-inset-bottom)); border-right: 0; border-top: 1px solid var(--line); z-index: 50; gap: 0; }
+  .rail .brand, .rail .me, .nav a .cnt, .nav a .lock, .nav a .more-only { display: none; }
+  .nav { display: flex; width: 100%; } .nav a { flex: 1; flex-direction: column; gap: 3px; padding: 6px 2px; font-size: .62rem; border-radius: 10px; } .nav a.on { background: var(--soft); color: var(--blue-ink); }
+  .nav a.hide-m { display: none; }
+  main { padding: 16px 16px 96px; }
+}
+@media (max-width: 640px) { .g2, .g3, .g4, .fields, .pr-grid, .style-cards, .map { grid-template-columns: 1fr !important; } .prog-row { grid-template-columns: 86px minmax(0, 1fr) 44px; } .topbar h1 { font-size: 1.3rem; } .item { grid-template-columns: 40px minmax(0, 1fr); } .item .r { grid-column: 2; justify-items: start; } .send-row { grid-template-columns: 1fr; } .pr-bar { grid-template-columns: 96px 1fr 40px; } .chat { height: calc(100vh - 230px); } }
+</style>
+<!-- Delta One VIP Pro configuration (one place; the tech team sets these when the page is served — see the Technical Specification):
+     api        — base URL of the Pro API (GET /me, /team, /members/:id, /contacts …); null = demo data, kept on this device
+     token      — the member's session token (sent as Authorization: Bearer); memberId — the member
+     plan       — "free" (Delta One Training) or "vip" (Delta One VIP, 99 USDT a month); demo — true shows the Free | VIP switch
+     landingBase — the member's landing page: landingBase + referral code (empty until the landing page is connected)
+     vipSite    — the training page (links carry ?ref=code); upgradeUrl — the VIP checkout (USDT); billingUrl — manage the subscription
+     presence   — URL or function → { online, agents, zoom }; zoom, chat — the live room and the live chat; handoff(req) — hand a conversation to a person
+     ask(input, opts) — your own AI endpoint for Aria (otherwise Claude inside claude.ai, otherwise the built-in answers) -->
+<script>window.D1_PRO = { api: null, token: null, memberId: null, plan: "vip", demo: true, landingBase: "", vipSite: new URL("../index.html", location.href).href, fastStart: new URL("../tools/faststart/index.html", location.href).href, calculator: new URL("../tools/calculator/index.html", location.href).href,
+  upgradeUrl: "", billingUrl: "", presence: null, zoom: "https://deltavip24.com", chat: "https://deltavip24.com", handoff: null, ask: null, signOut: null };</script>
+<script type="application/json" id="persona-data">{"styles": [{"k": "D", "name": "The Summiteer", "color": "#E8463A", "soft": "#FDE8E6", "word": "Drive", "line": "You see the top and you go. Fast decisions, straight talk, results.", "strengths": ["Decides quickly and gets moving", "Says what needs saying", "Takes the lead when nobody else will"], "moves": ["A clear goal with a finish line", "Freedom to do it your own way", "Winning — and being seen to win"], "pressure": "You get impatient and blunt, and you may push people instead of leading them. Slow down one notch: ask one question before you decide.", "talk": ["Get to the point in the first minute: what it is, what it pays, what it never promises.", "Show the one-page plan and the calculator, not the whole library.", "Let them decide. Ask: what would you like to do next? Then stop talking."], "coach": ["Give them a target and a date, then step back.", "Review results, not effort. Short calls.", "Let them run their own line; check the line balance rule with them, because they will build one tall tower."], "avoid": ["Long stories and small talk", "Telling them what to do in detail", "Vague answers — they hear weakness"], "sell": "You sell with confidence and pace, and people follow it. Watch the two things you skip: listening, and the disclosure line. Say it every time: most members earn no commission at all.", "first30": "Set your Fuji date on day one. Then find two lines, not one, before you try to go deep.", "message": "Short and direct: one sentence on what it is, one number, one question. “Here is the plan on one page. 0.50% a day is the engine's average result, nothing is promised. Want to look at it tonight or Thursday?”"}, {"k": "I", "name": "The Storyteller", "color": "#E9A300", "soft": "#FFF6DC", "word": "People", "line": "You climb with a crowd. Warmth, energy, stories that make people say yes.", "strengths": ["Makes people feel welcome in a minute", "Turns a plan into a story", "Brings energy to a flat room"], "moves": ["People who like you and tell you so", "A stage, an audience, applause", "New faces, new places, new starts"], "pressure": "You talk more and finish less, and you may promise more than the plan allows. Write the next step down, and keep every number inside the disclosure.", "talk": ["Start with them: who they are, what they want, who they know.", "Show the cartoon, not the guide. Tell the story of one member's first 30 days.", "Make the next step social: a Zoom with you and one other person, this week."], "coach": ["Praise in public, often and specifically.", "Help them track: a list of names, a date next to each. They will not do it alone.", "Pair them with a Mapmaker for the numbers and the paperwork."], "avoid": ["Spreadsheets as the opener", "Cold, short replies", "Leaving them alone for a week — they drift"], "sell": "You sell with warmth and people buy you first. Watch the promises: every figure is an average, and you must say so out loud. The Language Card is your friend.", "first30": "Name twenty people on day one. Talk to three a day, with the cartoon. Let your sponsor do the first Zooms with you.", "message": "Warm, personal, with a picture: “I thought of you when I watched this four-minute cartoon. It is a software purchase, not a deposit, and nothing is promised — but I think you will like how it works. Coffee this week?”"}, {"k": "S", "name": "The Anchor", "color": "#0FB5A4", "soft": "#E4FAF6", "word": "Steadiness", "line": "You keep the rope team together. Patience, loyalty, calm when it counts.", "strengths": ["Listens, really listens", "Keeps promises, keeps routines", "Makes a team feel safe"], "moves": ["A team you can count on", "Time to get used to things", "Being appreciated quietly, not on stage"], "pressure": "You go quiet and give in, and you may say yes to keep the peace. Say what you need. A calm no is still kind.", "talk": ["Slow down. No pressure, no countdown, no 'tonight only'.", "Let them read the Key Facts in their own time, and come back with questions.", "Show who is already in — a steady person trusts a steady group."], "coach": ["Make the plan a routine: same day, same hour, three names a week.", "Reassure often; change one thing at a time.", "Give them the customer documents to hand out — they are the best at the quiet, honest conversation."], "avoid": ["Surprises and sudden changes", "Pushing for a fast decision", "Conflict in front of others"], "sell": "You sell by trust, slowly, and your members stay. Watch the asking: you wait too long to ask for the next step. Ask for a small one, with a date.", "first30": "One conversation a day, no more, with the Key Facts in hand. Build your first two lines from people who already trust you.", "message": "Gentle and patient: “No hurry on this. Here are the Key Facts — two pages, honest about the risks. Read them when you have a quiet moment, and tell me what you think next week.”"}, {"k": "C", "name": "The Mapmaker", "color": "#1F6FEB", "soft": "#E9F2FF", "word": "Precision", "line": "You check the route before you climb. Facts, questions, careful steps.", "strengths": ["Reads the rules and understands them", "Spots the mistake before it happens", "Does things properly, once"], "moves": ["Getting it right", "Knowing how things work, all the way down", "Order, accuracy, a plan that holds"], "pressure": "You overthink, delay and withdraw, and you may never feel ready. Decide with what you have; the plan is written down and you can re-read it.", "talk": ["Give them the Momentum Plan Guide and the Breakage Differential document, and leave.", "Answer every question with the rule and the page it is on. Never round up.", "Show the Math Audit and the disclosure; they trust what has been checked."], "coach": ["Respect their questions; find the answer in the documents, together.", "Give them time; set a decision date, not a push.", "Let them run the numbers for the team — and teach the Storytellers the Language Card."], "avoid": ["Hype, superlatives, and 'trust me'", "Changing the story between conversations", "Skipping the fine print"], "sell": "You sell with proof and people trust it. Watch the detail: a prospect does not need every rule in the first talk. One page, three facts, one question.", "first30": "Learn the plan cold: the guide, the line balance rule, the differential. Then teach it to one person a week; teaching is where you shine.", "message": "Precise and sourced: “Here is the Momentum Plan Guide, 12 pages. The rank table is on page 3; the daily caps on page 7. Every figure is an illustration at the engine's average result, not a promise. Shall we go through your questions on Thursday?”"}], "items": [{"light": true, "o": ["I like to decide fast and get moving.", "I like to get people excited about an idea.", "I like to keep the peace and help everyone along.", "I like to check the facts before I say yes."]}, {"light": false, "o": ["When something is in my way, I push through it.", "When something is in my way, I talk to someone about it.", "When something is in my way, I wait and stay calm.", "When something is in my way, I study it until I understand it."]}, {"light": true, "o": ["People call me bold.", "People call me fun.", "People call me kind.", "People call me careful."]}, {"light": false, "o": ["I would rather lead than follow.", "I would rather be with people than alone.", "I would rather help than be in front.", "I would rather be right than be first."]}, {"light": true, "o": ["In a group, I take charge.", "In a group, I make everyone laugh.", "In a group, I make sure no one is left out.", "In a group, I ask the hard questions."]}, {"light": true, "o": ["I am happiest when I win.", "I am happiest when people like me.", "I am happiest when everyone is okay.", "I am happiest when things are done properly."]}, {"light": false, "o": ["Slow people frustrate me.", "Boring people frustrate me.", "Pushy people frustrate me.", "Sloppy people frustrate me."]}, {"light": false, "o": ["I speak directly, even if it stings.", "I speak warmly and tell stories.", "I speak softly and listen a lot.", "I speak precisely and choose my words."]}, {"light": true, "o": ["A new plan? Show me the result and let me go.", "A new plan? Show me who else is in.", "A new plan? Give me time to get used to it.", "A new plan? Show me how it works, step by step."]}, {"light": false, "o": ["What I fear most is being controlled.", "What I fear most is being ignored.", "What I fear most is sudden change.", "What I fear most is making a mistake."]}, {"light": false, "o": ["I like competition.", "I like applause.", "I like routine.", "I like order."]}, {"light": true, "o": ["I decide with my gut, quickly.", "I decide with my heart, with friends.", "I decide slowly, when it feels safe.", "I decide with the numbers, when I have them all."]}, {"light": false, "o": ["Under stress I get impatient and blunt.", "Under stress I talk more and lose focus.", "Under stress I go quiet and give in.", "Under stress I overthink and withdraw."]}, {"light": true, "o": ["Give me a goal and get out of my way.", "Give me a stage and an audience.", "Give me a team I can count on.", "Give me the details and the time to do it right."]}, {"light": false, "o": ["I measure a day by what got done.", "I measure a day by who I met.", "I measure a day by how peaceful it was.", "I measure a day by how few mistakes there were."]}, {"light": false, "o": ["I say what I want.", "I say what I feel.", "I say what keeps everyone comfortable.", "I say what I can prove."]}, {"light": true, "o": ["On a team, I set the pace.", "On a team, I keep the mood up.", "On a team, I hold it together.", "On a team, I keep it accurate."]}, {"light": false, "o": ["A rule I disagree with: I challenge it.", "A rule I disagree with: I charm my way around it.", "A rule I disagree with: I follow it anyway.", "A rule I disagree with: I ask why it exists."]}, {"light": false, "o": ["My weakness is impatience.", "My weakness is being disorganised.", "My weakness is avoiding conflict.", "My weakness is perfectionism."]}, {"light": false, "o": ["I would rather be respected than liked.", "I would rather be liked than right.", "I would rather be trusted than noticed.", "I would rather be right than popular."]}], "blends": {"DI": "With the Storyteller close behind, you lead out loud: fast, warm, persuasive. Watch the promises — keep every number inside the disclosure.", "DS": "With the Anchor close behind, you drive hard but stay loyal: people follow you because you keep your word. Watch the impatience with slow starters.", "DC": "With the Mapmaker close behind, you decide fast and check the route first: a rare mix. Watch the tone — facts said bluntly still sting.", "ID": "With the Summiteer close behind, you are the energy and the push: great at opening, good at closing. Write the next step down before you leave the room.", "IS": "With the Anchor close behind, you are warm and patient: people trust you quickly and stay. Watch the asking — you wait too long to ask for the next step.", "IC": "With the Mapmaker close behind, you tell the story and you know the rules: the best teacher in the room. Watch the time — not every talk needs every fact.", "SD": "With the Summiteer close behind, you are calm with a backbone: steady, and firm when it matters. Say the firm thing sooner.", "SI": "With the Storyteller close behind, you are kind and sociable: the friend everyone phones first. Keep a list, or the names slip away.", "SC": "With the Mapmaker close behind, you are careful and dependable: your members get the honest, complete answer. Decide with what you have; you will never feel fully ready.", "CD": "With the Summiteer close behind, you are precise and decisive: you check the route, then you go. Give others the same time you give yourself.", "CI": "With the Storyteller close behind, you explain things so people enjoy learning them. Let the story carry the fact; do not bury it.", "CS": "With the Anchor close behind, you are thorough and patient: the one who reads the fine print for the whole team. Ask for the next step; it is not pushy, it is kind."}, "scoring": {"most": 2, "least": 1, "lightMost": 1}}</script>
+<script type="application/json" id="kb-data">"You are the Delta One VIP helper. Facts about the Momentum Plan (the only source you may use):\n- A module is a purchase of the Delta One AI trading engine (software as a service), for an amount the member chooses, from 1,000 USDT, paid in USDT on BNB Smart Chain (BEP-20). The purchase price is not refundable and cannot be withdrawn. The module delivers at most 2× its purchase price, price included, then it ends. It cannot be cancelled before 2×.\n- 0.50% a day is the engine's average daily result and the rate behind every figure. Real days vary from zero to several percent; the average can change; nothing is guaranteed.\n- Every 100 USDT of trading profit: 50 USDT to members (their modules' daily results), 25 USDT to the compensation plan (every commission comes from here, never from a purchase), 25 USDT to the DAO Treasury. No profit, no payout.\n- A 1,000 USDT module at the average: about 5 USDT a day. Days 1–10: every result auto-rebuys into a small rebuy module with its own 2×. From day 11 the member's Auto-Rebuy switch decides each day (ON = rebuy, OFF = app wallet; withdraw any time, 5 USDT minimum, gas fee only). About day 200: results equal the purchase price. About day 400: 2,000 USDT delivered and the module ends.\n- The Believer: a member who commits to keeping Auto-Rebuy ON for the module's whole life; the module delivers 220% instead of 200% (about day 440). The choice is binding.\n- Paid two ways. 1: base matrix, 2% of every contract's daily earnings to each qualified upline on every level their rank reaches (3 levels at Fuji, up to 21 at Everest), capped per day by rank (1,000 USDT at Fuji … 7,000 USDT at Everest). 2: breakage differential, the gap between your rank's entitlement (6% … 42%) and the highest entitlement already claimed below you in that line; no cap, no depth limit. Together never more than 42% of a contract's earnings.\n- Seven ranks (own purchase · people enrolled · qualifying volume · paid levels · entitlement · daily cap): Fuji 1,000 USDT · 2 · 2,000 USDT · levels 1–3 · 6% · 1,000 USDT. Kilimanjaro 2,500 · 3 · 5,000 · 1–6 · 12% · 2,000. Matterhorn 6,000 · 4 · 12,000 · 1–9 · 18% · 3,000. Denali 12,000 · 5 · 25,000 · 1–12 · 24% · 4,000. Rainier 25,000 · 7 · 75,000 · 1–15 · 30% · 5,000. K-2 50,000 · 12 · 250,000 · 1–18 · 36% · 6,000. Everest 200,000 · 21 · 1,000,000 · 1–21 · 42% · 7,000. Only active modules count; ranks are rechecked at every settlement.\n- Line balance rule: a line is one person you enroll and everyone beneath them. No single line counts for more than 50% of a rank's qualifying volume at Fuji and Kilimanjaro, 33⅓% at Matterhorn and Denali, 25% at Rainier, 20% at K-2 and Everest. Build wide.\n- Settlement every day at 12:00 UTC. Results and commissions are credited to the app wallet in USDT.\n- Six rules: paid on earnings, never on purchases · no profit, no payout · balance your lines · stay ahead · modules end at 2× (only active modules count) · paid daily, in USDT.\n- Founder seats are a separate product with their own documents; for details, the founder-seat documents or an agent.\n- Where to go: Step 1 watch the presentation or the cartoon; Step 2 read 7 Summits to Success, The Plan in Simple Words and the Key Facts; Step 3 the Getting Started Checklist, the Language Card, the Module Calculator and the Fast Start planner. Speak to an agent on Zoom at any hour, or ask your sponsor.\n- Disclosures: every figure is a hypothetical illustration at the engine's average daily result; results and rewards are not guaranteed; most members earn no commission at all; a module is a software purchase, not a deposit; the price is not refundable and can be lost; not legal, tax or financial advice; only purchase with money you can afford to lose; every document is a draft for legal and compliance review."</script>
+<script type="application/json" id="bank-data">[{"k": ["module", "what", "is"], "a": "A module is a purchase of the Delta One AI trading engine, from 1,000 USDT, paid in USDT. It can deliver up to two times its price, price included, then it ends. The price is not refundable. Every figure is an illustration at the engine's average daily result; results and rewards are not guaranteed, and most members earn no commission at all."}, {"k": ["day", "11", "eleven", "switch"], "a": "On day 11 you get the Auto-Rebuy switch. ON means each day's result buys a new rebuy module; OFF means it goes to your app wallet, where you can withdraw any time (5 USDT minimum). Before day 11, every result rebuys. The Believer keeps the switch ON for the whole life and the module delivers 220% instead of 200%."}, {"k": ["per", "level", "2%", "two", "percent", "each"], "a": "Each qualified upline position receives 2% of a contract's daily earnings, level by level, on up to 21 levels depending on rank. It is never a share of the purchase price. Every figure is an illustration at the engine's average daily result; results and rewards are not guaranteed, and most members earn no commission at all."}, {"k": ["rank", "ranks", "seven", "mountains", "fuji", "everest", "summits"], "a": "There are seven ranks: Fuji, Kilimanjaro, Matterhorn, Denali, Rainier, K-2 and Everest. Each unlocks three more paid levels (3 at Fuji, 21 at Everest), the entitlement goes from 6% to 42%, and the daily cap from 1,000 USDT to 7,000 USDT. Only active modules count, and ranks are rechecked at every settlement."}, {"k": ["cap", "daily", "maximum", "limit"], "a": "Each rank has a daily reward cap on the base matrix: 1,000 USDT at Fuji, 2,000 at Kilimanjaro, 3,000 at Matterhorn, 4,000 at Denali, 5,000 at Rainier, 6,000 at K-2 and 7,000 USDT at Everest. The breakage differential has no cap. Illustrations at the average; nothing is guaranteed."}, {"k": ["line", "balance", "rule", "lines", "wide"], "a": "The line balance rule: no single line can count for more than half of your qualifying volume at Fuji and Kilimanjaro, a third at Matterhorn and Denali, a quarter at Rainier and a fifth at K-2 and Everest. Volume above that share does not count. So build wide: more lines, not one tall tower."}, {"k": ["differential", "leader", "leaders", "breakage", "gap"], "a": "The breakage differential is how leaders are paid: the gap between your rank's entitlement (6% to 42%) and the highest entitlement already claimed below you in that line, on the same contract. It has no cap and no depth limit, and the total on any contract never exceeds 42%. Stay ahead of your lines, and open new ones."}, {"k": ["average", "0.5", "0.50", "result", "daily"], "a": "0.50% a day is the engine's average daily result, and it is the rate behind every figure. Real days vary from zero to several percent, the average can change, and nothing is guaranteed. A day with no trading profit pays nobody."}, {"k": ["withdraw", "wallet", "money", "out", "usdt", "minimum"], "a": "Results and commissions are credited to your app wallet in USDT on BNB Smart Chain (BEP-20). You can withdraw any time, 5 USDT minimum, instant, gas fee only. The purchase price itself is not refundable and cannot be withdrawn."}, {"k": ["settlement", "time", "when", "paid", "16", "utc", "4"], "a": "Settlement is every day at 12:00 UTC. That is when results are shared out and commissions are credited, in USDT, to the app wallet."}, {"k": ["believer", "220", "auto", "rebuy"], "a": "A Believer keeps Auto-Rebuy ON for the module's whole life. In return the module delivers 220% instead of 200% (about day 440 for a 1,000 USDT module at the average). The choice is binding until 220%. It is an illustration at the average, not a promise."}, {"k": ["guaranteed", "guarantee", "safe", "risk", "lose", "promise"], "a": "Nothing is guaranteed. Some days the result is zero, the purchase price is not refundable and can be lost in whole or in part, and most members earn no commission at all. Only purchase with money you can afford to lose. Every figure is an illustration at the engine's average daily result."}, {"k": ["split", "100", "50", "25", "treasury", "profit", "where"], "a": "Every 100 USDT of trading profit is split 50 / 25 / 25: 50 USDT to members as their modules' daily results, 25 USDT to the compensation plan (every commission comes from here, never from a purchase) and 25 USDT to the DAO Treasury. No profit, no payout."}, {"k": ["commission", "earn", "rewards", "income", "much", "make"], "a": "Rewards come two ways: 2% of each contract's daily earnings on every paid level of your rank (the base matrix, capped per day), and the breakage differential for leaders. Every figure is an illustration at the engine's average daily result; results and rewards are not guaranteed, and most members earn no commission at all."}, {"k": ["start", "begin", "first", "new", "how", "join"], "a": "Start at Step 1 on this page: watch the presentation or the cartoon. Then Step 2: read 7 Summits to Success, The Plan in Simple Words and the Key Facts. Then Step 3: the Getting Started Checklist with your sponsor. Stuck? Speak to an agent on Zoom at any hour."}, {"k": ["investment", "invest", "deposit", "interest", "return"], "a": "A module is a software purchase, not a deposit and not an investment, and we never say return or interest. The engine produces a result; the module receives a share of it, on average. The price is not refundable and can be lost; only purchase with money you can afford to lose."}, {"k": ["language", "languages", "translation", "spanish", "arabic", "chinese"], "a": "The Plan in Simple Words and the Key Facts exist in 19 languages: choose a language at the top of the page and those two documents switch with you. The other documents are in English; Read it to me can still read them aloud. Translations are drafts until a native speaker reviews them."}, {"k": ["founder", "seat", "seats", "nft"], "a": "Founder seats are a separate product with their own documents (the founder-seat guide, key facts and FAQ) and their own cartoon. For the details and the current window, open those documents or speak to an agent on Zoom."}, {"k": ["sponsor", "help", "agent", "zoom", "chat", "support", "contact"], "a": "Three ways to get help: speak to an agent now on Zoom (24/7), open the live chat, or ask your sponsor. Your sponsor walked this hallway before you — send them the question and the document it came from."}, {"k": ["calculator", "planner", "fast", "tool", "tools"], "a": "Two live tools open in a new tab: the Module Calculator shows any module day by day at the engine's average daily result, and the Fast Start planner maps your first 90 days. Both are in Step 3. Every figure is an illustration at the average; nothing is guaranteed."}]</script>
+
+<div class="app" id="app">
+  <aside class="rail" id="rail">
+    <a class="brand" href="#/overview"><svg class="mark" viewBox="0 0 40 40" aria-hidden="true"><path d="M20 5 34 33H6z" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linejoin="round"/><circle cx="20" cy="27" r="2.6" fill="#1F6FEB"/></svg><span>Delta One <span class="vip">VIP</span></span><span class="pro">PRO</span></a>
+    <nav class="nav" id="nav" aria-label="Sections">
+      <a href="#/overview" data-s="overview"><svg viewBox="0 0 24 24"><path d="M3 11.5 12 4l9 7.5"/><path d="M5 10v10h14V10"/></svg><span>Home</span></a>
+      <a href="#/team" data-s="team" data-vip="1"><svg viewBox="0 0 24 24"><circle cx="9" cy="8" r="3.5"/><path d="M2.5 20a6.5 6.5 0 0 1 13 0"/><circle cx="17" cy="9" r="2.5"/><path d="M15.5 14.5a5 5 0 0 1 6 5"/></svg><span>Team</span><span class="cnt" id="n-team"></span></a>
+      <a href="#/contacts" data-s="contacts" data-vip="1"><svg viewBox="0 0 24 24"><rect x="4" y="3" width="16" height="18" rx="2"/><circle cx="12" cy="10" r="2.5"/><path d="M8 17a4 4 0 0 1 8 0"/></svg><span>Contacts</span><span class="cnt" id="n-due"></span></a>
+      <a href="#/share" data-s="share" data-vip="1"><svg viewBox="0 0 24 24"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"/><path d="M12 15V3"/><path d="m7 8 5-5 5 5"/></svg><span>Share</span></a>
+      <a href="#/aria" data-s="aria"><svg viewBox="0 0 24 24"><path d="M4 5h16v11H9l-5 4z"/><path d="M8 9h8M8 12h5"/></svg><span>Aria</span></a>
+      <a href="#/style" data-s="style" class="hide-m"><svg viewBox="0 0 24 24"><path d="m3 20 7-14 4 8 2-4 5 10z"/></svg><span>My style</span></a>
+      <a href="#/landing" data-s="landing" data-vip="1" class="hide-m"><svg viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><path d="M14 14h3v3h-3zM18 18h3v3h-3z"/></svg><span>My page</span></a>
+      <a href="#/account" data-s="account"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg><span>More</span></a>
+    </nav>
+    <div class="me" id="rail-me"></div>
+  </aside>
+
+  <main id="main">
+    <div class="topbar">
+      <h1 id="title">Home</h1>
+      <span class="pres ai" id="pres"><i class="pdot ai"></i><span id="pres-t">Aria answers now</span></span>
+      <span class="demo" id="demo" hidden title="Demo: see the app as a free member or as a VIP"><button type="button" data-plan="free">Free</button><button type="button" data-plan="vip">VIP</button></span>
+    </div>
+    <section class="screen" id="s-overview"></section>
+    <section class="screen" id="s-team" hidden></section>
+    <section class="screen" id="s-member" hidden></section>
+    <section class="screen" id="s-contacts" hidden></section>
+    <section class="screen" id="s-share" hidden></section>
+    <section class="screen" id="s-landing" hidden></section>
+    <section class="screen" id="s-style" hidden></section>
+    <section class="screen" id="s-aria" hidden>
+      <div class="grid g2" style="grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr)">
+        <div class="card chat">
+          <div class="row" style="margin-bottom:8px"><img src="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Ccircle cx='20' cy='20' r='20' fill='%230B4FB8'/%3E%3Ccircle cx='20' cy='16' r='7' fill='%23FFE28A'/%3E%3Cpath d='M7 36a13 13 0 0 1 26 0z' fill='%23FFC53D'/%3E%3C/svg%3E" alt="" width="40" height="40" style="border-radius:50%"><div class="grow"><b>Aria · your personal assistant</b><div class="tiny muted" id="aria-sub">She knows where you and your team are in the hallway.</div></div></div>
+          <div class="chat-log" id="chat-log"></div>
+          <div>
+            <div class="chips" id="chips"></div>
+            <form class="chat-form" id="chat-form"><label class="sr" for="chat-q">Your message</label><input id="chat-q" type="text" maxlength="500" placeholder="Ask Aria, or tell her who to write to…" autocomplete="off"><button type="submit" class="btn primary" id="chat-btn">Send</button></form>
+          </div>
+        </div>
+        <div class="grid">
+          <div class="card" id="aria-people"><h2>A person, when you want one</h2><p class="small muted" id="hand-note"></p><div class="actions" style="margin-top:10px"><button type="button" class="btn ghost" id="hand-btn">Ask for a person</button><a class="btn gold" id="zoom-link" href="https://deltavip24.com" target="_blank" rel="noopener">Zoom · 24/7 ↗</a></div></div>
+          <div class="card" id="aria-context"></div>
+          <p class="tiny muted">Aria answers from the plan's published rules. Every figure is an illustration at the engine's average daily result; nothing is a promise, and most members earn no commission at all. Your contacts' numbers never leave this device.</p>
+        </div>
+      </div>
+    </section>
+    <section class="screen" id="s-account" hidden></section>
+  </main>
+</div>
+<div class="guest" id="guest" hidden></div>
+
+<div class="modal" id="modal" hidden role="dialog" aria-modal="true"><div class="modal-in" id="modal-in"></div></div>
+<div class="toast" id="toast" hidden></div>
+<script>/* QRCode for JavaScript — Copyright (c) 2009 Kazuhiko Arase, MIT license (http://www.d-project.com/). Bundled for Delta One VIP Pro. */
+window.D1QR = (function () {
+var mods = {}, cache = {};
+function req(n) { n = n.replace('./', ''); if (cache[n]) return cache[n]; var m = { exports: {} }; cache[n] = m.exports; mods[n](m, m.exports); cache[n] = m.exports; return m.exports; }
+mods['QRMode'] = function (module, exports) {
+module.exports = {
+    MODE_NUMBER :       1 << 0,
+    MODE_ALPHA_NUM :    1 << 1,
+    MODE_8BIT_BYTE :    1 << 2,
+    MODE_KANJI :        1 << 3
+};
+
+};
+mods['QRErrorCorrectLevel'] = function (module, exports) {
+module.exports = {
+	L : 1,
+	M : 0,
+	Q : 3,
+	H : 2
+};
+
+
+};
+mods['QRMaskPattern'] = function (module, exports) {
+module.exports = {
+	PATTERN000 : 0,
+	PATTERN001 : 1,
+	PATTERN010 : 2,
+	PATTERN011 : 3,
+	PATTERN100 : 4,
+	PATTERN101 : 5,
+	PATTERN110 : 6,
+	PATTERN111 : 7
+};
+
+};
+mods['QRMath'] = function (module, exports) {
+var QRMath = {
+
+	glog : function(n) {
+	
+		if (n < 1) {
+			throw new Error("glog(" + n + ")");
+		}
+		
+		return QRMath.LOG_TABLE[n];
+	},
+	
+	gexp : function(n) {
+	
+		while (n < 0) {
+			n += 255;
+		}
+	
+		while (n >= 256) {
+			n -= 255;
+		}
+	
+		return QRMath.EXP_TABLE[n];
+	},
+	
+	EXP_TABLE : new Array(256),
+	
+	LOG_TABLE : new Array(256)
+
+};
+	
+for (var i = 0; i < 8; i++) {
+	QRMath.EXP_TABLE[i] = 1 << i;
+}
+for (var i = 8; i < 256; i++) {
+	QRMath.EXP_TABLE[i] = QRMath.EXP_TABLE[i - 4]
+		^ QRMath.EXP_TABLE[i - 5]
+		^ QRMath.EXP_TABLE[i - 6]
+		^ QRMath.EXP_TABLE[i - 8];
+}
+for (var i = 0; i < 255; i++) {
+	QRMath.LOG_TABLE[QRMath.EXP_TABLE[i] ] = i;
+}
+
+module.exports = QRMath;
+
+};
+mods['QRPolynomial'] = function (module, exports) {
+var QRMath = req('./QRMath');
+
+function QRPolynomial(num, shift) {
+	if (num.length === undefined) {
+		throw new Error(num.length + "/" + shift);
+	}
+
+	var offset = 0;
+
+	while (offset < num.length && num[offset] === 0) {
+		offset++;
+	}
+
+	this.num = new Array(num.length - offset + shift);
+	for (var i = 0; i < num.length - offset; i++) {
+		this.num[i] = num[i + offset];
+	}
+}
+
+QRPolynomial.prototype = {
+
+	get : function(index) {
+		return this.num[index];
+	},
+	
+	getLength : function() {
+		return this.num.length;
+	},
+	
+	multiply : function(e) {
+	
+		var num = new Array(this.getLength() + e.getLength() - 1);
+	
+		for (var i = 0; i < this.getLength(); i++) {
+			for (var j = 0; j < e.getLength(); j++) {
+				num[i + j] ^= QRMath.gexp(QRMath.glog(this.get(i) ) + QRMath.glog(e.get(j) ) );
+			}
+		}
+	
+		return new QRPolynomial(num, 0);
+	},
+	
+	mod : function(e) {
+	
+		if (this.getLength() - e.getLength() < 0) {
+			return this;
+		}
+	
+		var ratio = QRMath.glog(this.get(0) ) - QRMath.glog(e.get(0) );
+	
+		var num = new Array(this.getLength() );
+		
+		for (var i = 0; i < this.getLength(); i++) {
+			num[i] = this.get(i);
+		}
+		
+		for (var x = 0; x < e.getLength(); x++) {
+			num[x] ^= QRMath.gexp(QRMath.glog(e.get(x) ) + ratio);
+		}
+	
+		// recursive call
+		return new QRPolynomial(num, 0).mod(e);
+	}
+};
+
+module.exports = QRPolynomial;
+
+};
+mods['QRRSBlock'] = function (module, exports) {
+var QRErrorCorrectLevel = req('./QRErrorCorrectLevel');
+
+function QRRSBlock(totalCount, dataCount) {
+	this.totalCount = totalCount;
+	this.dataCount  = dataCount;
+}
+
+QRRSBlock.RS_BLOCK_TABLE = [
+
+	// L
+	// M
+	// Q
+	// H
+
+	// 1
+	[1, 26, 19],
+	[1, 26, 16],
+	[1, 26, 13],
+	[1, 26, 9],
+	
+	// 2
+	[1, 44, 34],
+	[1, 44, 28],
+	[1, 44, 22],
+	[1, 44, 16],
+
+	// 3
+	[1, 70, 55],
+	[1, 70, 44],
+	[2, 35, 17],
+	[2, 35, 13],
+
+	// 4		
+	[1, 100, 80],
+	[2, 50, 32],
+	[2, 50, 24],
+	[4, 25, 9],
+	
+	// 5
+	[1, 134, 108],
+	[2, 67, 43],
+	[2, 33, 15, 2, 34, 16],
+	[2, 33, 11, 2, 34, 12],
+	
+	// 6
+	[2, 86, 68],
+	[4, 43, 27],
+	[4, 43, 19],
+	[4, 43, 15],
+	
+	// 7		
+	[2, 98, 78],
+	[4, 49, 31],
+	[2, 32, 14, 4, 33, 15],
+	[4, 39, 13, 1, 40, 14],
+	
+	// 8
+	[2, 121, 97],
+	[2, 60, 38, 2, 61, 39],
+	[4, 40, 18, 2, 41, 19],
+	[4, 40, 14, 2, 41, 15],
+	
+	// 9
+	[2, 146, 116],
+	[3, 58, 36, 2, 59, 37],
+	[4, 36, 16, 4, 37, 17],
+	[4, 36, 12, 4, 37, 13],
+	
+	// 10		
+	[2, 86, 68, 2, 87, 69],
+	[4, 69, 43, 1, 70, 44],
+	[6, 43, 19, 2, 44, 20],
+	[6, 43, 15, 2, 44, 16],
+
+	// 11
+	[4, 101, 81],
+	[1, 80, 50, 4, 81, 51],
+	[4, 50, 22, 4, 51, 23],
+	[3, 36, 12, 8, 37, 13],
+
+	// 12
+	[2, 116, 92, 2, 117, 93],
+	[6, 58, 36, 2, 59, 37],
+	[4, 46, 20, 6, 47, 21],
+	[7, 42, 14, 4, 43, 15],
+
+	// 13
+	[4, 133, 107],
+	[8, 59, 37, 1, 60, 38],
+	[8, 44, 20, 4, 45, 21],
+	[12, 33, 11, 4, 34, 12],
+
+	// 14
+	[3, 145, 115, 1, 146, 116],
+	[4, 64, 40, 5, 65, 41],
+	[11, 36, 16, 5, 37, 17],
+	[11, 36, 12, 5, 37, 13],
+
+	// 15
+	[5, 109, 87, 1, 110, 88],
+	[5, 65, 41, 5, 66, 42],
+	[5, 54, 24, 7, 55, 25],
+	[11, 36, 12],
+
+	// 16
+	[5, 122, 98, 1, 123, 99],
+	[7, 73, 45, 3, 74, 46],
+	[15, 43, 19, 2, 44, 20],
+	[3, 45, 15, 13, 46, 16],
+
+	// 17
+	[1, 135, 107, 5, 136, 108],
+	[10, 74, 46, 1, 75, 47],
+	[1, 50, 22, 15, 51, 23],
+	[2, 42, 14, 17, 43, 15],
+
+	// 18
+	[5, 150, 120, 1, 151, 121],
+	[9, 69, 43, 4, 70, 44],
+	[17, 50, 22, 1, 51, 23],
+	[2, 42, 14, 19, 43, 15],
+
+	// 19
+	[3, 141, 113, 4, 142, 114],
+	[3, 70, 44, 11, 71, 45],
+	[17, 47, 21, 4, 48, 22],
+	[9, 39, 13, 16, 40, 14],
+
+	// 20
+	[3, 135, 107, 5, 136, 108],
+	[3, 67, 41, 13, 68, 42],
+	[15, 54, 24, 5, 55, 25],
+	[15, 43, 15, 10, 44, 16],
+
+	// 21
+	[4, 144, 116, 4, 145, 117],
+	[17, 68, 42],
+	[17, 50, 22, 6, 51, 23],
+	[19, 46, 16, 6, 47, 17],
+
+	// 22
+	[2, 139, 111, 7, 140, 112],
+	[17, 74, 46],
+	[7, 54, 24, 16, 55, 25],
+	[34, 37, 13],
+
+	// 23
+	[4, 151, 121, 5, 152, 122],
+	[4, 75, 47, 14, 76, 48],
+	[11, 54, 24, 14, 55, 25],
+	[16, 45, 15, 14, 46, 16],
+
+	// 24
+	[6, 147, 117, 4, 148, 118],
+	[6, 73, 45, 14, 74, 46],
+	[11, 54, 24, 16, 55, 25],
+	[30, 46, 16, 2, 47, 17],
+
+	// 25
+	[8, 132, 106, 4, 133, 107],
+	[8, 75, 47, 13, 76, 48],
+	[7, 54, 24, 22, 55, 25],
+	[22, 45, 15, 13, 46, 16],
+
+	// 26
+	[10, 142, 114, 2, 143, 115],
+	[19, 74, 46, 4, 75, 47],
+	[28, 50, 22, 6, 51, 23],
+	[33, 46, 16, 4, 47, 17],
+
+	// 27
+	[8, 152, 122, 4, 153, 123],
+	[22, 73, 45, 3, 74, 46],
+	[8, 53, 23, 26, 54, 24],
+	[12, 45, 15, 28, 46, 16],
+
+	// 28
+	[3, 147, 117, 10, 148, 118],
+	[3, 73, 45, 23, 74, 46],
+	[4, 54, 24, 31, 55, 25],
+	[11, 45, 15, 31, 46, 16],
+
+	// 29
+	[7, 146, 116, 7, 147, 117],
+	[21, 73, 45, 7, 74, 46],
+	[1, 53, 23, 37, 54, 24],
+	[19, 45, 15, 26, 46, 16],
+
+	// 30
+	[5, 145, 115, 10, 146, 116],
+	[19, 75, 47, 10, 76, 48],
+	[15, 54, 24, 25, 55, 25],
+	[23, 45, 15, 25, 46, 16],
+
+	// 31
+	[13, 145, 115, 3, 146, 116],
+	[2, 74, 46, 29, 75, 47],
+	[42, 54, 24, 1, 55, 25],
+	[23, 45, 15, 28, 46, 16],
+
+	// 32
+	[17, 145, 115],
+	[10, 74, 46, 23, 75, 47],
+	[10, 54, 24, 35, 55, 25],
+	[19, 45, 15, 35, 46, 16],
+
+	// 33
+	[17, 145, 115, 1, 146, 116],
+	[14, 74, 46, 21, 75, 47],
+	[29, 54, 24, 19, 55, 25],
+	[11, 45, 15, 46, 46, 16],
+
+	// 34
+	[13, 145, 115, 6, 146, 116],
+	[14, 74, 46, 23, 75, 47],
+	[44, 54, 24, 7, 55, 25],
+	[59, 46, 16, 1, 47, 17],
+
+	// 35
+	[12, 151, 121, 7, 152, 122],
+	[12, 75, 47, 26, 76, 48],
+	[39, 54, 24, 14, 55, 25],
+	[22, 45, 15, 41, 46, 16],
+
+	// 36
+	[6, 151, 121, 14, 152, 122],
+	[6, 75, 47, 34, 76, 48],
+	[46, 54, 24, 10, 55, 25],
+	[2, 45, 15, 64, 46, 16],
+
+	// 37
+	[17, 152, 122, 4, 153, 123],
+	[29, 74, 46, 14, 75, 47],
+	[49, 54, 24, 10, 55, 25],
+	[24, 45, 15, 46, 46, 16],
+
+	// 38
+	[4, 152, 122, 18, 153, 123],
+	[13, 74, 46, 32, 75, 47],
+	[48, 54, 24, 14, 55, 25],
+	[42, 45, 15, 32, 46, 16],
+
+	// 39
+	[20, 147, 117, 4, 148, 118],
+	[40, 75, 47, 7, 76, 48],
+	[43, 54, 24, 22, 55, 25],
+	[10, 45, 15, 67, 46, 16],
+
+	// 40
+	[19, 148, 118, 6, 149, 119],
+	[18, 75, 47, 31, 76, 48],
+	[34, 54, 24, 34, 55, 25],
+	[20, 45, 15, 61, 46, 16]
+];
+
+QRRSBlock.getRSBlocks = function(typeNumber, errorCorrectLevel) {
+	
+	var rsBlock = QRRSBlock.getRsBlockTable(typeNumber, errorCorrectLevel);
+	
+	if (rsBlock === undefined) {
+		throw new Error("bad rs block @ typeNumber:" + typeNumber + "/errorCorrectLevel:" + errorCorrectLevel);
+	}
+
+	var length = rsBlock.length / 3;
+	
+	var list = [];
+	
+	for (var i = 0; i < length; i++) {
+
+		var count = rsBlock[i * 3 + 0];
+		var totalCount = rsBlock[i * 3 + 1];
+		var dataCount  = rsBlock[i * 3 + 2];
+
+		for (var j = 0; j < count; j++) {
+			list.push(new QRRSBlock(totalCount, dataCount) );	
+		}
+	}
+	
+	return list;
+};
+
+QRRSBlock.getRsBlockTable = function(typeNumber, errorCorrectLevel) {
+
+	switch(errorCorrectLevel) {
+	case QRErrorCorrectLevel.L :
+		return QRRSBlock.RS_BLOCK_TABLE[(typeNumber - 1) * 4 + 0];
+	case QRErrorCorrectLevel.M :
+		return QRRSBlock.RS_BLOCK_TABLE[(typeNumber - 1) * 4 + 1];
+	case QRErrorCorrectLevel.Q :
+		return QRRSBlock.RS_BLOCK_TABLE[(typeNumber - 1) * 4 + 2];
+	case QRErrorCorrectLevel.H :
+		return QRRSBlock.RS_BLOCK_TABLE[(typeNumber - 1) * 4 + 3];
+	default :
+		return undefined;
+	}
+};
+
+module.exports = QRRSBlock;
+
+};
+mods['QRBitBuffer'] = function (module, exports) {
+function QRBitBuffer() {
+	this.buffer = [];
+	this.length = 0;
+}
+
+QRBitBuffer.prototype = {
+
+	get : function(index) {
+		var bufIndex = Math.floor(index / 8);
+		return ( (this.buffer[bufIndex] >>> (7 - index % 8) ) & 1) == 1;
+	},
+	
+	put : function(num, length) {
+		for (var i = 0; i < length; i++) {
+			this.putBit( ( (num >>> (length - i - 1) ) & 1) == 1);
+		}
+	},
+	
+	getLengthInBits : function() {
+		return this.length;
+	},
+	
+	putBit : function(bit) {
+	
+		var bufIndex = Math.floor(this.length / 8);
+		if (this.buffer.length <= bufIndex) {
+			this.buffer.push(0);
+		}
+	
+		if (bit) {
+			this.buffer[bufIndex] |= (0x80 >>> (this.length % 8) );
+		}
+	
+		this.length++;
+	}
+};
+
+module.exports = QRBitBuffer;
+
+};
+mods['QR8bitByte'] = function (module, exports) {
+var QRMode = req('./QRMode');
+
+function QR8bitByte(data) {
+	this.mode = QRMode.MODE_8BIT_BYTE;
+	this.data = data;
+}
+
+QR8bitByte.prototype = {
+
+	getLength : function() {
+		return this.data.length;
+	},
+	
+	write : function(buffer) {
+		for (var i = 0; i < this.data.length; i++) {
+			// not JIS ...
+			buffer.put(this.data.charCodeAt(i), 8);
+		}
+	}
+};
+
+module.exports = QR8bitByte;
+
+};
+mods['QRUtil'] = function (module, exports) {
+var QRMode = req('./QRMode');
+var QRPolynomial = req('./QRPolynomial');
+var QRMath = req('./QRMath');
+var QRMaskPattern = req('./QRMaskPattern');
+
+var QRUtil = {
+
+    PATTERN_POSITION_TABLE : [
+        [],
+        [6, 18],
+        [6, 22],
+        [6, 26],
+        [6, 30],
+        [6, 34],
+        [6, 22, 38],
+        [6, 24, 42],
+        [6, 26, 46],
+        [6, 28, 50],
+        [6, 30, 54],        
+        [6, 32, 58],
+        [6, 34, 62],
+        [6, 26, 46, 66],
+        [6, 26, 48, 70],
+        [6, 26, 50, 74],
+        [6, 30, 54, 78],
+        [6, 30, 56, 82],
+        [6, 30, 58, 86],
+        [6, 34, 62, 90],
+        [6, 28, 50, 72, 94],
+        [6, 26, 50, 74, 98],
+        [6, 30, 54, 78, 102],
+        [6, 28, 54, 80, 106],
+        [6, 32, 58, 84, 110],
+        [6, 30, 58, 86, 114],
+        [6, 34, 62, 90, 118],
+        [6, 26, 50, 74, 98, 122],
+        [6, 30, 54, 78, 102, 126],
+        [6, 26, 52, 78, 104, 130],
+        [6, 30, 56, 82, 108, 134],
+        [6, 34, 60, 86, 112, 138],
+        [6, 30, 58, 86, 114, 142],
+        [6, 34, 62, 90, 118, 146],
+        [6, 30, 54, 78, 102, 126, 150],
+        [6, 24, 50, 76, 102, 128, 154],
+        [6, 28, 54, 80, 106, 132, 158],
+        [6, 32, 58, 84, 110, 136, 162],
+        [6, 26, 54, 82, 110, 138, 166],
+        [6, 30, 58, 86, 114, 142, 170]
+    ],
+
+    G15 : (1 << 10) | (1 << 8) | (1 << 5) | (1 << 4) | (1 << 2) | (1 << 1) | (1 << 0),
+    G18 : (1 << 12) | (1 << 11) | (1 << 10) | (1 << 9) | (1 << 8) | (1 << 5) | (1 << 2) | (1 << 0),
+    G15_MASK : (1 << 14) | (1 << 12) | (1 << 10)    | (1 << 4) | (1 << 1),
+
+    getBCHTypeInfo : function(data) {
+        var d = data << 10;
+        while (QRUtil.getBCHDigit(d) - QRUtil.getBCHDigit(QRUtil.G15) >= 0) {
+            d ^= (QRUtil.G15 << (QRUtil.getBCHDigit(d) - QRUtil.getBCHDigit(QRUtil.G15) ) );    
+        }
+        return ( (data << 10) | d) ^ QRUtil.G15_MASK;
+    },
+
+    getBCHTypeNumber : function(data) {
+        var d = data << 12;
+        while (QRUtil.getBCHDigit(d) - QRUtil.getBCHDigit(QRUtil.G18) >= 0) {
+            d ^= (QRUtil.G18 << (QRUtil.getBCHDigit(d) - QRUtil.getBCHDigit(QRUtil.G18) ) );    
+        }
+        return (data << 12) | d;
+    },
+
+    getBCHDigit : function(data) {
+
+        var digit = 0;
+
+        while (data !== 0) {
+            digit++;
+            data >>>= 1;
+        }
+
+        return digit;
+    },
+
+    getPatternPosition : function(typeNumber) {
+        return QRUtil.PATTERN_POSITION_TABLE[typeNumber - 1];
+    },
+
+    getMask : function(maskPattern, i, j) {
+        
+        switch (maskPattern) {
+            
+        case QRMaskPattern.PATTERN000 : return (i + j) % 2 === 0;
+        case QRMaskPattern.PATTERN001 : return i % 2 === 0;
+        case QRMaskPattern.PATTERN010 : return j % 3 === 0;
+        case QRMaskPattern.PATTERN011 : return (i + j) % 3 === 0;
+        case QRMaskPattern.PATTERN100 : return (Math.floor(i / 2) + Math.floor(j / 3) ) % 2 === 0;
+        case QRMaskPattern.PATTERN101 : return (i * j) % 2 + (i * j) % 3 === 0;
+        case QRMaskPattern.PATTERN110 : return ( (i * j) % 2 + (i * j) % 3) % 2 === 0;
+        case QRMaskPattern.PATTERN111 : return ( (i * j) % 3 + (i + j) % 2) % 2 === 0;
+
+        default :
+            throw new Error("bad maskPattern:" + maskPattern);
+        }
+    },
+
+    getErrorCorrectPolynomial : function(errorCorrectLength) {
+
+        var a = new QRPolynomial([1], 0);
+
+        for (var i = 0; i < errorCorrectLength; i++) {
+            a = a.multiply(new QRPolynomial([1, QRMath.gexp(i)], 0) );
+        }
+
+        return a;
+    },
+
+    getLengthInBits : function(mode, type) {
+
+        if (1 <= type && type < 10) {
+
+            // 1 - 9
+
+            switch(mode) {
+            case QRMode.MODE_NUMBER     : return 10;
+            case QRMode.MODE_ALPHA_NUM  : return 9;
+            case QRMode.MODE_8BIT_BYTE  : return 8;
+            case QRMode.MODE_KANJI      : return 8;
+            default :
+                throw new Error("mode:" + mode);
+            }
+
+        } else if (type < 27) {
+
+            // 10 - 26
+
+            switch(mode) {
+            case QRMode.MODE_NUMBER     : return 12;
+            case QRMode.MODE_ALPHA_NUM  : return 11;
+            case QRMode.MODE_8BIT_BYTE  : return 16;
+            case QRMode.MODE_KANJI      : return 10;
+            default :
+                throw new Error("mode:" + mode);
+            }
+
+        } else if (type < 41) {
+
+            // 27 - 40
+
+            switch(mode) {
+            case QRMode.MODE_NUMBER     : return 14;
+            case QRMode.MODE_ALPHA_NUM  : return 13;
+            case QRMode.MODE_8BIT_BYTE  : return 16;
+            case QRMode.MODE_KANJI      : return 12;
+            default :
+                throw new Error("mode:" + mode);
+            }
+
+        } else {
+            throw new Error("type:" + type);
+        }
+    },
+
+    getLostPoint : function(qrCode) {
+        
+        var moduleCount = qrCode.getModuleCount();
+        var lostPoint = 0;
+        var row = 0; 
+        var col = 0;
+
+        
+        // LEVEL1
+        
+        for (row = 0; row < moduleCount; row++) {
+
+            for (col = 0; col < moduleCount; col++) {
+
+                var sameCount = 0;
+                var dark = qrCode.isDark(row, col);
+
+                for (var r = -1; r <= 1; r++) {
+
+                    if (row + r < 0 || moduleCount <= row + r) {
+                        continue;
+                    }
+
+                    for (var c = -1; c <= 1; c++) {
+
+                        if (col + c < 0 || moduleCount <= col + c) {
+                            continue;
+                        }
+
+                        if (r === 0 && c === 0) {
+                            continue;
+                        }
+
+                        if (dark === qrCode.isDark(row + r, col + c) ) {
+                            sameCount++;
+                        }
+                    }
+                }
+
+                if (sameCount > 5) {
+                    lostPoint += (3 + sameCount - 5);
+                }
+            }
+        }
+
+        // LEVEL2
+
+        for (row = 0; row < moduleCount - 1; row++) {
+            for (col = 0; col < moduleCount - 1; col++) {
+                var count = 0;
+                if (qrCode.isDark(row,     col    ) ) count++;
+                if (qrCode.isDark(row + 1, col    ) ) count++;
+                if (qrCode.isDark(row,     col + 1) ) count++;
+                if (qrCode.isDark(row + 1, col + 1) ) count++;
+                if (count === 0 || count === 4) {
+                    lostPoint += 3;
+                }
+            }
+        }
+
+        // LEVEL3
+
+        for (row = 0; row < moduleCount; row++) {
+            for (col = 0; col < moduleCount - 6; col++) {
+                if (qrCode.isDark(row, col) && 
+                        !qrCode.isDark(row, col + 1) && 
+                         qrCode.isDark(row, col + 2) && 
+                         qrCode.isDark(row, col + 3) && 
+                         qrCode.isDark(row, col + 4) && 
+                        !qrCode.isDark(row, col + 5) && 
+                         qrCode.isDark(row, col + 6) ) {
+                    lostPoint += 40;
+                }
+            }
+        }
+
+        for (col = 0; col < moduleCount; col++) {
+            for (row = 0; row < moduleCount - 6; row++) {
+                if (qrCode.isDark(row, col) &&
+                        !qrCode.isDark(row + 1, col) &&
+                         qrCode.isDark(row + 2, col) &&
+                         qrCode.isDark(row + 3, col) &&
+                         qrCode.isDark(row + 4, col) &&
+                        !qrCode.isDark(row + 5, col) &&
+                         qrCode.isDark(row + 6, col) ) {
+                    lostPoint += 40;
+                }
+            }
+        }
+
+        // LEVEL4
+        
+        var darkCount = 0;
+
+        for (col = 0; col < moduleCount; col++) {
+            for (row = 0; row < moduleCount; row++) {
+                if (qrCode.isDark(row, col) ) {
+                    darkCount++;
+                }
+            }
+        }
+        
+        var ratio = Math.abs(100 * darkCount / moduleCount / moduleCount - 50) / 5;
+        lostPoint += ratio * 10;
+
+        return lostPoint;       
+    }
+
+};
+
+module.exports = QRUtil;
+
+};
+mods['index'] = function (module, exports) {
+//---------------------------------------------------------------------
+// QRCode for JavaScript
+//
+// Copyright (c) 2009 Kazuhiko Arase
+//
+// URL: http://www.d-project.com/
+//
+// Licensed under the MIT license:
+//   http://www.opensource.org/licenses/mit-license.php
+//
+// The word "QR Code" is registered trademark of 
+// DENSO WAVE INCORPORATED
+//   http://www.denso-wave.com/qrcode/faqpatent-e.html
+//
+//---------------------------------------------------------------------
+// Modified to work in node for this project (and some refactoring)
+//---------------------------------------------------------------------
+
+var QR8bitByte = req('./QR8bitByte');
+var QRUtil = req('./QRUtil');
+var QRPolynomial = req('./QRPolynomial');
+var QRRSBlock = req('./QRRSBlock');
+var QRBitBuffer = req('./QRBitBuffer');
+
+function QRCode(typeNumber, errorCorrectLevel) {
+	this.typeNumber = typeNumber;
+	this.errorCorrectLevel = errorCorrectLevel;
+	this.modules = null;
+	this.moduleCount = 0;
+	this.dataCache = null;
+	this.dataList = [];
+}
+
+QRCode.prototype = {
+	
+	addData : function(data) {
+		var newData = new QR8bitByte(data);
+		this.dataList.push(newData);
+		this.dataCache = null;
+	},
+	
+	isDark : function(row, col) {
+		if (row < 0 || this.moduleCount <= row || col < 0 || this.moduleCount <= col) {
+			throw new Error(row + "," + col);
+		}
+		return this.modules[row][col];
+	},
+
+	getModuleCount : function() {
+		return this.moduleCount;
+	},
+	
+	make : function() {
+		// Calculate automatically typeNumber if provided is < 1
+		if (this.typeNumber < 1 ){
+			var typeNumber = 1;
+			for (typeNumber = 1; typeNumber < 40; typeNumber++) {
+				var rsBlocks = QRRSBlock.getRSBlocks(typeNumber, this.errorCorrectLevel);
+
+				var buffer = new QRBitBuffer();
+				var totalDataCount = 0;
+				for (var i = 0; i < rsBlocks.length; i++) {
+					totalDataCount += rsBlocks[i].dataCount;
+				}
+
+				for (var x = 0; x < this.dataList.length; x++) {
+					var data = this.dataList[x];
+					buffer.put(data.mode, 4);
+					buffer.put(data.getLength(), QRUtil.getLengthInBits(data.mode, typeNumber) );
+					data.write(buffer);
+				}
+				if (buffer.getLengthInBits() <= totalDataCount * 8)
+					break;
+			}
+			this.typeNumber = typeNumber;
+		}
+		this.makeImpl(false, this.getBestMaskPattern() );
+	},
+	
+	makeImpl : function(test, maskPattern) {
+		
+		this.moduleCount = this.typeNumber * 4 + 17;
+		this.modules = new Array(this.moduleCount);
+		
+		for (var row = 0; row < this.moduleCount; row++) {
+			
+			this.modules[row] = new Array(this.moduleCount);
+			
+			for (var col = 0; col < this.moduleCount; col++) {
+				this.modules[row][col] = null;//(col + row) % 3;
+			}
+		}
+	
+		this.setupPositionProbePattern(0, 0);
+		this.setupPositionProbePattern(this.moduleCount - 7, 0);
+		this.setupPositionProbePattern(0, this.moduleCount - 7);
+		this.setupPositionAdjustPattern();
+		this.setupTimingPattern();
+		this.setupTypeInfo(test, maskPattern);
+		
+		if (this.typeNumber >= 7) {
+			this.setupTypeNumber(test);
+		}
+	
+		if (this.dataCache === null) {
+			this.dataCache = QRCode.createData(this.typeNumber, this.errorCorrectLevel, this.dataList);
+		}
+	
+		this.mapData(this.dataCache, maskPattern);
+	},
+
+	setupPositionProbePattern : function(row, col)  {
+		
+		for (var r = -1; r <= 7; r++) {
+			
+			if (row + r <= -1 || this.moduleCount <= row + r) continue;
+			
+			for (var c = -1; c <= 7; c++) {
+				
+				if (col + c <= -1 || this.moduleCount <= col + c) continue;
+				
+				if ( (0 <= r && r <= 6 && (c === 0 || c === 6) ) || 
+                     (0 <= c && c <= 6 && (r === 0 || r === 6) ) || 
+                     (2 <= r && r <= 4 && 2 <= c && c <= 4) ) {
+					this.modules[row + r][col + c] = true;
+				} else {
+					this.modules[row + r][col + c] = false;
+				}
+			}		
+		}		
+	},
+	
+	getBestMaskPattern : function() {
+	
+		var minLostPoint = 0;
+		var pattern = 0;
+	
+		for (var i = 0; i < 8; i++) {
+			
+			this.makeImpl(true, i);
+	
+			var lostPoint = QRUtil.getLostPoint(this);
+	
+			if (i === 0 || minLostPoint >  lostPoint) {
+				minLostPoint = lostPoint;
+				pattern = i;
+			}
+		}
+	
+		return pattern;
+	},
+	
+	createMovieClip : function(target_mc, instance_name, depth) {
+	
+		var qr_mc = target_mc.createEmptyMovieClip(instance_name, depth);
+		var cs = 1;
+	
+		this.make();
+
+		for (var row = 0; row < this.modules.length; row++) {
+			
+			var y = row * cs;
+			
+			for (var col = 0; col < this.modules[row].length; col++) {
+	
+				var x = col * cs;
+				var dark = this.modules[row][col];
+			
+				if (dark) {
+					qr_mc.beginFill(0, 100);
+					qr_mc.moveTo(x, y);
+					qr_mc.lineTo(x + cs, y);
+					qr_mc.lineTo(x + cs, y + cs);
+					qr_mc.lineTo(x, y + cs);
+					qr_mc.endFill();
+				}
+			}
+		}
+		
+		return qr_mc;
+	},
+
+	setupTimingPattern : function() {
+		
+		for (var r = 8; r < this.moduleCount - 8; r++) {
+			if (this.modules[r][6] !== null) {
+				continue;
+			}
+			this.modules[r][6] = (r % 2 === 0);
+		}
+	
+		for (var c = 8; c < this.moduleCount - 8; c++) {
+			if (this.modules[6][c] !== null) {
+				continue;
+			}
+			this.modules[6][c] = (c % 2 === 0);
+		}
+	},
+	
+	setupPositionAdjustPattern : function() {
+	
+		var pos = QRUtil.getPatternPosition(this.typeNumber);
+		
+		for (var i = 0; i < pos.length; i++) {
+		
+			for (var j = 0; j < pos.length; j++) {
+			
+				var row = pos[i];
+				var col = pos[j];
+				
+				if (this.modules[row][col] !== null) {
+					continue;
+				}
+				
+				for (var r = -2; r <= 2; r++) {
+				
+					for (var c = -2; c <= 2; c++) {
+					
+						if (Math.abs(r) === 2 || 
+                            Math.abs(c) === 2 ||
+                            (r === 0 && c === 0) ) {
+							this.modules[row + r][col + c] = true;
+						} else {
+							this.modules[row + r][col + c] = false;
+						}
+					}
+				}
+			}
+		}
+	},
+	
+	setupTypeNumber : function(test) {
+	
+		var bits = QRUtil.getBCHTypeNumber(this.typeNumber);
+        var mod;
+	
+		for (var i = 0; i < 18; i++) {
+			mod = (!test && ( (bits >> i) & 1) === 1);
+			this.modules[Math.floor(i / 3)][i % 3 + this.moduleCount - 8 - 3] = mod;
+		}
+	
+		for (var x = 0; x < 18; x++) {
+			mod = (!test && ( (bits >> x) & 1) === 1);
+			this.modules[x % 3 + this.moduleCount - 8 - 3][Math.floor(x / 3)] = mod;
+		}
+	},
+	
+	setupTypeInfo : function(test, maskPattern) {
+	
+		var data = (this.errorCorrectLevel << 3) | maskPattern;
+		var bits = QRUtil.getBCHTypeInfo(data);
+        var mod;
+	
+		// vertical		
+		for (var v = 0; v < 15; v++) {
+	
+			mod = (!test && ( (bits >> v) & 1) === 1);
+	
+			if (v < 6) {
+				this.modules[v][8] = mod;
+			} else if (v < 8) {
+				this.modules[v + 1][8] = mod;
+			} else {
+				this.modules[this.moduleCount - 15 + v][8] = mod;
+			}
+		}
+	
+		// horizontal
+		for (var h = 0; h < 15; h++) {
+	
+			mod = (!test && ( (bits >> h) & 1) === 1);
+			
+			if (h < 8) {
+				this.modules[8][this.moduleCount - h - 1] = mod;
+			} else if (h < 9) {
+				this.modules[8][15 - h - 1 + 1] = mod;
+			} else {
+				this.modules[8][15 - h - 1] = mod;
+			}
+		}
+	
+		// fixed module
+		this.modules[this.moduleCount - 8][8] = (!test);
+	
+	},
+	
+	mapData : function(data, maskPattern) {
+		
+		var inc = -1;
+		var row = this.moduleCount - 1;
+		var bitIndex = 7;
+		var byteIndex = 0;
+		
+		for (var col = this.moduleCount - 1; col > 0; col -= 2) {
+	
+			if (col === 6) col--;
+	
+			while (true) {
+	
+				for (var c = 0; c < 2; c++) {
+					
+					if (this.modules[row][col - c] === null) {
+						
+						var dark = false;
+	
+						if (byteIndex < data.length) {
+							dark = ( ( (data[byteIndex] >>> bitIndex) & 1) === 1);
+						}
+	
+						var mask = QRUtil.getMask(maskPattern, row, col - c);
+	
+						if (mask) {
+							dark = !dark;
+						}
+						
+						this.modules[row][col - c] = dark;
+						bitIndex--;
+	
+						if (bitIndex === -1) {
+							byteIndex++;
+							bitIndex = 7;
+						}
+					}
+				}
+								
+				row += inc;
+	
+				if (row < 0 || this.moduleCount <= row) {
+					row -= inc;
+					inc = -inc;
+					break;
+				}
+			}
+		}
+		
+	}
+
+};
+
+QRCode.PAD0 = 0xEC;
+QRCode.PAD1 = 0x11;
+
+QRCode.createData = function(typeNumber, errorCorrectLevel, dataList) {
+	
+	var rsBlocks = QRRSBlock.getRSBlocks(typeNumber, errorCorrectLevel);
+	
+	var buffer = new QRBitBuffer();
+	
+	for (var i = 0; i < dataList.length; i++) {
+		var data = dataList[i];
+		buffer.put(data.mode, 4);
+		buffer.put(data.getLength(), QRUtil.getLengthInBits(data.mode, typeNumber) );
+		data.write(buffer);
+	}
+
+	// calc num max data.
+	var totalDataCount = 0;
+	for (var x = 0; x < rsBlocks.length; x++) {
+		totalDataCount += rsBlocks[x].dataCount;
+	}
+
+	if (buffer.getLengthInBits() > totalDataCount * 8) {
+		throw new Error("code length overflow. (" + 
+            buffer.getLengthInBits() + 
+            ">" +  
+            totalDataCount * 8 + 
+            ")");
+	}
+
+	// end code
+	if (buffer.getLengthInBits() + 4 <= totalDataCount * 8) {
+		buffer.put(0, 4);
+	}
+
+	// padding
+	while (buffer.getLengthInBits() % 8 !== 0) {
+		buffer.putBit(false);
+	}
+
+	// padding
+	while (true) {
+		
+		if (buffer.getLengthInBits() >= totalDataCount * 8) {
+			break;
+		}
+		buffer.put(QRCode.PAD0, 8);
+		
+		if (buffer.getLengthInBits() >= totalDataCount * 8) {
+			break;
+		}
+		buffer.put(QRCode.PAD1, 8);
+	}
+
+	return QRCode.createBytes(buffer, rsBlocks);
+};
+
+QRCode.createBytes = function(buffer, rsBlocks) {
+
+	var offset = 0;
+	
+	var maxDcCount = 0;
+	var maxEcCount = 0;
+	
+	var dcdata = new Array(rsBlocks.length);
+	var ecdata = new Array(rsBlocks.length);
+	
+	for (var r = 0; r < rsBlocks.length; r++) {
+
+		var dcCount = rsBlocks[r].dataCount;
+		var ecCount = rsBlocks[r].totalCount - dcCount;
+
+		maxDcCount = Math.max(maxDcCount, dcCount);
+		maxEcCount = Math.max(maxEcCount, ecCount);
+		
+		dcdata[r] = new Array(dcCount);
+		
+		for (var i = 0; i < dcdata[r].length; i++) {
+			dcdata[r][i] = 0xff & buffer.buffer[i + offset];
+		}
+		offset += dcCount;
+		
+		var rsPoly = QRUtil.getErrorCorrectPolynomial(ecCount);
+		var rawPoly = new QRPolynomial(dcdata[r], rsPoly.getLength() - 1);
+
+		var modPoly = rawPoly.mod(rsPoly);
+		ecdata[r] = new Array(rsPoly.getLength() - 1);
+		for (var x = 0; x < ecdata[r].length; x++) {
+            var modIndex = x + modPoly.getLength() - ecdata[r].length;
+			ecdata[r][x] = (modIndex >= 0)? modPoly.get(modIndex) : 0;
+		}
+
+	}
+	
+	var totalCodeCount = 0;
+	for (var y = 0; y < rsBlocks.length; y++) {
+		totalCodeCount += rsBlocks[y].totalCount;
+	}
+
+	var data = new Array(totalCodeCount);
+	var index = 0;
+
+	for (var z = 0; z < maxDcCount; z++) {
+		for (var s = 0; s < rsBlocks.length; s++) {
+			if (z < dcdata[s].length) {
+				data[index++] = dcdata[s][z];
+			}
+		}
+	}
+
+	for (var xx = 0; xx < maxEcCount; xx++) {
+		for (var t = 0; t < rsBlocks.length; t++) {
+			if (xx < ecdata[t].length) {
+				data[index++] = ecdata[t][xx];
+			}
+		}
+	}
+
+	return data;
+
+};
+
+module.exports = QRCode;
+
+};
+var QRCode = req('index'), QRErrorCorrectLevel = req('QRErrorCorrectLevel');
+function make(text, level) {
+  var lv = QRErrorCorrectLevel[level || 'M'];
+  for (var t = 1; t <= 40; t++) { try { var q = new QRCode(t, lv); q.addData(text); q.make(); return q; } catch (e) { if (!/overflow/i.test(String(e))) throw e; } }
+  throw new Error('too long');
+}
+function draw(el, text, size, level) {
+  var q = make(text, level), n = q.getModuleCount(), c = document.createElement('canvas'), s = Math.max(1, Math.floor((size || 196) / (n + 8)));
+  var px = s * (n + 8); c.width = px; c.height = px; var g = c.getContext('2d'); g.fillStyle = '#fff'; g.fillRect(0, 0, px, px); g.fillStyle = '#0B1A33';
+  for (var r = 0; r < n; r++) for (var k = 0; k < n; k++) if (q.isDark(r, k)) g.fillRect((k + 4) * s, (r + 4) * s, s, s);
+  c.style.width = c.style.height = px + 'px'; el.innerHTML = ''; el.appendChild(c); return c;
+}
+return { make: make, draw: draw };
+})();</script>
+<script>
+(function () {
+"use strict";
+// ---------------------------------------------------------------- helpers
+var $ = function (id) { return document.getElementById(id); };
+function esc(s) { return String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/"/g, "&quot;"); }
+function store(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+function load(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+function jload(k, d) { try { return JSON.parse(load(k) || "null") || d; } catch (e) { return d; } }
+var DAY = 86400000;
+function ago(t) { if (!t) return "never"; var d = Date.now() - t; if (d < 3600000) return Math.max(1, Math.round(d / 60000)) + " min ago"; if (d < DAY) return Math.round(d / 3600000) + " h ago"; var n = Math.round(d / DAY); return n === 1 ? "yesterday" : n + " days ago"; }
+function dstr(t) { if (!t) return ""; var d = new Date(t); return d.toLocaleDateString("en-GB", { day: "numeric", month: "short" }); }
+function isoDay(t) { var d = new Date(t || Date.now()); return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0"); }
+function initials(n) { return (n || "?").split(/\s+/).map(function (x) { return x[0]; }).join("").slice(0, 2).toUpperCase(); }
+var AVC = ["#0B4FB8", "#087F73", "#8A5E00", "#B3261E", "#5B3FB8", "#1F6FEB", "#0FB5A4"];
+function avColor(s) { var h = 0; for (var i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) >>> 0; return AVC[h % AVC.length]; }
+function toast(t) { var el = $("toast"); el.textContent = t; el.hidden = false; clearTimeout(toast.t); toast.t = setTimeout(function () { el.hidden = true; }, 2600); }
+function modal(html) { $("modal-in").innerHTML = '<button type="button" class="modal-x" id="modal-x" aria-label="Close">✕</button>' + html; $("modal").hidden = false; $("modal-x").addEventListener("click", closeModal); }
+function closeModal() { $("modal").hidden = true; $("modal-in").innerHTML = ""; }
+$("modal").addEventListener("click", function (e) { if (e.target === $("modal")) closeModal(); });
+document.addEventListener("keydown", function (e) { if (e.key === "Escape" && !$("modal").hidden) closeModal(); });
+function copy(t) { if (navigator.clipboard) return navigator.clipboard.writeText(t).then(function () { toast("Copied."); }).catch(function () { toast(t); }); toast(t); return Promise.resolve(); }
+function withRef(u, code) { if (!u) return u; return u + (u.indexOf("?") < 0 ? "?" : "&") + "ref=" + encodeURIComponent(code); }
+
+// ---------------------------------------------------------------- config, plan, presence
+var CFG = window.D1_PRO || {}, PD = JSON.parse($("persona-data").textContent), KB = JSON.parse($("kb-data").textContent), BANK = JSON.parse($("bank-data").textContent);
+var KEYS = ["D", "I", "S", "C"];
+function styleOf(k) { for (var i = 0; i < PD.styles.length; i++) if (PD.styles[i].k === k) return PD.styles[i]; return null; }
+var PLAN = (function () { var p = CFG.plan === "free" ? "free" : "vip"; if (CFG.demo) { var m = /[?&]plan=(free|vip)\b/.exec(location.search); if (m) store("d1pro-plan", m[1]); var d = load("d1pro-plan"); if (d === "vip" || d === "free") p = d; } return p; })();
+var VIP = PLAN === "vip";
+var PRES = { online: null, zoom: null, agents: 0 };
+function presencePaint() {
+  var human = PRES.online === true, p = $("pres"), t = $("pres-t"), hn = $("hand-note"), hb = $("hand-btn");
+  if (p) { p.className = "pres " + (human ? "human" : "ai"); p.querySelector(".pdot").className = "pdot " + (human ? "human" : "ai"); }
+  if (t) t.textContent = human ? (PRES.agents > 1 ? PRES.agents + " people online" : "A person is online") : "Aria answers now";
+  if (hb) hb.textContent = human ? "Talk to a person" : "Ask for a person";
+  if (hn && !hn.getAttribute("data-sent")) hn.textContent = !VIP ? "A live person on chat and on Zoom is part of Delta One VIP. Aria answers everyone." : human ? "A person is online now. Press Talk to a person and your conversation goes with you." : "No person is free at this moment, so Aria answers. Press Ask for a person: the team gets your question and comes back to you.";
+}
+function presenceCheck() {
+  var p = CFG.presence; if (!p) { presencePaint(); return; }
+  var pr; try { pr = (typeof p === "function") ? p() : fetch(p, { credentials: "omit" }).then(function (r) { return r.json(); }); } catch (e) { pr = Promise.reject(e); }
+  Promise.resolve(pr).then(function (j) { PRES = { online: !!(j && j.online), zoom: (j && typeof j.zoom === "boolean") ? j.zoom : null, agents: (j && j.agents) || ((j && j.online) ? 1 : 0) }; }).catch(function () { PRES = { online: null, zoom: null, agents: 0 }; }).then(presencePaint);
+}
+presenceCheck(); setInterval(presenceCheck, 30000); window.__presCheck = presenceCheck;
+if ($("zoom-link") && CFG.zoom) $("zoom-link").href = CFG.zoom;
+
+// ---------------------------------------------------------------- data: demo team, contacts, templates (replaced by the API when D1_PRO.api is set)
+var NOW = Date.now();
+function tr(o) {   // a member's training summary (the shape the VIP page sends: D1T.summary())
+  o = o || {};
+  var s = { steps: { "1": !!o.s1, "2": !!o.s2, "3": !!o.s3 }, checkpoint: o.quiz || null, review: o.review || null, videos: {}, docs: {}, tools: o.tools || {}, support: {}, asks: o.asks || 0,
+            teach: o.teach ? { chars: o.teach.length, text: o.teach, at: NOW - 2 * DAY } : null, tour: o.tour || null, persona: o.persona ? { version: o.full ? "full" : "light", primary: o.persona[0], secondary: o.persona[1] || null, scores: o.scores || null } : null,
+            planner: o.planner || null, visits: o.visits || 1, firstSeen: o.first || NOW - 10 * DAY, lastSeen: o.last || NOW - DAY,
+            cert: o.cert ? { passed: true, id: o.cert[0], date: o.cert[1], attempts: o.cert[2] || 1, best: 30 } : (o.certTry ? { passed: false, attempts: o.certTry[0], best: o.certTry[1] } : null),
+            courses: o.courses || null };
+  if (o.pres != null) s.videos.presentation_narrated = { max: Math.round(618 * o.pres / 100), dur: 618, pct: o.pres, done: o.pres >= 100 };
+  if (o.cart != null) s.videos.momentum_cartoon = { max: Math.round(238 * o.cart / 100), dur: 238, pct: o.cart, done: o.cart >= 100 };
+  (o.docs || []).forEach(function (d) { s.docs[d[0]] = { opened: d[1] || 1, maxPage: d[2] || 1, pages: d[3] || d[2] || 1 }; });
+  return s;
+}
+var DEMO_ME = { id: "m-1001", name: "Maya Chen", code: "MAYA-7K2", phone: "+6591234567", country: "SG", rank: 2, module: 2500, plan: PLAN, joined: NOW - 62 * DAY, lines: 3, vipSince: NOW - 40 * DAY, renew: NOW + 20 * DAY,
+  training: tr({ s1: 1, s2: 1, s3: 1, quiz: "6/6", review: { stage: 2, next: NOW + 3 * DAY }, pres: 100, cart: 100, docs: [["Delta_One_7_Summits_to_Success", 3, 1, 1], ["Delta_One_Momentum_Plan_Simple_Words", 2, 16, 16], ["Delta_One_Module_Key_Facts", 4, 1, 1], ["Delta_One_Getting_Started_Checklist", 2, 4, 4], ["Delta_One_Momentum_Plan_Distributor_Guide", 1, 12, 12]], tools: { calculator: 4, planner: 2 }, persona: ["I", "D"], full: 1, scores: { D: 14, I: 23, S: 2, C: -3 }, planner: { ticks: 9, total: 21, phases: [true, true, false, false] }, cert: ["D1-CPM-MV0A3KQ-7FD", "28 September 2026", 2], courses: { "honest-close": { done: 6, of: 6, complete: true }, "people-first": { done: 3, of: 6, complete: false } }, last: NOW - 3600000, first: NOW - 60 * DAY, visits: 31 }) };
+var DEMO_TEAM = [
+  { id: "m-2001", name: "Ken Tanaka", phone: "+819012345678", country: "JP", sponsorId: "m-1001", line: 1, rank: 1, module: 1000, plan: "vip", joined: NOW - 40 * DAY,
+    training: tr({ s1: 1, s2: 1, s3: 1, quiz: "5/6", review: { stage: 1, next: NOW + DAY }, pres: 100, cart: 100, docs: [["Delta_One_7_Summits_to_Success", 2, 1, 1], ["Delta_One_Momentum_Plan_Simple_Words", 1, 16, 16], ["Delta_One_Module_Key_Facts", 2, 1, 1], ["Delta_One_Getting_Started_Checklist", 1, 4, 4]], tools: { calculator: 2, planner: 1 }, persona: ["C", "S"], full: 1, scores: { D: -2, I: 4, S: 11, C: 21 }, planner: { ticks: 7, total: 21, phases: [true, false, false, false] }, teach: "1. You buy a module, a software purchase. 2. You get 2% of what each contract earns, level by level. 3. Nothing is promised and most members earn no commission.", cert: ["D1-CPM-MV0B9Z1-K2P", "5 October 2026", 3], courses: { "psychology-of-yes": { done: 2, of: 6, complete: false } }, last: NOW - 5 * 3600000, visits: 14 }) },
+  { id: "m-2002", name: "Priya Nair", phone: "+919876543210", country: "IN", sponsorId: "m-1001", line: 2, rank: 0, module: 0, plan: "free", joined: NOW - 6 * DAY,
+    training: tr({ s1: 1, s2: 0, s3: 0, pres: 12, cart: 41, docs: [["Delta_One_7_Summits_to_Success", 1, 1, 1]], persona: ["S"], last: NOW - 3 * DAY, first: NOW - 6 * DAY, visits: 3 }) },
+  { id: "m-2003", name: "Daniel Okafor", phone: "+2348012345678", country: "NG", sponsorId: "m-1001", line: 3, rank: 1, module: 1000, plan: "vip", joined: NOW - 28 * DAY,
+    training: tr({ s1: 1, s2: 1, s3: 0, pres: 100, cart: 100, docs: [["Delta_One_7_Summits_to_Success", 1, 1, 1], ["Delta_One_Momentum_Plan_Simple_Words", 1, 9, 16], ["Delta_One_Module_Key_Facts", 1, 1, 1]], tools: { calculator: 1 }, persona: ["D", "I"], full: 1, scores: { D: 22, I: 12, S: -4, C: 1 }, last: NOW - 2 * 3600000, visits: 9 }) },
+  { id: "m-2004", name: "Siti Rahman", phone: "+60123456789", country: "MY", sponsorId: "m-2001", line: 1, rank: 0, module: 1000, plan: "free", joined: NOW - 20 * DAY,
+    training: tr({ s1: 1, s2: 1, s3: 1, quiz: "3/6", pres: 100, cart: 55, docs: [["Delta_One_7_Summits_to_Success", 1, 1, 1], ["Delta_One_Momentum_Plan_Simple_Words", 1, 16, 16], ["Delta_One_Module_Key_Facts", 1, 1, 1]], persona: ["S", "C"], last: NOW - 9 * DAY, visits: 6 }) },
+  { id: "m-2005", name: "Minh Tran", phone: "+84912345678", country: "VN", sponsorId: "m-2001", line: 1, rank: 0, module: 0, plan: "free", joined: NOW - 4 * DAY,
+    training: tr({ cart: 100, pres: 30, s1: 1, docs: [["Delta_One_Module_Key_Facts", 1, 1, 1]], last: NOW - 8 * 3600000, first: NOW - 4 * DAY, visits: 4 }) },
+  { id: "m-2006", name: "Aroon Siri", phone: "+66812345678", country: "TH", sponsorId: "m-2003", line: 3, rank: 0, module: 0, plan: "free", joined: NOW - 12 * DAY,
+    training: tr({ last: NOW - 12 * DAY, first: NOW - 12 * DAY, visits: 1 }) },
+  { id: "m-2007", name: "Hana Kim", phone: "+821012345678", country: "KR", sponsorId: "m-2003", line: 3, rank: 0, module: 1000, plan: "vip", joined: NOW - 15 * DAY,
+    training: tr({ s1: 1, s2: 1, s3: 1, quiz: "6/6", review: { stage: 0, next: NOW - DAY }, pres: 100, cart: 100, docs: [["Delta_One_7_Summits_to_Success", 2, 1, 1], ["Delta_One_Momentum_Plan_Simple_Words", 1, 16, 16], ["Delta_One_Module_Key_Facts", 3, 1, 1], ["Delta_One_Getting_Started_Checklist", 1, 4, 4], ["Delta_One_Language_Card", 1, 1, 1]], tools: { calculator: 3, planner: 1 }, persona: ["I", "S"], full: 1, scores: { D: 3, I: 19, S: 13, C: -5 }, planner: { ticks: 4, total: 21, phases: [false, false, false, false] }, certTry: [2, 27], last: NOW - DAY, visits: 11 }) },
+  { id: "m-2008", name: "Lucas Silva", phone: "+5511987654321", country: "BR", sponsorId: "m-2002", line: 2, rank: 0, module: 0, plan: "free", joined: NOW - 2 * DAY,
+    training: tr({ cart: 100, s1: 0, last: NOW - 2 * DAY, first: NOW - 2 * DAY, visits: 1 }) },
+  { id: "m-2009", name: "Fatima Noor", phone: "+971501234567", country: "AE", sponsorId: "m-2007", line: 3, rank: 0, module: 0, plan: "free", joined: NOW - 9 * DAY,
+    training: tr({ s1: 1, s2: 1, s3: 0, pres: 100, cart: 100, docs: [["Delta_One_7_Summits_to_Success", 1, 1, 1], ["Delta_One_Momentum_Plan_Simple_Words", 1, 16, 16], ["Delta_One_Module_Key_Facts", 1, 1, 1]], persona: ["C"], last: NOW - 6 * DAY, visits: 5 }) },
+  { id: "m-2010", name: "Wei Zhang", phone: "+8613812345678", country: "CN", sponsorId: "m-2004", line: 1, rank: 0, module: 0, plan: "free", joined: NOW - 7 * DAY,
+    training: tr({ s1: 1, pres: 67, docs: [["Delta_One_Module_Key_Facts", 1, 1, 1]], last: NOW - 7 * DAY, visits: 2 }) },
+  { id: "m-2011", name: "Ravi Patel", phone: "+919123456780", country: "IN", sponsorId: "m-2002", line: 2, rank: 0, module: 1000, plan: "free", joined: NOW - 11 * DAY,
+    training: tr({ s1: 1, s2: 1, s3: 1, quiz: "4/6", pres: 100, cart: 100, docs: [["Delta_One_7_Summits_to_Success", 1, 1, 1], ["Delta_One_Momentum_Plan_Simple_Words", 1, 16, 16], ["Delta_One_Module_Key_Facts", 1, 1, 1], ["Delta_One_Getting_Started_Checklist", 1, 2, 4]], persona: ["D"], last: NOW - 2 * DAY, visits: 7 }) },
+  { id: "m-2012", name: "Nadia Ivanova", phone: "+380501234567", country: "UA", sponsorId: "m-2007", line: 3, rank: 0, module: 0, plan: "free", joined: NOW - DAY,
+    training: tr({ cart: 18, last: NOW - 3 * 3600000, first: NOW - DAY, visits: 2 }) },
+  { id: "m-2013", name: "Bongani Dlamini", phone: "+27821234567", country: "ZA", sponsorId: "m-2003", line: 3, rank: 0, module: 1000, plan: "vip", joined: NOW - 33 * DAY,
+    training: tr({ s1: 1, s2: 1, s3: 1, quiz: "5/6", review: { stage: 3, next: 0 }, pres: 100, cart: 100, docs: [["Delta_One_7_Summits_to_Success", 2, 1, 1], ["Delta_One_Momentum_Plan_Simple_Words", 1, 16, 16], ["Delta_One_Module_Key_Facts", 2, 1, 1], ["Delta_One_Getting_Started_Checklist", 1, 4, 4], ["Delta_One_Momentum_Plan_Cheat_Sheet", 1, 1, 1]], tools: { calculator: 5, planner: 3 }, persona: ["S", "D"], full: 1, scores: { D: 9, I: 1, S: 18, C: 6 }, planner: { ticks: 14, total: 21, phases: [true, true, false, false] }, cert: ["D1-CPM-MV0C1XQ-R8T", "2 October 2026", 1], courses: { "leading-volunteers": { done: 6, of: 6, complete: true }, "honest-close": { done: 6, of: 6, complete: true } }, last: NOW - 4 * 3600000, visits: 19 }) },
+];
+var DEMO_CONTACTS = [
+  { id: "c1", name: "Alicia Gomez", phone: "+34612345678", apps: ["whatsapp"], stage: "watched", style: "I", notes: "Watched the cartoon, wants to see the calculator.", followUp: isoDay(NOW), lastContact: NOW - 2 * DAY },
+  { id: "c2", name: "Tom Becker", phone: "+4915112345678", apps: ["whatsapp", "telegram"], stage: "contacted", style: null, notes: "", followUp: isoDay(NOW + DAY), lastContact: NOW - 4 * DAY },
+  { id: "c3", name: "Yuki Sato", phone: "+819098765432", apps: ["line"], stage: "new", style: null, notes: "Friend of Ken.", followUp: isoDay(NOW), lastContact: 0 },
+  { id: "c4", name: "Grace Mwangi", phone: "+254712345678", apps: ["whatsapp"], stage: "read", style: "C", notes: "Read the Key Facts, asked about the line balance rule.", followUp: isoDay(NOW - DAY), lastContact: NOW - 3 * DAY },
+  { id: "c5", name: "Omar Haddad", phone: "+962790123456", apps: ["whatsapp", "messenger"], stage: "new", style: null, notes: "", followUp: "", lastContact: 0 },
+  { id: "c6", name: "Linh Pham", phone: "+84987654321", apps: ["zalo"], stage: "contacted", style: "S", notes: "", followUp: isoDay(NOW + 2 * DAY), lastContact: NOW - DAY },
+  { id: "c7", name: "Sofia Rossi", phone: "+393491234567", apps: ["whatsapp", "telegram"], stage: "signedup", style: "D", notes: "Signed up Tuesday; walking the hallway.", followUp: isoDay(NOW + DAY), lastContact: NOW - DAY, memberId: "m-2012" },
+  { id: "c8", name: "Jae-won Park", phone: "+821098765432", apps: ["kakao"], stage: "new", style: null, notes: "", followUp: "", lastContact: 0 },
+  { id: "c9", name: "Ana Pereira", phone: "+351912345678", apps: ["whatsapp"], stage: "active", style: "I", notes: "Own module, Fuji next month.", followUp: "", lastContact: NOW - 5 * DAY, memberId: "m-2001" },
+  { id: "c10", name: "Chen Wei", phone: "+8613987654321", apps: ["wechat"], stage: "watched", style: null, notes: "Sent the cartoon in Chinese.", followUp: isoDay(NOW), lastContact: NOW - DAY },
+];
+var TEMPLATES = [
+  { id: "invite", name: "First invitation · the 4-minute cartoon", text: "Hi {{name}}, it's {{me}}. I'd like to show you something I'm doing: a 4-minute cartoon explains it better than I can. {{link}} It is a software purchase, not a deposit, and nothing is promised — tell me what you think?" },
+  { id: "after-cartoon", name: "After the cartoon · the Key Facts", text: "Thanks for watching, {{name}}. Here is the honest two-page version, the Key Facts: what you buy, what it can pay, what it never promises. {{link}} Which part would you like to talk about first?" },
+  { id: "book", name: "Book a Zoom with an agent", text: "{{name}}, the easiest next step is ten minutes on Zoom with me and a Delta One agent — any hour, no account needed. {{link}} Tonight at 8, or tomorrow morning?" },
+  { id: "noreply", name: "No reply · gentle nudge", text: "Hi {{name}}, no pressure at all — I just wanted to check whether the short film reached you. {{link}} If it's not for you, that's completely fine; if it is, I'm here for questions." },
+  { id: "welcome", name: "New member · welcome", text: "Welcome, {{name}}! Your first door is Step 1 on your training page: watch the film, then read the three documents, then we set up your account together. {{link}} I'll call you on day 1 after the first settlement (12:00 UTC)." },
+  { id: "day11", name: "Day 11 · the switch", text: "{{name}}, tomorrow is your day 11: the Auto-Rebuy switch appears in your app. ON keeps rebuying, OFF sends results to your wallet. Keep it ON if you want the Believer path. Questions? Call me, or ask Aria on your training page: {{link}}" },
+  { id: "stalled", name: "Stopped halfway · pick up where you left", text: "{{name}}, your training page remembers where you stopped — the film resumes from the same minute. {{link}} Ten minutes tonight and Step 1 is done. Want me to walk it with you on Zoom?" },
+  { id: "style", name: "Share the climbing-style test", text: "{{name}}, a quick one for fun: 20 questions, 3 minutes, and you get your climbing style — how you decide, what moves you, how people should work with you. {{link}} Mine is {{style}}. Send me yours?" },
+];
+var STYLE_TONE = { D: "Keep it short: one line on what it is, one number, one question.", I: "Warm and personal; a picture or the cartoon; a social next step.", S: "No hurry, no pressure; the Key Facts; come back next week.", C: "Precise: the guide and the page number; every figure as an average." };
+
+var state = { me: null, team: [], contacts: [], sent: [], ready: false };
+function demoLoad() {
+  var saved = jload("d1pro-demo", null);
+  state.me = DEMO_ME; state.team = DEMO_TEAM.slice();
+  state.contacts = (saved && saved.contacts) ? saved.contacts : DEMO_CONTACTS.slice();
+  state.sent = (saved && saved.sent) ? saved.sent : [];
+  state.notes = (saved && saved.notes) ? saved.notes : {};
+  var st = jload("d1pro-style", null); if (st && st.primary) state.me.training.persona = st;
+  state.ready = true;
+}
+function demoSave() { store("d1pro-demo", JSON.stringify({ contacts: state.contacts, sent: state.sent, notes: state.notes })); }
+function api(method, path, body) {
+  if (!CFG.api) return Promise.reject({ code: "no_api" });
+  var h = { "Content-Type": "application/json" }; if (CFG.token) h["Authorization"] = "Bearer " + CFG.token;
+  return fetch(CFG.api.replace(/\/$/, "") + path, { method: method, headers: h, body: body ? JSON.stringify(body) : undefined, credentials: "omit" }).then(function (r) { if (!r.ok) throw { code: r.status }; return r.status === 204 ? null : r.json(); });
+}
+function apiLoad() {
+  return Promise.all([api("GET", "/me"), api("GET", "/team"), api("GET", "/contacts")]).then(function (r) { state.me = r[0]; state.team = r[1].members || r[1]; state.contacts = r[2].contacts || r[2]; state.sent = []; state.notes = {}; state.ready = true; });
+}
+function persistContacts() { if (CFG.api) api("PUT", "/contacts", { contacts: state.contacts }).catch(function () { toast("Could not save to the server; kept on this device."); }); demoSave(); }
+
+// ---------------------------------------------------------------- status of a member
+var STATUS = { not_started: "Not started", watching: "Watching", reading: "Reading", doing: "Doing", checkpoint: "Checkpoint", ready: "Ready", active: "Active member" };
+function passed(cp) { if (!cp) return false; var m = /^(\d+)\/(\d+)/.exec(cp); return m ? (+m[1] >= 4) : false; }
+function statusOf(m) {
+  var t = m.training || {}, st = t.steps || {};
+  var s = !t.visits ? "not_started" : !st["1"] ? "watching" : !st["2"] ? "reading" : !st["3"] ? "doing" : !passed(t.checkpoint) ? "checkpoint" : "ready";
+  if (m.module > 0 && s === "ready") s = "active";
+  return s;
+}
+function stalled(m) { var t = m.training || {}; var s = statusOf(m); return s !== "active" && s !== "ready" && t.lastSeen && (NOW - t.lastSeen) > 5 * DAY; }
+function pctDone(m) {   // a rough "how far through the hallway" number
+  var t = m.training || {}, st = t.steps || {}, v = t.videos || {}, p = 0;
+  var film = Math.max((v.presentation_narrated || {}).pct || 0, (v.momentum_cartoon || {}).pct || 0);
+  p += st["1"] ? 25 : Math.round(film * 0.25); p += st["2"] ? 25 : Math.min(25, Object.keys(t.docs || {}).length * 8); p += st["3"] ? 25 : 0; p += passed(t.checkpoint) ? 25 : (t.checkpoint ? 10 : 0);
+  return Math.min(100, p);
+}
+function nextAction(m) {
+  var t = m.training || {}, s = statusOf(m), v = t.videos || {}, first = (m.name || "").split(" ")[0];
+  var cart = v.momentum_cartoon || {}, pres = v.presentation_narrated || {};
+  if (s === "not_started") return { text: first + " has not opened the training page yet. Send the 4-minute cartoon with your link.", tpl: "invite" };
+  if (s === "watching") { var pc = Math.max(cart.pct || 0, pres.pct || 0); return { text: first + " stopped at " + pc + "% of the film " + ago(t.lastSeen) + ". The page resumes where they left — send the nudge.", tpl: "stalled" }; }
+  if (s === "reading") return { text: first + " watched the film but has not read the three documents. Send the Key Facts and ask one question.", tpl: "after-cartoon" };
+  if (s === "doing") return { text: first + " is on Step 3. Book the Getting Started call: account, wallet, first module, together.", tpl: "book" };
+  if (s === "checkpoint") return { text: first + " scored " + (t.checkpoint || "—") + " on the checkpoint. Walk the hallway again with them on Zoom.", tpl: "book" };
+  if (s === "ready" && !m.module) return { text: first + " passed the checkpoint and has no module yet. This is the Getting Started conversation.", tpl: "book" };
+  if (t.review && t.review.next && t.review.next < NOW && t.review.stage < 3) return { text: first + "'s review " + (t.review.stage + 1) + " of 3 is due. A two-minute reminder keeps the plan fresh.", tpl: "noreply" };
+  return { text: first + " is active. Help them open their first line: ask for their list of 50 names.", tpl: "welcome" };
+}
+function styleChip(k, full) { var s = styleOf(k); if (!s) return '<span class="sty"><i></i>No style yet</span>'; return '<span class="sty" style="--sc:' + s.color + '"><i></i>' + esc(s.name) + (full ? "" : "") + '</span>'; }
+
+// ---------------------------------------------------------------- router
+var SCREENS = ["overview", "team", "member", "contacts", "share", "landing", "style", "aria", "account"];
+var route = { s: "overview", id: null };
+function go(hash) { location.hash = hash; }
+function parse() { var m = /^#\/(\w+)(?:\/([^/]+))?/.exec(location.hash || "#/overview"); route = { s: m ? m[1] : "overview", id: m ? (m[2] || null) : null }; if (SCREENS.indexOf(route.s) < 0 && route.s !== "test") route.s = "overview"; }
+var TITLES = { overview: "Home", team: "Your team", member: "Member", contacts: "Contacts", share: "Share & messages", landing: "My landing page", style: "My climbing style", aria: "Aria", account: "Account" };
+function render() {
+  parse();
+  if (route.s === "test") { renderGuest(route.id); return; }
+  $("guest").hidden = true; $("app").hidden = false;
+  SCREENS.forEach(function (s) { var el = $("s-" + s); if (el) el.hidden = s !== route.s; });
+  Array.prototype.forEach.call(document.querySelectorAll("#nav a"), function (a) { a.classList.toggle("on", a.getAttribute("data-s") === route.s || (route.s === "member" && a.getAttribute("data-s") === "team")); });
+  $("title").textContent = TITLES[route.s] || "Delta One VIP Pro";
+  var fn = { overview: renderOverview, team: renderTeam, member: renderMember, contacts: renderContacts, share: renderShare, landing: renderLanding, style: renderStyle, aria: renderAria, account: renderAccount }[route.s];
+  if (fn) fn();
+  window.scrollTo({ top: 0 });
+}
+window.addEventListener("hashchange", render);
+function lockCard(what) {
+  return '<div class="card lock-card"><p class="kicker">Delta One VIP · 99 USDT a month</p><h2>' + esc(what) + ' is part of Delta One VIP.</h2><p>Your personal assistant, a live agent on Zoom 24/7, a concierge, your dashboard and your team\'s, your contacts and one-tap messages, your own landing page, the full climbing-style profile and the Skill Shop. Every document in the library is free for every member.</p><div class="actions"><a class="btn gold big" href="' + esc(CFG.upgradeUrl || "#/account") + '"' + (CFG.upgradeUrl ? ' target="_blank" rel="noopener"' : '') + '>Go VIP · 99 USDT/month</a></div><p class="tiny muted">Paid monthly in USDT, the same way you purchase a module — or from your rewards in the back office. Draft for legal and compliance review.</p></div>';
+}
+function railMe() {
+  var me = state.me; $("rail-me").innerHTML = '<span class="av" style="background:' + avColor(me.name) + '">' + esc(initials(me.name)) + '</span><div><b>' + esc(me.name) + '</b><span>' + esc(RANKS[me.rank || 0]) + ' · ' + esc(me.code) + '</span></div><span class="plan-pill ' + (VIP ? "" : "free") + '">' + (VIP ? "VIP" : "Free") + '</span>';
+  $("n-team").textContent = state.team.length || "";
+  var due = state.contacts.filter(function (c) { return c.followUp && c.followUp <= isoDay() && c.stage !== "active"; }).length; $("n-due").textContent = due || "";
+  Array.prototype.forEach.call(document.querySelectorAll("#nav a[data-vip]"), function (a) { var l = a.querySelector(".lock"); if (!VIP && !l) { l = document.createElement("span"); l.className = "lock"; l.textContent = "VIP"; a.appendChild(l); } else if (VIP && l) l.remove(); });
+}
+var RANKS = ["No rank yet", "Fuji", "Kilimanjaro", "Matterhorn", "Denali", "Rainier", "K-2", "Everest"];
+
+// ---------------------------------------------------------------- Home
+function progressCard(m, mine) {
+  var t = m.training || {}, st = t.steps || {}, v = t.videos || {}, docs = Object.keys(t.docs || {}).length;
+  var pres = v.presentation_narrated || {}, cart = v.momentum_cartoon || {};
+  function bar(label, pct, color) { return '<div class="prog-row"><span>' + label + '</span><div class="bar"><i style="width:' + pct + '%;--bc:' + color + '"></i></div><b>' + pct + '%</b></div>'; }
+  var pl = t.planner;
+  return '<div class="step3" style="margin-bottom:12px"><span class="' + (st["1"] ? "on" : "") + '">1 · Watch</span><span class="' + (st["2"] ? "on" : "") + '">2 · Read</span><span class="' + (st["3"] ? "on" : "") + '">3 · Do</span></div>' +
+    '<div class="grid" style="gap:8px">' + bar("Presentation", pres.pct || 0, "#1F6FEB") + bar("Cartoon", cart.pct || 0, "#0FB5A4") +
+    '<div class="prog-row"><span>Documents</span><span class="small">' + docs + ' opened' + (t.docs && t.docs.Delta_One_Momentum_Plan_Simple_Words ? " · Simple Words p." + t.docs.Delta_One_Momentum_Plan_Simple_Words.maxPage + "/" + (t.docs.Delta_One_Momentum_Plan_Simple_Words.pages || "?") : "") + '</span><b></b></div>' +
+    '<div class="prog-row"><span>Checkpoint</span><span class="small">' + (t.checkpoint ? esc(t.checkpoint) + (passed(t.checkpoint) ? " · passed" : " · try again") : "not yet") + '</span><b></b></div>' +
+    '<div class="prog-row"><span>Reviews</span><span class="small">' + (t.review ? (t.review.stage || 0) + " of 3 done" + (t.review.next && t.review.next > NOW && t.review.stage < 3 ? " · next " + dstr(t.review.next) : t.review.stage < 3 && t.review.next ? " · one is due" : "") : "after the checkpoint") + '</span><b></b></div>' +
+    '<div class="prog-row"><span>Fast Start</span><span class="small">' + (pl ? pl.ticks + " of " + pl.total + " actions · " + pl.phases.filter(Boolean).length + " of 4 phases" : "not opened") + '</span><b></b></div>' +
+    '<div class="prog-row"><span>Certification</span><span class="small">' + (t.cert && t.cert.passed ? '<span class="chip st-active">Certified Compensation Plan Master</span> ' + esc(t.cert.date || "") : t.cert && t.cert.attempts ? "best " + t.cert.best + " of 30 after " + t.cert.attempts + " attempt" + (t.cert.attempts === 1 ? "" : "s") : "not taken yet") + '</span><b></b></div>' +
+    '<div class="prog-row"><span>Skill Shop</span><span class="small">' + (t.courses ? Object.keys(t.courses).filter(function (k) { return t.courses[k].complete; }).length + " of 10 completed · " + Object.keys(t.courses).length + " started" : "none started") + '</span><b></b></div>' +
+    '<div class="prog-row"><span>Style</span><span class="small">' + (t.persona ? styleChip(t.persona.primary) + (t.persona.secondary ? " + " + esc(styleOf(t.persona.secondary).name) : "") + (t.persona.version === "light" ? " <span class='tiny muted'>(light)</span>" : "") : "not yet") + '</span><b></b></div></div>';
+}
+function renderOverview() {
+  var me = state.me, el = $("s-overview"), team = state.team;
+  var active = team.filter(function (m) { return statusOf(m) === "active"; }).length, ready = team.filter(function (m) { return statusOf(m) === "ready"; }).length;
+  var st = team.filter(stalled).length, week = team.filter(function (m) { return (m.training || {}).lastSeen > NOW - 7 * DAY; }).length;
+  var due = state.contacts.filter(function (c) { return c.followUp && c.followUp <= isoDay() && c.stage !== "active"; });
+  var acts = team.filter(function (m) { return statusOf(m) !== "active"; }).sort(function (a, b) { return (stalled(b) ? 1 : 0) - (stalled(a) ? 1 : 0) || ((b.training || {}).lastSeen || 0) - ((a.training || {}).lastSeen || 0); }).slice(0, 4);
+  var h = '<div class="grid g2" style="grid-template-columns: minmax(0, 1.1fr) minmax(0, .9fr)">';
+  h += '<div class="card"><p class="kicker">Good to see you, ' + esc(me.name.split(" ")[0]) + '</p><h2>Your hallway</h2>' + progressCard(me, true) +
+       '<div class="actions" style="margin-top:14px"><a class="btn primary" href="' + esc(withRef(CFG.vipSite, me.code)) + '" target="_blank" rel="noopener">Open my training page ↗</a><a class="btn ghost" href="#/style">My climbing style</a></div></div>';
+  if (VIP) {
+    h += '<div class="grid"><div class="card"><h2>Your team today</h2><div class="grid g4" style="gap:10px">' +
+         '<div class="kpi"><div class="v">' + team.length + '</div><div class="l">people · ' + me.lines + ' lines</div></div><div class="kpi good"><div class="v">' + active + '</div><div class="l">active members</div></div>' +
+         '<div class="kpi gold"><div class="v">' + ready + '</div><div class="l">ready for a module</div></div><div class="kpi ' + (st ? "warn" : "") + '"><div class="v">' + st + '</div><div class="l">stalled · need a nudge</div></div></div>' +
+         '<p class="small muted" style="margin-top:10px">' + team.filter(function (m) { return m.training && m.training.cert && m.training.cert.passed; }).length + ' Certified Compensation Plan Masters on your team' + (me.training.cert && me.training.cert.passed ? ", you included" : " — <a href='" + esc(withRef(CFG.vipSite, me.code)) + "#cert' target='_blank' rel='noopener'>take the test</a>") + '.</p>' +
+         '<p class="small muted" style="margin-top:10px">' + week + ' of ' + team.length + ' opened their training page this week. <a href="#/team">See everyone →</a></p></div>' +
+         '<div class="card"><h2>Follow-ups due</h2>' + (due.length ? '<div class="list">' + due.slice(0, 4).map(function (c) { return '<button type="button" class="item" data-contact="' + c.id + '"><span class="av" style="background:' + avColor(c.name) + '">' + esc(initials(c.name)) + '</span><div><b>' + esc(c.name) + '</b><div class="sub">' + esc(STAGES[c.stage]) + (c.notes ? " · " + esc(c.notes) : "") + '</div></div><div class="r"><span class="chip">' + (c.followUp < isoDay() ? "overdue" : "today") + '</span></div></button>'; }).join("") + '</div>' : '<p class="muted small">Nothing due today. <a href="#/contacts">Add a follow-up →</a></p>') + '</div></div>';
+  } else {
+    h += lockCard("Your team's dashboard");
+  }
+  h += '</div>';
+  if (VIP) {
+    h += '<div class="card" style="margin-top:16px"><h2>What to do today</h2><p class="small muted" style="margin-bottom:10px">Aria reads every training record and picks the people one message would move.</p><div class="list">' +
+         acts.map(function (m) { var a = nextAction(m), s = statusOf(m); return '<div class="item" style="cursor:default"><span class="av" style="background:' + avColor(m.name) + '">' + esc(initials(m.name)) + '</span><div><b>' + esc(m.name) + ' <span class="chip st-' + s + '">' + STATUS[s] + '</span>' + (stalled(m) ? ' <span class="chip stalled">stalled</span>' : '') + '</b><div class="sub" style="white-space:normal">' + esc(a.text) + '</div></div><div class="r"><a class="btn sm primary" href="#/share?to=' + m.id + '&tpl=' + a.tpl + '">Write to ' + esc(m.name.split(" ")[0]) + '</a><a class="btn sm ghost" href="#/member/' + m.id + '">Details</a></div></div>'; }).join("") + '</div></div>';
+  }
+  h += '<p class="tiny muted" style="margin-top:14px">Every figure on this page and in the training is an illustration at the engine\'s average daily result; results and rewards are not guaranteed, and most members earn no commission at all. Draft for legal and compliance review.</p>';
+  el.innerHTML = h;
+  Array.prototype.forEach.call(el.querySelectorAll("[data-contact]"), function (b) { b.addEventListener("click", function () { go("#/contacts?c=" + b.getAttribute("data-contact")); }); });
+}
+
+// ---------------------------------------------------------------- Team
+var teamFilter = { q: "", st: "all", line: "all", sort: "recent" };
+function renderTeam() {
+  var el = $("s-team"); if (!VIP) { el.innerHTML = lockCard("Your team's view"); return; }
+  var lines = {}; state.team.forEach(function (m) { lines[m.line] = (lines[m.line] || 0) + 1; });
+  var h = '<div class="search"><input id="tq" type="search" placeholder="Search a name…" value="' + esc(teamFilter.q) + '"><select id="tst"><option value="all">Every status</option>' + Object.keys(STATUS).map(function (k) { return '<option value="' + k + '"' + (teamFilter.st === k ? " selected" : "") + '>' + STATUS[k] + '</option>'; }).join("") + '<option value="stalled"' + (teamFilter.st === "stalled" ? " selected" : "") + '>Stalled</option></select>' +
+          '<select id="tline"><option value="all">Every line</option>' + Object.keys(lines).map(function (l) { return '<option value="' + l + '"' + (teamFilter.line === l ? " selected" : "") + '>Line ' + l + ' · ' + lines[l] + '</option>'; }).join("") + '</select>' +
+          '<select id="tsort"><option value="recent"' + (teamFilter.sort === "recent" ? " selected" : "") + '>Most recent first</option><option value="progress">Furthest first</option><option value="name">By name</option><option value="joined">Newest first</option></select></div>';
+  var rows = state.team.filter(function (m) { var s = statusOf(m); return (!teamFilter.q || m.name.toLowerCase().indexOf(teamFilter.q.toLowerCase()) >= 0) && (teamFilter.st === "all" || (teamFilter.st === "stalled" ? stalled(m) : s === teamFilter.st)) && (teamFilter.line === "all" || String(m.line) === teamFilter.line); });
+  rows.sort(function (a, b) { if (teamFilter.sort === "name") return a.name.localeCompare(b.name); if (teamFilter.sort === "progress") return pctDone(b) - pctDone(a); if (teamFilter.sort === "joined") return b.joined - a.joined; return ((b.training || {}).lastSeen || 0) - ((a.training || {}).lastSeen || 0); });
+  var byId = {}; state.team.forEach(function (m) { byId[m.id] = m; });
+  h += '<div class="list">' + rows.map(function (m) { var s = statusOf(m), t = m.training || {}, sp = byId[m.sponsorId]; return '<button type="button" class="item" data-m="' + m.id + '"><span class="av" style="background:' + avColor(m.name) + '">' + esc(initials(m.name)) + '</span><div><b>' + esc(m.name) + ' <span class="tiny muted">· line ' + m.line + (sp ? " · via " + esc(sp.name.split(" ")[0]) : "") + '</span></b><div class="sub">' + (t.persona ? esc(styleOf(t.persona.primary).name) + " · " : "") + (m.module ? "own module " + m.module.toLocaleString() + " USDT · " : "") + esc(RANKS[m.rank || 0]) + ' · seen ' + ago(t.lastSeen) + '</div><div class="bar" style="margin-top:6px;max-width:260px"><i style="width:' + pctDone(m) + '%"></i></div></div><div class="r"><span class="chip st-' + s + '">' + STATUS[s] + '</span>' + (stalled(m) ? '<span class="chip stalled">stalled</span>' : '') + (t.cert && t.cert.passed ? '<span class="chip" style="background:var(--gold);color:#0B1A33">Certified</span>' : '') + '</div></button>'; }).join("") + '</div>';
+  if (!rows.length) h += '<p class="muted">Nobody matches.</p>';
+  h += '<div class="card" style="margin-top:16px"><h2>How the statuses work</h2><p class="small muted"><b>Not started</b> never opened the page · <b>Watching</b> is on Step 1 · <b>Reading</b> finished the film, not the documents · <b>Doing</b> is on the checklist and the planner · <b>Checkpoint</b> did not pass yet (4 of 6) · <b>Ready</b> passed, no module yet · <b>Active</b> owns a module. <b>Stalled</b>: no visit for 5 days before Ready.</p></div>';
+  el.innerHTML = h;
+  $("tq").addEventListener("input", function () { teamFilter.q = $("tq").value; renderTeam(); $("tq").focus(); var v = $("tq").value; $("tq").setSelectionRange(v.length, v.length); });
+  ["tst", "tline", "tsort"].forEach(function (id) { $(id).addEventListener("change", function () { teamFilter[{ tst: "st", tline: "line", tsort: "sort" }[id]] = $(id).value; renderTeam(); }); });
+  Array.prototype.forEach.call(el.querySelectorAll("[data-m]"), function (b) { b.addEventListener("click", function () { go("#/member/" + b.getAttribute("data-m")); }); });
+}
+
+// ---------------------------------------------------------------- Member detail
+var COURSE_NAMES = { "honest-close": "The Honest Close", "psychology-of-yes": "The Psychology of the Yes", "seasons": "The Seasons of Success", "think-decide-persist": "Think, Decide, Persist", "become-what-you-think": "You Become What You Think About", "people-first": "People First", "speak-so-they-listen": "Speak So They Listen", "networkers-garden": "The Networker's Garden", "presenters-toolkit": "The Presenter's Toolkit", "leading-volunteers": "Leading a Team of Volunteers" };
+var DOCN = { Delta_One_7_Summits_to_Success: "7 Summits to Success", Delta_One_Momentum_Plan_Simple_Words: "The Plan in Simple Words", Delta_One_Module_Key_Facts: "Key Facts", Delta_One_Getting_Started_Checklist: "Getting Started Checklist", Delta_One_Language_Card: "Language Card", Delta_One_Momentum_Plan_Distributor_Guide: "Distributor Guide", Delta_One_Momentum_Plan_Cheat_Sheet: "Cheat Sheet" };
+function renderMember() {
+  var el = $("s-member"); if (!VIP) { el.innerHTML = lockCard("A member's record"); return; }
+  var m = null; state.team.forEach(function (x) { if (x.id === route.id) m = x; }); if (!m) { el.innerHTML = '<p class="muted">Member not found. <a href="#/team">Back to the team</a></p>'; return; }
+  var t = m.training || {}, s = statusOf(m), a = nextAction(m), st = t.persona ? styleOf(t.persona.primary) : null, st2 = t.persona && t.persona.secondary ? styleOf(t.persona.secondary) : null;
+  $("title").textContent = m.name;
+  var docs = Object.keys(t.docs || {}).map(function (k) { var d = t.docs[k]; return '<tr><td>' + esc(DOCN[k] || k.replace(/^Delta_One_/, "").replace(/_/g, " ")) + '</td><td class="num">' + d.opened + '</td><td class="num">' + (d.maxPage || 1) + ' / ' + (d.pages || "?") + '</td><td class="num">' + (d.downloaded || 0) + '</td><td class="num">' + ((d.explained || 0) + (d.readAloud || 0)) + '</td></tr>'; }).join("");
+  var h = '<p><a href="#/team">← Your team</a></p><div class="grid g2" style="grid-template-columns: minmax(0, 1.1fr) minmax(0, .9fr); margin-top:10px">';
+  h += '<div class="grid"><div class="card"><div class="row"><span class="av" style="width:56px;height:56px;border-radius:50%;display:grid;place-items:center;color:#fff;font-weight:700;font-family:var(--display);background:' + avColor(m.name) + '">' + esc(initials(m.name)) + '</span><div class="grow"><h2 style="margin:0">' + esc(m.name) + '</h2><div class="small muted">' + esc(RANKS[m.rank || 0]) + (m.module ? ' · own module ' + m.module.toLocaleString() + ' USDT' : ' · no module yet') + ' · joined ' + dstr(m.joined) + ' · line ' + m.line + ' · ' + (m.plan === "vip" ? "VIP" : "free training") + '</div><div class="actions" style="margin-top:8px"><span class="chip st-' + s + '">' + STATUS[s] + '</span>' + (stalled(m) ? '<span class="chip stalled">stalled · seen ' + ago(t.lastSeen) + '</span>' : '<span class="chip">seen ' + ago(t.lastSeen) + '</span>') + (st ? styleChip(st.k) : '') + '</div></div></div>' +
+       '<div class="note blue" style="margin-top:14px"><b>Next best action.</b> ' + esc(a.text) + '</div><div class="actions" style="margin-top:12px"><a class="btn primary" href="#/share?to=' + m.id + '&tpl=' + a.tpl + '">Write to ' + esc(m.name.split(" ")[0]) + '</a><a class="btn ghost" href="tel:' + esc(m.phone || "") + '">Call</a><button type="button" class="btn ghost" id="m-note">Add a note</button></div><p class="small muted" id="m-notes" style="margin-top:10px">' + esc((state.notes || {})[m.id] || "") + '</p></div>';
+  h += '<div class="card"><h2>Where ' + esc(m.name.split(" ")[0]) + ' is in the hallway</h2>' + progressCard(m) + '</div>';
+  h += '<div class="card"><h2>Documents</h2>' + (docs ? '<table><thead><tr><th>Document</th><th class="num">Opened</th><th class="num">Page reached</th><th class="num">Saved</th><th class="num">Aria / read aloud</th></tr></thead><tbody>' + docs + '</tbody></table>' : '<p class="muted small">No document opened yet.</p>') + '</div>';
+  h += '<div class="card"><h2>Certification and the Skill Shop</h2>' + (t.cert && t.cert.passed ? '<p class="note green"><b>Certified Compensation Plan Master</b> · ' + esc(t.cert.date || "") + ' · ' + esc(t.cert.id || "") + (t.cert.attempts ? ' · attempt ' + t.cert.attempts : '') + '. May train others on the plan.</p>' : '<p class="small muted">Not certified yet' + (t.cert && t.cert.attempts ? ' — best ' + t.cert.best + ' of 30 after ' + t.cert.attempts + ' attempt' + (t.cert.attempts === 1 ? '' : 's') + '. Close: a walk through the documents they missed and one more try.' : '. The certification is on the training page, after the checkpoint.') + '</p>') +
+       (t.courses ? '<table style="margin-top:10px"><thead><tr><th>Course</th><th class="num">Lessons</th><th></th></tr></thead><tbody>' + Object.keys(t.courses).map(function (k) { var c = t.courses[k]; return '<tr><td>' + esc(COURSE_NAMES[k] || k) + '</td><td class="num">' + c.done + ' / ' + c.of + '</td><td>' + (c.complete ? '<span class="chip st-ready">completed</span>' : '<span class="chip">in progress</span>') + '</td></tr>'; }).join("") + '</tbody></table>' : '<p class="small muted" style="margin-top:8px">No Skill Shop course started yet.</p>') + '</div>';
+  if (t.teach) h += '<div class="card"><h2>In their own words</h2><p class="small muted">The three sentences they wrote at the end of the hallway.</p><blockquote style="margin:10px 0 0;padding:10px 14px;border-left:4px solid var(--teal);background:var(--soft);border-radius:10px">' + esc(t.teach.text) + '</blockquote></div>';
+  h += '</div><div class="grid">';
+  if (st) {
+    h += '<div class="card" style="border-color:' + st.color + '"><p class="kicker" style="color:' + st.color + '">Climbing style' + (t.persona.version === "light" ? " · light test" : " · full profile") + '</p><h2 style="color:' + st.color + '">' + esc(st.name) + (st2 ? ' <span class="small muted">+ ' + esc(st2.name) + '</span>' : '') + '</h2><p class="small">' + esc(st.line) + '</p>' +
+         '<p class="kicker" style="margin-top:14px">How to work with ' + esc(m.name.split(" ")[0]) + '</p><ul style="margin:0;padding-left:1.1em;font-size:.92rem">' + st.coach.map(function (x) { return "<li>" + esc(x) + "</li>"; }).join("") + '</ul>' +
+         '<p class="kicker" style="margin-top:14px">Avoid</p><ul style="margin:0;padding-left:1.1em;font-size:.92rem">' + st.avoid.map(function (x) { return "<li>" + esc(x) + "</li>"; }).join("") + '</ul>' +
+         '<p class="kicker" style="margin-top:14px">Message tone</p><p class="small">' + esc(STYLE_TONE[st.k]) + '</p>' + (st2 && PD.blends[st.k + st2.k] ? '<p class="small muted" style="margin-top:10px">' + esc(PD.blends[st.k + st2.k]) + '</p>' : '') + '</div>';
+  } else {
+    h += '<div class="card"><h2>Climbing style</h2><p class="small muted">' + esc(m.name.split(" ")[0]) + ' has not taken the style test yet. Send it — it takes three minutes and tells you how to work with them.</p><div class="actions" style="margin-top:10px"><a class="btn ghost" href="#/share?to=' + m.id + '&tpl=style">Send the test</a></div></div>';
+  }
+  h += '<div class="card"><h2>Activity</h2><div class="tl">' + timeline(m).map(function (e) { return '<div class="ev"><time>' + esc(e.when) + '</time><span>' + esc(e.text) + '</span></div>'; }).join("") + '</div></div>';
+  h += '</div></div>';
+  el.innerHTML = h;
+  $("m-note").addEventListener("click", function () { var cur = (state.notes || {})[m.id] || ""; modal('<h2>A note about ' + esc(m.name) + '</h2><textarea class="msgbox" id="note-t">' + esc(cur) + '</textarea><div class="actions"><button type="button" class="btn primary" id="note-ok">Save</button></div>'); $("note-ok").addEventListener("click", function () { state.notes = state.notes || {}; state.notes[m.id] = $("note-t").value; demoSave(); closeModal(); renderMember(); }); });
+}
+function timeline(m) {   // a readable activity list from the summary (the API returns the real event list)
+  var t = m.training || {}, out = [], v = t.videos || {};
+  if (t.firstSeen) out.push({ at: t.firstSeen, text: "Opened the training page for the first time" });
+  Object.keys(v).forEach(function (k) { var x = v[k]; out.push({ at: x.at || t.lastSeen, text: (k === "presentation_narrated" ? "Presentation" : k === "momentum_cartoon" ? "Cartoon" : k) + (x.done ? " · watched to the end" : " · stopped at " + (x.pct || 0) + "%") }); });
+  var st = t.steps || {}; ["1", "2", "3"].forEach(function (n) { if (st[n]) out.push({ at: t.lastSeen, text: "Step " + n + " done" }); });
+  if (t.checkpoint) out.push({ at: t.lastSeen, text: "Checkpoint " + t.checkpoint + (passed(t.checkpoint) ? " · passed" : "") });
+  if (t.review && t.review.stage) out.push({ at: t.lastSeen, text: "Review " + t.review.stage + " of 3 done" });
+  if (t.persona) out.push({ at: t.persona.at || t.lastSeen, text: "Climbing style: " + styleOf(t.persona.primary).name });
+  if (t.planner) out.push({ at: t.lastSeen, text: "Fast Start: " + t.planner.ticks + " of " + t.planner.total + " actions ticked" });
+  Object.keys(t.tools || {}).forEach(function (k) { out.push({ at: t.lastSeen, text: "Opened the " + k + " " + t.tools[k] + "×" }); });
+  if (t.lastSeen) out.push({ at: t.lastSeen, text: "Last visit" });
+  out.sort(function (a, b) { return b.at - a.at; });
+  return out.map(function (e) { return { when: dstr(e.at), text: e.text }; });
+}
+
+// ---------------------------------------------------------------- Contacts (CRM)
+var STAGES = { new: "New", contacted: "Contacted", watched: "Watched", read: "Read", signedup: "Signed up", active: "Active" };
+var STAGE_ORDER = ["new", "contacted", "watched", "read", "signedup", "active"];
+var APPS = { sms: "SMS", whatsapp: "WhatsApp", telegram: "Telegram", line: "LINE", viber: "Viber", messenger: "Messenger", zalo: "Zalo", kakao: "KakaoTalk", wechat: "WeChat", email: "Email" };
+var cFilter = { q: "", stage: "all", view: "list" };
+function renderContacts() {
+  var el = $("s-contacts"); if (!VIP) { el.innerHTML = lockCard("Your contacts"); return; }
+  var open = /[?&]c=([^&]+)/.exec(location.hash); if (open) { editContact(open[1]); location.hash = "#/contacts"; return; }
+  var due = state.contacts.filter(function (c) { return c.followUp && c.followUp <= isoDay() && c.stage !== "active"; });
+  var h = '<div class="search"><input id="cq" type="search" placeholder="Search…" value="' + esc(cFilter.q) + '"><select id="cstage"><option value="all">Every stage</option>' + STAGE_ORDER.map(function (k) { return '<option value="' + k + '"' + (cFilter.stage === k ? " selected" : "") + '>' + STAGES[k] + '</option>'; }).join("") + '<option value="due"' + (cFilter.stage === "due" ? " selected" : "") + '>Follow-up due</option></select><button type="button" class="btn primary" id="c-add">+ Add</button><button type="button" class="btn ghost" id="c-import">Import</button><button type="button" class="btn ghost" id="c-phone"' + (navigator.contacts && navigator.contacts.select ? "" : " hidden") + '>From my phone</button></div>';
+  h += '<div class="tabs"><button type="button" data-v="list" class="' + (cFilter.view === "list" ? "on" : "") + '">List</button><button type="button" data-v="board" class="' + (cFilter.view === "board" ? "on" : "") + '">Pipeline</button></div>';
+  var rows = state.contacts.filter(function (c) { return (!cFilter.q || (c.name + " " + (c.notes || "")).toLowerCase().indexOf(cFilter.q.toLowerCase()) >= 0) && (cFilter.stage === "all" || (cFilter.stage === "due" ? (c.followUp && c.followUp <= isoDay()) : c.stage === cFilter.stage)); });
+  function card(c) { var s = c.style ? styleOf(c.style) : null; return '<button type="button" class="item" data-c="' + c.id + '"><span class="av" style="background:' + avColor(c.name) + '">' + esc(initials(c.name)) + '</span><div><b>' + esc(c.name) + '</b><div class="sub">' + (c.apps || []).map(function (a) { return APPS[a] || a; }).join(", ") + (c.notes ? " · " + esc(c.notes) : "") + '</div></div><div class="r"><span class="chip">' + STAGES[c.stage] + '</span>' + (c.followUp && c.followUp <= isoDay() && c.stage !== "active" ? '<span class="chip stalled">follow up ' + (c.followUp < isoDay() ? "overdue" : "today") + '</span>' : c.followUp ? '<span class="tiny muted">' + esc(c.followUp) + '</span>' : '') + (s ? '<span class="sty" style="--sc:' + s.color + '"><i></i>' + esc(s.name) + '</span>' : '') + '</div></button>'; }
+  if (cFilter.view === "list") h += '<p class="small muted" style="margin-bottom:8px">' + state.contacts.length + ' contacts · ' + due.length + ' follow-up' + (due.length === 1 ? "" : "s") + ' due</p><div class="list">' + rows.map(card).join("") + (rows.length ? "" : '<p class="muted">No contacts here yet.</p>') + '</div>';
+  else h += '<div class="grid g3" style="align-items:start">' + STAGE_ORDER.map(function (k) { var rs = rows.filter(function (c) { return c.stage === k; }); return '<div class="card" style="padding:14px"><h3 style="margin-bottom:8px">' + STAGES[k] + ' <span class="muted small">' + rs.length + '</span></h3><div class="list">' + rs.map(card).join("") + '</div></div>'; }).join("") + '</div>';
+  h += '<div class="card" style="margin-top:16px"><h2>Share with all your contacts</h2><p class="small muted">Pick a message and a channel, choose who gets it, and send one tap per person — from your own phone, in your own name. <a href="#/share">Open Share →</a></p></div>';
+  el.innerHTML = h;
+  $("cq").addEventListener("input", function () { cFilter.q = $("cq").value; renderContacts(); $("cq").focus(); var v = $("cq").value; $("cq").setSelectionRange(v.length, v.length); });
+  $("cstage").addEventListener("change", function () { cFilter.stage = $("cstage").value; renderContacts(); });
+  Array.prototype.forEach.call(el.querySelectorAll(".tabs button"), function (b) { b.addEventListener("click", function () { cFilter.view = b.getAttribute("data-v"); renderContacts(); }); });
+  Array.prototype.forEach.call(el.querySelectorAll("[data-c]"), function (b) { b.addEventListener("click", function () { editContact(b.getAttribute("data-c")); }); });
+  $("c-add").addEventListener("click", function () { editContact(null); });
+  $("c-import").addEventListener("click", importContacts);
+  var ph = $("c-phone"); if (ph) ph.addEventListener("click", phoneContacts);
+}
+function editContact(id) {
+  var c = null; state.contacts.forEach(function (x) { if (x.id === id) c = x; });
+  var isNew = !c; c = c || { id: "c" + Date.now().toString(36), name: "", phone: "", apps: ["whatsapp"], stage: "new", style: null, notes: "", followUp: "", lastContact: 0 };
+  modal('<h2>' + (isNew ? "New contact" : esc(c.name)) + '</h2><div class="fields">' +
+    '<label class="field">Name<input id="f-name" value="' + esc(c.name) + '"></label><label class="field">Phone (with country code)<input id="f-phone" value="' + esc(c.phone) + '" placeholder="+65 9123 4567"></label>' +
+    '<label class="field">Email<input id="f-email" value="' + esc(c.email || "") + '"></label><label class="field">Stage<select id="f-stage">' + STAGE_ORDER.map(function (k) { return '<option value="' + k + '"' + (c.stage === k ? " selected" : "") + '>' + STAGES[k] + '</option>'; }).join("") + '</select></label>' +
+    '<label class="field">Follow up on<input id="f-fu" type="date" value="' + esc(c.followUp || "") + '"></label><label class="field">Climbing style<select id="f-style"><option value="">Not known</option>' + PD.styles.map(function (s) { return '<option value="' + s.k + '"' + (c.style === s.k ? " selected" : "") + '>' + esc(s.name) + '</option>'; }).join("") + '</select></label>' +
+    '<div class="field wide">Messaging apps<div class="chips" id="f-apps">' + Object.keys(APPS).map(function (a) { return '<button type="button" data-a="' + a + '" class="' + ((c.apps || []).indexOf(a) >= 0 ? "on" : "") + '" style="' + ((c.apps || []).indexOf(a) >= 0 ? "background:var(--fg);color:var(--bg)" : "") + '">' + APPS[a] + '</button>'; }).join("") + '</div></div>' +
+    '<label class="field wide">Notes<textarea id="f-notes">' + esc(c.notes || "") + '</textarea></label></div>' +
+    '<div class="actions"><button type="button" class="btn primary" id="f-save">Save</button>' + (isNew ? "" : '<a class="btn ghost" href="#/share?c=' + c.id + '" id="f-write">Write to ' + esc(c.name.split(" ")[0]) + '</a><a class="btn ghost" href="tel:' + esc(c.phone) + '">Call</a><button type="button" class="btn danger" id="f-del">Delete</button>') + '</div>' +
+    (c.memberId ? '<p class="small muted">Now a member: <a href="#/member/' + esc(c.memberId) + '">open their training record →</a></p>' : '') +
+    '<p class="tiny muted">Contacts stay on this device' + (CFG.api ? " and in your Delta One account" : "") + '. They are never shared with your sponsor or with Delta One\'s other members.</p>');
+  var apps = (c.apps || []).slice();
+  Array.prototype.forEach.call($("f-apps").querySelectorAll("button"), function (b) { b.addEventListener("click", function () { var a = b.getAttribute("data-a"), i = apps.indexOf(a); if (i >= 0) { apps.splice(i, 1); b.style.cssText = ""; } else { apps.push(a); b.style.cssText = "background:var(--fg);color:var(--bg)"; } }); });
+  $("f-save").addEventListener("click", function () {
+    c.name = $("f-name").value.trim(); if (!c.name) { toast("A name, please."); return; }
+    c.phone = $("f-phone").value.replace(/[^\d+]/g, ""); c.email = $("f-email").value.trim(); c.stage = $("f-stage").value; c.followUp = $("f-fu").value; c.style = $("f-style").value || null; c.notes = $("f-notes").value.trim(); c.apps = apps;
+    if (isNew) state.contacts.unshift(c);
+    persistContacts(); closeModal(); railMe(); renderContacts(); toast("Saved.");
+  });
+  if ($("f-write")) $("f-write").addEventListener("click", closeModal);
+  if ($("f-del")) $("f-del").addEventListener("click", function () { if (!confirm("Delete " + c.name + "?")) return; state.contacts = state.contacts.filter(function (x) { return x.id !== c.id; }); persistContacts(); closeModal(); railMe(); renderContacts(); });
+}
+function importContacts() {
+  modal('<h2>Import contacts</h2><p class="small muted">A CSV (name, phone, email, notes — any order, with a header row) or a vCard (.vcf) exported from your phone. Nothing leaves this device.</p><input type="file" id="imp-file" accept=".csv,.vcf,text/csv,text/vcard,text/plain" style="margin:10px 0"><p class="small" id="imp-out"></p>');
+  $("imp-file").addEventListener("change", function () {
+    var f = $("imp-file").files[0]; if (!f) return;
+    var r = new FileReader(); r.onload = function () { var txt = String(r.result), list = /BEGIN:VCARD/i.test(txt) ? parseVcf(txt) : parseCsv(txt), n = 0;
+      list.forEach(function (x) { if (!x.name) return; var dup = state.contacts.some(function (c) { return c.phone && x.phone && c.phone === x.phone; }); if (dup) return; state.contacts.push({ id: "c" + Date.now().toString(36) + n, name: x.name, phone: x.phone || "", email: x.email || "", apps: ["whatsapp"], stage: "new", style: null, notes: x.notes || "", followUp: "", lastContact: 0, source: "import" }); n++; });
+      persistContacts(); $("imp-out").textContent = n + " contact" + (n === 1 ? "" : "s") + " added (" + (list.length - n) + " skipped as duplicates or empty)."; railMe(); renderContacts(); };
+    r.readAsText(f);
+  });
+}
+function parseCsv(t) {
+  var lines = t.split(/\r?\n/).filter(function (l) { return l.trim(); }); if (!lines.length) return [];
+  var split = function (l) { var out = [], cur = "", q = false; for (var i = 0; i < l.length; i++) { var ch = l[i]; if (ch === '"') { q = !q; } else if (ch === "," && !q) { out.push(cur); cur = ""; } else cur += ch; } out.push(cur); return out.map(function (x) { return x.trim(); }); };
+  var head = split(lines[0]).map(function (h) { return h.toLowerCase(); }), idx = function (names) { for (var i = 0; i < head.length; i++) if (names.some(function (n) { return head[i].indexOf(n) >= 0; })) return i; return -1; };
+  var iN = idx(["name"]), iP = idx(["phone", "mobile", "tel"]), iE = idx(["mail"]), iNo = idx(["note", "comment"]);
+  if (iN < 0) { return lines.map(function (l) { var c = split(l); return { name: c[0], phone: (c[1] || "").replace(/[^\d+]/g, ""), email: c[2] || "", notes: c[3] || "" }; }); }
+  return lines.slice(1).map(function (l) { var c = split(l); return { name: c[iN] || "", phone: iP >= 0 ? (c[iP] || "").replace(/[^\d+]/g, "") : "", email: iE >= 0 ? c[iE] || "" : "", notes: iNo >= 0 ? c[iNo] || "" : "" }; });
+}
+function parseVcf(t) {
+  return t.split(/BEGIN:VCARD/i).slice(1).map(function (card) { var fn = /\bFN[^:]*:(.+)/i.exec(card), tel = /\bTEL[^:]*:(.+)/i.exec(card), em = /\bEMAIL[^:]*:(.+)/i.exec(card); return { name: fn ? fn[1].trim() : "", phone: tel ? tel[1].replace(/[^\d+]/g, "") : "", email: em ? em[1].trim() : "" }; });
+}
+function phoneContacts() {
+  if (!(navigator.contacts && navigator.contacts.select)) { toast("Your browser cannot open the phone book here; use Import."); return; }
+  navigator.contacts.select(["name", "tel", "email"], { multiple: true }).then(function (list) { var n = 0; (list || []).forEach(function (x) { var name = (x.name || [])[0], phone = ((x.tel || [])[0] || "").replace(/[^\d+]/g, ""); if (!name) return; if (state.contacts.some(function (c) { return c.phone && c.phone === phone; })) return; state.contacts.push({ id: "c" + Date.now().toString(36) + n, name: name, phone: phone, email: (x.email || [])[0] || "", apps: ["whatsapp", "sms"], stage: "new", style: null, notes: "", followUp: "", lastContact: 0, source: "phone" }); n++; }); persistContacts(); railMe(); renderContacts(); toast(n + " added."); }).catch(function () {});
+}
+
+// ---------------------------------------------------------------- Share: templates, channels, one-tap sending
+var share = { tpl: "invite", chan: "whatsapp", picked: {}, text: "", to: null };
+function digits(p) { return (p || "").replace(/[^\d]/g, ""); }
+function deepLink(chan, phone, text, url) {
+  var t = encodeURIComponent(text), d = digits(phone), u = encodeURIComponent(url || "");
+  switch (chan) {
+    case "sms": return "sms:" + (phone || "") + "?&body=" + t;
+    case "whatsapp": return "https://wa.me/" + d + "?text=" + t;
+    case "telegram": return "https://t.me/share/url?url=" + u + "&text=" + t;
+    case "line": return "https://line.me/R/share?text=" + t;
+    case "viber": return "viber://forward?text=" + t;
+    case "messenger": return "fb-messenger://share?link=" + u;
+    case "zalo": return "https://zalo.me/" + d;
+    case "kakao": return "kakaotalk://";
+    case "wechat": return "weixin://";
+    case "email": return "mailto:?subject=" + encodeURIComponent("Delta One") + "&body=" + t;
+  }
+  return "";
+}
+var COPY_FIRST = { zalo: 1, kakao: 1, wechat: 1, messenger: 1 };
+function fill(tpl, c) {
+  var me = state.me, link = withRef(CFG.vipSite, me.code), st = me.training && me.training.persona ? styleOf(me.training.persona.primary) : null;
+  if (tpl.id === "style") link = (location.origin && location.origin !== "null" ? location.href.split("#")[0] : "") + "#/test/" + me.code;
+  if (tpl.id === "book" && CFG.zoom) link = CFG.zoom;
+  return tpl.text.replace(/\{\{name\}\}/g, (c && c.name ? c.name.split(" ")[0] : "")).replace(/\{\{me\}\}/g, me.name.split(" ")[0]).replace(/\{\{link\}\}/g, link).replace(/\{\{style\}\}/g, st ? st.name : "the Storyteller");
+}
+function renderShare() {
+  var el = $("s-share"); if (!VIP) { el.innerHTML = lockCard("Share and messages"); return; }
+  var qs = /\?(.+)$/.exec(location.hash), q = {}; if (qs) qs[1].split("&").forEach(function (kv) { var p = kv.split("="); q[p[0]] = decodeURIComponent(p[1] || ""); });
+  var people = state.contacts.map(function (c) { return { id: c.id, name: c.name, phone: c.phone, apps: c.apps || [], kind: "contact", style: c.style }; }).concat(state.team.map(function (m) { return { id: m.id, name: m.name, phone: m.phone, apps: ["whatsapp", "sms"], kind: "member", style: m.training && m.training.persona ? m.training.persona.primary : null }; }));
+  if (q.tpl) share.tpl = q.tpl; if (q.to || q.c) { share.picked = {}; share.picked[q.to || q.c] = true; share.chan = "whatsapp"; }
+  if (q.tpl || q.to || q.c) location.hash = "#/share";
+  var tpl = TEMPLATES.filter(function (t) { return t.id === share.tpl; })[0] || TEMPLATES[0];
+  var pickedList = people.filter(function (p) { return share.picked[p.id]; });
+  var sample = pickedList[0] || { name: "Alex" };
+  var h = '<div class="grid g2" style="grid-template-columns: minmax(0, 1.1fr) minmax(0, .9fr)">';
+  h += '<div class="grid"><div class="card"><h2>1 · The message</h2><div class="tabs">' + TEMPLATES.map(function (t) { return '<button type="button" data-tpl="' + t.id + '" class="' + (t.id === share.tpl ? "on" : "") + '">' + esc(t.name.split(" · ")[0]) + '</button>'; }).join("") + '</div><p class="small muted" style="margin-bottom:8px">' + esc(tpl.name) + '. Edit it as you like; <code>{{name}}</code> becomes each person\'s first name.</p><textarea class="msgbox" id="sh-text">' + esc(share.text && share.textTpl === tpl.id ? share.text : tpl.text) + '</textarea>' +
+       (pickedList[0] && pickedList[0].style ? '<p class="note" style="margin-top:10px"><b>' + esc(pickedList[0].name.split(" ")[0]) + ' is ' + esc(styleOf(pickedList[0].style).name) + '.</b> ' + esc(STYLE_TONE[pickedList[0].style]) + '</p>' : '') +
+       '<p class="small muted" style="margin-top:8px">Preview for ' + esc(sample.name.split(" ")[0]) + ': <em id="sh-prev"></em></p></div>';
+  h += '<div class="card"><h2>2 · The channel</h2><div class="chan">' + Object.keys(APPS).map(function (a) { return '<button type="button" data-chan="' + a + '" class="' + (share.chan === a ? "on" : "") + '"><i style="background:' + CHANC[a] + '">' + APPS[a].slice(0, 2) + '</i>' + APPS[a] + '</button>'; }).join("") + '</div><p class="small muted" style="margin-top:8px">' + esc(CHANNOTE[share.chan]) + '</p></div></div>';
+  h += '<div class="grid"><div class="card"><h2>3 · Who</h2><div class="actions" style="margin-bottom:8px"><button type="button" class="btn sm ghost" id="sh-all">Everyone</button><button type="button" class="btn sm ghost" id="sh-none">Nobody</button><button type="button" class="btn sm ghost" id="sh-new">New contacts</button><button type="button" class="btn sm ghost" id="sh-app">On ' + APPS[share.chan] + '</button></div><div class="pick">' + people.map(function (p) { return '<label><input type="checkbox" data-p="' + p.id + '"' + (share.picked[p.id] ? " checked" : "") + '><span>' + esc(p.name) + ' <span class="tiny muted">' + (p.kind === "member" ? "member" : "contact") + '</span></span><span class="tiny muted">' + p.apps.map(function (a) { return APPS[a] || a; }).join(", ") + '</span></label>'; }).join("") + '</div></div>';
+  h += '<div class="card"><h2>4 · Send</h2><p class="small muted">' + pickedList.length + ' selected. Each tap opens ' + APPS[share.chan] + ' with the message ready; you press send there, in your own name, from your own phone.</p><div class="actions" style="margin-top:10px"><button type="button" class="btn primary big" id="sh-go"' + (pickedList.length ? "" : " disabled") + '>Start sending →</button></div><div class="list" id="sh-rows" style="margin-top:12px"></div></div>';
+  h += '<p class="tiny muted">Delta One never sends messages for you and never sees your contacts. Say only what the documents say: a module is a software purchase, nothing is promised, and most members earn no commission at all.</p></div></div>';
+  el.innerHTML = h;
+  function prev() { var t = TEMPLATES.filter(function (x) { return x.id === share.tpl; })[0]; share.text = $("sh-text").value; share.textTpl = t.id; var tt = Object.assign({}, t, { text: share.text }); $("sh-prev").textContent = fill(tt, sample).slice(0, 160) + (fill(tt, sample).length > 160 ? "…" : ""); }
+  prev(); $("sh-text").addEventListener("input", prev);
+  Array.prototype.forEach.call(el.querySelectorAll("[data-tpl]"), function (b) { b.addEventListener("click", function () { share.tpl = b.getAttribute("data-tpl"); share.text = ""; renderShare(); }); });
+  Array.prototype.forEach.call(el.querySelectorAll("[data-chan]"), function (b) { b.addEventListener("click", function () { share.chan = b.getAttribute("data-chan"); renderShare(); }); });
+  Array.prototype.forEach.call(el.querySelectorAll("[data-p]"), function (cb) { cb.addEventListener("change", function () { share.picked[cb.getAttribute("data-p")] = cb.checked; if (!cb.checked) delete share.picked[cb.getAttribute("data-p")]; renderShare(); }); });
+  $("sh-all").addEventListener("click", function () { people.forEach(function (p) { share.picked[p.id] = true; }); renderShare(); });
+  $("sh-none").addEventListener("click", function () { share.picked = {}; renderShare(); });
+  $("sh-new").addEventListener("click", function () { share.picked = {}; state.contacts.forEach(function (c) { if (c.stage === "new") share.picked[c.id] = true; }); renderShare(); });
+  $("sh-app").addEventListener("click", function () { share.picked = {}; people.forEach(function (p) { if (p.apps.indexOf(share.chan) >= 0) share.picked[p.id] = true; }); renderShare(); });
+  $("sh-go").addEventListener("click", function () { startBlast(pickedList); });
+}
+var CHANC = { sms: "#14A05C", whatsapp: "#25D366", telegram: "#2AABEE", line: "#06C755", viber: "#7360F2", messenger: "#0084FF", zalo: "#0068FF", kakao: "#3C1E1E", wechat: "#07C160", email: "#44587A" };
+var CHANNOTE = { sms: "Opens your phone's messages with the text ready. Works on every phone.", whatsapp: "Opens the chat with that number, text ready. Works on phone and on WhatsApp Web.", telegram: "Opens Telegram's share sheet with the text; you pick the person there.", line: "Opens LINE's share sheet with the text; you pick the person there.", viber: "Opens Viber's forward sheet with the text.", messenger: "The text is copied first; Messenger opens with your link to share.", zalo: "The text is copied first; Zalo opens the chat with that number — paste and send.", kakao: "The text is copied first; KakaoTalk opens — pick the person, paste and send.", wechat: "The text is copied first; WeChat opens — pick the person, paste and send.", email: "Opens your mail app with the text ready." };
+function startBlast(list) {
+  var tpl = Object.assign({}, TEMPLATES.filter(function (t) { return t.id === share.tpl; })[0], { text: share.text || undefined });
+  if (!tpl.text) tpl.text = TEMPLATES.filter(function (t) { return t.id === share.tpl; })[0].text;
+  var rows = $("sh-rows"), done = {};
+  function paint() {
+    rows.innerHTML = '<p class="small"><b>' + Object.keys(done).length + ' of ' + list.length + ' sent</b> · tap each name in turn</p>' + list.map(function (p) { var text = fill(tpl, p), url = deepLink(share.chan, p.phone, text, withRef(CFG.vipSite, state.me.code)); return '<div class="send-row ' + (done[p.id] ? "done" : "") + '"><div><b>' + esc(p.name) + '</b><div class="sub">' + esc(APPS[share.chan]) + (p.phone ? " · " + esc(p.phone) : " · no number") + '</div></div><a class="btn primary sm" data-send="' + p.id + '" href="' + esc(url) + '" target="_blank" rel="noopener">' + (COPY_FIRST[share.chan] ? "Copy & open" : "Send") + ' ↗</a><button type="button" class="btn ghost sm" data-done="' + p.id + '">' + (done[p.id] ? "✓ Sent" : "Mark sent") + '</button></div>'; }).join("");
+    Array.prototype.forEach.call(rows.querySelectorAll("[data-send]"), function (a) { a.addEventListener("click", function () { var id = a.getAttribute("data-send"), p = list.filter(function (x) { return x.id === id; })[0]; if (COPY_FIRST[share.chan]) copy(fill(tpl, p)); mark(id); }); });
+    Array.prototype.forEach.call(rows.querySelectorAll("[data-done]"), function (b) { b.addEventListener("click", function () { mark(b.getAttribute("data-done")); }); });
+  }
+  function mark(id) {
+    if (done[id]) return; done[id] = true;
+    state.contacts.forEach(function (c) { if (c.id === id) { c.lastContact = Date.now(); if (c.stage === "new") c.stage = "contacted"; if (!c.followUp || c.followUp < isoDay()) c.followUp = isoDay(Date.now() + 2 * DAY); } });
+    state.sent.push({ at: Date.now(), to: id, chan: share.chan, tpl: share.tpl }); persistContacts();
+    if (CFG.api) api("POST", "/messages/log", { to: id, channel: share.chan, template: share.tpl }).catch(function () {});
+    paint(); if (Object.keys(done).length === list.length) toast("All sent. Follow-ups set for the day after tomorrow.");
+  }
+  paint(); rows.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+// ---------------------------------------------------------------- Landing page
+function renderLanding() {
+  var el = $("s-landing"); if (!VIP) { el.innerHTML = lockCard("Your landing page"); return; }
+  var me = state.me, landing = CFG.landingBase ? CFG.landingBase + me.code : "", training = withRef(CFG.vipSite, me.code), test = location.href.split("#")[0] + "#/test/" + me.code;
+  var h = '<div class="grid g2"><div class="card"><p class="kicker">Your referral code</p><h2 style="font-size:1.6rem">' + esc(me.code) + '</h2><p class="small muted">Everyone who comes in through your links is attached to you: their training record appears in your team, and their dashboard shows you as their sponsor.</p>' +
+          '<h3 style="margin-top:16px">Your landing page</h3>' + (landing ? '<div class="linkbox"><code>' + esc(landing) + '</code><button type="button" class="btn sm ghost" data-copy="' + esc(landing) + '">Copy</button></div>' : '<p class="note">Your landing page address will appear here as soon as the tech team connects it (D1_PRO.landingBase). Until then, your training link below does the same job.</p>') +
+          '<h3 style="margin-top:16px">Your training link</h3><div class="linkbox"><code>' + esc(training) + '</code><button type="button" class="btn sm ghost" data-copy="' + esc(training) + '">Copy</button></div>' +
+          '<h3 style="margin-top:16px">The climbing-style test, as a gift</h3><div class="linkbox"><code>' + esc(test) + '</code><button type="button" class="btn sm ghost" data-copy="' + esc(test) + '">Copy</button></div>' +
+          '<div class="actions" style="margin-top:14px"><button type="button" class="btn primary" id="ld-share">Share my link…</button><a class="btn ghost" href="#/share">Send it to my contacts</a><a class="btn ghost" href="' + esc(training) + '" target="_blank" rel="noopener">Open it ↗</a></div></div>' +
+          '<div class="card" style="text-align:center"><h2>Your QR code</h2><p class="small muted">Point a phone camera at it: it opens your ' + (landing ? "landing page" : "training link") + '.</p><div class="qr" id="qr" style="margin:12px auto"></div><div class="actions" style="justify-content:center"><button type="button" class="btn ghost" id="qr-dl">Save the QR as an image</button></div></div></div>';
+  h += '<div class="card" style="margin-top:16px"><h2>What your landing page says</h2><p class="small muted">The page the tech team connects carries your name and photo, the 4-minute cartoon, the Key Facts, the three-step training with your code, and a button to speak to an agent. Every figure is an illustration at the engine\'s average daily result; most members earn no commission at all.</p></div>';
+  el.innerHTML = h;
+  Array.prototype.forEach.call(el.querySelectorAll("[data-copy]"), function (b) { b.addEventListener("click", function () { copy(b.getAttribute("data-copy")); }); });
+  $("ld-share").addEventListener("click", function () { var u = landing || training; if (navigator.share) navigator.share({ title: "Delta One", text: "Learn the plan in three steps: " + u }).catch(function () {}); else copy(u); });
+  try { window.D1QR.draw($("qr"), landing || training, 200, "M"); } catch (e) { $("qr").textContent = "QR unavailable."; }
+  $("qr-dl").addEventListener("click", function () { var c = $("qr").querySelector("canvas"), img = $("qr").querySelector("img"); var src = c ? c.toDataURL("image/png") : (img ? img.src : null); if (!src) return; var a = document.createElement("a"); a.href = src; a.download = "delta_one_" + me.code + "_qr.png"; document.body.appendChild(a); a.click(); a.remove(); });
+}
+
+// ---------------------------------------------------------------- Climbing style: the full profile (20 questions, most and least)
+function scoreFull(answers) {   // answers: [{most:"D", least:"C"}, …]
+  var raw = { D: 0, I: 0, S: 0, C: 0 }; answers.forEach(function (a) { if (a.most) raw[a.most] += PD.scoring.most; if (a.least) raw[a.least] -= PD.scoring.least; });
+  var pos = {}; var tot = 0; KEYS.forEach(function (k) { pos[k] = Math.max(0, raw[k]); tot += pos[k]; });
+  var ranked = KEYS.slice().sort(function (a, b) { return raw[b] - raw[a]; }), p = ranked[0], s = ranked[1];
+  var sec = (raw[s] > 0 && raw[s] >= raw[p] * 0.6) ? s : null;
+  var pct = {}; KEYS.forEach(function (k) { pct[k] = tot ? Math.round(100 * pos[k] / tot) : 0; });
+  return { version: "full", primary: p, secondary: sec, scores: raw, pct: pct, at: Date.now() };
+}
+function testHtml(prefix) { return '<div id="' + prefix + '-box"></div>'; }
+function runTest(box, onDone, opts) {
+  opts = opts || {}; var i = 0, answers = [], items = PD.items;
+  function paint() {
+    var it = items[i], a = answers[i] || { most: null, least: null }, order = it.order || (it.order = [0, 1, 2, 3].sort(function () { return Math.random() - .5; }));
+    box.innerHTML = '<div class="q"><p class="qn">Question ' + (i + 1) + ' of ' + items.length + '</p><h3>Pick the line most like you, and the line least like you.</h3><div class="bar" style="margin-bottom:12px"><i style="width:' + Math.round(100 * i / items.length) + '%"></i></div><div class="ml">' +
+      order.map(function (k) { var key = KEYS[k]; return '<div class="line ' + (a.most === key ? "most" : a.least === key ? "least" : "") + '"><span>' + esc(it.o[k]) + '</span><button type="button" data-most="' + key + '" class="' + (a.most === key ? "on-most" : "") + '">Most</button><button type="button" data-least="' + key + '" class="' + (a.least === key ? "on-least" : "") + '">Least</button></div>'; }).join("") +
+      '</div><div class="actions" style="margin-top:12px"><button type="button" class="btn ghost sm" id="t-back"' + (i ? "" : " disabled") + '>← Back</button><button type="button" class="btn primary" id="t-next"' + (a.most && a.least ? "" : " disabled") + '>' + (i === items.length - 1 ? "See my profile" : "Next →") + '</button></div></div>';
+    Array.prototype.forEach.call(box.querySelectorAll("[data-most]"), function (b) { b.addEventListener("click", function () { var k = b.getAttribute("data-most"); a.most = k; if (a.least === k) a.least = null; answers[i] = a; paint(); }); });
+    Array.prototype.forEach.call(box.querySelectorAll("[data-least]"), function (b) { b.addEventListener("click", function () { var k = b.getAttribute("data-least"); a.least = k; if (a.most === k) a.most = null; answers[i] = a; paint(); }); });
+    $("t-back").addEventListener("click", function () { i--; paint(); });
+    $("t-next").addEventListener("click", function () { answers[i] = a; if (i < items.length - 1) { i++; paint(); box.scrollIntoView({ behavior: "smooth", block: "start" }); } else onDone(scoreFull(answers)); });
+  }
+  paint();
+}
+function profileHtml(rec, forName) {
+  var st = styleOf(rec.primary), st2 = rec.secondary ? styleOf(rec.secondary) : null, pct = rec.pct || {};
+  if (!rec.pct && rec.scores) { var tot = 0; KEYS.forEach(function (k) { tot += Math.max(0, rec.scores[k]); }); pct = {}; KEYS.forEach(function (k) { pct[k] = tot ? Math.round(100 * Math.max(0, rec.scores[k]) / tot) : 0; }); }
+  var bars = KEYS.map(function (k) { var s = styleOf(k); return '<div class="pr-bar"><span>' + esc(s.name) + '</span><div><i style="width:' + (pct[k] || 0) + '%;--bc:' + s.color + '"></i></div><b>' + (pct[k] || 0) + '%</b></div>'; }).join("");
+  function li(arr) { return "<ul>" + arr.map(function (x) { return "<li>" + esc(x) + "</li>"; }).join("") + "</ul>"; }
+  return '<div class="pr-card" style="--pc:' + st.color + ';--ps:' + st.soft + '"><div class="pr-head"><span class="pr-badge">' + (forName ? esc(forName) + "'s climbing style" : "Your climbing style") + (rec.version === "light" ? " · light test" : " · full profile") + '</span><h2>' + esc(st.name) + (st2 ? ' <span class="small muted" style="font-family:var(--sans);font-weight:500">+ ' + esc(st2.name) + '</span>' : '') + '</h2><p>' + esc(st.line) + '</p><div class="pr-bars">' + bars + '</div></div>' +
+    '<div class="pr-grid"><div><p class="lbl">Strengths</p>' + li(st.strengths) + '</div><div><p class="lbl">What moves you</p>' + li(st.moves) + '</div><div><p class="lbl">Under pressure</p><p class="small">' + esc(st.pressure) + '</p></div><div><p class="lbl">How you sell</p><p class="small">' + esc(st.sell) + '</p></div><div><p class="lbl">Your first 30 days</p><p class="small">' + esc(st.first30) + '</p></div><div><p class="lbl">How people should work with you</p>' + li(st.coach) + '</div>' + (st2 && PD.blends[st.k + st2.k] ? '<div style="grid-column:1/-1"><p class="lbl">Your blend</p><p class="small">' + esc(PD.blends[st.k + st2.k]) + '</p></div>' : '') + '</div></div>';
+}
+function styleCards(kind) {   // kind: "talk" (prospects) or "coach" (team)
+  return '<div class="style-cards">' + PD.styles.map(function (s) { var items = kind === "talk" ? s.talk : s.coach; return '<div class="style-card" style="--sc:' + s.color + '"><h4>' + esc(s.name) + ' <span class="tiny muted">· ' + esc(s.word) + '</span></h4><p class="tiny muted">' + esc(s.line) + '</p><ul>' + items.map(function (x) { return "<li>" + esc(x) + "</li>"; }).join("") + '</ul>' + (kind === "talk" ? '<p class="tiny" style="margin-top:8px"><b>A message that lands:</b> ' + esc(s.message) + '</p>' : '<p class="tiny" style="margin-top:8px"><b>Avoid:</b> ' + esc(s.avoid.join("; ")) + '</p>') + '</div>'; }).join("") + '</div>';
+}
+function renderStyle() {
+  var el = $("s-style"), me = state.me, rec = me.training && me.training.persona;
+  var h = '';
+  if (rec && rec.version === "full") h += profileHtml(rec) + '<div class="actions" style="margin-top:12px"><button type="button" class="btn ghost" id="st-again">Take the test again</button><button type="button" class="btn primary" id="st-share">Share my style</button></div>';
+  else if (rec) h += '<div class="note" style="margin-bottom:14px"><b>Your light result: ' + esc(styleOf(rec.primary).name) + '.</b> ' + (VIP ? "Take the full 20-question profile below for your motivations, your pressure pattern and your blend." : "The full profile is part of Delta One VIP.") + '</div>';
+  if (!(rec && rec.version === "full")) {
+    if (VIP) h += '<div class="card"><p class="kicker">The full profile · 20 questions · 3 minutes</p><h2>Most like you, least like you.</h2><p class="small muted" style="margin-bottom:12px">Each question shows four lines. Choose the one that sounds most like you and the one that sounds least like you. There are no right answers, and every style reaches the summit.</p>' + testHtml("st") + '</div>';
+    else h += lockCard("The full climbing-style profile");
+  }
+  if (VIP) {
+    var counts = { D: [], I: [], S: [], C: [] }, none = [];
+    state.team.forEach(function (m) { var p = m.training && m.training.persona; if (p && p.primary) counts[p.primary].push(m.name.split(" ")[0]); else none.push(m.name.split(" ")[0]); });
+    h += '<div class="card" style="margin-top:16px"><h2>Your team\'s style map</h2><p class="small muted" style="margin-bottom:12px">Who you have, and who you are missing. A balanced team has Summiteers to set the pace, Storytellers to open doors, Anchors to keep people, Mapmakers to keep it right.</p><div class="map">' + KEYS.map(function (k) { var s = styleOf(k); return '<div class="cell" style="--pc:' + s.color + ';--ps:' + s.soft + '"><b>' + counts[k].length + '</b><span>' + esc(s.name) + '</span><div class="who">' + esc(counts[k].join(", ") || "—") + '</div></div>'; }).join("") + '</div>' + (none.length ? '<p class="small muted" style="margin-top:10px">No style yet: ' + esc(none.join(", ")) + '. <a href="#/share?tpl=style">Send them the test →</a></p>' : '') + '</div>';
+    h += '<div class="card" style="margin-top:16px"><h2>How to talk to each style</h2><p class="small muted" style="margin-bottom:12px">For prospects and customers. Match the person, not yourself.</p>' + styleCards("talk") + '</div>';
+    h += '<div class="card" style="margin-top:16px"><h2>How to coach each style</h2><p class="small muted" style="margin-bottom:12px">For the people on your team.</p>' + styleCards("coach") + '</div>';
+    h += '<div class="card" style="margin-top:16px"><h2>Share the test with the people you talk to</h2><p class="small muted">They take the full test as your gift, see their own profile, and can send you the result with one tap — it lands on their contact card, so you know how to work with them before the first real conversation.</p><div class="actions" style="margin-top:10px"><a class="btn primary" href="#/share?tpl=style">Send the test</a><a class="btn ghost" href="#/test/' + esc(me.code) + '" target="_blank" rel="noopener">See what they see ↗</a></div></div>';
+  }
+  h += '<p class="tiny muted" style="margin-top:14px">An original four-style instrument in the tradition of the classic drive / people / steadiness / precision model. It describes preferences, not ability, and it is for coaching and conversation, never for selection. Draft for compliance review.</p>';
+  el.innerHTML = h;
+  if ($("st-box")) runTest($("st-box"), function (r) { state.me.training.persona = r; store("d1pro-style", JSON.stringify(r)); if (CFG.api) api("POST", "/me/style", r).catch(function () {}); renderStyle(); window.scrollTo({ top: 0 }); });
+  if ($("st-again")) $("st-again").addEventListener("click", function () { state.me.training.persona = null; store("d1pro-style", ""); renderStyle(); });
+  if ($("st-share")) $("st-share").addEventListener("click", function () { var s = styleOf(rec.primary), text = "My Delta One climbing style: " + s.name + ". " + s.line + " Take yours: " + location.href.split("#")[0] + "#/test/" + me.code; if (navigator.share) navigator.share({ text: text }).catch(function () {}); else copy(text); });
+}
+
+// ---------------------------------------------------------------- Guest: the shared test (#/test/CODE)
+function renderGuest(code) {
+  $("app").hidden = true; var g = $("guest"); g.hidden = false;
+  var sponsor = (CFG.api ? null : (code === DEMO_ME.code ? DEMO_ME.name.split(" ")[0] : null));
+  var done = jload("d1pro-guest-" + code, null);
+  function head(t, s) { return '<div class="hero"><img src="data:image/svg+xml;utf8,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 40 40\'%3E%3Ccircle cx=\'20\' cy=\'20\' r=\'20\' fill=\'%230B4FB8\'/%3E%3Ccircle cx=\'20\' cy=\'16\' r=\'7\' fill=\'%23FFE28A\'/%3E%3Cpath d=\'M7 36a13 13 0 0 1 26 0z\' fill=\'%23FFC53D\'/%3E%3C/svg%3E" alt=""><p class="kicker">' + (sponsor ? "A gift from " + esc(sponsor) : "Delta One VIP") + '</p><h1>' + t + '</h1><p class="muted">' + s + '</p></div>'; }
+  function paintResult(r) {
+    g.innerHTML = head("Your climbing style", "There are four styles, and every one of them reaches the summit.") + profileHtml(r) +
+      '<div class="card" style="margin-top:16px"><h2>Send your result to ' + esc(sponsor || "the person who sent you this") + '</h2><p class="small muted">So they know how to work with you, the way you like. Only your style goes — not your answers.</p><div class="actions" style="margin-top:10px"><button type="button" class="btn primary" id="g-send"' + (done && done.sent ? " disabled" : "") + '>' + (done && done.sent ? "Sent ✓" : "Send my result") + '</button><button type="button" class="btn ghost" id="g-share">Share</button><button type="button" class="btn ghost" id="g-again">Do it again</button></div><p class="small" id="g-status" style="margin-top:8px"></p></div>' +
+      '<div class="card" style="margin-top:16px"><h2>Curious what this is about?</h2><p class="small muted">Delta One explains its plan in three steps: watch a four-minute cartoon, read three short documents, do one checklist. A module is a software purchase, nothing is promised, and most members earn no commission at all.</p><div class="actions" style="margin-top:10px"><a class="btn gold" href="' + esc(withRef(CFG.vipSite, code)) + '" target="_blank" rel="noopener">Learn the plan in three steps ↗</a></div></div><p class="foot">Delta One VIP · an original four-style instrument for coaching and conversation, never for selection · Draft for compliance review.</p>';
+    $("g-send").addEventListener("click", function () { var payload = { code: code, primary: r.primary, secondary: r.secondary, pct: r.pct, at: Date.now() }; var p = CFG.api ? api("POST", "/style/results", payload) : Promise.resolve(); p.then(function () { done = { r: r, sent: true }; store("d1pro-guest-" + code, JSON.stringify(done)); $("g-send").disabled = true; $("g-send").textContent = "Sent ✓"; $("g-status").textContent = "Sent. " + (sponsor || "They") + " will see your style on your contact card."; }).catch(function () { $("g-status").textContent = "Could not send right now; try again in a moment."; }); });
+    $("g-share").addEventListener("click", function () { var s = styleOf(r.primary), text = "My Delta One climbing style: " + s.name + ". " + s.line + " Take yours: " + location.href; if (navigator.share) navigator.share({ text: text }).catch(function () {}); else copy(text); });
+    $("g-again").addEventListener("click", function () { store("d1pro-guest-" + code, ""); renderGuest(code); });
+  }
+  if (done && done.r) { paintResult(done.r); return; }
+  g.innerHTML = head("What kind of climber are you?", "Twenty questions, about three minutes. Pick the line most like you and the line least like you.") + '<div class="card"><div id="g-box"></div></div><p class="foot">Nothing is recorded until you press Send at the end; your answers never leave this device.</p>';
+  runTest($("g-box"), function (r) { done = { r: r, sent: false }; store("d1pro-guest-" + code, JSON.stringify(done)); paintResult(r); window.scrollTo({ top: 0 }); });
+}
+
+// ---------------------------------------------------------------- Aria: the assistant (Claude inside claude.ai, your own endpoint, or the built-in answers)
+var hist = [], sampleFn = null, sampleTried = false, askCtl = null;
+function getSample() {
+  if (sampleTried) return Promise.resolve(sampleFn); sampleTried = true;
+  if (typeof CFG.ask === "function") { sampleFn = CFG.ask; return Promise.resolve(sampleFn); }
+  if (!(window.claude && window.claude.use)) return Promise.resolve(null);
+  return window.claude.use("sample").then(function (fn) { sampleFn = fn || null; return sampleFn; }).catch(function () { return null; });
+}
+function contextJson() {
+  var me = state.me, t = me.training || {};
+  return JSON.stringify({ member: { name: me.name, rank: RANKS[me.rank || 0], ownModule: me.module, lines: me.lines, style: t.persona ? styleOf(t.persona.primary).name : null, steps: t.steps, checkpoint: t.checkpoint, fastStart: t.planner },
+    team: state.team.map(function (m) { var x = m.training || {}; return { name: m.name, status: STATUS[statusOf(m)], stalled: stalled(m), certified: !!(x.cert && x.cert.passed), style: x.persona ? styleOf(x.persona.primary).name : null, lastSeen: ago(x.lastSeen), film: Math.max(((x.videos || {}).presentation_narrated || {}).pct || 0, ((x.videos || {}).momentum_cartoon || {}).pct || 0) + "%", checkpoint: x.checkpoint, ownModule: m.module, nextAction: nextAction(m).text }; }),
+    contacts: { total: state.contacts.length, byStage: STAGE_ORDER.map(function (k) { return k + ":" + state.contacts.filter(function (c) { return c.stage === k; }).length; }).join(" "), followUpsDue: state.contacts.filter(function (c) { return c.followUp && c.followUp <= isoDay() && c.stage !== "active"; }).map(function (c) { return c.name + (c.style ? " (" + styleOf(c.style).name + ")" : ""); }) } });
+}
+function instructions() {
+  return KB + "\n\nYou are Aria, the personal assistant of a Delta One VIP member. You know their training record, their team and their contacts (below, as JSON; phone numbers are never included). Help them coach their team and their prospects: say who needs a message today and why, draft short messages in the member's voice (plain words, one question at the end), explain any rule from the facts above, and match the tone to the person's climbing style (Summiteer: short and direct; Storyteller: warm, a picture, a social next step; Anchor: no pressure, time; Mapmaker: precise, the document and the page). " +
+    "Rules: say USDT for money, purchase (never deposit or investment), result (never return or interest), rebuy (never reinvest), rewards (never income or profit for members). Never promise or guarantee anything; call every figure an average or an illustration. When a message mentions money, results or rewards, include: every figure is an illustration at the engine's average daily result; results and rewards are not guaranteed, and most members earn no commission at all. Keep answers short: 2 to 6 sentences, or one message draft. No bullet lists.\n\nContext: " + contextJson();
+}
+function localAssistant(q) {
+  var ql = q.toLowerCase(), who = null;
+  state.team.concat(state.contacts).forEach(function (p) { var f = p.name.split(" ")[0].toLowerCase(); if (ql.indexOf(f) >= 0) who = p; });
+  if (who && who.training) { var a = nextAction(who), st = who.training.persona ? styleOf(who.training.persona.primary) : null; return a.text + (st ? " " + who.name.split(" ")[0] + " is " + st.name + ": " + STYLE_TONE[st.k] : "") + " Open Share and pick \"" + (TEMPLATES.filter(function (t) { return t.id === a.tpl; })[0] || TEMPLATES[0]).name.split(" · ")[0] + "\"; the message is ready with their name."; }
+  if (who) { return who.name + " is a contact at the stage \"" + STAGES[who.stage] + "\"" + (who.style ? ", " + styleOf(who.style).name + ": " + STYLE_TONE[who.style] : "") + ". " + (who.followUp ? "Follow-up on " + who.followUp + "." : "No follow-up date yet — set one on the contact card."); }
+  if (/today|do now|start|priorit|first/.test(ql)) { var acts = state.team.filter(function (m) { return statusOf(m) !== "active"; }).sort(function (a, b) { return (stalled(b) ? 1 : 0) - (stalled(a) ? 1 : 0); }).slice(0, 3); var due = state.contacts.filter(function (c) { return c.followUp && c.followUp <= isoDay() && c.stage !== "active"; }); return "Three things today. " + acts.map(function (m, i) { return (i + 1) + ") " + nextAction(m).text; }).join(" ") + (due.length ? " And " + due.length + " follow-up" + (due.length === 1 ? "" : "s") + " due in Contacts: " + due.map(function (c) { return c.name.split(" ")[0]; }).join(", ") + "." : ""); }
+  if (/stall|stuck|quiet|silent|lost/.test(ql)) { var s = state.team.filter(stalled); return s.length ? s.map(function (m) { return m.name.split(" ")[0] + " (" + STATUS[statusOf(m)] + ", seen " + ago(m.training.lastSeen) + ")"; }).join(", ") + " have gone quiet. The \"Stopped halfway\" message resumes the film where they left it." : "Nobody is stalled right now. Well done."; }
+  if (/style|summiteer|storyteller|anchor|mapmaker/.test(ql)) { return "Four styles: Summiteer (fast, direct — one line, one number, one question), Storyteller (warm — the cartoon and a social next step), Anchor (patient — the Key Facts, no pressure, next week), Mapmaker (precise — the guide and the page number). Your team map is on My style."; }
+  var words = ql.replace(/[^a-z0-9%× ]+/g, " ").split(/\s+/).filter(function (w) { return w.length > 2; }), best = null, bs = 0;
+  BANK.forEach(function (e) { var sc = 0; e.k.forEach(function (k) { k = k.toLowerCase(); if (words.indexOf(k) >= 0) sc += 2; else if (ql.indexOf(k) >= 0) sc += (k.length >= 4 ? 2 : 1); }); if (sc > bs) { bs = sc; best = e; } });
+  return bs >= 2 ? best.a : "I do not have that one. Ask me about a person on your team by name, what to do today, who is stalled, the four styles, or any rule of the plan — or press Ask for a person.";
+}
+function bubble(role, text, cls) { var log = $("chat-log"), d = document.createElement("div"); d.className = "msg " + role + (cls ? " " + cls : ""); d.textContent = text; log.appendChild(d); log.scrollTop = log.scrollHeight; return d; }
+function chatSend(q) {
+  q = (q || "").trim(); if (!q) return;
+  bubble("me", q); hist.push({ role: "user", content: q });
+  var think = bubble("aria", "Thinking…", "thinking"), btn = $("chat-btn"); btn.disabled = true;
+  var fin = function (text) { think.classList.remove("thinking"); think.textContent = text; hist.push({ role: "assistant", content: text }); btn.disabled = false; $("chat-log").scrollTop = $("chat-log").scrollHeight; };
+  getSample().then(function (fn) {
+    if (!fn) { fin(localAssistant(q)); return; }
+    if (askCtl) askCtl.abort(); askCtl = new AbortController();
+    var turns = hist.map(function (m, i) { return i === 0 ? { role: "user", content: instructions() + "\n\nMember says: " + m.content } : m; });
+    var own = (fn === CFG.ask), input = own ? instructions() + "\n\n" + hist.map(function (m) { return (m.role === "user" ? "Member: " : "Aria: ") + m.content; }).join("\n") : turns;
+    fn(input, { modelTier: "default", signal: askCtl.signal, cache: false, history: hist.slice(), onText: function (u) { think.classList.remove("thinking"); think.textContent = u.text; } })
+      .then(function (r) { fin(r.text); })
+      .catch(function (e) { if (e && e.code === "cancelled") { think.remove(); hist.pop(); btn.disabled = false; return; } if (e && (e.code === "not_granted" || e.code === "not_declared")) sampleFn = null; fin(localAssistant(q)); });
+  });
+}
+function renderAria() {
+  var me = state.me, log = $("chat-log");
+  if (!log.children.length) bubble("aria", "Hello " + me.name.split(" ")[0] + ". I know where you and your team are in the hallway. Ask me what to do today, who to write to, or anything about the plan.");
+  var chips = VIP ? ["What should I do today?", "Who is stalled?", "Draft a message to " + (state.team[0] ? state.team[0].name.split(" ")[0] : "Ken"), "Explain the line balance rule", "How do I talk to a Mapmaker?"] : ["Explain the line balance rule", "What happens on day 11?", "What are the four styles?"];
+  $("chips").innerHTML = chips.map(function (c) { return '<button type="button">' + esc(c) + '</button>'; }).join("");
+  Array.prototype.forEach.call($("chips").querySelectorAll("button"), function (b) { b.addEventListener("click", function () { chatSend(b.textContent); }); });
+  var t = me.training || {}, due = state.contacts.filter(function (c) { return c.followUp && c.followUp <= isoDay() && c.stage !== "active"; }).length;
+  $("aria-context").innerHTML = '<h2>What Aria sees</h2><p class="small muted">Your hallway: ' + ["1", "2", "3"].filter(function (n) { return (t.steps || {})[n]; }).length + ' of 3 steps' + (t.checkpoint ? ", checkpoint " + esc(t.checkpoint) : "") + (t.persona ? ", " + esc(styleOf(t.persona.primary).name) : "") + '.' + (VIP ? ' Your team: ' + state.team.length + ' people, ' + state.team.filter(stalled).length + ' stalled. Contacts: ' + state.contacts.length + ', ' + due + ' follow-up' + (due === 1 ? "" : "s") + ' due.' : '') + '</p>' + (!VIP ? '<p class="small" style="margin-top:8px">With Delta One VIP, Aria also reads your team\'s records and drafts your follow-ups.</p>' : '');
+  presencePaint();
+}
+$("chat-form").addEventListener("submit", function (e) { e.preventDefault(); var i = $("chat-q"), q = i.value; i.value = ""; chatSend(q); });
+$("hand-btn").addEventListener("click", function () {
+  if (!VIP) { go("#/account"); toast("A live person is part of Delta One VIP."); return; }
+  var last = ""; for (var i = hist.length - 1; i >= 0; i--) if (hist[i].role === "user") { last = hist[i].content; break; }
+  var req = { q: last, transcript: hist.slice(-8), human: PRES.online === true, member: state.me.id };
+  if (CFG.api) api("POST", "/support/requests", req).catch(function () {});
+  var hn = $("hand-note"); hn.setAttribute("data-sent", "1"); hn.textContent = "The team has your question.";
+  bubble("sys", PRES.online === true ? "Handing you over. Your conversation goes with you." : "Sent to the team. Keep talking to Aria while you wait.");
+  if (typeof CFG.handoff === "function") { try { CFG.handoff(req); } catch (e) {} } else if (CFG.chat && PRES.online === true) window.open(CFG.chat, "_blank", "noopener");
+});
+
+// ---------------------------------------------------------------- Account
+function paySrc() { return load("d1pro-paysrc") || (state.me && state.me.paySource) || "usdt"; }
+function renderAccount() {
+  var me = state.me, el = $("s-account");
+  var h = '<div class="grid g2"><div class="card"><h2>' + esc(me.name) + '</h2><p class="small muted">' + esc(RANKS[me.rank || 0]) + ' · member since ' + dstr(me.joined) + ' · code ' + esc(me.code) + '</p>' +
+    (VIP ? '<div class="note green" style="margin-top:12px"><b>Delta One VIP · 99 USDT a month.</b> Active since ' + dstr(me.vipSince) + (me.renew ? '; next payment ' + dstr(me.renew) : '') + '.</div>' +
+           '<h3 style="margin-top:14px">How you pay</h3><div class="list" style="margin-top:8px"><label class="pick-row"><input type="radio" name="paysrc" value="rewards"' + (paySrc() === "rewards" ? " checked" : "") + '><span><b>From my rewards</b><br><span class="small muted">At each renewal the 99 USDT is taken from the rewards in your back-office app wallet. If the balance is short that day, the usual USDT payment applies.</span></span></label><label class="pick-row"><input type="radio" name="paysrc" value="usdt"' + (paySrc() === "usdt" ? " checked" : "") + '><span><b>In USDT, like a module purchase</b><br><span class="small muted">You pay each month the same way you purchase a module.</span></span></label></div><p class="small muted" id="paysrc-note" style="margin-top:6px"></p>' +
+           '<div class="actions" style="margin-top:12px">' + (CFG.billingUrl ? '<a class="btn ghost" href="' + esc(CFG.billingUrl) + '" target="_blank" rel="noopener">Manage my subscription ↗</a>' : '<span class="small muted">Managing the subscription will be connected by the tech team (D1_PRO.billingUrl).</span>') + '</div>'
+         : '<div class="note" style="margin-top:12px"><b>Delta One Training · free.</b> You have the hallway, the checkpoint, the reviews and the light style test. Delta One VIP adds everything on the left: 99 USDT a month, paid in USDT like a module.</div><div class="actions" style="margin-top:12px"><a class="btn gold big" href="' + esc(CFG.upgradeUrl || "#") + '"' + (CFG.upgradeUrl ? ' target="_blank" rel="noopener"' : ' id="up-none"') + '>Go VIP · 99 USDT/month</a></div>') +
+    '</div><div class="card"><h2>Your pages</h2><div class="list"><a class="btn ghost" href="' + esc(withRef(CFG.vipSite, me.code)) + '" target="_blank" rel="noopener">My training page ↗</a><a class="btn ghost" href="' + esc(CFG.fastStart) + '" target="_blank" rel="noopener">Fast Start planner ↗</a><a class="btn ghost" href="' + esc(CFG.calculator) + '" target="_blank" rel="noopener">Module calculator ↗</a>' + (CFG.zoom ? '<a class="btn ghost" href="' + esc(CFG.zoom) + '" target="_blank" rel="noopener">Zoom with an agent · 24/7 ↗</a>' : '') + '</div></div></div>';
+  h += '<div class="grid g2" style="margin-top:16px"><div class="card"><h2>Language</h2><p class="small muted">English for now. The 19 languages of the training page come to the dashboard next.</p></div>' +
+       '<div class="card"><h2>Your data</h2><p class="small muted">Your contacts, your notes and your messages log are yours. Export them any time.</p><div class="actions" style="margin-top:10px"><button type="button" class="btn ghost" id="ac-export">Export my data (JSON)</button>' + (CFG.demo ? '<button type="button" class="btn ghost" id="ac-reset">Reset the demo data</button>' : '') + (typeof CFG.signOut === "function" ? '<button type="button" class="btn danger" id="ac-out">Sign out</button>' : '') + '</div></div></div>';
+  h += '<p class="tiny muted" style="margin-top:14px">Delta One VIP Pro · Draft for legal and compliance review. Every figure is an illustration at the engine\'s average daily result; results and rewards are not guaranteed, and most members earn no commission at all.</p>';
+  el.innerHTML = h;
+  $("ac-export").addEventListener("click", function () { var blob = new Blob([JSON.stringify({ exported: new Date().toISOString(), me: me, contacts: state.contacts, notes: state.notes, sent: state.sent }, null, 2)], { type: "application/json" }), name = "delta_one_vip_pro_" + me.code + ".json"; var dlp = window.claude && window.claude.use ? window.claude.use("downloads") : Promise.resolve(null); dlp.then(function (dl) { if (dl) return dl.save({ filename: name, data: blob }); var u = URL.createObjectURL(blob), a = document.createElement("a"); a.href = u; a.download = name; document.body.appendChild(a); a.click(); setTimeout(function () { URL.revokeObjectURL(u); a.remove(); }, 3000); }).catch(function () {}); });
+  Array.prototype.forEach.call(el.querySelectorAll('input[name="paysrc"]'), function (r) { r.addEventListener("change", function () { store("d1pro-paysrc", r.value); if (CFG.api) api("PUT", "/me/subscription", { paySource: r.value }).catch(function () {}); $("paysrc-note").textContent = r.value === "rewards" ? "Saved: your next renewal is paid from your rewards." : "Saved: your next renewal is paid in USDT."; }); });
+  if ($("ac-reset")) $("ac-reset").addEventListener("click", function () { ["d1pro-demo", "d1pro-style", "d1pro-plan"].forEach(function (k) { store(k, ""); }); location.reload(); });
+  if ($("ac-out")) $("ac-out").addEventListener("click", function () { CFG.signOut(); });
+  if ($("up-none")) $("up-none").addEventListener("click", function (e) { e.preventDefault(); toast("The checkout link is not connected yet (D1_PRO.upgradeUrl)."); });
+}
+
+// ---------------------------------------------------------------- start
+var demo = $("demo");
+if (demo && CFG.demo) { demo.hidden = false; Array.prototype.forEach.call(demo.querySelectorAll("button"), function (b) { b.classList.toggle("on", b.getAttribute("data-plan") === PLAN); b.addEventListener("click", function () { store("d1pro-plan", b.getAttribute("data-plan")); location.reload(); }); }); }
+(CFG.api ? apiLoad().catch(function () { toast("The server did not answer; showing the demo data."); demoLoad(); }) : Promise.resolve(demoLoad())).then(function () { railMe(); render(); });
+})();
+</script>
+</body></html>

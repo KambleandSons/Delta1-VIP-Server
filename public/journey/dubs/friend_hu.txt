@@ -1,0 +1,150 @@
+WEBVTT
+
+1
+00:00:02.592 --> 00:00:08.664
+Szia, barátom! Ma az ötperces beszélgetés. Mondj kevesebbet. Mutass egy dolgot.
+
+2
+00:00:08.664 --> 00:00:12.251
+Küldj egy dolgot. Maya így mesélt Samnek. Figyelj.
+
+3
+00:00:13.120 --> 00:00:18.736
+Első perc: a nyitás. Maya először kérdez. Nincs győzködés, nincs nyomás.
+
+4
+00:00:20.160 --> 00:00:24.095
+Egy szoftverterméket használok, ami digitális pénzzel kereskedik helyettem.
+
+5
+00:00:24.095 --> 00:00:28.858
+Megmutathatom öt perc alatt, hogyan működik, aztán elküldöm az egyszerű szavakkal írt útmutatót?
+
+6
+00:00:29.152 --> 00:00:33.637
+Ha nem neked való, az rendben van. Sam igent mond. Öt perc.
+
+7
+00:00:35.200 --> 00:00:41.885
+Második perc: mi ez. Egy modult veszel a Delta One AI kereskedő motorjából, ezer USDT-től.
+
+8
+00:00:41.885 --> 00:00:43.600
+Szoftver, nem bankszámla.
+
+9
+00:00:46.464 --> 00:00:48.060
+A motor kereskedik.
+
+10
+00:00:48.060 --> 00:00:53.012
+A modulod minden nap megkapja a részét a napi eredményből, délben, UTC szerint.
+
+11
+00:00:53.824 --> 00:00:58.613
+Harmadik perc: a szám. Átlaggal nagyjából napi fél százalék.
+
+12
+00:00:58.613 --> 00:01:03.662
+Egy ezer érmés dobozon nagyjából napi öt érme. Van nap, hogy semmi, van, hogy több.
+
+13
+00:01:05.984 --> 00:01:11.816
+Átlag, hosszabb idő alatt. Soha nem ígéret. Maya minden számhoz hozzáteszi: átlag.
+
+14
+00:01:13.856 --> 00:01:15.795
+Negyedik perc: a két szabály.
+
+15
+00:01:15.795 --> 00:01:21.925
+Minden doboz legfeljebb az ára kétszeresét adja, az árat is beleértve. Ezerre kétezret.
+
+16
+00:01:21.925 --> 00:01:23.027
+Aztán véget ér.
+
+17
+00:01:25.856 --> 00:01:30.112
+Maga az ár soha nem jön vissza. Csak az eredményt lehet kivenni.
+
+18
+00:01:30.112 --> 00:01:33.419
+Ezért csak olyan pénzt használj, amit el bírsz veszíteni.
+
+19
+00:01:35.072 --> 00:01:41.099
+Ötödik perc: a kérés. Elküldjem az egyszerű szavakkal írt útmutatót és az ötperces filmet?
+
+20
+00:01:41.099 --> 00:01:43.770
+Olvasd el őket, aztán mondd el a kérdéseidet.
+
+21
+00:01:44.064 --> 00:01:50.195
+Aztán Maya elhallgat. A magyarázatot a dokumentumok adják. A lezárást a film végzi.
+
+22
+00:01:50.195 --> 00:01:50.939
+Nem Maya.
+
+23
+00:01:52.160 --> 00:01:57.148
+Amit Maya utána küld: A terv egyszerű szavakkal és a Fontos tények, húsz nyelven.
+
+24
+00:01:57.148 --> 00:01:59.740
+A Magfarm film. És a modulkalkulátor.
+
+25
+00:02:03.136 --> 00:02:07.879
+Három dolog, amit Maya soha nem tesz. Semmilyen állítás a keresetről.
+
+26
+00:02:07.879 --> 00:02:12.628
+Sem a dobozokról, sem a tervről. A legtöbb tag egyáltalán nem kap jutalékot.
+
+27
+00:02:14.112 --> 00:02:20.150
+Nincs ígéret. A napok nullától több százalékig terjednek. Az átlag változhat.
+
+28
+00:02:20.150 --> 00:02:21.514
+Senki nem ígér semmit.
+
+29
+00:02:23.136 --> 00:02:24.367
+Nincs nyomás.
+
+30
+00:02:24.367 --> 00:02:29.674
+Ha Samnek szüksége van erre a pénzre, vagy még ma kellene döntenie, akkor a válasz nem.
+
+31
+00:02:29.674 --> 00:02:31.134
+És ez is jó kimenetel.
+
+32
+00:02:32.192 --> 00:02:36.728
+Sam elolvassa az útmutatót. Két nap múlva kérdésekkel jön vissza.
+
+33
+00:02:36.728 --> 00:02:41.782
+Maya a dokumentumokból válaszol. Csak olyan számokkal, amik ott le vannak nyomtatva.
+
+34
+00:02:42.080 --> 00:02:48.573
+Mondjuk el együtt. Először kérdezz. Mondd el, mi ez. Mondd a számot, az átlag szóval.
+
+35
+00:02:48.573 --> 00:02:53.088
+Mondd el a két szabályt. Küldd el az útmutatót. Aztán hallgass el.
+
+36
+00:02:54.656 --> 00:02:59.719
+Már ismered az ötperces beszélgetést. Legközelebb: az első kilencven nap.
+
+37
+00:02:59.719 --> 00:03:00.896
+Viszlát, barátom!
+

@@ -1,0 +1,58 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+  darkMode: ['selector', '[data-theme="dark"]'],
+  theme: {
+    extend: {
+      colors: {
+        d1bg: 'var(--bg)',
+        d1surface: 'var(--surface)',
+        d1soft: 'var(--soft)',
+        d1line: 'var(--line)',
+        d1fg: 'var(--fg)',
+        d1muted: 'var(--muted)',
+        d1blue: 'var(--blue)',
+        'd1blue-ink': 'var(--blue-ink)',
+        d1gold: 'var(--gold)',
+        'd1gold-ink': 'var(--gold-ink)',
+        'd1gold-soft': 'var(--gold-soft)',
+        d1teal: 'var(--teal)',
+        'd1teal-ink': 'var(--teal-ink)',
+        d1sky: '#38B6FF',
+        d1coral: '#E8463A',
+        d1green: 'var(--green)',
+        d1ok: 'var(--ok)',
+        d1warn: 'var(--warn)',
+        d1topbar: 'var(--topbar)',
+        d1s1: 'var(--s1)',
+        'd1s1-bg': 'var(--s1-bg)',
+        d1s2: 'var(--s2)',
+        'd1s2-bg': 'var(--s2-bg)',
+        d1s3: 'var(--s3)',
+        'd1s3-bg': 'var(--s3-bg)',
+        ridge: 'var(--ridge)',
+        'ridge-2': 'var(--ridge-2)',
+        snow: 'var(--snow)',
+        mist: 'var(--mist)',
+        paper: 'var(--paper)',
+        tint: 'var(--tint)',
+        night: 'var(--night)',
+        panel: 'var(--panel)',
+      },
+      fontFamily: {
+        sans: ['Inter', '-apple-system', 'Segoe UI', 'Roboto', 'Arial', 'sans-serif'],
+        display: ['Poppins', 'Inter', 'Arial', 'sans-serif'],
+        archivo: ['Archivo', 'Noto Sans', 'sans-serif'],
+      },
+      boxShadow: {
+        card: '0 6px 18px rgba(11,26,51,.06)',
+        cardDark: '0 8px 24px rgba(0,0,0,.35)',
+        glow: '0 8px 24px rgba(31,111,235,.2)',
+      }
+    },
+  },
+  plugins: [],
+}

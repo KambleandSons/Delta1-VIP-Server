@@ -1,0 +1,246 @@
+WEBVTT
+
+1
+00:00:02.592 --> 00:00:06.548
+Oi! Este é o Plano Momentum, num desenho animado divertido.
+
+2
+00:00:06.548 --> 00:00:10.551
+Conheça Maya, que compra um módulo. Conheça Sam, que apresentou Maya.
+
+3
+00:00:10.848 --> 00:00:14.677
+E conheça Bolt, o motor de AI da Delta One, que faz toda a negociação.
+
+4
+00:00:15.904 --> 00:00:20.966
+Uma regra antes de começar: cada número que você vai ver é uma média, e nada é uma promessa.
+
+5
+00:00:20.966 --> 00:00:22.805
+Prontos? Vamos lá!
+
+6
+00:00:24.064 --> 00:00:30.000
+Bolt é um motor de negociação: um software esperto que caça boas operações, o dia todo, todo dia.
+
+7
+00:00:30.000 --> 00:00:32.584
+Maya compra um módulo de Bolt por mil USDT.
+
+8
+00:00:34.336 --> 00:00:38.771
+É uma compra de software, como comprar um jogo, então o dinheiro não é reembolsável.
+
+9
+00:00:40.352 --> 00:00:46.936
+A partir daí, Bolt paga a Maya uma parte do que ganha, até o módulo dela entregar dois mil USDT: o dobro do que ela pagou.
+
+10
+00:00:46.936 --> 00:00:49.130
+Depois acaba. Tchanã!
+
+11
+00:00:50.580 --> 00:00:54.643
+Cada dia em que Bolt tem lucro, ele divide cada cem USDT em três.
+
+12
+00:00:54.643 --> 00:00:59.258
+Cinquenta vão para membros como Maya. Vinte e cinco vão para o plano que paga Sam.
+
+13
+00:00:59.552 --> 00:01:02.335
+E vinte e cinco vão para a Tesouraria DAO.
+
+14
+00:01:02.335 --> 00:01:07.295
+Mas e quando o céu está cinza e Bolt não tem lucro? Ninguém recebe uma moeda.
+
+15
+00:01:07.295 --> 00:01:10.306
+Sem lucro, sem pagamento. Nem Bolt.
+
+16
+00:01:11.640 --> 00:01:18.329
+Este é o mês de Bolt. Alguns dias ele não ganha nada. Zero. Outros dias ganha muito.
+
+17
+00:01:18.648 --> 00:01:24.448
+Some tudo, divida pelos dias, e dá cerca de meio por cento por dia. Essa é a média.
+
+18
+00:01:24.448 --> 00:01:26.801
+Todo número deste desenho usa a média.
+
+19
+00:01:27.576 --> 00:01:30.770
+E médias podem mudar, então nunca, jamais prometa uma.
+
+20
+00:01:32.568 --> 00:01:35.992
+Na média, o módulo de Maya ganha cinco USDT por dia.
+
+21
+00:01:35.992 --> 00:01:42.657
+Nos primeiros dez dias, cada resultado compra um módulo novo pequenino. Pop! Pop! Pop!
+
+22
+00:01:43.960 --> 00:01:47.733
+Desde o dia onze, Maya tem um botão: recompra, ou carteira.
+
+23
+00:01:47.733 --> 00:01:51.108
+Perto do dia duzentos, ela já recebeu tanto quanto pagou.
+
+24
+00:01:53.720 --> 00:01:58.092
+Perto do dia quatrocentos, o módulo já pagou dois mil USDT, e acabou.
+
+25
+00:01:58.092 --> 00:02:00.601
+Maya compra um novo, e lá vamos nós de novo.
+
+26
+00:02:02.680 --> 00:02:03.860
+Agora Sam.
+
+27
+00:02:03.860 --> 00:02:09.406
+Sam apresentou Maya, então cada dia em que o módulo dela ganha, Sam recebe dois por cento.
+
+28
+00:02:09.406 --> 00:02:13.218
+Cinco USDT para Maya, dez centavos para Sam. Pouquinho!
+
+29
+00:02:13.752 --> 00:02:16.718
+A ideia é essa: Sam recebe de muitos módulos.
+
+30
+00:02:16.718 --> 00:02:22.465
+Um milhão de USDT em módulos nos níveis de Sam dá cem USDT por dia. Não de uma moeda.
+
+31
+00:02:22.465 --> 00:02:24.153
+De uma montanha de moedas.
+
+32
+00:02:27.448 --> 00:02:31.442
+Falando em montanhas: são sete categorias, e todas são montanhas.
+
+33
+00:02:31.442 --> 00:02:35.429
+Fuji, Kilimanjaro, Matterhorn, Denali, Rainier, K-2 e Everest.
+
+34
+00:02:37.592 --> 00:02:42.213
+Quanto mais Sam sobe, de mais níveis ele recebe: três no Fuji, vinte e um no Everest.
+
+35
+00:02:44.536 --> 00:02:49.566
+Cada categoria pede a sua própria compra, os seus próprios inscritos, e volume do grupo.
+
+36
+00:02:49.566 --> 00:02:52.148
+E a subida é verificada todos os dias.
+
+37
+00:02:53.624 --> 00:02:57.195
+Uma regra decide cada categoria: equilibre as suas linhas!
+
+38
+00:02:57.195 --> 00:03:00.497
+Uma linha é uma pessoa que Sam inscreve, mais todos abaixo dela.
+
+39
+00:03:00.792 --> 00:03:03.220
+Uma linha gigante não conta inteira.
+
+40
+00:03:03.220 --> 00:03:07.648
+Uma linha só pode contar a sua parte: metade, um terço, um quarto ou um quinto.
+
+41
+00:03:09.880 --> 00:03:13.618
+Sam cresce em largura, como uma árvore, não em altura, como uma torre.
+
+42
+00:03:15.744 --> 00:03:19.891
+E os líderes recebem de uma segunda forma, o diferencial de ruptura.
+
+43
+00:03:19.891 --> 00:03:24.346
+Cada categoria tem um número: seis no Fuji, até quarenta e dois no Everest.
+
+44
+00:03:25.208 --> 00:03:29.769
+Sam é Denali, vinte e quatro. Abaixo dele está Fred do Fuji, seis.
+
+45
+00:03:29.769 --> 00:03:35.394
+A diferença é de dezoito pontos, e essa diferença é de Sam, em cada contrato da linha de Fred.
+
+46
+00:03:36.056 --> 00:03:41.471
+Sem teto! Mas se Fred também sobe para o Denali, a parte de Fred na diferença é de Fred.
+
+47
+00:03:41.471 --> 00:03:43.067
+Então, Sam: fique à frente!
+
+48
+00:03:43.384 --> 00:03:45.900
+O dia de pagamento é todo dia.
+
+49
+00:03:45.900 --> 00:03:51.397
+Ao meio-dia UTC, Bolt toca o sino e a parte de cada um cai na sua carteira do app, em USDT.
+
+50
+00:03:52.280 --> 00:03:56.497
+Retire quando quiser, a partir de cinco USDT, só com a taxa da rede.
+
+51
+00:03:56.497 --> 00:03:58.324
+Módulos acabam no dobro.
+
+52
+00:03:58.324 --> 00:04:02.222
+E só contam os módulos ativos, então mantenha os seus funcionando.
+
+53
+00:04:03.480 --> 00:04:07.801
+Seis regras, diga comigo! Pago pelos ganhos, nunca pelas compras.
+
+54
+00:04:07.801 --> 00:04:12.891
+Sem lucro, sem pagamento. Equilibre as suas linhas. Fique à frente.
+
+55
+00:04:12.891 --> 00:04:14.348
+Módulos acabam no dobro.
+
+56
+00:04:14.648 --> 00:04:18.015
+Pago todo dia, em USDT. Agora você sabe!
+
+57
+00:04:19.608 --> 00:04:24.392
+Uma última coisa, e é séria. Cada número aqui é uma média, não uma promessa.
+
+58
+00:04:25.592 --> 00:04:30.926
+Resultados e recompensas não são garantidos, e a maioria dos membros não ganha nenhuma comissão.
+
+59
+00:04:31.576 --> 00:04:36.420
+Um módulo é uma compra de software: o dinheiro não é reembolsável e pode ser perdido.
+
+60
+00:04:36.420 --> 00:04:41.331
+Leia os Pontos-Chave antes de comprar. Cresça em largura. Fique à frente.
+
+61
+00:04:41.656 --> 00:04:46.019
+E diga a verdade sobre os riscos. Tchau da Maya, do Sam e do Bolt!
+

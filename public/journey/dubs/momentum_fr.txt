@@ -1,0 +1,254 @@
+WEBVTT
+
+1
+00:00:02.592 --> 00:00:06.625
+Salut ! Voici le plan Momentum, en un dessin animé rigolo.
+
+2
+00:00:06.625 --> 00:00:10.546
+Voici Maya, qui achète un module. Voici Sam, qui l'a présentée.
+
+3
+00:00:10.848 --> 00:00:14.892
+Et voici Bolt, le moteur AI de Delta One, qui fait tout le trading.
+
+4
+00:00:15.904 --> 00:00:21.315
+Une règle avant de commencer : chaque chiffre que vous verrez est une moyenne, et rien n'est une promesse.
+
+5
+00:00:21.315 --> 00:00:22.961
+Prêts ? C'est parti !
+
+6
+00:00:24.064 --> 00:00:30.220
+Bolt est un moteur de trading : un logiciel malin qui chasse les bonnes opérations, toute la journée, chaque jour.
+
+7
+00:00:30.220 --> 00:00:32.710
+Maya achète un module de Bolt pour mille USDT.
+
+8
+00:00:34.336 --> 00:00:38.676
+C'est un achat de logiciel, comme acheter un jeu, donc l'argent n'est pas remboursable.
+
+9
+00:00:40.352 --> 00:00:47.654
+Ensuite, Bolt verse à Maya une part de ce qu'il gagne, jusqu'à ce que son module ait donné deux mille USDT : le double de ce qu'elle a payé.
+
+10
+00:00:47.654 --> 00:00:49.584
+Puis c'est fini. Tadam !
+
+11
+00:00:50.580 --> 00:00:54.914
+Chaque jour où Bolt fait un profit, il partage chaque centaine d'USDT en trois.
+
+12
+00:00:54.914 --> 00:00:59.130
+Cinquante vont aux membres comme Maya. Vingt-cinq vont au plan qui paie Sam.
+
+13
+00:00:59.552 --> 00:01:02.013
+Et vingt-cinq vont à la Trésorerie DAO.
+
+14
+00:01:02.013 --> 00:01:05.139
+Mais quand le ciel est gris et que Bolt ne fait pas de profit ?
+
+15
+00:01:05.139 --> 00:01:09.758
+Personne ne reçoit une pièce. Pas de profit, pas de paiement. Même pas Bolt.
+
+16
+00:01:11.640 --> 00:01:16.249
+Voici le mois de Bolt. Certains jours, il ne gagne rien. Zéro.
+
+17
+00:01:16.249 --> 00:01:17.806
+D'autres jours, il gagne beaucoup.
+
+18
+00:01:18.648 --> 00:01:23.805
+Additionnez tout, divisez par le nombre de jours, et vous obtenez environ un demi pour cent par jour.
+
+19
+00:01:23.805 --> 00:01:27.282
+C'est la moyenne. Chaque chiffre de ce dessin animé l'utilise.
+
+20
+00:01:27.576 --> 00:01:30.826
+Et une moyenne peut changer. Ne la promettez jamais, jamais.
+
+21
+00:01:32.568 --> 00:01:36.038
+À la moyenne, le module de Maya gagne cinq USDT par jour.
+
+22
+00:01:36.038 --> 00:01:41.855
+Les dix premiers jours, chaque résultat achète un tout petit module. Pop ! Pop ! Pop !
+
+23
+00:01:43.960 --> 00:01:47.437
+Dès le jour onze, Maya a un bouton : rachat, ou portefeuille.
+
+24
+00:01:47.437 --> 00:01:50.212
+Vers le jour deux cents, elle a reçu autant qu'elle a payé.
+
+25
+00:01:53.720 --> 00:01:57.683
+Vers le jour quatre cents, le module a versé deux mille USDT, et c'est fini.
+
+26
+00:01:57.683 --> 00:01:59.927
+Maya en achète un nouveau, et c'est reparti.
+
+27
+00:02:02.680 --> 00:02:04.031
+Maintenant, Sam.
+
+28
+00:02:04.031 --> 00:02:09.460
+Sam a présenté Maya, donc chaque jour où le module de Maya gagne, Sam en reçoit deux pour cent.
+
+29
+00:02:09.460 --> 00:02:13.065
+Cinq USDT pour Maya, dix centimes pour Sam. Minuscule !
+
+30
+00:02:13.752 --> 00:02:16.620
+Voilà l'idée : Sam est payé sur beaucoup de modules.
+
+31
+00:02:16.620 --> 00:02:20.750
+Un million d'USDT de modules dans les niveaux de Sam, c'est cent USDT par jour.
+
+32
+00:02:20.750 --> 00:02:23.444
+Pas d'une pièce. D'une montagne de pièces.
+
+33
+00:02:27.448 --> 00:02:31.506
+En parlant de montagnes : il y a sept rangs, et ce sont tous des montagnes.
+
+34
+00:02:31.506 --> 00:02:35.648
+Fuji, Kilimanjaro, Matterhorn, Denali, Rainier, K-2 et Everest.
+
+35
+00:02:37.592 --> 00:02:41.696
+Plus Sam monte, plus de niveaux le paient : trois à Fuji, vingt et un à Everest.
+
+36
+00:02:44.536 --> 00:02:49.176
+Chaque rang demande son propre achat, ses propres filleuls, et du volume d'équipe.
+
+37
+00:02:49.176 --> 00:02:52.064
+Et la montée est vérifiée chaque jour, sans exception.
+
+38
+00:02:53.624 --> 00:02:56.814
+Une règle décide de chaque rang : équilibrez vos branches !
+
+39
+00:02:56.814 --> 00:03:00.245
+Une branche, c'est une personne que Sam inscrit, plus tout le monde en dessous.
+
+40
+00:03:00.792 --> 00:03:03.239
+Une branche géante ne compte pas en entier.
+
+41
+00:03:03.239 --> 00:03:07.766
+Une branche ne compte que pour sa part : la moitié, un tiers, un quart ou un cinquième.
+
+42
+00:03:09.880 --> 00:03:12.986
+Alors Sam bâtit large, comme un arbre, pas haut, comme une tour.
+
+43
+00:03:15.744 --> 00:03:19.896
+Et les leaders sont payés d'une deuxième façon, le différentiel de rupture.
+
+44
+00:03:19.896 --> 00:03:23.585
+Chaque rang a un chiffre : six à Fuji, jusqu'à quarante-deux à Everest.
+
+45
+00:03:25.208 --> 00:03:29.351
+Sam est Denali, vingt-quatre. Sous lui, il y a Fred de Fuji, six.
+
+46
+00:03:29.351 --> 00:03:34.333
+L'écart est de dix-huit points, et cet écart est à Sam, sur chaque contrat de la branche de Fred.
+
+47
+00:03:36.056 --> 00:03:41.569
+Pas de plafond ! Mais si Fred monte aussi à Denali, la part de l'écart de Fred est à Fred.
+
+48
+00:03:41.569 --> 00:03:42.943
+Alors, Sam : reste devant !
+
+49
+00:03:43.384 --> 00:03:45.001
+La paie, c'est tous les jours.
+
+50
+00:03:45.001 --> 00:03:50.753
+À midi UTC, Bolt sonne la cloche et la part de chacun arrive dans son portefeuille de l'appli, en USDT.
+
+51
+00:03:52.280 --> 00:03:56.152
+Retirez quand vous voulez dès cinq USDT, avec juste les frais de réseau.
+
+52
+00:03:56.152 --> 00:03:58.085
+Les modules s'arrêtent à deux fois.
+
+53
+00:03:58.085 --> 00:04:01.876
+Et seuls les modules actifs comptent, alors gardez les vôtres en marche.
+
+54
+00:04:03.480 --> 00:04:07.700
+Six règles, dites-les avec moi ! Payé sur les gains, jamais sur les achats.
+
+55
+00:04:07.700 --> 00:04:12.345
+Pas de profit, pas de paiement. Équilibrez vos branches. Restez devant.
+
+56
+00:04:12.345 --> 00:04:14.002
+Les modules s'arrêtent à deux fois.
+
+57
+00:04:14.648 --> 00:04:17.498
+Payé chaque jour, en USDT. Vous avez compris !
+
+58
+00:04:19.608 --> 00:04:21.719
+Une dernière chose, et c'est sérieux.
+
+59
+00:04:21.719 --> 00:04:24.322
+Chaque chiffre ici est une moyenne, pas une promesse.
+
+60
+00:04:25.592 --> 00:04:31.098
+Les résultats et les récompenses ne sont pas garantis, et la plupart des membres ne gagnent aucune commission.
+
+61
+00:04:31.576 --> 00:04:36.561
+Un module est un achat de logiciel : l'argent n'est pas remboursable et peut être perdu.
+
+62
+00:04:36.561 --> 00:04:41.078
+Lisez les Faits clés avant d'acheter. Bâtissez large. Restez devant.
+
+63
+00:04:41.656 --> 00:04:46.047
+Et dites la vérité sur les risques. Au revoir de la part de Maya, Sam et Bolt !
+

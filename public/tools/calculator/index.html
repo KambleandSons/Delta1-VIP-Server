@@ -1,0 +1,112 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Module Calculator</title>
+<style>
+/* Layout: one input, four tiles, a 440-day timeline, a standard-vs-Believer table. Delta One tokens: paper/night, gold rules, Inter. */
+:root{--bg:#F5F6F4;--paper:#FFFFFF;--tint:#EEF0EE;--fg:#090A0C;--muted:#65717C;--line:#D8DDE1;--gold:#FFC93C;--gold-ink:#8A5E00;--night:#090A0C;--on-night:#F5F6F4;--teal:#1F8A7E;--pink:#D94F8C;--warn:#B8432F;
+ --font:"Inter",-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0E1013;--paper:#15181C;--tint:#1C2025;--fg:#F1F2F0;--muted:#AEB5BD;--line:#2A3038;--gold-ink:#FFC93C;--warn:#F0A497;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0E1013;--paper:#15181C;--tint:#1C2025;--fg:#F1F2F0;--muted:#AEB5BD;--line:#2A3038;--gold-ink:#FFC93C;--warn:#F0A497;color-scheme:dark}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--font);font-size:16px;line-height:1.55}
+.wrap{max-width:900px;margin:0 auto;padding-inline:20px}
+.mast{background:var(--night);color:var(--on-night);padding-block:34px 30px}.mast .k{font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;margin:0 0 8px}
+h1{margin:0;font-weight:300;font-size:clamp(30px,5vw,46px);line-height:1.08;letter-spacing:-.01em}.mast p{color:#C9CED4;max-width:62ch;margin:12px 0 0}
+section{padding-block:28px}h2{font-weight:300;font-size:24px;margin:0 0 10px}h3{font-weight:600;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--gold-ink);margin:18px 0 6px}
+.in{display:flex;gap:14px;flex-wrap:wrap;align-items:flex-end;background:var(--paper);border:1px solid var(--line);padding:18px 20px}
+label{display:block;font-size:13px;color:var(--muted);margin-bottom:6px}
+input[type=number]{font:inherit;font-size:28px;font-weight:300;width:220px;padding:8px 12px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--fg)}
+.seg{display:flex;border:1px solid var(--line);border-radius:6px;overflow:hidden}.seg button{font:inherit;font-size:14px;font-weight:500;padding:12px 16px;background:var(--paper);color:var(--fg);border:0;cursor:pointer}.seg button[aria-pressed=true]{background:var(--night);color:var(--on-night)}
+.sizes{display:flex;gap:8px;flex-wrap:wrap}.sizes button{font:inherit;font-size:13px;padding:6px 10px;border:1px solid var(--line);border-radius:999px;background:var(--paper);color:var(--fg);cursor:pointer}.sizes button:hover{border-color:var(--gold)}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px;margin-top:16px}.tile{border-top:2px solid var(--gold);padding-top:8px}
+.tile .l{font-size:11px;letter-spacing:.06em;text-transform:uppercase;font-weight:600;color:var(--muted)}.tile b{display:block;font-weight:300;font-size:30px;line-height:1.15;font-variant-numeric:tabular-nums}.tile span{font-size:13px;color:var(--muted)}
+svg{width:100%;height:auto;display:block;background:var(--paper);border:1px solid var(--line)}
+table{border-collapse:collapse;width:100%;font-size:14px;background:var(--paper);border:1px solid var(--line)}th{text-align:left;background:var(--night);color:var(--on-night);font-weight:500;font-size:12px;padding:9px 12px;border-bottom:2px solid var(--gold)}
+td{padding:9px 12px;border-top:1px solid var(--line);font-variant-numeric:tabular-nums}td:first-child{font-weight:600}.tw{overflow-x:auto}
+.note{background:var(--tint);border-top:2px solid var(--gold);padding:12px 16px;margin-top:16px;font-size:14px}.note.warn{border-top-color:var(--warn)}
+footer{padding-block:24px 40px;border-top:1px solid var(--line);color:var(--muted);font-size:13px}
+@media (max-width:520px){input[type=number]{width:100%}.in{display:block}.in>div{margin-bottom:12px}}
+</style>
+<header class="mast"><div class="wrap"><p class="k">Delta One · module calculator</p><h1>What does one module do?</h1>
+<p>Type an amount. See what a module of that size does at the engine's average daily result: the daily result, the day the purchase price is back, the day it ends, and the Believer version. Every figure is an average over time; real days vary from zero to several percent and nothing is guaranteed.</p></div></header>
+
+<section><div class="wrap">
+  <div class="in">
+    <div><label for="amt">Module size (USDT, from 1,000 USDT)</label><input id="amt" type="number" min="1000" step="100" value="1000" inputmode="numeric"></div>
+    <div><label>Quick sizes</label><div class="sizes"><button type="button" data-v="1000">1,000 USDT</button><button type="button" data-v="2500">2,500 USDT</button><button type="button" data-v="5000">5,000 USDT</button><button type="button" data-v="10000">10,000 USDT</button><button type="button" data-v="25000">25,000 USDT</button></div></div>
+    <div><label>Average daily result</label><div class="seg" role="group" aria-label="Average"><button type="button" data-r="0.005" aria-pressed="true">0.50% (the average)</button><button type="button" data-r="0.0025" aria-pressed="false">0.25% (a weaker year)</button></div></div>
+  </div>
+  <div class="tiles" id="tiles"></div>
+  <p class="note">The <b>first ten days</b> rebuy automatically: each day's result opens a tiny module with its own 2×. From <b>day 11</b> your switch decides: OFF sends results to your app wallet; ON keeps rebuying. The figures above are the module alone, switch OFF from day 11; the table below adds the rebuys.</p>
+</div></section>
+
+<section><div class="wrap"><h2>The module's life, day by day</h2>
+  <svg id="chart" viewBox="0 0 900 290" role="img" aria-label="Cumulative results delivered by the module over its life"></svg>
+  <p class="note" style="font-size:13px">Gold: results received so far. The dashed line is the purchase price; the module ends when the total reaches 2× (2.2× for a Believer). A lower average stretches the whole picture to the right.</p>
+</div></section>
+
+<section><div class="wrap"><h2>Standard, or Believer</h2>
+  <div class="tw"><table id="cmp"></table></div>
+  <p class="note">A <b>Believer</b> keeps Auto-Rebuy ON for the module's whole life: the module delivers <b>220%</b> instead of 200%, and the switch is locked ON until it does. Every result becomes a new module; nothing reaches the wallet until the original has delivered 220%. Then the rebuy modules keep paying: that is the harvest. Binding; not for money you may need.</p>
+  <p class="note warn"><b>Not guaranteed.</b> 0.50% a day is the engine's average daily result, not a promise. Days without profit pay nothing. The purchase price is not refundable and can be lost. Only purchase with money you can afford to lose. Most members earn no commission at all. Draft for legal and compliance review.</p>
+</div></section>
+<footer><div class="wrap">Delta One · Module Calculator · October 2026. Illustrations at the engine's 0.50–1.00% average daily result; days vary from zero to several percent. Not a guarantee of earnings. Capital at risk. Not legal, tax or financial advice.</div></footer>
+
+<script>
+(function(){
+  var amt=document.getElementById('amt'), tiles=document.getElementById('tiles'), chart=document.getElementById('chart'), cmp=document.getElementById('cmp');
+  var r=0.005;
+  function money(x,d){return x.toLocaleString('en-US',{minimumFractionDigits:d||0,maximumFractionDigits:d||0})+' USDT';}
+  // reference cycle (believer/sim.py): every active module gets r×P a day until its cap; rebuys open new modules
+  function simulate(P,capMult,rebuyMult,switchOff,days){
+    var mods=[[P,capMult*P,0]], wallet=0, cum=0, origEnd=null, out=[];
+    for(var day=1;day<=days;day++){
+      var res=0, newMods=[];
+      for(var i=0;i<mods.length;i++){var m=mods[i]; if(m[2]<m[1]){var x=Math.min(r*m[0],m[1]-m[2]); m[2]+=x; res+=x;}}
+      if(origEnd===null && mods[0][2]>=mods[0][1]-1e-9) origEnd=day;
+      cum+=res;
+      var toWallet=(switchOff!==null && day>switchOff && day>10);
+      if(toWallet) wallet+=res; else if(res>0.001) newMods.push([res,rebuyMult*res,0]);
+      for(var j=0;j<newMods.length;j++) mods.push(newMods[j]);
+      var active=0; for(var k=0;k<mods.length;k++) if(mods[k][2]<mods[k][1]-1e-9) active++;
+      out.push({day:day,res:res,cum:cum,wallet:wallet,active:active,total:mods.length});
+      if(switchOff!==null && day>switchOff && active===0) break;
+    }
+    return {o:out,end:origEnd};
+  }
+  function render(){
+    var P=Math.max(1000,parseFloat(amt.value)||1000); amt.value=P;
+    var perDay=P*r, back=Math.round(1/r), end=Math.round(2/r), bEnd=Math.round(2.2/r);
+    tiles.innerHTML=[['Per day, on average',money(perDay,2),'0.5% of '+money(P)+(r<0.005?' at 0.25%':'')],['Purchase price back','about day '+back,'results equal '+money(P)],['The module ends','about day '+end,'after delivering '+money(2*P)+' (2×)'],['As a Believer','about day '+bEnd,'after delivering '+money(2.2*P)+' (2.2×)']]
+      .map(function(t){return '<div class="tile"><div class="l">'+t[0]+'</div><b>'+t[1]+'</b><span>'+t[2]+'</span></div>';}).join('');
+    // chart: cumulative delivered by the original module only
+    var W=900,H=290,L=56,Rr=20,T=24,B=70, days=bEnd+10, maxY=2.2*P;
+    var sx=function(d){return L+(W-L-Rr)*d/days;}, sy=function(v){return T+(H-T-B)*(1-v/maxY);};
+    var pts=[], pb=[];
+    for(var d=0;d<=days;d+=Math.max(1,Math.floor(days/300))){pts.push(sx(d)+','+sy(Math.min(2*P,perDay*d))); pb.push(sx(d)+','+sy(Math.min(2.2*P,perDay*d)));}
+    var g='<rect width="'+W+'" height="'+H+'" fill="transparent"/>';
+    [0.5,1,1.5,2].forEach(function(f){var y=sy(f*P); g+='<line x1="'+L+'" y1="'+y+'" x2="'+(W-Rr)+'" y2="'+y+'" stroke="#D8DDE1" stroke-width="1"/><text x="'+(L-6)+'" y="'+(y+4)+'" text-anchor="end" font-size="11" fill="#65717C">'+(f===1?money(P):f+'×')+'</text>';});
+    g+='<line x1="'+L+'" y1="'+sy(P)+'" x2="'+(W-Rr)+'" y2="'+sy(P)+'" stroke="#B8432F" stroke-dasharray="6 4" stroke-width="1.5"/>';
+    g+='<polyline points="'+pb.join(' ')+'" fill="none" stroke="#8A5E00" stroke-width="2" stroke-dasharray="3 4"/>';
+    g+='<polyline points="'+pts.join(' ')+'" fill="none" stroke="#FFC93C" stroke-width="4" stroke-linecap="round"/>';
+    [[back,'price back',0],[end,'ends (2×)',0],[bEnd,'Believer ends (2.2×)',1]].forEach(function(m){var x=sx(m[0]), dy=m[2]?26:0; g+='<line x1="'+x+'" y1="'+(H-B)+'" x2="'+x+'" y2="'+(H-B+6+dy)+'" stroke="#65717C"/><text x="'+x+'" y="'+(H-B+20+dy)+'" text-anchor="middle" font-size="11" fill="#65717C">day '+m[0]+'</text><text x="'+x+'" y="'+(H-B+33+dy)+'" text-anchor="middle" font-size="10" fill="#8A5E00">'+m[1]+'</text>';});
+    g+='<text x="'+L+'" y="14" font-size="11" fill="#65717C">results received by the module alone, at the average</text>';
+    chart.innerHTML=g;
+    // comparison with rebuys (wallet from day 11 vs believer)
+    var s=simulate(P,2.0,2.0,10,4000), b=simulate(P,2.2,2.2,bEnd,6000);
+    var sLast=s.o[s.o.length-1], bLast=b.o[b.o.length-1], b440=b.o[Math.min(bEnd,b.o.length)-1];
+    var rows=[['','Standard (wallet from day 11)','Believer (rebuy for the whole life)'],
+      ['Delivers in total','200% · '+money(2*P),'220% · '+money(2.2*P)],
+      ['The original module ends','about day '+s.end,'about day '+b.end],
+      ['Modules created from results',(sLast.total-1)+' small rebuy modules (days 1–10)',(b440.total-1)+' rebuy modules by day '+b.end],
+      ['Wallet, when every module has finished',money(sLast.wallet)+' by about day '+sLast.day,money(bLast.wallet)+' by about day '+bLast.day],
+      ['Nothing in the wallet until','day 11','day '+(b.end+1)],
+      ['Can you change your mind?','Yes, the switch is yours from day 11','No: locked ON until 220%']];
+    cmp.innerHTML=rows.map(function(rw,i){return '<tr>'+rw.map(function(c){return (i?'<td>':'<th>')+c+(i?'</td>':'</th>');}).join('')+'</tr>';}).join('');
+  }
+  amt.addEventListener('input',render);
+  Array.prototype.forEach.call(document.querySelectorAll('.sizes button'),function(bt){bt.addEventListener('click',function(){amt.value=bt.getAttribute('data-v');render();});});
+  Array.prototype.forEach.call(document.querySelectorAll('.seg button'),function(bt){bt.addEventListener('click',function(){r=parseFloat(bt.getAttribute('data-r'));Array.prototype.forEach.call(document.querySelectorAll('.seg button'),function(o){o.setAttribute('aria-pressed',o===bt?'true':'false');});render();});});
+  render();
+})();
+</script>
+
+</body></html>

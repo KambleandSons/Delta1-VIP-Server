@@ -1,0 +1,194 @@
+WEBVTT
+
+1
+00:00:02.592 --> 00:00:04.975
+Hola, amigo. Hoy, monedas.
+
+2
+00:00:04.975 --> 00:00:09.192
+Cómo entran las monedas, cómo salen, y los errores que hacen perder monedas.
+
+3
+00:00:09.192 --> 00:00:10.461
+Despacio, juntos.
+
+4
+00:00:12.896 --> 00:00:16.763
+Las monedas de Delta One son USDT. Un dólar digital.
+
+5
+00:00:16.763 --> 00:00:19.534
+Una moneda está hecha para valer un dólar.
+
+6
+00:00:19.534 --> 00:00:22.595
+Vive en una cadena de bloques, un gran cuaderno público.
+
+7
+00:00:23.648 --> 00:00:27.793
+Una billetera es una aplicación en tu teléfono que guarda tus monedas.
+
+8
+00:00:27.793 --> 00:00:32.301
+Tiene una dirección, como el número de una casa. La dirección la puedes compartir.
+
+9
+00:00:32.640 --> 00:00:35.751
+La billetera también tiene un secreto: doce palabras.
+
+10
+00:00:35.751 --> 00:00:40.245
+Quien tenga las palabras es dueño de las monedas. Escríbelas en papel.
+
+11
+00:00:40.245 --> 00:00:43.825
+Nunca las escribas en ningún sitio. Nunca las compartas.
+
+12
+00:00:44.128 --> 00:00:48.995
+Ni siquiera con Delta One. Delta One nunca te pedirá tus doce palabras.
+
+13
+00:00:48.995 --> 00:00:51.058
+Guarda el papel en un lugar seguro.
+
+14
+00:00:51.456 --> 00:00:55.524
+Las monedas viajan por caminos. USDT tiene varios caminos.
+
+15
+00:00:55.524 --> 00:00:59.598
+Delta One usa solo uno: BNB Smart Chain, también llamado B E P veinte.
+
+16
+00:01:02.688 --> 00:01:06.206
+Las monedas enviadas por el camino equivocado se pierden.
+
+17
+00:01:06.206 --> 00:01:09.490
+Cada vez que envías, la pantalla pregunta qué camino.
+
+18
+00:01:09.490 --> 00:01:11.955
+La respuesta es siempre BNB Smart Chain.
+
+19
+00:01:12.768 --> 00:01:18.165
+¿De dónde salen las monedas? La mayoría las compra en un exchange, una tienda de monedas.
+
+20
+00:01:18.165 --> 00:01:23.002
+Verifica tu identidad, paga con tu banco, y luego envía las monedas a tu propia billetera.
+
+21
+00:01:24.768 --> 00:01:27.060
+BNB Smart Chain es el camino.
+
+22
+00:01:27.060 --> 00:01:32.429
+Guarda también un poco de la moneda BNB en la billetera: paga la tarifa del camino, unos centavos.
+
+23
+00:01:32.429 --> 00:01:35.166
+Una billetera sin BNB no puede enviar nada.
+
+24
+00:01:35.584 --> 00:01:41.777
+Ahora Maya compra su caja. La aplicación muestra una dirección de pago. Maya la copia.
+
+25
+00:01:41.777 --> 00:01:47.409
+Revisa los primeros cuatro y los últimos cuatro signos. Luego envía la cantidad exacta.
+
+26
+00:01:49.088 --> 00:01:53.309
+Envía primero una pequeña prueba. Luego la cantidad real.
+
+27
+00:01:53.309 --> 00:01:56.224
+En un minuto más o menos llegan las monedas.
+
+28
+00:01:56.224 --> 00:01:59.704
+Maya guarda el código largo del recibo, el hash de la transacción.
+
+29
+00:02:03.232 --> 00:02:07.575
+Cada día a las doce del mediodía, hora UTC, llega el estado de cuenta de Maya.
+
+30
+00:02:07.575 --> 00:02:13.060
+Muestra el resultado de Bolt del día, la parte de su caja, adónde fue, y cuánto ha avanzado su caja.
+
+31
+00:02:16.096 --> 00:02:20.056
+¿Adónde fue la parte? Días uno a diez: recompra, una cajita.
+
+32
+00:02:20.056 --> 00:02:23.149
+Desde el día once, interruptor encendido: recompra.
+
+33
+00:02:23.149 --> 00:02:25.750
+Interruptor apagado: su billetera en la aplicación.
+
+34
+00:02:26.080 --> 00:02:28.027
+Sacar monedas es fácil.
+
+35
+00:02:28.027 --> 00:02:32.267
+Desde la billetera de la aplicación, cuando quieras, cinco monedas o más.
+
+36
+00:02:32.267 --> 00:02:37.419
+Van a la dirección de billetera del perfil de Maya. Solo se cobra la tarifa del camino.
+
+37
+00:02:38.464 --> 00:02:43.977
+Haz tu primer retiro pequeño, el día once. Así sabes que todo el camino funciona.
+
+38
+00:02:43.977 --> 00:02:46.045
+Después, saca monedas cuando quieras.
+
+39
+00:02:48.480 --> 00:02:58.084
+Errores que hacen perder monedas: el camino equivocado, una dirección equivocada, no tener BNB para la tarifa, compartir las doce palabras, aplicaciones falsas y enlaces falsos.
+
+40
+00:03:00.224 --> 00:03:03.372
+Delta One nunca envía enlaces de pago en un chat.
+
+41
+00:03:03.372 --> 00:03:07.189
+Ningún agente de soporte necesita jamás tus doce palabras.
+
+42
+00:03:07.189 --> 00:03:10.525
+Si alguien te las pide, es un engaño, un anzuelo para atraparte.
+
+43
+00:03:10.860 --> 00:03:16.848
+Y una cosa más. El precio de compra nunca vuelve. Solo los resultados se pueden sacar.
+
+44
+00:03:16.848 --> 00:03:19.610
+Usa solo monedas que puedas permitirte perder.
+
+45
+00:03:19.948 --> 00:03:26.906
+Digámoslo juntos. BNB Smart Chain. Revisa la dirección. Guarda las doce palabras en papel.
+
+46
+00:03:26.906 --> 00:03:29.320
+Saca monedas cuando quieras, cinco o más.
+
+47
+00:03:29.900 --> 00:03:35.043
+Ahora sabes cómo entran y salen las monedas. La próxima vez: el Plan Momentum.
+
+48
+00:03:35.043 --> 00:03:36.397
+Hasta pronto, amigo.
+

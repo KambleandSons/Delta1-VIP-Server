@@ -1,0 +1,122 @@
+WEBVTT
+
+1
+00:00:02.620 --> 00:00:06.756
+Hallo, vriend. Vandag 'n klein storie oor honderd appels.
+
+2
+00:00:06.756 --> 00:00:10.820
+Dit verduidelik waar elke munt by Delta One vandaan kom.
+
+3
+00:00:11.936 --> 00:00:19.107
+Bolt handel elke dag. Op 'n goeie dag bring hy appels huis toe. Elke appel is een munt.
+
+4
+00:00:19.107 --> 00:00:21.300
+Kom ons sê honderd appels.
+
+5
+00:00:21.700 --> 00:00:27.818
+Die honderd appels word op drie maniere verdeel. Altyd op dieselfde manier.
+
+6
+00:00:27.818 --> 00:00:31.000
+Vyftig, vyf-en-twintig, vyf-en-twintig.
+
+7
+00:00:31.460 --> 00:00:39.810
+Vyftig appels gaan na die lede. Maya, Sam, almal met 'n boks. Elke boks kry sy deel van die vyftig.
+
+8
+00:00:40.484 --> 00:00:46.539
+Vyf-en-twintig appels gaan na die helpers se plan. Helpers is lede wat vriende van Delta One vertel het.
+
+9
+00:00:46.539 --> 00:00:49.334
+Hulle beloning kom hiervandaan. Net hiervandaan.
+
+10
+00:00:49.732 --> 00:00:54.406
+Vyf-en-twintig appels gaan na die skuur. Die skuur is die DAO-tesourie.
+
+11
+00:00:54.406 --> 00:00:57.632
+Dit hou Delta One aan die gang en laat dit groei.
+
+12
+00:00:58.116 --> 00:01:04.136
+Nou die belangrikste reël. 'n Helper se appels kom nooit uit 'n nuwe lid se munte nie.
+
+13
+00:01:04.136 --> 00:01:07.566
+Nooit uit 'n aankoop nie. Net uit Bolt se appels.
+
+14
+00:01:08.068 --> 00:01:13.674
+Op 'n reëndag bring Bolt geen appels nie. Nul. Dan eet niemand nie.
+
+15
+00:01:13.674 --> 00:01:20.618
+Nie die lede nie, nie die helpers nie, nie die skuur nie. Geen appels, niemand eet.
+
+16
+00:01:21.093 --> 00:01:24.496
+Party dae bring Bolt baie appels. Party dae 'n paar.
+
+17
+00:01:24.496 --> 00:01:29.993
+Tel al die dae bymekaar, en 'n boks van duisend munte kry omtrent vyf munte per dag.
+
+18
+00:01:30.500 --> 00:01:36.950
+Dit is die gemiddelde. 'n Half persent per dag. Nie 'n belofte nie. Dit kan verander.
+
+19
+00:01:38.408 --> 00:01:41.969
+Hoekom vyftig vir die lede? Want die bokse is hulle s'n.
+
+20
+00:01:41.969 --> 00:01:44.430
+Hoekom vyf-en-twintig vir die helpers?
+
+21
+00:01:44.430 --> 00:01:50.776
+Want hulle help hulle span se bokse, en die plan betaal uit handelswins, nooit uit 'n aankoop nie.
+
+22
+00:01:51.176 --> 00:01:57.917
+Hoekom vyf-en-twintig vir die skuur? Want die skuur hou alles wat niemand opeis nie.
+
+23
+00:01:57.917 --> 00:02:03.776
+En wanneer 'n boks twee bokse se waarde bereik, bly die res in die skuur.
+
+24
+00:02:03.660 --> 00:02:11.060
+Elke dag om twaalfuur middag UTC word die appels getel en verdeel. Elke lid sien dit op die staat.
+
+25
+00:02:11.180 --> 00:02:17.817
+Kom ons sê dit saam. Honderd appels. Vyftig vir die lede. Vyf-en-twintig vir die helpers.
+
+26
+00:02:17.817 --> 00:02:19.980
+Vyf-en-twintig vir die skuur.
+
+27
+00:02:20.492 --> 00:02:24.900
+Geen appels, niemand eet. Helpers eet nooit 'n nuwe lid se munte nie.
+
+28
+00:02:24.900 --> 00:02:28.542
+En die meeste helpers verdien glad nie ekstra appels nie.
+
+29
+00:02:29.512 --> 00:02:38.148
+Nou weet jy waar elke munt vandaan kom. Volgende keer: munte in, munte uit, en hoe om jou staat te lees.
+
+30
+00:02:38.148 --> 00:02:38.812
+Tot gou.
+

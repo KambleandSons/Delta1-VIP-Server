@@ -1,0 +1,297 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Delta One Fast Start</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap">
+<style>
+/* Layout: one column of panels, 980px wide; the plan reads top-down, the numbers sit in tables with tabular figures. */
+:root{
+  --bg:#F3F3F1; --panel:#FFFFFF; --fg:#1F2328; --muted:#5C6470; --line:#E3E3E0; --soft:#F8F8F6;
+  --gold:#E8A912; --goldink:#9C6A0A; --goldsoft:#FFF4D6; --ink:#0B0B0B; --ok:#1F7A4D; --warn:#C8102E;
+  --sans:"Inter",system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){ --bg:#121315; --panel:#1B1D20; --fg:#ECEDEE; --muted:#A4A9B2; --line:#2E3136; --soft:#202327; --gold:#E8A912; --goldink:#FFC93C; --goldsoft:#3A2E0E; --ink:#F3F3F1; --ok:#5BC48A; --warn:#FF6B7A; color-scheme:dark } }
+:root[data-theme="dark"]{ --bg:#121315; --panel:#1B1D20; --fg:#ECEDEE; --muted:#A4A9B2; --line:#2E3136; --soft:#202327; --gold:#E8A912; --goldink:#FFC93C; --goldsoft:#3A2E0E; --ink:#F3F3F1; --ok:#5BC48A; --warn:#FF6B7A; color-scheme:dark }
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--sans);font-size:15px;line-height:1.5;margin:0;padding-block:0 48px;padding-inline:16px}
+.wrap{max-width:980px;margin:0 auto}
+header.hero{padding:40px 0 20px}
+.eyebrow{font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--goldink);font-weight:600;margin:0 0 12px}
+h1{font-weight:300;font-size:clamp(30px,5vw,44px);line-height:1.1;margin:0 0 12px;text-wrap:balance}
+h2{font-weight:500;font-size:22px;margin:0 0 6px;text-wrap:balance}
+h3{font-weight:600;font-size:15px;margin:0 0 6px}
+.lede{color:var(--muted);max-width:62ch;margin:0}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:22px;margin-top:18px}
+.panel > p.sub{color:var(--muted);margin:0 0 16px;max-width:70ch}
+.grid{display:grid;gap:14px}
+.g2{grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+.g4{grid-template-columns:repeat(auto-fit,minmax(200px,1fr))}
+label.f{display:flex;flex-direction:column;gap:6px;font-size:13px;color:var(--muted);min-width:0}
+label.f span b{color:var(--fg);font-weight:500}
+input,select{font:inherit;font-size:15px;color:var(--fg);background:var(--soft);border:1px solid var(--line);border-radius:8px;padding:9px 10px;min-width:0;width:100%}
+input:focus,select:focus,button:focus-visible,summary:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+.btn{font:inherit;font-weight:600;border:0;border-radius:8px;padding:10px 16px;cursor:pointer;background:linear-gradient(180deg,#FFC93C,#E8A912);color:#0B0B0B}
+.btn.ghost{background:transparent;color:var(--fg);border:1px solid var(--line)}
+.btn:hover{filter:brightness(1.04)}
+table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums;font-size:14px}
+th,td{padding:8px 10px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+th{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600;background:var(--soft)}
+td.num,th.num{text-align:right}
+.tbl{overflow-x:auto;border:1px solid var(--line);border-radius:10px}
+.mil{border:1px solid var(--line);border-radius:10px;padding:16px;background:var(--panel);min-width:0}
+.mil .when{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--goldink);font-weight:600}
+.mil .date{color:var(--muted);font-size:13px;margin-bottom:8px}
+.mil .goal{background:var(--goldsoft);border-radius:8px;padding:10px 12px;margin:10px 0;font-size:14px}
+.mil .goal b{display:block;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--goldink);margin-bottom:2px}
+.tasks{list-style:none;padding:0;margin:8px 0 0;display:grid;gap:6px}
+.tasks li{display:flex;gap:10px;align-items:flex-start;font-size:14px}
+.tasks input{width:18px;height:18px;margin-top:3px;flex:none;accent-color:var(--gold)}
+.tasks li.done span{color:var(--muted);text-decoration:line-through}
+.pill{display:inline-block;padding:2px 10px;border-radius:999px;font-size:12px;font-weight:600;background:var(--goldsoft);color:var(--goldink)}
+.pill.none{background:var(--soft);color:var(--muted)}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:12px 0}
+.kpi{background:var(--soft);border-radius:10px;padding:12px 14px;min-width:0}
+.kpi .v{font-size:24px;font-weight:500;font-variant-numeric:tabular-nums;line-height:1.1}
+.kpi .l{font-size:12px;color:var(--muted);margin-top:4px}
+details{border:1px solid var(--line);border-radius:10px;padding:0 14px;margin-top:12px;background:var(--panel)}
+summary{cursor:pointer;padding:12px 0;font-weight:600;list-style:none}
+summary::before{content:"▸ ";color:var(--goldink)}
+details[open] summary::before{content:"▾ "}
+.calc{font-size:13.5px;color:var(--fg)}
+.calc p{margin:6px 0}
+.calc .ok{color:var(--ok);font-weight:600}
+.calc .no{color:var(--warn);font-weight:600}
+.note{font-size:13px;color:var(--muted)}
+.disc{font-size:13px;color:var(--muted);border-top:1px solid var(--line);padding-top:14px;margin-top:18px}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-top:12px}
+.hint{font-size:12.5px;color:var(--muted)}
+.rank-now{background:var(--goldsoft)}
+@media (max-width:520px){.panel{padding:16px}}
+@media (prefers-reduced-motion: reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+  <header class="hero">
+    <p class="eyebrow">Delta One · Momentum Plan</p>
+    <h1>Fast Start: your first 90 days</h1>
+    <p class="lede">A dated action plan for the first three days, the first week, the first month and the first ninety days, with the rank each phase aims at and what your own numbers produce at the engine's average daily result. Enter your details once; the page keeps them on this device, and when it is connected to your Delta One account your goals and ticks go into your training record, so your sponsor can help you where you are.</p>
+  </header>
+
+  <section class="panel" id="details">
+    <h2>Your details</h2>
+    <p class="sub">Everything below is recalculated as you type. Enrollees are the people you personally introduce; duplication is what each of them does in turn. All figures are at the average daily result of 0.50% a day and assume the whole organization stays active.</p>
+    <div class="grid g4">
+      <label class="f"><span><b>Your name</b> (for the plan heading)</span><input id="name" type="text" placeholder="Your name" autocomplete="off"></label>
+      <label class="f"><span><b>Start date</b></span><input id="start" type="date"></label>
+      <label class="f"><span><b>Your own purchase</b> (module size)</span>
+        <select id="own"><option value="1000">1,000 USDT</option><option value="2500">2,500 USDT</option><option value="6000" selected>6,000 USDT</option><option value="12000">12,000 USDT</option><option value="25000">25,000 USDT</option><option value="50000">50,000 USDT</option><option value="200000">200,000 USDT</option></select></label>
+      <label class="f"><span><b>Target rank</b> by day 90</span>
+        <select id="target"><option value="1">Fuji</option><option value="2">Kilimanjaro</option><option value="3" selected>Matterhorn</option><option value="4">Denali</option><option value="5">Rainier</option><option value="6">K-2</option><option value="7">Everest</option></select></label>
+      <label class="f"><span><b>Average purchase</b> of the people you introduce</span>
+        <select id="avg"><option value="1000">1,000 USDT</option><option value="2500">2,500 USDT</option><option value="5000">5,000 USDT</option><option value="10000">10,000 USDT</option></select></label>
+    </div>
+    <h3 style="margin-top:18px">Your organization at each milestone</h3>
+    <p class="hint">How many people you will have personally introduced by each date, how many each of them will have introduced (duplication), and how many each of those will have introduced (third level). These are your goals; the page shows what they produce.</p>
+    <div class="tbl"><table id="orgtbl">
+      <thead><tr><th>Milestone</th><th class="num">You introduce</th><th class="num">Each of them introduces</th><th class="num">Each of those introduces</th></tr></thead>
+      <tbody>
+        <tr><td>First 3 days</td><td class="num"><input id="x0" type="number" min="0" max="50" step="1" value="1"></td><td class="num"><input id="y0" type="number" min="0" max="50" step="1" value="0"></td><td class="num"><input id="z0" type="number" min="0" max="50" step="1" value="0"></td></tr>
+        <tr><td>First week</td><td class="num"><input id="x1" type="number" min="0" max="50" step="1" value="2"></td><td class="num"><input id="y1" type="number" min="0" max="50" step="1" value="0"></td><td class="num"><input id="z1" type="number" min="0" max="50" step="1" value="0"></td></tr>
+        <tr><td>First month</td><td class="num"><input id="x2" type="number" min="0" max="50" step="1" value="4"></td><td class="num"><input id="y2" type="number" min="0" max="50" step="1" value="1"></td><td class="num"><input id="z2" type="number" min="0" max="50" step="1" value="0"></td></tr>
+        <tr><td>Day 90</td><td class="num"><input id="x3" type="number" min="0" max="50" step="1" value="6"></td><td class="num"><input id="y3" type="number" min="0" max="50" step="1" value="2"></td><td class="num"><input id="z3" type="number" min="0" max="50" step="1" value="1"></td></tr>
+      </tbody></table></div>
+    <div class="row"><button class="btn ghost" id="reset" type="button">Reset to the example plan</button><span class="hint" id="saved"></span></div>
+  </section>
+
+  <section class="panel" id="plan">
+    <h2 id="planhead">Your 90-day plan</h2>
+    <p class="sub">Four phases, each with a dated goal, the rank it reaches at the average, and the actions that get there. Tick the actions as you go; the page remembers them, and your sponsor's dashboard sees which phase you are in.</p>
+    <div class="grid g2" id="phases"></div>
+  </section>
+
+  <section class="panel" id="numbers">
+    <h2>What your plan pays at the average</h2>
+    <p class="sub">Monthly figures at the engine's average daily result of 0.50% a day on every module, for the organization in your milestones, with every member active. Individual days vary from zero to several percent; real months land above or below these averages. Commission is a share of each contract's daily earnings, never of a purchase.</p>
+    <div class="kpis" id="kpis"></div>
+    <div class="tbl"><table id="numtbl">
+      <thead><tr><th>Milestone</th><th class="num">Members</th><th class="num">Team volume</th><th class="num">Lines</th><th>Rank at the average</th><th class="num">Base matrix / mo</th><th class="num">Differential / mo</th><th class="num">Commission / mo</th><th class="num">Your module / mo</th></tr></thead>
+      <tbody id="numbody"></tbody></table></div>
+    <p class="note" style="margin-top:10px">The base matrix is capped per day by rank; the differential is not. Any part of the 42% pool that no member qualifies for is not shown. Your own module's result runs until the module has delivered 2× its purchase price. Most members in the model earn no commission at all.</p>
+    <div id="calcs"></div>
+  </section>
+
+  <section class="panel" id="ranks">
+    <h2>The seven ranks</h2>
+    <p class="sub">Three requirements, rechecked at every 12:00 UTC settlement: your own purchase, your personal enrollments and your qualifying volume, with no single line counting for more than its share. Your target is highlighted; the row shows what the target still needs on day 90.</p>
+    <div class="tbl"><table id="ranktbl">
+      <thead><tr><th>Rank</th><th class="num">Own purchase</th><th class="num">Enrolled</th><th class="num">Qualifying volume</th><th>Max per line</th><th class="num">Paid levels</th><th class="num">Entitlement</th><th class="num">Daily cap (base)</th></tr></thead>
+      <tbody id="rankbody"></tbody></table></div>
+    <div id="gap" class="calc" style="margin-top:12px"></div>
+  </section>
+
+  <p class="disc">Draft for legal and compliance review. Every figure on this page is a hypothetical illustration at the engine's average daily result of 0.50% a day (1.00% gross); individual days vary from zero to several percent, the average can change, and days without trading profit pay nothing. Results and rewards are not guaranteed by Delta One, a bank or any government scheme; most members earn no commission at all, and rewards examples are not typical results. A module is a software purchase, not a deposit: the purchase price is not refundable and the amount can be lost in whole or in part. Programs that pay introducers from the trading results of the people they enroll are regulated in many jurisdictions. Nothing here is legal, tax or financial advice. Result and rewards figures require compliance approval before external use.</p>
+</div>
+
+<script>
+// ---- Delta One VIP Pro: the planner reports goals and ticks to the member's training record (same shape as the VIP page's D1T).
+//      Set D1_SUPPORT.track = { endpoint, memberId, token } to send; null keeps everything on this device. ?vid= and ?ref= arrive from the VIP page.
+window.D1_SUPPORT = window.D1_SUPPORT || { track: null };
+const D1T = (function () {
+  const SUP = window.D1_SUPPORT || {}, TR = SUP.track || null;
+  const store = (k, v) => { try { localStorage.setItem(k, v); } catch (e) {} }, load = k => { try { return localStorage.getItem(k); } catch (e) { return null; } };
+  const q = new URLSearchParams(location.search);
+  if (q.get("vid")) store("d1vip-vid", q.get("vid").replace(/[^\w.-]/g, "").slice(0, 64));
+  if (q.get("ref")) store("d1vip-ref", q.get("ref").replace(/[^\w.-]/g, "").slice(0, 64));
+  const vid = () => { let v = load("d1vip-vid"); if (!v) { v = "v" + Date.now().toString(36) + Math.random().toString(36).slice(2, 10); store("d1vip-vid", v); } return v; };
+  const ref = () => load("d1vip-ref") || SUP.ref || null;
+  let QUEUE = [], LOG = []; try { QUEUE = JSON.parse(load("d1fs-q") || "[]") || []; LOG = JSON.parse(load("d1fs-log") || "[]") || []; } catch (e) {}
+  let timer = null, sending = false, summaryFn = () => ({});
+  function flush() {
+    if (timer) { clearTimeout(timer); timer = null; }
+    if (!(TR && TR.endpoint) || sending || !QUEUE.length) return;
+    const batch = QUEUE.slice(0, 50), headers = { "Content-Type": "application/json" }; if (TR.token) headers["Authorization"] = "Bearer " + TR.token;
+    sending = true;
+    fetch(TR.endpoint, { method: "POST", headers, keepalive: true, credentials: TR.credentials || "omit", body: JSON.stringify({ v: 1, source: "faststart", memberId: TR.memberId || null, vid: vid(), ref: ref(), events: batch, summary: { planner: summaryFn() } }) })
+      .then(r => { if (!r.ok) throw 0; QUEUE = QUEUE.slice(batch.length); store("d1fs-q", JSON.stringify(QUEUE)); sending = false; if (QUEUE.length) flush(); })
+      .catch(() => { sending = false; timer = setTimeout(flush, 30000); });
+  }
+  function track(type, data) {
+    const ev = { t: Date.now(), type, data: data || {}, vid: vid(), ref: ref(), member: (TR && TR.memberId) || null, source: "faststart" };
+    LOG.push(ev); if (LOG.length > 200) LOG = LOG.slice(-200); store("d1fs-log", JSON.stringify(LOG));
+    if (TR && TR.endpoint) { QUEUE.push(ev); if (QUEUE.length > 500) QUEUE = QUEUE.slice(-500); store("d1fs-q", JSON.stringify(QUEUE)); if (QUEUE.length >= 20) flush(); else if (!timer) timer = setTimeout(flush, 10000); }
+    return ev;
+  }
+  document.addEventListener("visibilitychange", () => { if (document.visibilityState === "hidden") flush(); });
+  window.addEventListener("pagehide", flush);
+  if (QUEUE.length) setTimeout(flush, 1500);
+  return { track, flush, vid, ref, log: () => LOG.slice(), summary: () => summaryFn(), setSummary: fn => { summaryFn = fn; } };
+})();
+window.D1T = D1T;
+// ---------------------------------------------------------------- the Momentum Plan rules (same constants as the published engine)
+const RANKS=["None","Fuji","Kilimanjaro","Matterhorn","Denali","Rainier","K-2","Everest"];
+const DEPTH=[0,3,6,9,12,15,18,21], CAP=[0,1000,2000,3000,4000,5000,6000,7000];
+const REQ=[null,[1000,2,2000],[2500,3,5000],[6000,4,12000],[12000,5,25000],[25000,7,75000],[50000,12,250000],[200000,21,1000000]];
+const SHARE=[null,1/2,1/2,1/3,1/3,1/4,1/5,1/5];
+const LP=0.02, R=0.005, DAYS=30;
+
+function qualify(own, enrolled, lines){
+  for(let r=7;r>=1;r--){ const [d,pe,qv]=REQ[r]; const lim=SHARE[r]*qv; const counted=lines.reduce((s,v)=>s+Math.min(v,lim),0);
+    if(own>=d && enrolled>=pe && counted>=qv) return {rank:r,counted,lim,qv,pe,d}; }
+  return {rank:0,counted:0,lim:0,qv:0,pe:0,d:0};
+}
+// chain: ranks from the contract's sponsor upward (level 1 first); returns base[] and diff[] per upline, $ per day
+function split(chain, earn){
+  const n=chain.length, pct=earn*LP, base=new Array(n).fill(0), diff=new Array(n).fill(0);
+  for(let k=0;k<Math.min(21,n);k++) if(DEPTH[chain[k]]>=k+1) base[k]=pct;
+  let B=21*pct-base.reduce((a,b)=>a+b,0), H=0;
+  for(let k=0;k<n;k++){ const e=DEPTH[chain[k]]; if(e>H && B>1e-12){ let d=Math.max(0,(e-H)*pct-base[k]); d=Math.min(d,B); diff[k]+=d; B-=d; H=e; } else if(e>H){ H=e; } }
+  return {base,diff,left:B};
+}
+// a symmetric organization: X lines, each line head has Y enrollees, each of those has Z; everyone purchases A
+function evaluate(own, X, Y, Z, A){
+  const vol3=A, vol2=A*(1+Z), vol1=A*(1+Y+Y*Z);
+  const r2=qualify(A, Z, Array(Z).fill(vol3)), r1=qualify(A, Y, Array(Y).fill(vol2)), me=qualify(own, X, Array(X).fill(vol1));
+  const levels=[{n:X,chain:[me.rank],depth:1},{n:X*Y,chain:[r1.rank,me.rank],depth:2},{n:X*Y*Z,chain:[r2.rank,r1.rank,me.rank],depth:3}];
+  let base=0, diff=0; const rows=[];
+  for(const L of levels){ if(L.n<=0) continue; const earn=A*R; const s=split(L.chain, earn); const k=L.chain.length-1;
+    rows.push({level:L.depth,contracts:L.n,earn,chain:L.chain,myBase:s.base[k],myDiff:s.diff[k]}); base+=L.n*s.base[k]; diff+=L.n*s.diff[k]; }
+  const cap=CAP[me.rank], baseCapped=Math.min(base,cap);
+  const members=X+X*Y+X*Y*Z, volume=members*A;
+  return {me,r1,r2,X,Y,Z,A,own,members,volume,lines:X,lineVol:vol1,baseDay:base,baseCapped,cap,diffDay:diff,rows,
+          baseMo:baseCapped*DAYS,diffMo:diff*DAYS,totalMo:(baseCapped+diff)*DAYS,ownMo:own*R*DAYS};
+}
+// ---------------------------------------------------------------- page
+const $=id=>document.getElementById(id);
+const money=(x,d=0)=>x.toLocaleString("en-US",{minimumFractionDigits:d,maximumFractionDigits:d})+" USDT";
+const pct=x=>(x*100).toLocaleString("en-US",{maximumFractionDigits:4})+"%";
+const MIL=[{k:0,name:"First 3 days",days:3},{k:1,name:"First week",days:7},{k:2,name:"First month",days:30},{k:3,name:"Day 90",days:90}];
+const DEFAULTS={name:"",own:"6000",target:"3",avg:"1000",x0:1,y0:0,z0:0,x1:2,y1:0,z1:0,x2:4,y2:1,z2:0,x3:6,y3:2,z3:1};
+const IDS=["name","start","own","target","avg","x0","y0","z0","x1","y1","z1","x2","y2","z2","x3","y3","z3"];
+function todayISO(){ const d=new Date(); return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0"); }
+function fmtDate(iso, add){ const [y,m,d]=iso.split("-").map(Number); const dt=new Date(y,m-1,d+add); return dt.toLocaleDateString("en-GB",{weekday:"short",day:"numeric",month:"short",year:"numeric"}); }
+let ticks={};
+function load(){ try{ const s=JSON.parse(localStorage.getItem("d1-faststart")||"{}"); for(const id of IDS){ if(s[id]!==undefined) $(id).value=s[id]; } ticks=s.ticks||{}; }catch(e){} if(!$("start").value) $("start").value=todayISO(); }
+function save(){ try{ const s={ticks}; for(const id of IDS) s[id]=$(id).value; localStorage.setItem("d1-faststart",JSON.stringify(s)); $("saved").textContent=(window.D1_SUPPORT&&window.D1_SUPPORT.track&&window.D1_SUPPORT.track.endpoint)?"Saved to your training record.":"Saved on this device."; }catch(e){ $("saved").textContent=""; } }
+function num(id){ const v=parseInt($(id).value,10); return isNaN(v)||v<0?0:Math.min(v,50); }
+
+const TASKS={
+ 0:["Complete your Delta One account and identity check (KYC); fund your wallet with USDT on BNB Smart Chain (BEP-20).",
+    "Purchase your own module at the size your target rank requires; it earns from the first settlement after the purchase is confirmed.",
+    "Read the one-page Key Facts and the Module Product Guide. Then read the disclosure on slide 16 of the presentation out loud.",
+    "Write your list of 50 names. No judging, just names.",
+    "Book your first 10 conversations for this week and send each person the Key Facts page before you meet.",
+    "Introduce your first person and open your first line."],
+ 1:["Hold 10 conversations using the Momentum Plan presentation; read the disclosure at every one.",
+    "Open your second line: two personal enrollees qualifies you for Fuji with a 1,000 USDT purchase and 2,000 USDT of balanced volume.",
+    "Sit with each new member on day 1: wallet, first settlement time (12:00 UTC), the ten days of auto-rebuy and the day-11 switch.",
+    "Ask every member for their own list of 50 names and book their first conversations with you present.",
+    "Check your rank in the app after the settlement; it is rechecked every day."],
+ 2:["Keep the rhythm: 10 conversations a week, 2 new personal enrollees a fortnight, and a list that never drops below 30 names.",
+    "Open your third and fourth lines. Balanced lines count in full; one heavy line counts only up to its share.",
+    "Help each of your enrollees introduce their first person. Your differential is paid on their lines from the day they open.",
+    "Send every prospect the Key Facts first and the Product Guide second. Never quote a figure you cannot show.",
+    "Review your numbers below at day 30 and reset the next 60 days of goals with your sponsor."],
+ 3:["Reach your target rank at the day-90 settlement and hold it: only active modules count, so plan renewals as modules reach 2×.",
+    "Five balanced lines or more, each with a leader who has opened their own lines. That is the shape every rank above Matterhorn needs.",
+    "Teach the six rules to every leader: paid on earnings, no profit no payout, balance your lines, stay ahead, modules end at 2×, paid daily in USDT.",
+    "Stay ahead of your leaders: when someone below you matches your rank, their part of the gap becomes theirs.",
+    "Write the next 90-day plan on this page with your new numbers."]
+};
+function render(){
+  const start=$("start").value||todayISO(), own=+$("own").value, A=+$("avg").value, target=+$("target").value, name=$("name").value.trim();
+  $("planhead").textContent=name?`${name}'s 90-day plan`:"Your 90-day plan";
+  const results=MIL.map(m=>evaluate(own, num("x"+m.k), num("y"+m.k), num("z"+m.k), A));
+  // phases
+  $("phases").innerHTML=MIL.map((m,i)=>{ const r=results[i]; const goalRank=i===3?target:Math.min(target,[1,1,2,target][i]);
+    const reached=r.me.rank>=goalRank;
+    return `<article class="mil"><div class="when">${m.name}</div><div class="date">by ${fmtDate(start,m.days)}</div>
+      <div class="goal"><b>Goal</b>${i===0?"Account live, own module purchased, first line open.":i===1?`Two lines open · <span class="pill">Fuji</span>`:i===2?`Four lines, each with a first enrollee · <span class="pill">${RANKS[goalRank]}</span>`:`Target rank <span class="pill">${RANKS[goalRank]}</span> at the day-90 settlement`}</div>
+      <div class="hint">Your milestone: ${r.X} personal enrollee${r.X===1?"":"s"}${r.Y?`, each with ${r.Y}`:""}${r.Z?`, each of those with ${r.Z}`:""} → ${r.members} member${r.members===1?"":"s"}, ${money(r.volume)} of modules. At the average this qualifies as <span class="pill ${r.me.rank?"":"none"}">${RANKS[r.me.rank]}</span>${i>0?(reached?` <span style="color:var(--ok);font-weight:600">· goal reached</span>`:` <span style="color:var(--warn);font-weight:600">· short of ${RANKS[goalRank]}</span>`):""}</div>
+      <ul class="tasks">${TASKS[i].map((t,j)=>{const key=i+"-"+j; const on=!!ticks[key]; return `<li class="${on?"done":""}"><input type="checkbox" id="t-${key}" data-key="${key}" ${on?"checked":""}><span>${t}</span></li>`;}).join("")}</ul></article>`; }).join("");
+  document.querySelectorAll("#phases input[type=checkbox]").forEach(cb=>cb.addEventListener("change",e=>{ ticks[e.target.dataset.key]=e.target.checked; save(); e.target.closest("li").classList.toggle("done",e.target.checked); trackTick(e.target.dataset.key, e.target.checked); }));
+  // numbers
+  const d90=results[3];
+  $("kpis").innerHTML=`<div class="kpi"><div class="v">${RANKS[d90.me.rank]}</div><div class="l">rank at day 90, at the average</div></div>
+    <div class="kpi"><div class="v">${money(d90.totalMo)}</div><div class="l">commission per month at day 90</div></div>
+    <div class="kpi"><div class="v">${money(d90.volume)}</div><div class="l">modules in your organization at day 90</div></div>
+    <div class="kpi"><div class="v">${d90.members}</div><div class="l">members · ${d90.lines} line${d90.lines===1?"":"s"}</div></div>`;
+  $("numbody").innerHTML=MIL.map((m,i)=>{const r=results[i]; return `<tr><td>${m.name}</td><td class="num">${r.members}</td><td class="num">${money(r.volume)}</td><td class="num">${r.lines}</td><td><span class="pill ${r.me.rank?"":"none"}">${RANKS[r.me.rank]}</span></td><td class="num">${money(r.baseMo,2)}</td><td class="num">${money(r.diffMo,2)}</td><td class="num"><b>${money(r.totalMo,2)}</b></td><td class="num">${money(r.ownMo,2)}</td></tr>`;}).join("");
+  // full calculation
+  $("calcs").innerHTML=MIL.map((m,i)=>{const r=results[i]; const q=r.me; const req=REQ[Math.max(1,Math.min(7,q.rank||1))];
+    const rankLines=[]; for(let rr=7;rr>=1;rr--){ const [d,pe,qv]=REQ[rr]; const lim=SHARE[rr]*qv; const counted=Math.min(r.lineVol,lim)*r.X;
+      rankLines.push(`<p>${RANKS[rr]}: own purchase ${money(own)} ${own>=d?'<span class="ok">≥</span>':'<span class="no">&lt;</span>'} ${money(d)} · enrollees ${r.X} ${r.X>=pe?'<span class="ok">≥</span>':'<span class="no">&lt;</span>'} ${pe} · counted volume ${money(counted)} (${r.X} line${r.X===1?"":"s"} × min(${money(r.lineVol)}, ${money(lim)} max per line)) ${counted>=qv?'<span class="ok">≥</span>':'<span class="no">&lt;</span>'} ${money(qv)}${rr===q.rank?' <span class="ok">← your rank</span>':''}</p>`); }
+    const contractRows=r.rows.map(row=>`<tr><td>Level ${row.level}</td><td class="num">${row.contracts}</td><td class="num">${money(row.earn,2)}</td><td>${row.chain.map(c=>RANKS[c]).join(" → ")}</td><td class="num">${money(row.myBase,4)}</td><td class="num">${money(row.myDiff,4)}</td><td class="num">${money(row.contracts*(row.myBase+row.myDiff),2)}</td></tr>`).join("");
+    return `<details><summary>Full calculation · ${m.name}</summary><div class="calc">
+      <p><b>Organization.</b> ${r.X} personal enrollee${r.X===1?"":"s"} (your lines), each introducing ${r.Y}, each of those introducing ${r.Z}; every member purchases ${money(A)}. Members ${r.members}, modules ${money(r.volume)}. Each line is worth ${money(r.lineVol)} (${money(A)} + ${r.Y} × ${money(A)} + ${r.Y}×${r.Z} × ${money(A)}).</p>
+      <p><b>Ranks in your organization at the average.</b> You: <b>${RANKS[r.me.rank]}</b>. Your enrollees: ${RANKS[r.r1.rank]} (own ${money(A)}, ${r.Y} enrollee${r.Y===1?"":"s"}, lines of ${money(A*(1+r.Z))}). Their enrollees: ${RANKS[r.r2.rank]}.</p>
+      <p><b>Your rank check, rank by rank.</b></p>${rankLines.join("")}
+      <p><b>Every contract, every day at the average (0.50% of ${money(A)} = ${money(A*R,2)} of earnings).</b> Base matrix = 2% of earnings on each level your rank reaches. Differential = (your entitlement − the highest entitlement already claimed below you in that line) × 2%-of-earnings per point, less your base on that contract.</p>
+      <div class="tbl"><table><thead><tr><th>Contracts</th><th class="num">Count</th><th class="num">Earn / day each</th><th>Upline chain (sponsor → you)</th><th class="num">Your base each</th><th class="num">Your gap each</th><th class="num">Your total / day</th></tr></thead><tbody>${contractRows||'<tr><td colspan="7">No contracts yet.</td></tr>'}</tbody></table></div>
+      <p><b>Per day:</b> base ${money(r.baseDay,2)}${r.baseDay>r.cap?` → capped at ${money(r.cap)} (${RANKS[r.me.rank]} daily cap)`:""} + differential ${money(r.diffDay,2)} = <b>${money(r.baseCapped+r.diffDay,2)}</b>. <b>Per 30 days:</b> ${money(r.totalMo,2)}. Your own module adds ${money(r.ownMo,2)} a month (${money(own)} × 0.50% × 30) until it has delivered 2×.</p>
+      <p class="note">Leftover from the 42% pool that no member in the chain qualifies for is not paid to you and is not shown. Ranks of your members are computed from their own organizations exactly as yours is.</p></div></details>`; }).join("");
+  // ranks table + gap to target
+  $("rankbody").innerHTML=REQ.slice(1).map((q,i)=>{const rr=i+1; const sh=SHARE[rr]; const minLines=Math.round(1/sh); return `<tr class="${rr===target?"rank-now":""}"><td>${rr} · ${RANKS[rr]}${rr===d90.me.rank?' <span class="pill">you at day 90</span>':""}</td><td class="num">${money(q[0])}</td><td class="num">${q[1]}</td><td class="num">${money(q[2])}</td><td>${Math.round(sh*1000)/10}% · ${minLines}+ lines</td><td class="num">1–${DEPTH[rr]}</td><td class="num">${DEPTH[rr]*LP*100}%</td><td class="num">${money(CAP[rr])}</td></tr>`;}).join("");
+  const [td,tpe,tqv]=REQ[target]; const tlim=SHARE[target]*tqv; const needLines=Math.max(tpe, Math.ceil(tqv/tlim));
+  const perLine=tqv/Math.max(d90.X,needLines);
+  let gap=`<p><b>What ${RANKS[target]} needs on day 90.</b> Own purchase ${money(td)} (yours: ${money(own)} ${own>=td?'<span class="ok">✓</span>':'<span class="no">✗ — increase your own purchase</span>'}). At least ${tpe} personal enrollees (your plan: ${d90.X} ${d90.X>=tpe?'<span class="ok">✓</span>':'<span class="no">✗</span>'}). ${money(tqv)} of qualifying volume with no line counting for more than ${money(tlim)}: that is at least ${needLines} balanced lines of ${money(Math.ceil(tqv/needLines))} each`;
+  gap+= d90.X>=needLines?` — with your ${d90.X} lines, ${money(Math.ceil(perLine))} per line. Your plan's lines are worth ${money(d90.lineVol)} each ${d90.lineVol>=perLine?'<span class="ok">✓</span>':'<span class="no">✗ — more duplication or larger purchases per line</span>'}.`:`. Your plan has ${d90.X} line${d90.X===1?"":"s"} <span class="no">✗ — open ${needLines-d90.X} more</span>.`;
+  gap+=`</p>`;
+  $("gap").innerHTML=gap;
+  save();
+}
+const GOAL_IDS=IDS.filter(id=>id!=="name");
+function planSummary(){ const total=Object.values(TASKS).reduce((a,t)=>a+t.length,0), done=Object.keys(ticks).filter(k=>ticks[k]).length;
+  const phases=MIL.map((m,i)=>TASKS[i].every((t,j)=>!!ticks[i+"-"+j]));
+  const g={}; for(const id of GOAL_IDS) g[id]=$(id).value;
+  return {goals:g, ticks:done, total, phases, complete:phases.every(Boolean), updated:Date.now()}; }
+D1T.setSummary(planSummary);
+let goalTimer=null;
+document.addEventListener("input",e=>{ if(IDS.includes(e.target.id)){ render(); if(e.target.id!=="name"){ clearTimeout(goalTimer); goalTimer=setTimeout(()=>D1T.track("plan_goals", planSummary().goals), 1500); } } });
+function trackTick(key, on){ const [i]=key.split("-").map(Number); const s=planSummary();
+  D1T.track("plan_task",{key, phase:i, done:on, ticks:s.ticks, total:s.total});
+  if(on && s.phases[i]) D1T.track("plan_phase_done",{phase:i, name:MIL[i].name});
+  if(on && s.complete) D1T.track("plan_complete",{ticks:s.ticks}); }
+D1T.track("plan_view",{returning:!!localStorage.getItem("d1-faststart")});
+$("reset").addEventListener("click",()=>{ for(const k in DEFAULTS) $(k).value=DEFAULTS[k]; $("start").value=todayISO(); ticks={}; render(); D1T.track("plan_reset",{}); });
+load(); render();
+</script>
+
+</body></html>

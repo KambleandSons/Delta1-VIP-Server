@@ -1,0 +1,150 @@
+WEBVTT
+
+1
+00:00:02.588 --> 00:00:08.161
+Halo, teman. Hari ini, pertanyaan besar terakhir. Siapa Delta One?
+
+2
+00:00:08.161 --> 00:00:13.988
+Apa itu, siapa pengelolanya, dan bagaimana koin bergerak. Mari lihat.
+
+3
+00:00:14.684 --> 00:00:19.610
+Delta One menjual satu hal: akses ke mesin trading AI miliknya. Itulah Bolt.
+
+4
+00:00:19.610 --> 00:00:25.184
+Perangkat lunak yang mencari transaksi yang tepat dan melakukan semua trading sendiri.
+
+5
+00:00:25.628 --> 00:00:32.014
+Anggota membeli mesin itu dalam kotak, mulai seribu koin, sebagai layanan perangkat lunak.
+
+6
+00:00:32.014 --> 00:00:37.478
+Tak perlu trading sendiri. Tak ada yang dikelola. Pembelian itulah produknya.
+
+7
+00:00:37.920 --> 00:00:39.545
+Siapa yang menjalankannya?
+
+8
+00:00:39.545 --> 00:00:48.917
+Tim pendiri, dipimpin James, sang pendiri, dengan empat puluh tahun membangun perusahaan, dan Ricky, sang presiden, sabuk hitam Jiu-Jitsu dan pelatih.
+
+9
+00:00:49.317 --> 00:00:51.953
+Profil mereka ada di kumpulan dokumen.
+
+10
+00:00:51.953 --> 00:00:57.017
+Mesinnya sendiri dijalankan oleh arsiteknya, di bawah kendali perusahaan.
+
+11
+00:00:57.540 --> 00:01:01.369
+Bagaimana koin bergerak. Langkah satu, pembelian.
+
+12
+00:01:01.369 --> 00:01:09.340
+Anda membayar USDT lewat BNB Smart Chain ke alamat di aplikasi. Koin masuk ke dompet penyimpanan aset.
+
+13
+00:01:09.796 --> 00:01:16.292
+Tak ada yang bisa memindahkan koin itu sendirian. Lebih dari satu pemegang kunci harus tanda tangan.
+
+14
+00:01:16.292 --> 00:01:18.046
+Namanya multi-tanda tangan.
+
+15
+00:01:18.788 --> 00:01:23.335
+Langkah dua, trading. Akun trading yang disetujui menjalankan mesin.
+
+16
+00:01:23.335 --> 00:01:29.688
+Untung nyata tiap hari dikonfirmasi dari laporan bursa dan diterbitkan bersama laporan trading.
+
+17
+00:01:30.212 --> 00:01:34.462
+Langkah tiga, pembagian, setiap hari pukul dua belas siang UTC.
+
+18
+00:01:34.462 --> 00:01:41.815
+Untung hari itu dibagi: lima puluh untuk anggota, dua puluh lima untuk rencana penolong, dua puluh lima untuk
+
+19
+00:01:41.815 --> 00:01:42.962
+lumbung, Kas DAO.
+
+20
+00:01:43.396 --> 00:01:51.446
+Hasil, kotak mungil beli lagi, dan komisi masuk ke dompet aplikasi saat itu juga. Setiap hari. Dalam koin.
+
+21
+00:01:52.388 --> 00:01:53.932
+Langkah empat, penarikan.
+
+22
+00:01:53.932 --> 00:01:59.862
+Dari dompet aplikasi, kapan saja, lima koin atau lebih, langsung dikirim ke dompet Anda sendiri.
+
+23
+00:01:59.862 --> 00:02:01.838
+Hanya biaya jalan yang dipotong.
+
+24
+00:02:02.501 --> 00:02:02.952
+Kendali.
+
+25
+00:02:02.952 --> 00:02:08.763
+Kumpulan pembayaran dibuat dari hasil yang disetujui dan ditandatangani lebih dari satu pemegang kunci.
+
+26
+00:02:08.763 --> 00:02:11.301
+Perpindahan besar dari lumbung dikunci waktu.
+
+27
+00:02:11.717 --> 00:02:18.417
+Siklus harian dicocokkan dengan aturan yang diterbitkan. Setiap hari, aturan sama, hitungan sama.
+
+28
+00:02:19.268 --> 00:02:25.563
+Dokumen yang mengikatnya. Panduan produk dan Fakta Penting: apa yang Anda beli dan risikonya.
+
+29
+00:02:25.563 --> 00:02:29.218
+Panduan rencana: tiap aturan, dihitung sampai ke koin.
+
+30
+00:02:29.252 --> 00:02:33.747
+Halaman pengungkapan: berapa yang benar-benar didapat anggota dalam model.
+
+31
+00:02:33.747 --> 00:02:37.452
+Audit hitungan: angka yang diterbitkan diperiksa seribu kali.
+
+32
+00:02:38.276 --> 00:02:44.913
+Delta One bukan bank dan bukan dana. Ia tidak menjanjikan apa pun. Mesin bisa kehilangan koin.
+
+33
+00:02:44.913 --> 00:02:48.726
+Nilai USDT bisa lepas dari dolar. Jaringan bisa gagal.
+
+34
+00:02:49.248 --> 00:02:59.792
+Semua di sini adalah draf untuk tinjauan hukum dan kepatuhan.
+
+35
+00:03:00.192 --> 00:03:09.413
+Mari ucapkan bersama. Satu produk: mesin, dalam kotak. Tim pendiri. Lebih dari satu kunci.
+
+36
+00:03:09.413 --> 00:03:13.016
+Pukul dua belas siang UTC. Lumbung.
+
+37
+00:03:13.416 --> 00:03:20.116
+Sekarang Anda tahu siapa Delta One. Berikutnya: seluruh presentasi, disusun dari blok. Sampai jumpa, teman.
+

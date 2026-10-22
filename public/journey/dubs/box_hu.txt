@@ -1,0 +1,150 @@
+WEBVTT
+
+1
+00:00:02.588 --> 00:00:09.759
+Szia, barátom! Ő itt Maya. Ma Maya vesz egy dobozt a Delta One-tól. Nézzük meg, mi az a doboz. Lassan, együtt.
+
+2
+00:00:11.676 --> 00:00:17.680
+A doboz neve modul. Ez egy szoftver. Benne dolgozik Bolt, a kereskedő robot. Köszönj, Bolt!
+
+3
+00:00:21.116 --> 00:00:26.018
+Egy doboz ára legalább ezer érme. Az érme USDT, egy digitális dollár.
+
+4
+00:00:26.018 --> 00:00:29.072
+Ha akar, Maya nagyobb dobozt is választhat.
+
+5
+00:00:31.964 --> 00:00:38.197
+Maya az érméivel fizet. Az érmék a Delta One-hoz kerülnek. Nem jönnek vissza. A doboz most már Mayáé.
+
+6
+00:00:38.197 --> 00:00:39.370
+Ez az első szabály.
+
+7
+00:00:41.947 --> 00:00:46.189
+Bolt minden nap jó üzleteket keres. Egy jó üzlet érméket hoz haza.
+
+8
+00:00:46.189 --> 00:00:49.467
+Bolt elosztja őket: a fele a tagoké, például Mayáé.
+
+9
+00:00:51.165 --> 00:00:54.884
+Másnap megjön Maya kimutatása. Ez mutatja a részét.
+
+10
+00:00:54.884 --> 00:00:59.771
+Az első érméi a doboza jóváhagyása utáni első elszámoláskor jönnek.
+
+11
+00:01:01.149 --> 00:01:04.305
+Az elszámolás minden nap délben van, UTC szerint.
+
+12
+00:01:04.305 --> 00:01:08.556
+Ekkor számolja meg Bolt az érméket, és mindenki megkapja a részét.
+
+13
+00:01:10.204 --> 00:01:16.787
+Van, hogy Bolt kevés érmét hoz. Van, hogy sokat. És van, hogy esik az eső. Esős napon Bolt semmit nem hoz.
+
+14
+00:01:16.787 --> 00:01:18.029
+Senki nem kap érmét.
+
+15
+00:01:21.276 --> 00:01:28.295
+Tedd össze az összes napot. Így egy ezer érmés doboz nagyjából napi öt érmét ad. Ez az átlag. Fél százalék.
+
+16
+00:01:30.396 --> 00:01:36.024
+Az átlag nem ígéret. Nőhet. Csökkenhet. Senki nem ígérhet termést. Ezt jegyezd meg.
+
+17
+00:01:40.284 --> 00:01:45.504
+Most jön a nagy kérdés. Meddig él a doboz? A doboz legfeljebb két doboznyi érmét ad.
+
+18
+00:01:45.504 --> 00:01:47.804
+Egy ezer érmés dobozra kétezer érmét.
+
+19
+00:01:50.685 --> 00:01:57.651
+A kétszázadik nap körül Maya visszakapja az ezer érméjét. A négyszázadik nap körül a doboz már kétezret adott.
+
+20
+00:01:57.651 --> 00:01:58.348
+Aztán vége.
+
+21
+00:01:59.872 --> 00:02:05.571
+Amikor a doboz eléri a két doboznyit, véget ér. Korábban nem lehet leállítani. És többet sem adhat.
+
+22
+00:02:05.571 --> 00:02:06.779
+Ez a második szabály.
+
+23
+00:02:09.248 --> 00:02:14.537
+Bolt érméi kétfelé mennek. Az első tíz napban minden érme egy új pici dobozt vesz.
+
+24
+00:02:14.537 --> 00:02:18.406
+Később Maya egy kapcsolóval dönt. Erről egy másik film szól.
+
+25
+00:02:20.657 --> 00:02:27.462
+Honnan jönnek Bolt érméi? Csak az üzletekből. Soha nem más dobozából. Ha nincs nyereség, nincs kifizetés.
+
+26
+00:02:30.609 --> 00:02:34.500
+Maya bármikor vehet még egy dobozt. Minden doboz a saját életét éli.
+
+27
+00:02:34.500 --> 00:02:37.933
+Egy doboz, két doboz, mindegyik legfeljebb két doboznyit ad.
+
+28
+00:02:41.616 --> 00:02:45.457
+Mi mehet rosszul? Az eső sokáig tarthat. Az átlag csökkenhet.
+
+29
+00:02:45.457 --> 00:02:49.928
+Maya ezer érméje elveszhet, egészben vagy részben. A doboz nem persely.
+
+30
+00:02:54.304 --> 00:02:59.093
+Ezért Maya csak olyan érmét használ, amit el bír veszíteni. Ez a harmadik szabály.
+
+31
+00:02:59.093 --> 00:03:02.305
+Mondd velem: csak olyan érmét, amit el bírok veszíteni.
+
+32
+00:03:05.256 --> 00:03:11.625
+A doboz persely? Nem. Kölcsön? Nem. Ez szoftvervásárlás, egy robottal benne. Mondd: vásárlás.
+
+33
+00:03:15.272 --> 00:03:21.477
+Mondjuk el együtt a szabályokat. Egy: az ár nem jön vissza. Kettő: legfeljebb két doboznyi, aztán vége.
+
+34
+00:03:21.477 --> 00:03:24.429
+Három: csak olyan érmét, amit el bírsz veszíteni.
+
+35
+00:03:29.544 --> 00:03:32.022
+És az átlag nem ígéret. Van, hogy esik.
+
+36
+00:03:32.022 --> 00:03:37.867
+A legtöbb segítő, aki szól a barátainak, egyetlen plusz érmét sem keres. Ez az őszinte rész.
+
+37
+00:03:40.935 --> 00:03:47.775
+Már tudod, mi az a doboz. Legközelebb: az első tíz nap, a pici dobozok és a kapcsoló. Viszlát, barátom!
+

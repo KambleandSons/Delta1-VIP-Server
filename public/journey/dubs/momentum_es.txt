@@ -1,0 +1,246 @@
+WEBVTT
+
+1
+00:00:02.592 --> 00:00:06.597
+¡Hola! Este es el Plan Momentum, en un dibujo animado divertido.
+
+2
+00:00:06.597 --> 00:00:10.510
+Conoce a Maya, que compra un módulo. Conoce a Sam, que la presentó.
+
+3
+00:00:10.848 --> 00:00:15.583
+Y conoce a Bolt, el motor de inteligencia artificial de Delta One, que hace todo el trading.
+
+4
+00:00:15.904 --> 00:00:20.828
+Una regla antes de empezar: cada número que verás es un promedio, y nada es una promesa.
+
+5
+00:00:20.828 --> 00:00:22.443
+¿Listos? ¡Vamos!
+
+6
+00:00:24.064 --> 00:00:29.728
+Bolt es un motor de trading: software inteligente que busca buenas operaciones, todo el día, cada día.
+
+7
+00:00:29.728 --> 00:00:32.148
+Maya compra un módulo de Bolt por mil USDT.
+
+8
+00:00:34.336 --> 00:00:38.907
+Es una compra de software, como comprar un juego, así que el dinero no es reembolsable.
+
+9
+00:00:40.352 --> 00:00:47.051
+A partir de ahí, Bolt le paga a Maya una parte de lo que gana, hasta que su módulo ha entregado dos mil USDT: el doble de lo que pagó.
+
+10
+00:00:47.051 --> 00:00:48.977
+Luego termina. ¡Tachán!
+
+11
+00:00:50.580 --> 00:00:54.526
+Cada día que Bolt tiene ganancia, reparte cada cien USDT de tres maneras.
+
+12
+00:00:54.526 --> 00:00:59.236
+Cincuenta van a miembros como Maya. Veinticinco van al plan que le paga a Sam.
+
+13
+00:00:59.552 --> 00:01:02.293
+Y veinticinco van a la Tesorería DAO.
+
+14
+00:01:02.293 --> 00:01:07.380
+¿Y cuando el cielo está gris y Bolt no tiene ganancia? Nadie recibe una moneda.
+
+15
+00:01:07.380 --> 00:01:10.456
+Sin ganancia, no hay pago. Ni siquiera Bolt.
+
+16
+00:01:11.640 --> 00:01:18.049
+Este es el mes de Bolt. Algunos días no gana nada. Cero. Otros días gana mucho.
+
+17
+00:01:18.648 --> 00:01:23.228
+Súmalos todos, divide entre los días, y sale más o menos medio por ciento al día.
+
+18
+00:01:23.228 --> 00:01:27.258
+Ese es el promedio. Cada número de este dibujo animado lo usa.
+
+19
+00:01:27.576 --> 00:01:31.311
+Y los promedios pueden cambiar, así que nunca, nunca prometas uno.
+
+20
+00:01:32.568 --> 00:01:36.007
+Al promedio, el módulo de Maya gana cinco USDT al día.
+
+21
+00:01:36.007 --> 00:01:41.636
+Durante los primeros diez días, cada resultado compra un módulo nuevo diminuto. ¡Pop!
+
+22
+00:01:41.636 --> 00:01:42.990
+¡Pop! ¡Pop!
+
+23
+00:01:43.960 --> 00:01:47.999
+Desde el día once, Maya tiene un interruptor: recompra, o billetera.
+
+24
+00:01:47.999 --> 00:01:51.068
+Hacia el día doscientos, ha recibido tanto como pagó.
+
+25
+00:01:53.720 --> 00:01:57.961
+Hacia el día cuatrocientos, el módulo ha pagado dos mil USDT, y se acabó.
+
+26
+00:01:57.961 --> 00:02:00.555
+Maya compra uno nuevo, y empezamos otra vez.
+
+27
+00:02:02.680 --> 00:02:03.798
+Ahora Sam.
+
+28
+00:02:03.798 --> 00:02:09.197
+Sam presentó a Maya, así que cada día que el módulo de Maya gana, Sam recibe el dos por ciento.
+
+29
+00:02:09.197 --> 00:02:12.935
+Cinco USDT para Maya, diez centavos para Sam. ¡Poquito!
+
+30
+00:02:13.752 --> 00:02:17.018
+Esa es la idea: a Sam le pagan por muchos módulos.
+
+31
+00:02:17.018 --> 00:02:22.400
+Un millón de USDT en módulos en los niveles de Sam son cien USDT al día. No de una moneda.
+
+32
+00:02:22.400 --> 00:02:23.954
+De una montaña de monedas.
+
+33
+00:02:27.448 --> 00:02:31.137
+Hablando de montañas: hay siete rangos, y todos son montañas.
+
+34
+00:02:31.137 --> 00:02:34.968
+Fuji, Kilimanjaro, Matterhorn, Denali, Rainier, K-2 y Everest.
+
+35
+00:02:37.592 --> 00:02:42.372
+Cuanto más alto sube Sam, en más niveles le pagan: tres en Fuji, veintiuno en Everest.
+
+36
+00:02:44.536 --> 00:02:49.299
+Cada rango necesita su propia compra, sus propios inscritos y volumen de equipo.
+
+37
+00:02:49.299 --> 00:02:51.263
+Y la subida se revisa cada día.
+
+38
+00:02:53.624 --> 00:02:56.779
+Una regla decide cada rango: ¡equilibra tus líneas!
+
+39
+00:02:56.779 --> 00:03:00.458
+Una línea es una persona que Sam inscribe más todos los que están debajo.
+
+40
+00:03:00.792 --> 00:03:07.240
+Una línea gigante no cuenta completa; una línea solo puede contar su parte: la mitad, un tercio, un cuarto o un quinto.
+
+41
+00:03:09.880 --> 00:03:13.567
+Así que Sam construye ancho, como un árbol, no alto, como una torre.
+
+42
+00:03:15.744 --> 00:03:19.917
+Y a los líderes se les paga de una segunda forma, el diferencial de ruptura.
+
+43
+00:03:19.917 --> 00:03:24.000
+Cada rango tiene un número: seis en Fuji, hasta cuarenta y dos en Everest.
+
+44
+00:03:25.208 --> 00:03:29.508
+Sam es Denali, veinticuatro. Debajo está Fred de Fuji, seis.
+
+45
+00:03:29.508 --> 00:03:34.452
+La brecha es de dieciocho puntos, y esa brecha es de Sam, en cada contrato de la línea de Fred.
+
+46
+00:03:36.056 --> 00:03:41.054
+¡Sin tope! Pero si Fred también sube a Denali, la parte de la brecha de Fred es de Fred.
+
+47
+00:03:41.054 --> 00:03:43.067
+Así que, Sam: ¡mantente por delante!
+
+48
+00:03:43.384 --> 00:03:45.330
+El día de pago es cada día.
+
+49
+00:03:45.330 --> 00:03:51.947
+A las doce del mediodía, hora UTC, Bolt toca la campana y la parte de cada uno llega a su billetera de la aplicación, en USDT.
+
+50
+00:03:52.280 --> 00:03:56.209
+Retira cuando quieras desde cinco USDT, solo con la tarifa de red.
+
+51
+00:03:56.209 --> 00:03:58.304
+Los módulos terminan al doble.
+
+52
+00:03:58.304 --> 00:04:02.235
+Y solo cuentan los módulos activos, así que mantén los tuyos en marcha.
+
+53
+00:04:03.480 --> 00:04:08.027
+Seis reglas, ¡dilas conmigo! Se paga sobre ganancias, nunca sobre compras.
+
+54
+00:04:08.027 --> 00:04:12.707
+Sin ganancia, no hay pago. Equilibra tus líneas. Mantente por delante.
+
+55
+00:04:12.707 --> 00:04:14.330
+Los módulos terminan al doble.
+
+56
+00:04:14.648 --> 00:04:17.500
+Se paga a diario, en USDT. ¡Ya lo tienes!
+
+57
+00:04:19.608 --> 00:04:24.586
+Una última cosa, y es seria. Cada número aquí es un promedio, no una promesa.
+
+58
+00:04:25.592 --> 00:04:31.259
+Los resultados y las recompensas no están garantizados, y la mayoría de los miembros no gana ninguna comisión.
+
+59
+00:04:31.576 --> 00:04:36.148
+Un módulo es una compra de software: el dinero no es reembolsable y se puede perder.
+
+60
+00:04:36.148 --> 00:04:41.335
+Lee los Datos clave antes de comprar. Construye ancho. Mantente por delante.
+
+61
+00:04:41.656 --> 00:04:46.024
+Y di la verdad sobre los riesgos. ¡Adiós de parte de Maya, Sam y Bolt!
+

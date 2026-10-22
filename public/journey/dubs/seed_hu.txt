@@ -1,0 +1,150 @@
+WEBVTT
+
+1
+00:00:02.656 --> 00:00:09.648
+Szia! Ez egy traktor, néhány mag és egy nagy termés meséje. Ismerd meg Tractót, a traktort. Ismerd meg Mayát.
+
+2
+00:00:09.648 --> 00:00:10.931
+És ismerd meg Samet.
+
+3
+00:00:12.640 --> 00:00:18.626
+Előbb egy szabály: ez egy mese az átlagokról. Senki nem ígérhet termést. Kész vagy? Indulás!
+
+4
+00:00:21.791 --> 00:00:26.380
+Ez a Delta One csűrje. Tele van magokkal! Tracto egy nagyon okos traktor.
+
+5
+00:00:28.287 --> 00:00:34.409
+Minden magot megnéz, és csak a jókat veti el. Jó mag, mehet a földbe! Rossz mag, köszönöm, nem!
+
+6
+00:00:34.409 --> 00:00:36.535
+Tracto minden egyes nap dolgozik.
+
+7
+00:00:40.384 --> 00:00:45.672
+Maya vesz egy magos dobozt a csűrből. Most már az övé. Nem viheti vissza a boltba. De nézd!
+
+8
+00:00:48.352 --> 00:00:51.728
+Minden nap, amikor Tracto termést hoz, Maya kap egy részt.
+
+9
+00:00:51.728 --> 00:00:55.396
+És addig kap részt, amíg a doboza két doboznyit nem adott neki.
+
+10
+00:00:57.376 --> 00:01:01.128
+Akkor a doboz kiürül. Hurrá! Maya vehet egy új dobozt.
+
+11
+00:01:03.424 --> 00:01:09.399
+Aratás! Minden száz almás kosarat háromfelé osztanak. Ötven alma a dobozok gazdáié, mint Maya.
+
+12
+00:01:12.447 --> 00:01:17.330
+Huszonöt alma a segítőké, mint Sam. És huszonöt alma a csűrben marad. Könnyű!
+
+13
+00:01:19.359 --> 00:01:26.124
+Jaj! Eső! Ma Tracto nulla almát szedett. Úgyhogy ma senki nem kap. Se Maya. Se Sam. Még a csűr sem.
+
+14
+00:01:26.124 --> 00:01:27.696
+Nincs alma, nincs rész.
+
+15
+00:01:32.032 --> 00:01:34.117
+Ez a szabály. És néha esik!
+
+16
+00:01:36.960 --> 00:01:41.085
+Van nap, hogy nulla alma. Van, hogy pár. És van, hogy egy hegynyi alma!
+
+17
+00:01:44.128 --> 00:01:47.115
+A valóságban az almák érmék: USDT.
+
+18
+00:01:47.115 --> 00:01:52.257
+Ha összeadod az összes napot, Maya doboza nagyjából napi öt érmét ad. Ez az átlag.
+
+19
+00:01:55.252 --> 00:01:57.225
+Ez nem ígéret. Változhat.
+
+20
+00:02:00.339 --> 00:02:06.762
+Most jön a móka. Az első tíz napban Maya érméi maguktól vesznek pici új magos dobozokat. Pop! Pop! Pop!
+
+21
+00:02:06.762 --> 00:02:08.570
+Aztán Maya kap egy kapcsolót.
+
+22
+00:02:12.373 --> 00:02:17.386
+Az egyik irányba: több doboz! A másik irányba: az érmék a malacperselyébe mennek.
+
+23
+00:02:20.245 --> 00:02:24.716
+Egy Kitartó végig vet, és a doboza még többet ad. Két doboznyit és egy kicsit!
+
+24
+00:02:27.348 --> 00:02:33.979
+Most Sam. Sam mesélt Mayának a farmról. Így minden nap, amikor Maya doboza részt kap, Sam kap belőle egy picit.
+
+25
+00:02:35.668 --> 00:02:41.177
+Száz almából kettő. Pici! De Sam nagyon sok embernek szól. Sok pici darab nagy kupacot ad!
+
+26
+00:02:45.235 --> 00:02:50.843
+Minél több barátnak segít Sam, és minél több dobozuk van, annál magasabbra mászik Sam. Hét domb!
+
+27
+00:02:52.563 --> 00:02:58.140
+Magasabb dombon Sam több sor barátból kap egy picit. De itt a trükk: vess szélesen, mint egy mezőn.
+
+28
+00:03:02.612 --> 00:03:06.116
+Ne magasra, mint egy babszár. A széles mező dombra mászik!
+
+29
+00:03:08.532 --> 00:03:16.143
+És aki elsőként ér fel a dombra, vezetői díjat kap: plusz darabkákat az összes alatta lévő sorból, amíg egy barát is fel nem ér.
+
+30
+00:03:16.596 --> 00:03:21.648
+Akkor az a barát kapja a saját díját. Szóval, Sam: maradj elöl! Mássz tovább!
+
+31
+00:03:23.552 --> 00:03:30.411
+Minden nap délben, UTC szerint, ding-ding-ding! Szól a csengő, és mindenki része a malacperselyébe pottyan.
+
+32
+00:03:30.411 --> 00:03:33.872
+Minden egyes nap. Vegyél ki érmét, amikor csak akarsz.
+
+33
+00:03:34.799 --> 00:03:37.648
+Emlékezz a három szabályra. Nincs alma, nincs rész.
+
+34
+00:03:37.648 --> 00:03:43.401
+A magos dobozt nem lehet visszavinni a boltba, úgyhogy csak annyit vegyél, amennyit el bírsz veszíteni.
+
+35
+00:03:45.839 --> 00:03:52.542
+És a napi öt érme átlag, soha nem ígéret. A legtöbb segítő egyetlen segítői almát sem kap. Vess szélesen.
+
+36
+00:03:52.542 --> 00:03:54.393
+Maradj elöl. És mondj igazat.
+
+37
+00:03:57.840 --> 00:04:00.591
+Vége! Szia Tractótól, Mayától és Samtől!
+

@@ -1,0 +1,122 @@
+WEBVTT
+
+1
+00:00:02.620 --> 00:00:06.857
+Helo, kawan. Hari ini, cerita kecil tentang seratus biji epal.
+
+2
+00:00:06.857 --> 00:00:10.820
+Ia terangkan dari mana setiap syiling di Delta One datang.
+
+3
+00:00:11.936 --> 00:00:17.346
+Bolt berdagang setiap hari. Bila Bolt ada hari yang baik, dia bawa pulang epal.
+
+4
+00:00:17.346 --> 00:00:21.300
+Setiap epal ialah satu syiling. Katakan seratus biji epal.
+
+5
+00:00:21.700 --> 00:00:31.000
+Seratus epal itu dibahagi tiga. Sentiasa dengan cara yang sama. Lima puluh, dua puluh lima, dua puluh lima.
+
+6
+00:00:31.460 --> 00:00:36.046
+Lima puluh epal pergi kepada ahli. Maya, Sam, semua yang ada kotak.
+
+7
+00:00:36.046 --> 00:00:39.810
+Setiap kotak dapat bahagiannya daripada lima puluh itu.
+
+8
+00:00:40.484 --> 00:00:46.442
+Dua puluh lima epal pergi ke pelan pembantu. Pembantu ialah ahli yang beritahu kawan tentang Delta One.
+
+9
+00:00:46.442 --> 00:00:49.334
+Ganjaran mereka datang dari sini. Hanya dari sini.
+
+10
+00:00:49.732 --> 00:00:54.346
+Dua puluh lima epal pergi ke jelapang. Jelapang ialah Perbendaharaan DAO.
+
+11
+00:00:54.346 --> 00:00:57.632
+Ia pastikan Delta One terus berjalan dan berkembang.
+
+12
+00:00:58.116 --> 00:01:04.285
+Sekarang peraturan paling penting. Epal pembantu tidak pernah datang dari syiling ahli baharu.
+
+13
+00:01:04.285 --> 00:01:07.566
+Tidak pernah dari pembelian. Hanya dari epal Bolt.
+
+14
+00:01:08.068 --> 00:01:14.124
+Pada hari hujan, Bolt tidak bawa epal. Sifar. Maka tiada siapa makan.
+
+15
+00:01:14.124 --> 00:01:20.618
+Bukan ahli, bukan pembantu, bukan jelapang. Tiada epal, tiada siapa makan.
+
+16
+00:01:21.093 --> 00:01:24.474
+Ada hari Bolt bawa banyak epal. Ada hari sedikit.
+
+17
+00:01:24.474 --> 00:01:29.993
+Campur semua hari, dan kotak seribu syiling dapat kira-kira lima syiling sehari.
+
+18
+00:01:30.500 --> 00:01:36.950
+Itulah purata. Setengah peratus sehari. Bukan janji. Ia boleh berubah.
+
+19
+00:01:38.408 --> 00:01:41.760
+Kenapa lima puluh untuk ahli? Sebab kotak itu milik mereka.
+
+20
+00:01:41.760 --> 00:01:43.898
+Kenapa dua puluh lima untuk pembantu?
+
+21
+00:01:43.898 --> 00:01:50.776
+Sebab mereka bantu kotak pasukan mereka, dan pelan bayar daripada keuntungan dagangan, tidak pernah daripada pembelian.
+
+22
+00:01:51.176 --> 00:01:58.540
+Kenapa dua puluh lima untuk jelapang? Sebab jelapang simpan semua yang tiada siapa tuntut.
+
+23
+00:01:58.540 --> 00:02:03.776
+Dan bila kotak capai nilai dua kotak, bakinya kekal di jelapang.
+
+24
+00:02:03.660 --> 00:02:11.060
+Setiap hari pukul dua belas tengah hari UTC, epal dikira dan dibahagi. Setiap ahli nampak dalam penyata.
+
+25
+00:02:11.180 --> 00:02:17.724
+Mari sebut bersama. Seratus epal. Lima puluh untuk ahli. Dua puluh lima untuk pembantu.
+
+26
+00:02:17.724 --> 00:02:19.980
+Dua puluh lima untuk jelapang.
+
+27
+00:02:20.492 --> 00:02:25.100
+Tiada epal, tiada siapa makan. Pembantu tidak pernah makan syiling ahli baharu.
+
+28
+00:02:25.100 --> 00:02:28.542
+Dan kebanyakan pembantu tidak dapat epal tambahan langsung.
+
+29
+00:02:29.512 --> 00:02:32.927
+Kini anda tahu dari mana setiap syiling datang.
+
+30
+00:02:32.927 --> 00:02:38.812
+Lain kali: syiling masuk, syiling keluar, dan cara baca penyata anda. Jumpa lagi.
+

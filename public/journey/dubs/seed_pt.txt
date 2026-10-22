@@ -1,0 +1,198 @@
+WEBVTT
+
+1
+00:00:02.656 --> 00:00:07.371
+Olá! Esta é a história de um trator, umas sementes e uma grande colheita.
+
+2
+00:00:07.371 --> 00:00:11.829
+Conheça Tracto, o trator. Conheça Maya. E conheça Sam.
+
+3
+00:00:12.640 --> 00:00:18.613
+Uma regra primeiro: esta é uma história sobre médias. Ninguém pode prometer uma colheita.
+
+4
+00:00:18.613 --> 00:00:20.449
+Prontos? Vamos lá!
+
+5
+00:00:21.791 --> 00:00:27.828
+Este é o celeiro da Delta One. Está cheio de sementes! Tracto é um trator muito esperto.
+
+6
+00:00:28.287 --> 00:00:33.212
+Ele olha cada semente, e só planta as boas. Semente boa, para a terra!
+
+7
+00:00:33.212 --> 00:00:37.473
+Semente ruim, não, obrigado! Tracto trabalha todos os dias.
+
+8
+00:00:40.384 --> 00:00:45.006
+Maya compra uma caixa de sementes do celeiro. Agora ela é dela.
+
+9
+00:00:45.006 --> 00:00:47.866
+Não pode voltar para a loja. Mas olhe!
+
+10
+00:00:48.352 --> 00:00:52.554
+Cada dia em que Tracto traz uma colheita, Maya recebe uma parte.
+
+11
+00:00:52.554 --> 00:00:56.720
+E continua recebendo até a caixa dela ter dado o valor de duas caixas.
+
+12
+00:00:57.376 --> 00:01:02.552
+Então a caixa fica vazia. Viva! Maya pode comprar uma caixa nova.
+
+13
+00:01:03.424 --> 00:01:08.097
+Hora da colheita! Cada cesta de cem maçãs é dividida em três.
+
+14
+00:01:08.097 --> 00:01:11.261
+Cinquenta maçãs vão para os donos das caixas, como Maya.
+
+15
+00:01:12.447 --> 00:01:15.690
+Vinte e cinco maçãs vão para os ajudantes, como Sam.
+
+16
+00:01:15.690 --> 00:01:18.989
+E vinte e cinco maçãs ficam no celeiro. Fácil!
+
+17
+00:01:19.359 --> 00:01:27.367
+Ih, não. Chuva! Hoje Tracto colheu zero maçãs. Então hoje ninguém recebe nada. Nem Maya.
+
+18
+00:01:27.367 --> 00:01:31.466
+Nem Sam. Nem o celeiro. Sem maçãs, sem parte.
+
+19
+00:01:32.032 --> 00:01:35.061
+Essa é a regra. E alguns dias chove!
+
+20
+00:01:36.960 --> 00:01:42.430
+Alguns dias, zero maçãs. Outros, poucas. Outros, uma montanha de maçãs!
+
+21
+00:01:44.128 --> 00:01:47.089
+Na vida real, as maçãs são moedas: USDT.
+
+22
+00:01:47.089 --> 00:01:52.870
+Se você soma todos os dias, a caixa de Maya dá umas cinco moedas por dia. Essa é a média.
+
+23
+00:01:55.252 --> 00:01:57.746
+Não é uma promessa. Pode mudar.
+
+24
+00:02:00.339 --> 00:02:02.583
+Agora vem a parte divertida.
+
+25
+00:02:02.583 --> 00:02:07.847
+Nos primeiros dez dias, as moedas de Maya compram caixinhas de sementes novas, sozinhas.
+
+26
+00:02:07.847 --> 00:02:12.067
+Pop! Pop! Pop! Depois Maya recebe um botão.
+
+27
+00:02:12.373 --> 00:02:17.588
+Vire para um lado: mais caixas! Vire para o outro: as moedas vão para o cofrinho dela.
+
+28
+00:02:20.245 --> 00:02:24.549
+Uma Fiel continua plantando o tempo todo, e a caixa dela dá ainda mais.
+
+29
+00:02:24.549 --> 00:02:26.200
+Duas caixas e um pouquinho!
+
+30
+00:02:27.348 --> 00:02:30.915
+Agora, Sam. Sam contou a Maya sobre a fazenda.
+
+31
+00:02:30.915 --> 00:02:35.371
+Então, cada dia em que a caixa de Maya recebe uma parte, Sam recebe um pedacinho.
+
+32
+00:02:35.668 --> 00:02:41.226
+Duas maçãs em cada cem. Pouquinho! Mas Sam conta para muita, muita gente.
+
+33
+00:02:41.226 --> 00:02:43.240
+Muitos pedacinhos fazem um montão!
+
+34
+00:02:45.235 --> 00:02:49.991
+Quanto mais amigos Sam ajuda, e quanto mais caixas eles têm, mais alto Sam sobe.
+
+35
+00:02:49.991 --> 00:02:51.059
+Sete colinas!
+
+36
+00:02:52.563 --> 00:02:56.999
+Numa colina mais alta, Sam recebe um pedacinho de mais fileiras de amigos.
+
+37
+00:02:56.999 --> 00:03:00.012
+Mas o segredo é este: plante em largura, como um campo.
+
+38
+00:03:02.612 --> 00:03:07.257
+Não em altura, como um pé de feijão gigante. Campos largos sobem colinas!
+
+39
+00:03:08.532 --> 00:03:16.126
+E o primeiro fazendeiro a subir a colina ganha um prêmio de líder: pedacinhos extras de todas as fileiras abaixo, até um amigo subir também.
+
+40
+00:03:16.596 --> 00:03:22.410
+Aí esse amigo ganha o seu próprio prêmio. Então, Sam: fique à frente! Continue subindo!
+
+41
+00:03:23.552 --> 00:03:26.404
+Todo dia ao meio-dia UTC, dim dim dim!
+
+42
+00:03:26.404 --> 00:03:31.236
+O sino toca, e a parte de cada um cai no seu cofrinho. Todos os dias.
+
+43
+00:03:31.236 --> 00:03:32.844
+Tire moedas quando quiser.
+
+44
+00:03:34.799 --> 00:03:38.742
+Lembre-se das três regras. Sem maçãs, sem parte.
+
+45
+00:03:38.742 --> 00:03:43.669
+A caixa de sementes não pode voltar para a loja, então compre só o que você pode perder.
+
+46
+00:03:45.839 --> 00:03:49.288
+E cinco moedas por dia é uma média, nunca uma promessa.
+
+47
+00:03:49.288 --> 00:03:54.686
+A maioria dos ajudantes não recebe nenhuma maçã de ajudante. Plante em largura.
+
+48
+00:03:54.686 --> 00:03:57.401
+Fique à frente. E diga a verdade.
+
+49
+00:03:57.840 --> 00:04:00.642
+Fim! Tchau do Tracto, da Maya e do Sam!
+

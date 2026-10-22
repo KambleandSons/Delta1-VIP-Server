@@ -1,0 +1,298 @@
+WEBVTT
+
+1
+00:00:02.624 --> 00:00:08.659
+Bonjour, les amis. Quel plaisir de vous voir ici. Voici Maya. Maya est une Fidèle.
+
+2
+00:00:08.659 --> 00:00:11.360
+Qu'est-ce qu'une Fidèle ? Découvrons-le ensemble.
+
+3
+00:00:13.440 --> 00:00:15.723
+Nous irons doucement. C'est parti.
+
+4
+00:00:17.824 --> 00:00:22.748
+Maya achète une boîte à Delta One. La boîte coûte mille USDT. Mille.
+
+5
+00:00:22.748 --> 00:00:25.983
+L'USDT est une sorte d'argent. Nous l'appellerons des pièces.
+
+6
+00:00:30.432 --> 00:00:35.979
+Maintenant, la boîte est à Maya. Elle ne peut pas la rendre. Le magasin garde les pièces.
+
+7
+00:00:35.979 --> 00:00:37.346
+C'est la première règle.
+
+8
+00:00:37.760 --> 00:00:43.150
+Dans la boîte, il y a un petit travailleur. Il s'appelle Bolt. Bolt est un robot.
+
+9
+00:00:43.150 --> 00:00:46.794
+Bolt travaille chaque jour. Bolt cherche de bonnes opérations.
+
+10
+00:00:47.776 --> 00:00:53.432
+Une bonne opération rapporte des pièces. Bolt apporte les pièces à Maya. Chaque jour.
+
+11
+00:00:53.432 --> 00:00:54.519
+Merci, Bolt.
+
+12
+00:00:55.792 --> 00:01:00.978
+Certains jours, Bolt rapporte quelques pièces. Certains jours, Bolt ne rapporte rien.
+
+13
+00:01:00.978 --> 00:01:04.883
+C'est un jour de pluie. Un jour de pluie, personne ne reçoit de pièces.
+
+14
+00:01:05.184 --> 00:01:10.009
+Certains jours, Bolt rapporte beaucoup de pièces. Mettez tous les jours ensemble.
+
+15
+00:01:10.009 --> 00:01:13.955
+Cela fait environ cinq pièces par jour. Ça s'appelle la moyenne.
+
+16
+00:01:14.272 --> 00:01:17.313
+La moyenne n'est pas une promesse. Elle peut changer.
+
+17
+00:01:19.152 --> 00:01:23.276
+Les dix premiers jours sont spéciaux. Chaque jour, Bolt rapporte quelques pièces.
+
+18
+00:01:23.276 --> 00:01:28.404
+Et les pièces achètent une nouvelle petite boîte. Toutes seules. Pop ! Une petite boîte.
+
+19
+00:01:28.704 --> 00:01:33.771
+Pop ! Encore une petite boîte. Dix jours. Dix petites boîtes.
+
+20
+00:01:33.771 --> 00:01:38.635
+Chaque petite boîte travaille aussi avec Bolt. Maya ne fait rien. Facile.
+
+21
+00:01:40.180 --> 00:01:45.568
+Le jour onze, Maya reçoit un bouton. Un bouton a deux positions. Éteint, et allumé.
+
+22
+00:01:45.568 --> 00:01:48.393
+Éteint veut dire : les pièces vont dans le portefeuille de Maya.
+
+23
+00:01:52.436 --> 00:01:56.421
+Un portefeuille, c'est comme une poche. Elle peut les retirer quand elle veut.
+
+24
+00:01:56.421 --> 00:02:01.473
+Allumé : les pièces achètent d'autres petites boîtes. Éteint, ou allumé. Maya choisit.
+
+25
+00:02:04.052 --> 00:02:09.600
+Regardons d'abord éteint. Cinq pièces par jour vont dans le portefeuille. Jour après jour.
+
+26
+00:02:09.600 --> 00:02:12.748
+Après environ deux cents jours, Maya a récupéré ses mille.
+
+27
+00:02:16.372 --> 00:02:20.315
+Après environ quatre cents jours, la boîte a donné deux mille pièces.
+
+28
+00:02:20.315 --> 00:02:24.994
+Alors la boîte est vide. La valeur de deux boîtes. C'est la fin de cette boîte.
+
+29
+00:02:26.516 --> 00:02:31.630
+Maintenant, regardons allumé. Maya dit : je suis une Fidèle. Elle allume le bouton.
+
+30
+00:02:31.630 --> 00:02:32.999
+Et elle fait une promesse.
+
+31
+00:02:36.980 --> 00:02:41.501
+Elle le laissera allumé pendant toute la vie de la boîte. Le bouton se bloque.
+
+32
+00:02:41.501 --> 00:02:42.849
+Elle ne peut pas l'éteindre.
+
+33
+00:02:44.180 --> 00:02:49.162
+Parce qu'elle y croit, sa boîte donne un peu plus. Pas deux mille. Deux mille deux cents.
+
+34
+00:02:49.162 --> 00:02:50.578
+Deux boîtes, et un peu plus.
+
+35
+00:02:53.300 --> 00:02:56.561
+C'est le premier cadeau d'une Fidèle. Vingt pour cent de plus.
+
+36
+00:02:58.284 --> 00:03:03.336
+Maintenant, le deuxième cadeau. Regardez bien. La grande boîte fait des pièces.
+
+37
+00:03:03.336 --> 00:03:07.632
+Les pièces achètent une petite boîte. La petite boîte fait aussi des pièces.
+
+38
+00:03:09.260 --> 00:03:13.347
+Ces pièces achètent une autre petite boîte. Les boîtes font des pièces.
+
+39
+00:03:13.347 --> 00:03:18.940
+Les pièces font des boîtes. Et ça tourne. Vous voyez ? Chaque nouvelle boîte aide.
+
+40
+00:03:18.940 --> 00:03:20.882
+Alors ça grandit de plus en plus vite.
+
+41
+00:03:23.404 --> 00:03:28.366
+Comme une boule de neige qui dévale une colline. Petite en haut. Grosse en bas.
+
+42
+00:03:28.366 --> 00:03:31.965
+La boule de neige est le deuxième cadeau. Et c'est le plus gros.
+
+43
+00:03:34.668 --> 00:03:39.397
+Faisons rouler la boule de neige. Chaque jour, les pièces achètent une petite boîte.
+
+44
+00:03:39.397 --> 00:03:41.517
+Chaque petite boîte travaille avec Bolt.
+
+45
+00:03:42.540 --> 00:03:47.229
+Chaque petite boîte donne la valeur de deux boîtes, et un peu plus. Plus de boîtes.
+
+46
+00:03:47.229 --> 00:03:49.459
+Plus de pièces. Plus de boîtes.
+
+47
+00:03:52.544 --> 00:03:56.405
+Après quatre cent quarante jours, Maya a des centaines de petites boîtes.
+
+48
+00:03:56.405 --> 00:03:59.192
+Chacune s'arrête toujours à sa propre limite.
+
+49
+00:03:59.192 --> 00:04:02.217
+Chaque chiffre ici est à la moyenne, jamais une promesse.
+
+50
+00:04:05.164 --> 00:04:08.551
+Le jour quatre cent quarante, la première boîte est finie.
+
+51
+00:04:08.551 --> 00:04:12.247
+Elle a donné ses deux mille deux cents. Maintenant, elle se repose.
+
+52
+00:04:12.247 --> 00:04:13.975
+Seules les petites boîtes continuent.
+
+53
+00:04:15.712 --> 00:04:17.629
+Maya peut éteindre le bouton.
+
+54
+00:04:17.629 --> 00:04:22.885
+Une à une, les petites boîtes donnent leurs pièces au portefeuille, jusqu'à ce que chacune atteigne sa limite.
+
+55
+00:04:27.712 --> 00:04:31.110
+Regardons les trois. Avec éteint : environ deux mille.
+
+56
+00:04:31.110 --> 00:04:33.634
+La boîte Fidèle seule : deux mille deux cents.
+
+57
+00:04:33.634 --> 00:04:36.431
+Avec la boule de neige : plus, lentement, à la moyenne.
+
+58
+00:04:39.552 --> 00:04:45.250
+Les mêmes mille. Le même Bolt. La même moyenne. Les vingt pour cent, c'est bien.
+
+59
+00:04:45.250 --> 00:04:49.532
+La boule de neige, c'est le gros morceau. Et la boule de neige a besoin de temps.
+
+60
+00:04:50.783 --> 00:04:55.434
+Alors, qu'est-ce qu'une Fidèle ? Une Fidèle attend. Quatre cent quarante jours.
+
+61
+00:04:55.434 --> 00:04:57.732
+Une Fidèle ne regarde pas en cachette.
+
+62
+00:04:57.732 --> 00:05:00.982
+Une Fidèle fait confiance à la moyenne, pas à un seul jour.
+
+63
+00:05:01.983 --> 00:05:04.934
+Et une Fidèle ne retire aucune pièce avant la fin.
+
+64
+00:05:04.934 --> 00:05:08.055
+Alors n'utilisez que des pièces dont vous n'avez pas besoin.
+
+65
+00:05:08.055 --> 00:05:10.202
+Être Fidèle, ce n'est pas pour tout le monde.
+
+66
+00:05:12.960 --> 00:05:16.106
+Et ce n'est pas grave. Vous êtes très bien comme vous êtes.
+
+67
+00:05:18.112 --> 00:05:19.904
+Disons les règles ensemble.
+
+68
+00:05:19.904 --> 00:05:23.746
+Si Bolt ne rapporte pas de pièces, personne ne reçoit de pièces.
+
+69
+00:05:23.746 --> 00:05:25.894
+La boîte ne peut pas retourner au magasin.
+
+70
+00:05:28.032 --> 00:05:30.658
+N'utilisez que des pièces que vous pouvez perdre.
+
+71
+00:05:30.658 --> 00:05:33.718
+Cinq pièces par jour, c'est une moyenne, pas une promesse.
+
+72
+00:05:36.488 --> 00:05:42.540
+Et aussi : les assistants qui en parlent à des amis peuvent avoir un petit extra, mais la plupart n'ont rien du tout.
+
+73
+00:05:42.540 --> 00:05:43.768
+Maya est une Fidèle.
+
+74
+00:05:44.680 --> 00:05:47.962
+Merci d'avoir appris avec moi. Au revoir, les amis.
+

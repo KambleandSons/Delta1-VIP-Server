@@ -1,0 +1,166 @@
+WEBVTT
+
+1
+00:00:02.592 --> 00:00:11.010
+Hallo, vriend. Vandag munte. Hoe munte inkom, hoe munte uitgaan, en die foute wat munte laat verlore gaan.
+
+2
+00:00:11.010 --> 00:00:12.042
+Stadig, saam.
+
+3
+00:00:12.896 --> 00:00:19.236
+Delta One se munte is USDT. 'n Digitale dollar. Een munt is gemaak om een dollar werd te wees.
+
+4
+00:00:19.236 --> 00:00:22.946
+Dit leef op 'n blokketting, 'n groot openbare notaboek.
+
+5
+00:00:23.648 --> 00:00:30.463
+'n Beursie is 'n app op jou foon wat jou munte hou. Dit het 'n adres, soos 'n huisnommer.
+
+6
+00:00:30.463 --> 00:00:32.148
+Die adres mag jy deel.
+
+7
+00:00:32.640 --> 00:00:39.930
+Die beursie het ook 'n geheim: twaalf woorde. Wie die woorde het, besit die munte. Skryf hulle op papier.
+
+8
+00:00:39.930 --> 00:00:43.540
+Tik hulle nooit iewers in nie. Deel hulle nooit nie.
+
+9
+00:00:44.128 --> 00:00:48.935
+Nie eens met Delta One nie. Delta One sal jou nooit vir jou twaalf woorde vra nie.
+
+10
+00:00:48.935 --> 00:00:50.928
+Hou die papier op 'n veilige plek.
+
+11
+00:00:51.456 --> 00:01:02.206
+Munte reis op paaie. USDT het 'n paar paaie. Delta One gebruik net een: BNB Smart Chain, ook BEP-20 genoem.
+
+12
+00:01:02.688 --> 00:01:09.846
+Munte wat op die verkeerde pad gestuur word, gaan verlore. Elke keer as jy stuur, vra die skerm watter pad.
+
+13
+00:01:09.846 --> 00:01:12.388
+Die antwoord is altyd BNB Smart Chain.
+
+14
+00:01:12.768 --> 00:01:18.232
+Waar kom munte vandaan? Die meeste mense koop hulle by 'n beurs, 'n muntwinkel.
+
+15
+00:01:18.232 --> 00:01:24.318
+Bevestig jou identiteit, betaal met jou bank, en stuur dan die munte na jou eie beursie.
+
+16
+00:01:24.768 --> 00:01:26.655
+BNB Smart Chain is die pad.
+
+17
+00:01:26.655 --> 00:01:32.318
+Hou ook 'n bietjie BNB-munt in die beursie: dit betaal die padgeld, 'n paar sent.
+
+18
+00:01:32.318 --> 00:01:35.184
+'n Beursie sonder BNB kan niks stuur nie.
+
+19
+00:01:35.584 --> 00:01:41.440
+Nou koop Maya haar boks. Die app wys 'n betaaladres. Maya kopieer dit.
+
+20
+00:01:41.440 --> 00:01:48.634
+Sy kyk na die eerste vier en die laaste vier tekens. Dan stuur sy die presiese bedrag.
+
+21
+00:01:49.088 --> 00:01:57.746
+Stuur eers 'n klein toets. Dan die regte bedrag. Binne omtrent 'n minuut kom die munte aan.
+
+22
+00:01:57.746 --> 00:02:02.788
+Maya hou die lang kwitansiekode, die transaksie-hash.
+
+23
+00:02:03.232 --> 00:02:06.988
+Elke dag om twaalfuur middag UTC kom Maya se staat.
+
+24
+00:02:06.988 --> 00:02:14.795
+Dit wys Bolt se resultaat vir die dag, haar boks se deel, waarheen dit gegaan het, en hoe ver haar boks al
+
+25
+00:02:14.795 --> 00:02:15.532
+gekom het.
+
+26
+00:02:16.096 --> 00:02:23.106
+Waarheen het die deel gegaan? Dag een tot tien: herkoop, 'n boksie. Van dag elf af, skakelaar aan: herkoop.
+
+27
+00:02:23.106 --> 00:02:25.596
+Skakelaar af: haar beursie in die app.
+
+28
+00:02:26.080 --> 00:02:31.789
+Munte uithaal is maklik. Uit die app-beursie, enige tyd, vyf munte of meer.
+
+29
+00:02:31.789 --> 00:02:38.030
+Hulle gaan na die beursie-adres in Maya se profiel. Net die padgeld word afgetrek.
+
+30
+00:02:38.464 --> 00:02:44.310
+Maak jou eerste uithaal klein, op dag elf. Dan weet jy die hele pad werk.
+
+31
+00:02:44.310 --> 00:02:47.514
+Daarna haal jy munte uit wanneer jy wil.
+
+32
+00:02:48.480 --> 00:02:56.395
+Foute wat munte laat verlore gaan: die verkeerde pad, 'n verkeerde adres, geen BNB vir die fooi, die twaalf
+
+33
+00:02:56.395 --> 00:02:59.280
+woorde deel, vals apps en vals skakels.
+
+34
+00:03:00.224 --> 00:03:03.392
+Delta One stuur nooit betaalskakels in 'n klets nie.
+
+35
+00:03:03.392 --> 00:03:06.561
+Geen hulpagent het ooit jou twaalf woorde nodig nie.
+
+36
+00:03:06.561 --> 00:03:10.460
+As iemand daarvoor vra, is dit 'n truuk, 'n hoek om jou te vang.
+
+37
+00:03:10.860 --> 00:03:15.909
+En nog een. Die aankoopprys kom nooit terug nie. Net resultate kan uitgehaal word.
+
+38
+00:03:15.909 --> 00:03:19.110
+Gebruik net munte wat jy kan bekostig om te verloor.
+
+39
+00:03:19.948 --> 00:03:26.618
+Kom ons sê dit saam. BNB Smart Chain. Kyk die adres na. Hou die twaalf woorde op papier.
+
+40
+00:03:26.618 --> 00:03:29.498
+Haal enige tyd munte uit, vyf of meer.
+
+41
+00:03:29.900 --> 00:03:37.450
+Nou ken jy munte in en munte uit. Volgende keer: die Momentum-plan. Tot gou, vriend.
+

@@ -1,0 +1,114 @@
+WEBVTT
+
+1
+00:00:02.620 --> 00:00:06.827
+Bonjour, les amis. Aujourd'hui, la deuxième façon dont le plan paie.
+
+2
+00:00:06.827 --> 00:00:11.269
+C'est pour les leaders. Ça s'appelle l'écart du leader. Allons-y doucement.
+
+3
+00:00:13.468 --> 00:00:16.638
+Souvenez-vous des collines. Chaque colline a une part.
+
+4
+00:00:16.638 --> 00:00:24.298
+Fuji six, Kilimanjaro douze, Matterhorn dix-huit, Denali vingt-quatre, Rainier trente, K-2 trente-six, Everest quarante-deux.
+
+5
+00:00:26.396 --> 00:00:30.525
+Maintenant, l'écart. Disons que Maya est sur Denali, vingt-quatre.
+
+6
+00:00:30.525 --> 00:00:34.415
+Sam, sous elle, est sur Fuji, six. L'écart entre eux est de dix-huit.
+
+7
+00:00:36.444 --> 00:00:38.369
+Ces dix-huit points sont à Maya.
+
+8
+00:00:38.369 --> 00:00:41.926
+Sur chaque contrat de la branche de Sam, Maya reçoit l'écart.
+
+9
+00:00:41.926 --> 00:00:44.217
+L'écart est payé en plus des pièces des niveaux.
+
+10
+00:00:45.532 --> 00:00:49.923
+Et si quelqu'un plus bas dans la branche de Sam est sur Kilimanjaro, douze ?
+
+11
+00:00:49.923 --> 00:00:54.370
+Alors, sous cette personne, l'écart de Maya est vingt-quatre moins douze. Douze.
+
+12
+00:00:56.828 --> 00:01:01.982
+L'écart n'a ni plafond ni limite de profondeur. Il descend jusqu'au bout de la branche.
+
+13
+00:01:01.982 --> 00:01:05.574
+Mais les parts sur un contrat ne dépassent jamais quarante-deux au total.
+
+14
+00:01:07.772 --> 00:01:12.425
+Faisons le calcul. La branche de Sam a un million de pièces de boîtes.
+
+15
+00:01:12.425 --> 00:01:15.331
+À la moyenne, ces boîtes font cinq mille pièces par jour.
+
+16
+00:01:16.732 --> 00:01:20.833
+Dix-huit points de cinq mille, cela fait neuf cents pièces par jour pour Maya.
+
+17
+00:01:20.833 --> 00:01:24.119
+Environ vingt-sept mille par mois. Rien qu'avec l'écart.
+
+18
+00:01:26.364 --> 00:01:30.492
+C'est pourquoi les leaders font trois choses. Ouvrir de nouvelles branches.
+
+19
+00:01:30.492 --> 00:01:34.178
+Rester devant les leaders sous eux. Et garder leurs leaders actifs.
+
+20
+00:01:36.188 --> 00:01:40.973
+Rester devant. Si Sam monte aussi sur Denali, l'écart entre eux est de zéro.
+
+21
+00:01:40.973 --> 00:01:45.352
+Cette montée est bonne pour Sam. Maya doit monter plus haut pour garder un écart.
+
+22
+00:01:48.444 --> 00:01:49.954
+Disons-le ensemble.
+
+23
+00:01:49.954 --> 00:01:53.760
+L'écart, c'est votre part moins la plus haute part déjà prise sous vous.
+
+24
+00:01:53.760 --> 00:01:57.835
+Pas de plafond, pas de limite de profondeur, jamais plus de quarante-deux en tout.
+
+25
+00:02:01.376 --> 00:02:05.373
+Chaque chiffre ici est à la moyenne, avec une grande branche sous Maya.
+
+26
+00:02:05.373 --> 00:02:10.766
+La plupart des assistants n'ont jamais une branche pareille, et la plupart ne gagnent aucune pièce en plus.
+
+27
+00:02:12.516 --> 00:02:14.441
+Vous connaissez l'écart du leader.
+
+28
+00:02:14.441 --> 00:02:18.791
+La prochaine fois : ce que gagnent vraiment les assistants. À bientôt, les amis.
+

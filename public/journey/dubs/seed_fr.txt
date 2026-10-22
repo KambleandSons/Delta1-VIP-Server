@@ -1,0 +1,214 @@
+WEBVTT
+
+1
+00:00:02.656 --> 00:00:07.729
+Bonjour ! Voici l'histoire d'un tracteur, de quelques graines et d'une grosse récolte.
+
+2
+00:00:07.729 --> 00:00:11.878
+Voici Tracto le tracteur. Voici Maya. Et voici Sam.
+
+3
+00:00:12.640 --> 00:00:15.434
+D'abord une règle : c'est une histoire de moyennes.
+
+4
+00:00:15.434 --> 00:00:19.326
+Personne ne peut promettre une récolte. Prêts ? C'est parti !
+
+5
+00:00:21.791 --> 00:00:25.426
+Voici la grange de Delta One. Elle est pleine de graines !
+
+6
+00:00:25.426 --> 00:00:27.234
+Tracto est un tracteur très malin.
+
+7
+00:00:28.287 --> 00:00:33.220
+Il regarde chaque graine, et il ne plante que les bonnes. Bonne graine, on la plante !
+
+8
+00:00:33.220 --> 00:00:37.352
+Mauvaise graine, non merci ! Tracto travaille tous les jours, sans exception.
+
+9
+00:00:40.384 --> 00:00:44.617
+Maya achète une boîte de graines à la grange. Elle est à elle, maintenant.
+
+10
+00:00:44.617 --> 00:00:47.218
+Pas de retour au magasin. Mais regardez !
+
+11
+00:00:48.352 --> 00:00:52.120
+Chaque jour où Tracto rentre une récolte, Maya reçoit une part.
+
+12
+00:00:52.120 --> 00:00:56.404
+Et elle reçoit des parts jusqu'à ce que sa boîte lui ait donné la valeur de deux boîtes.
+
+13
+00:00:57.376 --> 00:01:01.644
+Alors la boîte est vide. Hourra ! Maya peut acheter une nouvelle boîte.
+
+14
+00:01:03.424 --> 00:01:07.533
+C'est la récolte ! Chaque panier de cent pommes est partagé en trois.
+
+15
+00:01:07.533 --> 00:01:10.784
+Cinquante pommes vont aux propriétaires des boîtes, comme Maya.
+
+16
+00:01:12.447 --> 00:01:15.134
+Vingt-cinq pommes vont aux assistants, comme Sam.
+
+17
+00:01:15.134 --> 00:01:18.320
+Et vingt-cinq pommes restent dans la grange. Facile !
+
+18
+00:01:19.359 --> 00:01:23.699
+Oh oh. La pluie ! Aujourd'hui, Tracto a cueilli zéro pomme.
+
+19
+00:01:23.699 --> 00:01:29.653
+Alors aujourd'hui, personne n'en reçoit. Ni Maya. Ni Sam. Même pas la grange.
+
+20
+00:01:29.653 --> 00:01:30.994
+Pas de pommes, pas de part.
+
+21
+00:01:32.032 --> 00:01:34.734
+C'est la règle. Et certains jours, il pleut !
+
+22
+00:01:36.960 --> 00:01:40.402
+Certains jours, zéro pomme. D'autres, quelques-unes.
+
+23
+00:01:40.402 --> 00:01:42.420
+D'autres encore, une montagne de pommes !
+
+24
+00:01:44.128 --> 00:01:47.076
+Dans la vraie vie, les pommes sont des pièces : des USDT.
+
+25
+00:01:47.076 --> 00:01:51.916
+Si on additionne tous les jours, la boîte de Maya donne environ cinq pièces par jour.
+
+26
+00:01:51.916 --> 00:01:53.029
+C'est la moyenne.
+
+27
+00:01:55.252 --> 00:01:57.975
+Ce n'est pas une promesse. Ça peut changer.
+
+28
+00:02:00.339 --> 00:02:02.038
+Voici le moment amusant.
+
+29
+00:02:02.038 --> 00:02:07.017
+Les dix premiers jours, les pièces de Maya achètent toutes seules de nouvelles petites boîtes de graines.
+
+30
+00:02:07.017 --> 00:02:10.916
+Pop ! Pop ! Pop ! Puis Maya reçoit un bouton.
+
+31
+00:02:12.373 --> 00:02:14.547
+Tournez-le d'un côté : plus de boîtes !
+
+32
+00:02:14.547 --> 00:02:17.330
+Tournez-le de l'autre : les pièces vont dans sa tirelire.
+
+33
+00:02:20.245 --> 00:02:24.161
+Une Fidèle continue de planter tout le temps, et sa boîte donne encore plus.
+
+34
+00:02:24.161 --> 00:02:25.505
+Deux boîtes et un petit peu !
+
+35
+00:02:27.348 --> 00:02:30.720
+Maintenant, Sam. Sam a parlé de la ferme à Maya.
+
+36
+00:02:30.720 --> 00:02:35.178
+Alors chaque jour où la boîte de Maya reçoit une part, Sam en reçoit un tout petit bout.
+
+37
+00:02:35.668 --> 00:02:40.507
+Deux pommes sur cent. Tout petit ! Mais Sam en parle à beaucoup, beaucoup de gens.
+
+38
+00:02:40.507 --> 00:02:42.296
+Plein de petits bouts font un gros tas !
+
+39
+00:02:45.235 --> 00:02:49.806
+Plus Sam aide d'amis, et plus ils ont de boîtes, plus Sam monte haut. Sept collines !
+
+40
+00:02:52.563 --> 00:02:56.665
+Sur une colline plus haute, Sam reçoit un petit bout de plus de rangées d'amis.
+
+41
+00:02:56.665 --> 00:02:59.238
+Mais voici l'astuce : plantez large, comme un champ.
+
+42
+00:03:02.612 --> 00:03:05.961
+Pas haut, comme un haricot géant. Les champs larges montent les collines !
+
+43
+00:03:08.532 --> 00:03:15.614
+Le premier fermier en haut de la colline gagne un prix de leader : des bouts en plus de toutes les rangées du dessous, jusqu'à ce qu'un ami monte aussi.
+
+44
+00:03:16.596 --> 00:03:21.741
+Alors cet ami reçoit son propre prix. Donc, Sam : reste devant ! Continue de grimper !
+
+45
+00:03:23.552 --> 00:03:26.083
+Chaque jour à midi UTC, ding ding ding !
+
+46
+00:03:26.083 --> 00:03:30.723
+La cloche sonne, et la part de chacun tombe dans sa tirelire. Tous les jours.
+
+47
+00:03:30.723 --> 00:03:32.414
+Retirez des pièces quand vous voulez.
+
+48
+00:03:34.799 --> 00:03:38.055
+Retenez les trois règles. Pas de pommes, pas de part.
+
+49
+00:03:38.055 --> 00:03:43.091
+La boîte de graines ne peut pas retourner au magasin, alors n'achetez que ce que vous pouvez perdre.
+
+50
+00:03:45.839 --> 00:03:49.544
+Et cinq pièces par jour, c'est une moyenne, jamais une promesse.
+
+51
+00:03:49.544 --> 00:03:54.521
+La plupart des assistants ne reçoivent aucune pomme d'assistant. Plantez large.
+
+52
+00:03:54.521 --> 00:03:56.954
+Restez devant. Et dites la vérité.
+
+53
+00:03:57.840 --> 00:04:01.160
+Fin ! Au revoir de la part de Tracto, Maya et Sam !
+

@@ -1,0 +1,162 @@
+WEBVTT
+
+1
+00:00:02.624 --> 00:00:06.187
+Szia újra! Itt a Delta One alapítói helyek rajzfilmje.
+
+2
+00:00:07.584 --> 00:00:14.012
+Ismerd meg Norát, aki helyet szeretne a hegy csúcsán, és Boltot, az AI motort, aki a kereskedést végzi.
+
+3
+00:00:15.040 --> 00:00:19.788
+A szabály a szokásos: minden szám átlag, és semmi sem ígéret. Másszunk!
+
+4
+00:00:23.104 --> 00:00:28.979
+Pontosan kétszázhatvan alapítói hely van, hat fokozatban, a hegy csúcsától lefelé.
+
+5
+00:00:28.979 --> 00:00:31.630
+Tíz Serpa hely, kétszázezer USDT-ért.
+
+6
+00:00:34.240 --> 00:00:39.805
+Huszonöt Hegymászó. Huszonöt Úttörő. Ötven Felfedező. Ötven Pionír, tízezerért.
+
+7
+00:00:39.805 --> 00:00:46.637
+És száz Túravezető hely, ötezerért. Nora egy Pionír helyet választ. Száma: egy, egy, egy. Az övé!
+
+8
+00:00:51.360 --> 00:00:53.833
+Az alapítói hely két dolgot ad Norának.
+
+9
+00:00:53.833 --> 00:01:00.556
+Egy: alapítói részt, egy szeletet Bolt nyereségéből, minden nyereséges napon, a projekt egész élete alatt.
+
+10
+00:01:02.368 --> 00:01:03.737
+Kettő: egy helymodult.
+
+11
+00:01:03.737 --> 00:01:10.207
+A tízezre úgy is dolgozik, mint egy normál modul, átlaggal keres, amíg ki nem fizette neki a hely árának
+
+12
+00:01:10.207 --> 00:01:12.323
+kétszeresét. Két forrás, egy hely.
+
+13
+00:01:15.264 --> 00:01:21.616
+Így működik a rész. Minden nap, amikor Bolt nyereséget termel, annak egy százaléka az alapítói üvegbe kerül.
+
+14
+00:01:22.048 --> 00:01:29.195
+Az üveget a helyárak szerint osztják el: Nora tízezre osztva nyolcmillióval, mind a kétszázhatvan hely árával.
+
+15
+00:01:29.195 --> 00:01:30.625
+Ez az ő része, örökre.
+
+16
+00:01:33.568 --> 00:01:38.149
+Eladatlan helyek? A részük a Delta One-nál marad. Noráé soha nem változik.
+
+17
+00:01:39.840 --> 00:01:40.663
+Mennyit ér?
+
+18
+00:01:40.663 --> 00:01:48.365
+A tervezési eset: egymilliárd USDT modulértékesítés idővel kétmilliárd USDT kereskedési nyereséget hoz.
+
+19
+00:01:48.832 --> 00:01:55.995
+Ennek egy százaléka egy húszmillió USDT-s üveg. Egy Túravezető hely tizenkétezer-ötszázat kap belőle.
+
+20
+00:01:55.995 --> 00:01:58.265
+Nora Pionír helye huszonötezret.
+
+21
+00:02:00.768 --> 00:02:05.966
+Egy Serpa hely félmilliót. Idővel, átlaggal, és csak ha a nyereség tényleg megszületik.
+
+22
+00:02:08.064 --> 00:02:09.757
+És van egy indulási ablak.
+
+23
+00:02:09.757 --> 00:02:16.920
+Az október tizenegyedikei déli, UTC szerinti elszámolásig kifizetett helyek egy helyett két százalékot kapnak,
+
+24
+00:02:16.920 --> 00:02:18.808
+az első tizenkét hónapjukban.
+
+25
+00:02:21.032 --> 00:02:24.121
+Dupla rész mindenből, amit Bolt abban az évben keres.
+
+26
+00:02:25.132 --> 00:02:28.607
+Az ablak után mindenkinek egy százalék. Tik-tak, Nora!
+
+27
+00:02:31.180 --> 00:02:34.372
+Minden alapítónak egy dolga van: aktívnak maradni.
+
+28
+00:02:34.372 --> 00:02:40.949
+Amikor Nora helymodulja eléri a kétszerest, harmincnapos türelmi idő indul, és a része továbbra is jön.
+
+29
+00:02:42.156 --> 00:02:47.938
+Megújítja egy új helymodullal a hely áráért, a tárcájából vagy egy új befizetéssel.
+
+30
+00:02:48.396 --> 00:02:53.203
+Ha nem teszi, a része szünetel, és a Delta One-nál marad. De a hely továbbra is az övé!
+
+31
+00:02:55.564 --> 00:03:00.463
+Bármikor újra bekapcsolhatja egy új helymodullal. Az NFT örökre szól.
+
+32
+00:03:03.692 --> 00:03:09.547
+Nora helye NFT-ként él a BNB Smart Chain hálózaton, a vásárlás sorrendjében megszámozva.
+
+33
+00:03:09.964 --> 00:03:17.475
+Megtarthatja, és át is adhatja: a rész követi az NFT-t az új tulajdonoshoz, aki aktívan tarthatja, vagy újra
+
+34
+00:03:17.475 --> 00:03:18.518
+bekapcsolhatja.
+
+35
+00:03:19.040 --> 00:03:26.154
+Még végrendeletben is hagyhatja. Fizetés naponta délben, UTC szerint, USDT-ben, az app-tárcába.
+
+36
+00:03:27.020 --> 00:03:32.537
+A komoly rész. Minden szám csak szemléltető példa, a motor átlagos napi eredménye alapján.
+
+37
+00:03:34.316 --> 00:03:38.955
+Az alapítói rész teljes egészében a ténylegesen megtermelt nyereségtől függ.
+
+38
+00:03:38.955 --> 00:03:42.313
+Az eredmények nem garantáltak, és a hely ára elveszhet.
+
+39
+00:03:43.436 --> 00:03:49.419
+A kibocsátó cég és a feltételek még nincsenek közzétéve, és ez a rajzfilm tervezet megfelelőségi
+
+40
+00:03:49.419 --> 00:03:55.402
+felülvizsgálatra. Vásárlás előtt olvasd el az Alapítói fontos tényeket. Szia Norától és Bolttól!
+

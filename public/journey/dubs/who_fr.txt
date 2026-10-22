@@ -1,0 +1,170 @@
+WEBVTT
+
+1
+00:00:02.588 --> 00:00:07.856
+Bonjour, les amis. Aujourd'hui, la dernière grande question. Qui est Delta One ?
+
+2
+00:00:07.856 --> 00:00:11.897
+Ce que c'est, qui la dirige, et comment les pièces circulent. Regardons.
+
+3
+00:00:14.684 --> 00:00:19.986
+Delta One vend une seule chose : l'accès à son moteur de trading AI. C'est Bolt.
+
+4
+00:00:19.986 --> 00:00:24.054
+Un logiciel qui cherche les bonnes opérations et fait tout le trading lui-même.
+
+5
+00:00:25.628 --> 00:00:30.903
+Les membres achètent le moteur en boîtes, dès mille pièces, en logiciel en tant que service.
+
+6
+00:00:30.903 --> 00:00:35.032
+Rien à trader soi-même. Rien à gérer. L'achat, c'est le produit.
+
+7
+00:00:37.920 --> 00:00:39.193
+Qui la dirige ?
+
+8
+00:00:39.193 --> 00:00:48.825
+Une équipe fondatrice, menée par James, le fondateur, avec quarante ans à bâtir des entreprises, et Ricky, le président, ceinture noire de Jiu-Jitsu et entraîneur.
+
+9
+00:00:49.317 --> 00:00:51.970
+Leurs profils sont dans le dossier de documents.
+
+10
+00:00:51.970 --> 00:00:56.747
+Le moteur lui-même est géré par son architecte, sous les contrôles de l'entreprise.
+
+11
+00:00:57.540 --> 00:01:00.523
+Comment les pièces circulent. Étape un, l'achat.
+
+12
+00:01:00.523 --> 00:01:04.354
+Vous payez en USDT sur BNB Smart Chain à l'adresse dans l'appli.
+
+13
+00:01:04.354 --> 00:01:06.463
+Les pièces vont dans des portefeuilles de garde.
+
+14
+00:01:09.796 --> 00:01:14.671
+Personne ne peut déplacer ces pièces tout seul. Plus d'un détenteur de clé doit signer.
+
+15
+00:01:14.671 --> 00:01:16.427
+Ça s'appelle la multisignature.
+
+16
+00:01:18.788 --> 00:01:23.433
+Étape deux, le trading. Des comptes de trading approuvés font tourner le moteur.
+
+17
+00:01:23.433 --> 00:01:29.467
+Le vrai profit du jour est confirmé par les relevés de la plateforme et publié avec le rapport des opérations.
+
+18
+00:01:30.212 --> 00:01:33.335
+Étape trois, le décompte, chaque jour à midi UTC.
+
+19
+00:01:33.335 --> 00:01:40.902
+Le profit du jour est partagé : cinquante aux membres, vingt-cinq au plan des assistants, vingt-cinq à la grange, la Trésorerie DAO.
+
+20
+00:01:43.396 --> 00:01:48.832
+Les résultats, les petites boîtes de rachat et les commissions arrivent alors dans les portefeuilles de l'appli.
+
+21
+00:01:48.832 --> 00:01:50.819
+Chaque jour. En pièces.
+
+22
+00:01:52.388 --> 00:01:54.052
+Étape quatre, le retrait.
+
+23
+00:01:54.052 --> 00:02:00.462
+Depuis le portefeuille de l'appli, à tout moment, cinq pièces ou plus, envoyées tout de suite à votre propre portefeuille.
+
+24
+00:02:00.462 --> 00:02:01.756
+Seul le péage est pris.
+
+25
+00:02:02.501 --> 00:02:03.632
+Contrôle.
+
+26
+00:02:03.632 --> 00:02:08.557
+Les lots de paiement partent de résultats approuvés, signés par plusieurs détenteurs de clé.
+
+27
+00:02:08.557 --> 00:02:11.244
+Les gros mouvements de la grange sont soumis à un délai.
+
+28
+00:02:11.717 --> 00:02:15.224
+Le cycle de chaque jour est vérifié selon les règles publiées.
+
+29
+00:02:15.224 --> 00:02:17.698
+Chaque jour, les mêmes règles, le même calcul.
+
+30
+00:02:19.268 --> 00:02:21.053
+Les documents qui l'engagent.
+
+31
+00:02:21.053 --> 00:02:24.496
+Le guide produit et les Faits clés : ce que vous achetez et les risques.
+
+32
+00:02:24.496 --> 00:02:27.573
+Le guide du plan : chaque règle, calculée à la pièce près.
+
+33
+00:02:29.252 --> 00:02:33.331
+La note de transparence : ce que les membres du modèle gagnent vraiment.
+
+34
+00:02:33.331 --> 00:02:36.343
+L'audit des calculs : les chiffres publiés vérifiés mille fois.
+
+35
+00:02:38.276 --> 00:02:42.092
+Delta One n'est ni une banque ni un fonds. Elle ne promet rien.
+
+36
+00:02:42.092 --> 00:02:46.194
+Le moteur peut perdre des pièces. L'USDT peut perdre sa parité.
+
+37
+00:02:46.194 --> 00:02:47.884
+Les réseaux peuvent tomber en panne.
+
+38
+00:02:49.248 --> 00:02:52.729
+Tout ici est un projet pour examen juridique et de conformité.
+
+39
+00:03:00.192 --> 00:03:05.379
+Disons-le ensemble. Un produit : le moteur, en boîtes. Une équipe fondatrice.
+
+40
+00:03:05.379 --> 00:03:08.811
+Plus d'une clé. Midi UTC. La grange.
+
+41
+00:03:13.416 --> 00:03:14.859
+Vous savez qui est Delta One.
+
+42
+00:03:14.859 --> 00:03:18.577
+La prochaine fois : toute la présentation, construite en blocs. À bientôt, les amis.
+

@@ -1,0 +1,162 @@
+WEBVTT
+
+1
+00:00:02.588 --> 00:00:09.228
+Helo, kawan. Ini Maya. Hari ini Maya beli sebuah kotak dari Delta One. Mari lihat apa itu kotak.
+
+2
+00:00:09.228 --> 00:00:10.888
+Perlahan-lahan, bersama.
+
+3
+00:00:11.676 --> 00:00:20.576
+Kotak ini dipanggil modul. Ia sejenis perisian. Di dalamnya bekerja Bolt, robot dagangan. Ucap helo, Bolt.
+
+4
+00:00:21.116 --> 00:00:27.974
+Sebuah kotak berharga sekurang-kurangnya seribu syiling. Syiling ialah USDT, dolar digital.
+
+5
+00:00:27.974 --> 00:00:31.366
+Maya boleh pilih kotak lebih besar jika mahu.
+
+6
+00:00:31.964 --> 00:00:39.881
+Maya bayar dengan syilingnya. Syiling itu pergi ke Delta One. Ia tidak kembali. Kotak itu milik Maya sekarang.
+
+7
+00:00:39.881 --> 00:00:41.464
+Itulah peraturan satu.
+
+8
+00:00:41.947 --> 00:00:47.311
+Setiap hari, Bolt cari dagangan yang baik. Dagangan yang baik bawa pulang syiling.
+
+9
+00:00:47.311 --> 00:00:50.647
+Bolt membahaginya: separuh untuk ahli seperti Maya.
+
+10
+00:00:51.165 --> 00:00:54.798
+Esoknya, penyata Maya tiba. Ia tunjuk bahagiannya.
+
+11
+00:00:54.798 --> 00:01:00.465
+Syiling pertamanya datang pada penyelesaian pertama selepas kotaknya disahkan.
+
+12
+00:01:01.149 --> 00:01:05.174
+Penyelesaian berlaku setiap hari pukul dua belas tengah hari UTC.
+
+13
+00:01:05.174 --> 00:01:09.199
+Waktu itulah Bolt kira syiling dan beri setiap orang bahagiannya.
+
+14
+00:01:10.204 --> 00:01:15.655
+Ada hari Bolt bawa sedikit syiling. Ada hari banyak. Dan ada hari hujan.
+
+15
+00:01:15.655 --> 00:01:20.804
+Pada hari hujan, Bolt tidak bawa apa-apa. Tiada siapa dapat syiling.
+
+16
+00:01:21.276 --> 00:01:29.426
+Campur semua hari. Lebih kurang lima syiling sehari bagi kotak seribu syiling. Itulah purata. Setengah peratus.
+
+17
+00:01:30.396 --> 00:01:39.496
+Purata bukan janji. Ia boleh naik. Ia boleh turun. Tiada siapa boleh janji tuaian. Ingat itu.
+
+18
+00:01:40.284 --> 00:01:47.346
+Sekarang soalan besar. Berapa lama kotak itu hidup? Kotak memberi paling banyak syiling bernilai dua kotak.
+
+19
+00:01:47.346 --> 00:01:50.184
+Dua ribu syiling bagi kotak seribu syiling.
+
+20
+00:01:50.685 --> 00:01:54.566
+Selepas kira-kira dua ratus hari, seribu syiling Maya kembali.
+
+21
+00:01:54.566 --> 00:01:59.385
+Selepas kira-kira empat ratus hari, kotak sudah beri dua ribu. Lalu ia tamat.
+
+22
+00:01:59.872 --> 00:02:05.756
+Bila kotak capai nilai dua kotak, ia tamat. Ia tidak boleh dihentikan awal. Dan ia tidak boleh beri lebih.
+
+23
+00:02:05.756 --> 00:02:06.922
+Itulah peraturan dua.
+
+24
+00:02:09.248 --> 00:02:16.843
+Syiling yang Bolt bawa pergi dua arah. Dalam sepuluh hari pertama, setiap syiling beli kotak kecil baharu.
+
+25
+00:02:16.843 --> 00:02:20.998
+Kemudian, Maya pilih dengan suis. Filem lain ceritakannya.
+
+26
+00:02:20.657 --> 00:02:27.400
+Dari mana syiling Bolt datang? Hanya dari dagangan. Tidak pernah dari kotak orang lain.
+
+27
+00:02:27.400 --> 00:02:29.957
+Jika tiada untung, tiada bayaran.
+
+28
+00:02:30.609 --> 00:02:36.342
+Maya boleh beli kotak lain bila-bila masa. Setiap kotak ada hayatnya sendiri.
+
+29
+00:02:36.342 --> 00:02:40.809
+Satu kotak, dua kotak, setiap satu sehingga nilai dua kotak.
+
+30
+00:02:41.616 --> 00:02:47.094
+Apa yang boleh jadi salah? Hujan boleh berpanjangan. Purata boleh jatuh.
+
+31
+00:02:47.094 --> 00:02:53.866
+Seribu syiling Maya boleh hilang, semua atau sebahagian. Kotak ini bukan tabung simpanan.
+
+32
+00:02:54.304 --> 00:03:00.806
+Jadi Maya guna hanya syiling yang dia sanggup hilang. Itulah peraturan tiga.
+
+33
+00:03:00.806 --> 00:03:05.854
+Sebut bersama saya: hanya syiling yang saya sanggup hilang.
+
+34
+00:03:05.256 --> 00:03:09.976
+Adakah kotak ini tabung simpanan? Bukan. Adakah ia pinjaman? Bukan.
+
+35
+00:03:09.976 --> 00:03:14.556
+Ia pembelian perisian dengan robot di dalamnya. Sebut: pembelian.
+
+36
+00:03:15.272 --> 00:03:24.904
+Mari sebut peraturan bersama. Satu: harga tidak kembali. Dua: paling banyak nilai dua kotak, lalu tamat.
+
+37
+00:03:24.904 --> 00:03:29.072
+Tiga: hanya syiling yang anda sanggup hilang.
+
+38
+00:03:29.544 --> 00:03:32.655
+Dan purata bukan janji. Ada hari hujan.
+
+39
+00:03:32.655 --> 00:03:40.394
+Kebanyakan pembantu yang beritahu kawan tidak dapat syiling tambahan langsung. Itulah hakikatnya.
+
+40
+00:03:40.935 --> 00:03:49.185
+Kini anda tahu apa itu kotak. Lain kali: sepuluh hari pertama, kotak-kotak kecil, dan suis. Jumpa lagi, kawan.
+

@@ -1,0 +1,174 @@
+WEBVTT
+
+1
+00:00:02.592 --> 00:00:05.207
+Olá, amigo. Hoje, moedas.
+
+2
+00:00:05.207 --> 00:00:10.629
+Como as moedas entram, como saem, e os erros que fazem perder moedas. Devagar, juntos.
+
+3
+00:00:12.896 --> 00:00:19.344
+As moedas da Delta One são USDT. Um dólar digital. Cada moeda é feita para valer um dólar.
+
+4
+00:00:19.344 --> 00:00:22.268
+Ela vive numa blockchain, um grande caderno público.
+
+5
+00:00:23.648 --> 00:00:27.341
+Uma carteira é um app no seu celular que guarda as suas moedas.
+
+6
+00:00:27.341 --> 00:00:32.348
+Ela tem um endereço, como o número de uma casa. O endereço você pode compartilhar.
+
+7
+00:00:32.640 --> 00:00:38.692
+A carteira também tem um segredo: doze palavras. Quem tem as palavras é dono das moedas.
+
+8
+00:00:38.692 --> 00:00:43.577
+Escreva no papel. Nunca digite em lugar nenhum. Nunca compartilhe.
+
+9
+00:00:44.128 --> 00:00:49.046
+Nem com a Delta One. A Delta One nunca vai pedir as suas doze palavras.
+
+10
+00:00:49.046 --> 00:00:51.015
+Guarde o papel num lugar seguro.
+
+11
+00:00:51.456 --> 00:00:56.013
+As moedas viajam por estradas. O USDT tem várias estradas.
+
+12
+00:00:56.013 --> 00:01:00.284
+A Delta One usa só uma: BNB Smart Chain, também chamada B E P vinte.
+
+13
+00:01:02.688 --> 00:01:05.802
+Moedas enviadas pela estrada errada se perdem.
+
+14
+00:01:05.802 --> 00:01:09.290
+Toda vez que você envia, a tela pergunta qual estrada.
+
+15
+00:01:09.290 --> 00:01:11.768
+A resposta é sempre BNB Smart Chain.
+
+16
+00:01:12.768 --> 00:01:18.109
+De onde vêm as moedas? A maioria compra numa corretora, uma loja de moedas.
+
+17
+00:01:18.109 --> 00:01:23.285
+Confirme a sua identidade, pague com o seu banco, e envie as moedas para a sua própria carteira.
+
+18
+00:01:24.768 --> 00:01:27.002
+A BNB Smart Chain é a estrada.
+
+19
+00:01:27.002 --> 00:01:32.406
+Guarde também um pouco da moeda BNB na carteira: ela paga a taxa da estrada, uns centavos.
+
+20
+00:01:32.406 --> 00:01:35.291
+Uma carteira sem BNB não consegue enviar nada.
+
+21
+00:01:35.584 --> 00:01:41.672
+Agora Maya compra sua caixa. O app mostra um endereço de pagamento. Maya copia.
+
+22
+00:01:41.672 --> 00:01:47.227
+Ela confere os quatro primeiros e os quatro últimos sinais. Depois envia o valor exato.
+
+23
+00:01:49.088 --> 00:01:53.234
+Envie primeiro um pequeno teste. Depois o valor real.
+
+24
+00:01:53.234 --> 00:01:56.171
+Em mais ou menos um minuto, as moedas chegam.
+
+25
+00:01:56.171 --> 00:01:59.549
+Maya guarda o código longo do recibo, o hash da transação.
+
+26
+00:02:03.232 --> 00:02:06.641
+Todo dia ao meio-dia UTC, chega o extrato de Maya.
+
+27
+00:02:06.641 --> 00:02:12.355
+Ele mostra o resultado de Bolt no dia, a parte da caixa dela, para onde foi, e quanto a caixa já avançou.
+
+28
+00:02:16.096 --> 00:02:20.369
+Para onde foi a parte? Dias um a dez: recompra, uma caixinha.
+
+29
+00:02:20.369 --> 00:02:25.545
+Desde o dia onze, botão ligado: recompra. Botão desligado: a carteira dela no app.
+
+30
+00:02:26.080 --> 00:02:31.298
+Tirar moedas é fácil. Da carteira do app, quando quiser, cinco moedas ou mais.
+
+31
+00:02:31.298 --> 00:02:36.459
+Elas vão para o endereço de carteira no perfil de Maya. Só se cobra a taxa da estrada.
+
+32
+00:02:38.464 --> 00:02:41.517
+Faça a primeira retirada pequena, no dia onze.
+
+33
+00:02:41.517 --> 00:02:46.752
+Assim você sabe que o caminho todo funciona. Depois disso, tire moedas quando quiser.
+
+34
+00:02:48.480 --> 00:02:57.111
+Erros que fazem perder moedas: a estrada errada, um endereço errado, não ter BNB para a taxa, compartilhar as doze palavras, apps falsos e links falsos.
+
+35
+00:03:00.224 --> 00:03:03.463
+A Delta One nunca envia links de pagamento num chat.
+
+36
+00:03:03.463 --> 00:03:06.869
+Nenhum atendente precisa das suas doze palavras.
+
+37
+00:03:06.869 --> 00:03:09.893
+Se alguém pedir, é um golpe, uma isca para pegar você.
+
+38
+00:03:10.860 --> 00:03:16.992
+E mais uma. O preço da compra nunca volta. Só os resultados podem ser retirados.
+
+39
+00:03:16.992 --> 00:03:19.315
+Use só moedas que você pode perder.
+
+40
+00:03:19.948 --> 00:03:27.282
+Vamos dizer juntos. BNB Smart Chain. Confira o endereço. Guarde as doze palavras no papel.
+
+41
+00:03:27.282 --> 00:03:29.605
+Tire moedas quando quiser, cinco ou mais.
+
+42
+00:03:29.900 --> 00:03:35.409
+Agora você sabe como as moedas entram e saem. Da próxima vez: o Plano Momentum.
+
+43
+00:03:35.409 --> 00:03:36.730
+Até logo, amigo.
+

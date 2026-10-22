@@ -1,0 +1,138 @@
+WEBVTT
+
+1
+00:00:02.588 --> 00:00:09.841
+Szia, barátom! Ma az utolsó nagy kérdés. Ki az a Delta One? Mi ez, ki vezeti, és hogyan mozognak az érmék.
+
+2
+00:00:09.841 --> 00:00:10.320
+Nézzük.
+
+3
+00:00:14.684 --> 00:00:20.103
+A Delta One egyetlen dolgot árul: hozzáférést az AI kereskedő motorjához. Ez Bolt.
+
+4
+00:00:20.103 --> 00:00:25.125
+Szoftver, ami megkeresi a jó üzleteket, és maga végzi az összes kereskedést.
+
+5
+00:00:25.628 --> 00:00:31.173
+A tagok dobozokban veszik a motort, ezer érmétől, szoftver mint szolgáltatás formájában.
+
+6
+00:00:31.173 --> 00:00:35.647
+Neked nem kell kereskedni. Nincs mit kezelni. A vásárlás maga a termék.
+
+7
+00:00:37.920 --> 00:00:38.911
+Ki vezeti?
+
+8
+00:00:38.911 --> 00:00:48.064
+Egy alapítócsapat, élén Jamesszel, az alapítóval, aki negyven éve épít cégeket, és Rickyvel, az elnökkel, aki dzsiu-dzsicu fekete öves és edző.
+
+9
+00:00:49.317 --> 00:00:55.853
+A profiljuk a dokumentumcsomagban van. Magát a motort a tervezője üzemelteti, a cég ellenőrzése alatt.
+
+10
+00:00:57.540 --> 00:01:01.215
+Hogyan mozognak az érmék. Első lépés: vásárlás.
+
+11
+00:01:01.215 --> 00:01:09.191
+USDT-ben fizetsz a BNB Smart Chain hálózaton, az appban lévő címre. Az érmék letéti tárcákba kerülnek.
+
+12
+00:01:09.796 --> 00:01:15.478
+Senki nem mozgathatja ezeket az érméket egyedül. Egynél több kulcsbirtokos kell az aláíráshoz.
+
+13
+00:01:15.478 --> 00:01:17.292
+Ennek neve többszörös aláírás.
+
+14
+00:01:18.788 --> 00:01:23.544
+Második lépés: kereskedés. Jóváhagyott kereskedési számlák futtatják a motort.
+
+15
+00:01:23.544 --> 00:01:29.702
+A napi valós nyereséget a tőzsdei kimutatásokból igazolják, és a kereskedési jelentéssel közzéteszik.
+
+16
+00:01:30.212 --> 00:01:34.043
+Harmadik lépés: elszámolás, minden nap délben, UTC szerint.
+
+17
+00:01:34.043 --> 00:01:40.602
+A napi nyereséget elosztják: ötven a tagoknak, huszonöt a segítők tervének, huszonöt a csűrnek, a DAO
+
+18
+00:01:40.602 --> 00:01:41.381
+Kincstárnak.
+
+19
+00:01:43.396 --> 00:01:50.327
+Az eredmények, a pici újravételi dobozok és a jutalék ekkor kerülnek az app-tárcákba. Minden nap. Érmében.
+
+20
+00:01:52.388 --> 00:01:58.107
+Negyedik lépés: kivétel. Az app-tárcából, bármikor, öt érmétől, azonnal a saját tárcádba.
+
+21
+00:01:58.107 --> 00:01:59.778
+Csak az útdíjat vonják le.
+
+22
+00:02:02.501 --> 00:02:09.218
+Ellenőrzés. A kifizetési csomagok jóváhagyott eredményekből készülnek, egynél több kulcsbirtokos aláírásával.
+
+23
+00:02:09.218 --> 00:02:11.251
+A nagy csűrmozgásokon időzár van.
+
+24
+00:02:11.717 --> 00:02:17.361
+A napi ciklust a közzétett szabályokhoz mérik. Minden nap ugyanazok a szabályok, ugyanaz a számtan.
+
+25
+00:02:19.268 --> 00:02:25.417
+A dokumentumok, amik kötik. A termékútmutató és a Fontos tények: mit veszel, és mik a kockázatok.
+
+26
+00:02:25.417 --> 00:02:28.778
+A terv útmutatója: minden szabály, érmére kiszámolva.
+
+27
+00:02:29.252 --> 00:02:33.624
+A kereseti tájékoztató: mit keresnek valójában a modellben a tagok.
+
+28
+00:02:33.624 --> 00:02:37.605
+A matematikai audit: a közzétett számok ezerszer ellenőrizve.
+
+29
+00:02:38.276 --> 00:02:44.453
+A Delta One nem bank és nem befektetési alap. Semmit nem ígér. A motor veszíthet érmét.
+
+30
+00:02:44.453 --> 00:02:48.500
+Az USDT elszakadhat a dollártól. A hálózatok leállhatnak.
+
+31
+00:02:49.248 --> 00:02:52.868
+Itt minden tervezet, jogi és megfelelőségi felülvizsgálatra.
+
+32
+00:03:00.192 --> 00:03:06.940
+Mondjuk el együtt. Egy termék: a motor, dobozokban. Egy alapítócsapat. Egynél több kulcs.
+
+33
+00:03:06.940 --> 00:03:09.344
+Dél, UTC szerint. A csűr.
+
+34
+00:03:13.416 --> 00:03:19.798
+Már tudod, ki a Delta One. Legközelebb: az egész prezentáció, építőkockákból. Viszlát, barátom!
+

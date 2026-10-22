@@ -1,0 +1,218 @@
+WEBVTT
+
+1
+00:00:02.588 --> 00:00:08.284
+Ciao, amico. Oggi, le regole. Fare l'aiutante vuol dire avere regole.
+
+2
+00:00:08.284 --> 00:00:11.971
+Proteggono i membri, proteggono te, e proteggono Delta One.
+
+3
+00:00:11.971 --> 00:00:14.146
+Infrangerle mette fine al lavoro.
+
+4
+00:00:15.900 --> 00:00:21.654
+Queste regole sono una bozza per gli avvocati. Conta la versione sul sito dei documenti.
+
+5
+00:00:21.654 --> 00:00:23.169
+Vediamole una per una.
+
+6
+00:00:23.744 --> 00:00:28.758
+Chi è un aiutante? Un membro con una scatola che presenta altre persone.
+
+7
+00:00:28.758 --> 00:00:33.413
+Presentare è facoltativo. La maggior parte dei membri non lo fa mai.
+
+8
+00:00:34.780 --> 00:00:38.080
+Regola uno: una persona, un account, una posizione.
+
+9
+00:00:38.080 --> 00:00:42.389
+Chi ti ha iscritto resta fisso quando la tua prima scatola è confermata.
+
+10
+00:00:42.389 --> 00:00:45.998
+Devi avere diciotto anni e superare la verifica dell'identità.
+
+11
+00:00:46.811 --> 00:00:51.694
+Regola due: cosa puoi dire. Solo numeri di un documento pubblicato.
+
+12
+00:00:51.694 --> 00:00:55.406
+Con la parola media ogni volta. Mai come promessa.
+
+13
+00:00:57.340 --> 00:01:03.146
+Una scatola è un acquisto di software. Dà al massimo due volte il suo prezzo, poi finisce.
+
+14
+00:01:03.146 --> 00:01:06.961
+Mai un prodotto bancario. Mai un piano di risparmio.
+
+15
+00:01:07.324 --> 00:01:13.622
+La provvigione è una parte di quello che una scatola ha guadagnato quel giorno, pagata solo quando Bolt ha avuto un guadagno.
+
+16
+00:01:13.622 --> 00:01:17.367
+Mai per reclutare. Nessuno è pagato per portare una persona.
+
+17
+00:01:17.664 --> 00:01:22.787
+In ogni presentazione, dillo. Risultati e ricompense non sono promessi.
+
+18
+00:01:22.787 --> 00:01:26.307
+La maggior parte dei membri non guadagna nessuna provvigione.
+
+19
+00:01:26.307 --> 00:01:29.112
+Il prezzo non torna mai indietro e si può perdere.
+
+20
+00:01:29.407 --> 00:01:34.506
+Non mostrare mai le tue monete come qualcosa di tipico. Niente foto di soldi.
+
+21
+00:01:34.506 --> 00:01:38.618
+Non dire mai che Delta One è una banca, garantita dallo Stato, o senza rischi.
+
+22
+00:01:38.912 --> 00:01:40.920
+Regola tre: pubblicità.
+
+23
+00:01:40.920 --> 00:01:46.473
+Solo i materiali pubblicati da Delta One, senza modifiche, o parole tue che seguono la scheda.
+
+24
+00:01:46.473 --> 00:01:50.047
+Niente grafici o video fatti in casa con il nome Delta One.
+
+25
+00:01:52.352 --> 00:01:57.181
+Ogni post pubblico su risultati o provvigioni porta la frase dell'informativa.
+
+26
+00:01:57.181 --> 00:02:01.936
+Niente pubblicità a pagamento, niente messaggi di massa, niente messaggi a sconosciuti.
+
+27
+00:02:02.368 --> 00:02:04.595
+Regola quattro: i tuoi membri.
+
+28
+00:02:04.595 --> 00:02:09.628
+Prima che qualcuno decida: i Punti chiave, i rischi, e che il prezzo non torna mai indietro.
+
+29
+00:02:11.808 --> 00:02:17.602
+Mai consigliare quanto comprare. Di' solo: una somma che potresti permetterti di perdere.
+
+30
+00:02:17.602 --> 00:02:23.076
+Mai prestare, raccogliere o tenere monete per un membro. Mai entrare nel suo portafoglio.
+
+31
+00:02:24.032 --> 00:02:27.055
+Non comprare mai una scatola per qualcun altro.
+
+32
+00:02:27.055 --> 00:02:30.931
+Giorno zero e giorno undici: siediti con il tuo nuovo membro.
+
+33
+00:02:30.931 --> 00:02:35.264
+Il portafoglio, la strada, i dieci giorni, l'interruttore, il primo prelievo.
+
+34
+00:02:36.000 --> 00:02:37.946
+Regola cinque: i soldi.
+
+35
+00:02:37.946 --> 00:02:41.682
+Ogni acquisto va dal portafoglio del membro all'indirizzo nell'app.
+
+36
+00:02:41.682 --> 00:02:44.382
+Un aiutante non tocca mai i soldi di un acquisto.
+
+37
+00:02:44.992 --> 00:02:50.980
+La provvigione la paga Delta One alla liquidazione di mezzogiorno UTC, nel tuo portafoglio dell'app.
+
+38
+00:02:50.980 --> 00:02:54.877
+Non esiste altro pagamento. Le tasse sono affar tuo.
+
+39
+00:02:55.168 --> 00:02:57.698
+Cosa va storto, e cosa succede.
+
+40
+00:02:57.698 --> 00:03:02.298
+Una parola vietata in pubblico: un avviso scritto, correggi entro un giorno.
+
+41
+00:03:02.298 --> 00:03:05.823
+La seconda volta: provvigione sospesa per trenta giorni.
+
+42
+00:03:09.439 --> 00:03:15.749
+Promettere un risultato o mostrare monete come tipiche: sospensione subito, poi esclusione se confermato.
+
+43
+00:03:15.749 --> 00:03:19.537
+Toccare i soldi di un membro, o comprare scatole per altri: esclusione.
+
+44
+00:03:21.855 --> 00:03:26.722
+Vendita con pressione, molestie, o prendere di mira persone fragili: esclusione.
+
+45
+00:03:26.722 --> 00:03:30.865
+Puoi rispondere per iscritto entro sette giorni e fare ricorso una volta.
+
+46
+00:03:31.167 --> 00:03:37.368
+Andarsene. Puoi dimetterti quando vuoi, per iscritto. Le tue scatole continuano.
+
+47
+00:03:37.368 --> 00:03:42.043
+La tua squadra resta al suo posto. Dopo, non parli a nome di Delta One.
+
+48
+00:03:42.336 --> 00:03:46.966
+Le modifiche alle regole arrivano con un avviso sul sito dei documenti e nell'app.
+
+49
+00:03:46.966 --> 00:03:50.512
+Le modifiche non riducono mai le provvigioni già guadagnate.
+
+50
+00:03:51.328 --> 00:03:56.025
+Diciamolo insieme. Di' solo quello che è stampato. Di' media.
+
+51
+00:03:56.025 --> 00:03:59.267
+Di' che la maggior parte dei membri non guadagna provvigioni.
+
+52
+00:03:59.267 --> 00:04:02.906
+Non toccare mai le monete di un membro. Non promettere mai.
+
+53
+00:04:03.199 --> 00:04:08.398
+Ora conosci le regole della strada. La prossima volta: i posti da fondatore.
+
+54
+00:04:08.398 --> 00:04:09.696
+A presto, amico.
+

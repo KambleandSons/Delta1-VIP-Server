@@ -1,0 +1,230 @@
+WEBVTT
+
+1
+00:00:02.592 --> 00:00:08.308
+Hai! Ini Rencana Momentum, dalam satu kartun seru. Kenalkan Maya, yang membeli modul.
+
+2
+00:00:08.308 --> 00:00:10.392
+Kenalkan Sam, yang mengajaknya.
+
+3
+00:00:10.848 --> 00:00:15.348
+Dan kenalkan Bolt, mesin AI Delta One, yang melakukan semua trading.
+
+4
+00:00:15.904 --> 00:00:22.992
+Satu aturan sebelum mulai: tiap angka yang akan Anda lihat adalah rata-rata, dan tidak ada yang dijanjikan.
+
+5
+00:00:22.992 --> 00:00:23.654
+Siap? Ayo!
+
+6
+00:00:24.064 --> 00:00:30.805
+Bolt adalah mesin trading: perangkat lunak cerdas yang memburu transaksi bagus, sepanjang hari, setiap hari.
+
+7
+00:00:30.805 --> 00:00:33.864
+Maya membeli satu modul Bolt seharga seribu USDT.
+
+8
+00:00:34.336 --> 00:00:39.952
+Ini pembelian perangkat lunak, seperti membeli gim, jadi uangnya tidak bisa dikembalikan.
+
+9
+00:00:40.352 --> 00:00:48.860
+Setelah itu, Bolt membayar Maya bagian dari hasilnya, sampai modulnya memberi dua ribu USDT: dua kali yang ia bayar.
+
+10
+00:00:48.860 --> 00:00:50.180
+Lalu selesai. Tada!
+
+11
+00:00:50.580 --> 00:00:56.381
+Tiap hari Bolt untung, ia membagi tiap seratus USDT jadi tiga. Lima puluh untuk anggota seperti Maya.
+
+12
+00:00:56.381 --> 00:00:59.080
+Dua puluh lima untuk rencana yang membayar Sam.
+
+13
+00:00:59.552 --> 00:01:05.906
+Dan dua puluh lima untuk Kas DAO. Tapi kalau langit mendung dan Bolt tidak untung?
+
+14
+00:01:05.906 --> 00:01:11.240
+Tak ada yang dapat koin. Tidak untung, tidak ada uang. Bolt pun tidak.
+
+15
+00:01:11.640 --> 00:01:17.740
+Ini bulan Bolt. Ada hari ia tak dapat apa-apa. Nol. Ada hari ia dapat banyak.
+
+16
+00:01:18.648 --> 00:01:24.788
+Jumlahkan semuanya, bagi dengan jumlah hari, dan hasilnya sekitar setengah persen sehari. Itulah rata-ratanya.
+
+17
+00:01:24.788 --> 00:01:26.798
+Tiap angka di kartun ini memakainya.
+
+18
+00:01:27.576 --> 00:01:31.226
+Rata-rata bisa berubah, jadi jangan pernah dijanjikan.
+
+19
+00:01:32.568 --> 00:01:36.760
+Pada rata-rata, modul Maya menghasilkan lima USDT sehari.
+
+20
+00:01:36.760 --> 00:01:42.718
+Selama sepuluh hari pertama, tiap hasil membeli modul mungil baru. Pop! Pop! Pop!
+
+21
+00:01:43.960 --> 00:01:48.505
+Mulai hari kesebelas, Maya punya sakelar: beli lagi, atau dompet.
+
+22
+00:01:48.505 --> 00:01:53.610
+Setelah sekitar dua ratus hari, ia sudah menerima sebanyak yang ia bayar.
+
+23
+00:01:53.720 --> 00:01:59.187
+Setelah sekitar empat ratus hari, modul sudah membayar dua ribu USDT, dan selesai.
+
+24
+00:01:59.187 --> 00:02:02.120
+Maya membeli yang baru, dan kita mulai lagi.
+
+25
+00:02:02.680 --> 00:02:09.733
+Sekarang Sam. Sam mengajak Maya, jadi tiap hari modul Maya menghasilkan, Sam mendapat dua persennya.
+
+26
+00:02:09.733 --> 00:02:13.330
+Lima USDT untuk Maya, sepuluh sen untuk Sam. Kecil!
+
+27
+00:02:13.752 --> 00:02:23.112
+Intinya: Sam dibayar dari banyak modul. Satu juta USDT modul di tingkat Sam berarti seratus USDT sehari.
+
+28
+00:02:23.112 --> 00:02:26.802
+Bukan dari satu koin. Dari segunung koin.
+
+29
+00:02:27.448 --> 00:02:32.555
+Ngomong-ngomong soal gunung: ada tujuh peringkat, dan semuanya gunung.
+
+30
+00:02:32.555 --> 00:02:37.298
+Fuji, Kilimanjaro, Matterhorn, Denali, Rainier, K-2, dan Everest.
+
+31
+00:02:37.592 --> 00:02:43.642
+Makin tinggi Sam mendaki, makin banyak tingkat yang membayarnya: tiga di Fuji, dua puluh satu di Everest.
+
+32
+00:02:44.536 --> 00:02:50.325
+Tiap peringkat butuh pembeliannya sendiri, orang ajakannya sendiri, dan volume tim.
+
+33
+00:02:50.325 --> 00:02:52.836
+Dan pendakian diperiksa setiap hari.
+
+34
+00:02:53.624 --> 00:02:56.657
+Satu aturan menentukan tiap peringkat: seimbangkan jalur Anda!
+
+35
+00:02:56.657 --> 00:03:00.374
+Satu jalur adalah satu orang yang Sam ajak ditambah semua orang di bawahnya.
+
+36
+00:03:00.792 --> 00:03:08.132
+Satu jalur raksasa tidak dihitung penuh; satu jalur hanya dihitung sebagian: setengah, sepertiga, seperempat,
+
+37
+00:03:08.132 --> 00:03:09.142
+atau seperlima.
+
+38
+00:03:09.880 --> 00:03:15.030
+Jadi Sam membangun melebar, seperti pohon, bukan meninggi, seperti menara.
+
+39
+00:03:15.744 --> 00:03:19.888
+Dan pemimpin dibayar dengan cara kedua, yaitu selisih peringkat.
+
+40
+00:03:19.888 --> 00:03:24.808
+Tiap peringkat punya angka: enam di Fuji, sampai empat puluh dua di Everest.
+
+41
+00:03:25.208 --> 00:03:29.955
+Sam ada di Denali, dua puluh empat. Di bawahnya Fred dari Fuji, enam.
+
+42
+00:03:29.955 --> 00:03:35.458
+Selisihnya delapan belas poin, dan itu milik Sam, di tiap kontrak di jalur Fred.
+
+43
+00:03:36.056 --> 00:03:41.225
+Tanpa batas! Tapi jika Fred juga naik ke Denali, bagian selisih Fred jadi milik Fred.
+
+44
+00:03:41.225 --> 00:03:42.806
+Jadi, Sam: tetap di depan!
+
+45
+00:03:43.384 --> 00:03:45.145
+Hari bayaran itu setiap hari.
+
+46
+00:03:45.145 --> 00:03:51.580
+Pukul dua belas siang UTC, Bolt membunyikan lonceng dan bagian semua orang masuk ke dompet aplikasi, dalam
+
+47
+00:03:51.580 --> 00:03:51.884
+USDT.
+
+48
+00:03:52.280 --> 00:03:58.131
+Tarik kapan saja mulai lima USDT, hanya dengan biaya jaringan. Modul selesai di dua kali.
+
+49
+00:03:58.131 --> 00:04:02.930
+Dan hanya modul aktif yang dihitung, jadi jaga modul Anda tetap berjalan.
+
+50
+00:04:03.480 --> 00:04:10.318
+Enam aturan, ucapkan bersama! Dibayar dari hasil, tidak pernah dari pembelian. Tidak untung, tidak ada uang.
+
+51
+00:04:10.318 --> 00:04:14.180
+Seimbangkan jalur. Tetap di depan. Modul selesai di dua kali.
+
+52
+00:04:14.648 --> 00:04:17.648
+Dibayar harian, dalam USDT. Sudah paham!
+
+53
+00:04:19.608 --> 00:04:24.958
+Satu hal terakhir, dan ini serius. Tiap angka di sini adalah rata-rata, bukan janji.
+
+54
+00:04:25.592 --> 00:04:30.942
+Hasil dan imbalan tidak dijamin, dan kebanyakan anggota tidak mendapat komisi sama sekali.
+
+55
+00:04:31.576 --> 00:04:37.026
+Modul adalah pembelian perangkat lunak: uangnya tidak bisa dikembalikan dan bisa hilang.
+
+56
+00:04:37.026 --> 00:04:41.176
+Baca Fakta Penting sebelum membeli. Bangun melebar. Tetap di depan.
+
+57
+00:04:41.656 --> 00:04:45.956
+Dan katakan yang jujur tentang risikonya. Dadah dari Maya, Sam, dan Bolt!
+

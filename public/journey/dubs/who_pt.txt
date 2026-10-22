@@ -1,0 +1,166 @@
+WEBVTT
+
+1
+00:00:02.588 --> 00:00:07.824
+Olá, amigo. Hoje, a última grande pergunta. Quem é a Delta One?
+
+2
+00:00:07.824 --> 00:00:11.674
+O que é, quem dirige, e como as moedas se movem. Vamos ver.
+
+3
+00:00:14.684 --> 00:00:20.194
+A Delta One vende uma só coisa: acesso ao seu motor de negociação com AI. Esse é Bolt.
+
+4
+00:00:20.194 --> 00:00:24.355
+Um software que procura as operações certas e faz toda a negociação sozinho.
+
+5
+00:00:25.628 --> 00:00:30.823
+Os membros compram o motor em caixas, a partir de mil moedas, como software como serviço.
+
+6
+00:00:30.823 --> 00:00:36.087
+Nada para negociar você mesmo. Nada para administrar. A compra é o produto.
+
+7
+00:00:37.920 --> 00:00:39.304
+Quem dirige?
+
+8
+00:00:39.304 --> 00:00:47.533
+Uma equipe fundadora, liderada por James, o fundador, com quarenta anos criando empresas, e Ricky, o presidente, faixa preta de Jiu-Jitsu e treinador.
+
+9
+00:00:49.317 --> 00:00:52.617
+Os perfis deles estão no conjunto de documentos.
+
+10
+00:00:52.617 --> 00:00:56.622
+O motor em si é operado pelo seu arquiteto, sob os controles da empresa.
+
+11
+00:00:57.540 --> 00:01:00.817
+Como as moedas se movem. Passo um, a compra.
+
+12
+00:01:00.817 --> 00:01:04.971
+Você paga em USDT pela BNB Smart Chain para o endereço no app.
+
+13
+00:01:04.971 --> 00:01:07.465
+As moedas vão para carteiras de custódia.
+
+14
+00:01:09.796 --> 00:01:15.725
+Nenhuma pessoa sozinha pode mover essas moedas. Mais de um dono de chave precisa assinar.
+
+15
+00:01:15.725 --> 00:01:17.660
+Isso se chama multiassinatura.
+
+16
+00:01:18.788 --> 00:01:23.679
+Passo dois, a negociação. Contas de negociação aprovadas rodam o motor.
+
+17
+00:01:23.679 --> 00:01:29.917
+O lucro real de cada dia é confirmado pelos extratos da corretora e publicado com o relatório de operações.
+
+18
+00:01:30.212 --> 00:01:33.732
+Passo três, a liquidação, todo dia ao meio-dia UTC.
+
+19
+00:01:33.732 --> 00:01:41.402
+O lucro do dia é dividido: cinquenta para os membros, vinte e cinco para o plano dos ajudantes, vinte e cinco para o celeiro, a Tesouraria DAO.
+
+20
+00:01:43.396 --> 00:01:48.974
+Resultados, caixinhas de recompra e comissões são lançados nas carteiras do app nesse momento.
+
+21
+00:01:48.974 --> 00:01:51.109
+Todo dia. Em moedas.
+
+22
+00:01:52.388 --> 00:01:54.350
+Passo quatro, a retirada.
+
+23
+00:01:54.350 --> 00:01:59.953
+Da carteira do app, quando quiser, cinco moedas ou mais, enviadas na hora para a sua própria carteira.
+
+24
+00:01:59.953 --> 00:02:01.803
+Só se cobra a taxa da estrada.
+
+25
+00:02:02.501 --> 00:02:03.465
+Controle.
+
+26
+00:02:03.465 --> 00:02:08.837
+Os lotes de pagamento são feitos com resultados aprovados e assinados por mais de um dono de chave.
+
+27
+00:02:08.837 --> 00:02:11.418
+Grandes movimentos do celeiro têm trava de tempo.
+
+28
+00:02:11.717 --> 00:02:15.317
+O ciclo diário é conferido com as regras publicadas.
+
+29
+00:02:15.317 --> 00:02:18.212
+Todo dia, as mesmas regras, as mesmas contas.
+
+30
+00:02:19.268 --> 00:02:21.202
+Os documentos que a obrigam.
+
+31
+00:02:21.202 --> 00:02:24.943
+O guia do produto e os Pontos-Chave: o que você compra e os riscos.
+
+32
+00:02:24.943 --> 00:02:28.000
+O guia do plano: cada regra, calculada até a moeda.
+
+33
+00:02:29.252 --> 00:02:33.340
+A declaração de ganhos: o que os membros do modelo ganham de verdade.
+
+34
+00:02:33.340 --> 00:02:37.446
+A auditoria matemática: os números publicados conferidos mil vezes.
+
+35
+00:02:38.276 --> 00:02:44.798
+A Delta One não é um banco nem um fundo. Ela não promete nada. O motor pode perder moedas.
+
+36
+00:02:44.798 --> 00:02:48.941
+O USDT pode deixar de valer um dólar. As redes podem falhar.
+
+37
+00:02:49.248 --> 00:02:52.954
+Tudo aqui é um rascunho para revisão jurídica e de conformidade.
+
+38
+00:03:00.192 --> 00:03:05.915
+Vamos dizer juntos. Um produto: o motor, em caixas. Uma equipe fundadora.
+
+39
+00:03:05.915 --> 00:03:09.981
+Mais de uma chave. Meio-dia UTC. O celeiro.
+
+40
+00:03:13.416 --> 00:03:15.366
+Agora você sabe quem é a Delta One.
+
+41
+00:03:15.366 --> 00:03:19.417
+Da próxima vez: a apresentação completa, montada em blocos. Até logo, amigo.
+

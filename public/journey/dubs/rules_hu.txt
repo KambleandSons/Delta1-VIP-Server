@@ -1,0 +1,182 @@
+WEBVTT
+
+1
+00:00:02.588 --> 00:00:06.865
+Szia, barátom! Ma a szabályok. A segítő munkának szabályai vannak.
+
+2
+00:00:06.865 --> 00:00:13.150
+Védik a tagokat, védenek téged, és védik a Delta One-t. Aki megszegi őket, annak vége a munkának.
+
+3
+00:00:15.900 --> 00:00:22.106
+Ezek a szabályok tervezetek, a jogászoknak. A dokumentumoldalon lévő változat számít. Nézzük végig.
+
+4
+00:00:23.744 --> 00:00:29.702
+Ki a segítő? Egy tag, akinek doboza van, és másokat mutat be. A bemutatás nem kötelező.
+
+5
+00:00:29.702 --> 00:00:31.333
+A legtöbb tag soha nem teszi.
+
+6
+00:00:34.780 --> 00:00:41.678
+Első szabály: egy ember, egy fiók, egy pozíció. Aki beléptetett, az az első dobozod jóváhagyásakor végleges.
+
+7
+00:00:41.678 --> 00:00:45.894
+Tizennyolc évesnek kell lenned, és át kell menned az azonosításon.
+
+8
+00:00:46.811 --> 00:00:51.583
+Második szabály: mit mondhatsz. Csak közzétett dokumentumból származó számokat.
+
+9
+00:00:51.583 --> 00:00:54.906
+Minden alkalommal az átlag szóval. Soha nem ígéretként.
+
+10
+00:00:57.340 --> 00:01:03.823
+A doboz szoftvervásárlás. Legfeljebb az ára kétszeresét adja, aztán véget ér. Soha nem banki termék.
+
+11
+00:01:03.823 --> 00:01:05.638
+Soha nem megtakarítási terv.
+
+12
+00:01:07.324 --> 00:01:13.336
+A jutalék annak egy része, amit egy doboz aznap keresett, és csak akkor fizetik, ha Bolt nyereséget termelt.
+
+13
+00:01:13.336 --> 00:01:17.177
+Soha nem toborzásért. Senki nem kap pénzt azért, mert hozott valakit.
+
+14
+00:01:17.664 --> 00:01:22.676
+Minden prezentációban mondd ki. Az eredmények és a jutalmak nincsenek megígérve.
+
+15
+00:01:22.676 --> 00:01:27.939
+A legtöbb tag egyáltalán nem kap jutalékot. Az ár soha nem jön vissza, és elveszhet.
+
+16
+00:01:29.407 --> 00:01:33.298
+Soha ne mutasd a saját érméidet tipikusként. Nincs pénzes fotó.
+
+17
+00:01:33.298 --> 00:01:37.931
+Soha ne mondd, hogy a Delta One bank, állami garanciás vagy kockázatmentes.
+
+18
+00:01:38.912 --> 00:01:40.570
+Harmadik szabály: hirdetés.
+
+19
+00:01:40.570 --> 00:01:46.342
+Csak a Delta One közzétett anyagai, változtatás nélkül, vagy a saját szavaid a kártya szerint.
+
+20
+00:01:46.342 --> 00:01:49.474
+Nincs házi grafikon vagy videó a Delta One nevével.
+
+21
+00:01:52.352 --> 00:01:57.144
+Minden nyilvános poszt eredményről vagy jutalékról tartalmazza a tájékoztató sort.
+
+22
+00:01:57.144 --> 00:02:01.878
+Nincs fizetett hirdetés, nincs tömeges üzenet, nincs kéretlen üzenet idegeneknek.
+
+23
+00:02:02.368 --> 00:02:04.084
+Negyedik szabály: a tagjaid.
+
+24
+00:02:04.084 --> 00:02:09.294
+Mielőtt bárki dönt: a Fontos tények, a kockázatok, és hogy az ár soha nem jön vissza.
+
+25
+00:02:11.808 --> 00:02:16.807
+Soha ne ajánlj dobozméretet. Csak ennyit mondj: egy összeg, amit el bírnál veszíteni.
+
+26
+00:02:16.807 --> 00:02:22.687
+Soha ne adj kölcsön, ne gyűjts és ne tarts érmét egy tag helyett. Soha ne lépj be egy tag tárcájába.
+
+27
+00:02:24.032 --> 00:02:29.351
+Soha ne végy dobozt másnak. Nulladik és tizenegyedik nap: ülj le az új tagoddal.
+
+28
+00:02:29.351 --> 00:02:33.008
+A tárca, az út, a tíz nap, a kapcsoló, az első kivétel.
+
+29
+00:02:36.000 --> 00:02:41.448
+Ötödik szabály: pénz. Minden vásárlás a tag saját tárcájából megy az appban lévő címre.
+
+30
+00:02:41.448 --> 00:02:44.141
+A segítő soha nem nyúl a vásárlási pénzhez.
+
+31
+00:02:44.992 --> 00:02:52.202
+A jutalékot a Delta One fizeti a déli, UTC szerinti elszámoláskor, az app-tárcádba. Más fizetés nincs.
+
+32
+00:02:52.202 --> 00:02:53.615
+Az adód a te dolgod.
+
+33
+00:02:55.168 --> 00:03:01.591
+Mi mehet rosszul, és mi történik. Tiltott szó nyilvánosan: írásos figyelmeztetés, egy napon belül javítsd.
+
+34
+00:03:01.591 --> 00:03:04.561
+Másodszor: a jutalék harminc napra felfüggesztve.
+
+35
+00:03:09.439 --> 00:03:15.860
+Eredmény ígérése vagy érmék tipikusként mutatása: azonnali felfüggesztés, aztán kizárás, ha beigazolódik.
+
+36
+00:03:15.860 --> 00:03:19.590
+Egy tag pénzéhez nyúlni, vagy dobozt venni másoknak: kizárás.
+
+37
+00:03:21.855 --> 00:03:26.841
+Nyomásgyakorló eladás, zaklatás vagy kiszolgáltatott emberek megcélzása: kizárás.
+
+38
+00:03:26.841 --> 00:03:30.841
+Hét napon belül írásban válaszolhatsz, és egyszer fellebbezhetsz.
+
+39
+00:03:31.167 --> 00:03:36.878
+Kilépés. Bármikor írásban felmondhatsz. A dobozaid tovább mennek. A csapatod a helyén marad.
+
+40
+00:03:36.878 --> 00:03:39.920
+Kilépés után nem beszélhetsz a Delta One nevében.
+
+41
+00:03:42.336 --> 00:03:46.695
+A szabályok változásairól előre szólnak a dokumentumoldalon és az appban.
+
+42
+00:03:46.695 --> 00:03:50.337
+A változások soha nem csökkentik a már megkeresett jutalékot.
+
+43
+00:03:51.328 --> 00:03:55.474
+Mondjuk el együtt. Csak azt mondd, ami le van nyomtatva. Mondd: átlag.
+
+44
+00:03:55.474 --> 00:04:00.864
+Mondd, hogy a legtöbb tag nem kap jutalékot. Soha ne nyúlj egy tag érméihez. Soha ne ígérj.
+
+45
+00:04:03.199 --> 00:04:08.527
+Már ismered a játékszabályokat. Legközelebb: az alapítói helyek. Viszlát, barátom!
+

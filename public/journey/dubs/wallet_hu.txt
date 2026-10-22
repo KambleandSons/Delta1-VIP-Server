@@ -1,0 +1,158 @@
+WEBVTT
+
+1
+00:00:02.592 --> 00:00:09.042
+Szia, barátom! Ma az érmékről lesz szó. Hogyan jönnek be, hogyan mennek ki, és milyen hibák miatt vesznek el.
+
+2
+00:00:09.042 --> 00:00:09.930
+Lassan, együtt.
+
+3
+00:00:12.896 --> 00:00:19.405
+A Delta One érméi USDT. Egy digitális dollár. Egy érme úgy készül, hogy egy dollárt érjen.
+
+4
+00:00:19.405 --> 00:00:23.021
+Egy blokkláncon él, ami egy nagy, nyilvános füzet.
+
+5
+00:00:23.648 --> 00:00:30.313
+A tárca egy app a telefonodon, ami az érméidet őrzi. Van egy címe, mint egy házszám. A címet megoszthatod.
+
+6
+00:00:32.640 --> 00:00:39.225
+A tárcának van egy titka is: tizenkét szó. Akinél a szavak vannak, azé az érmék. Írd le őket papírra.
+
+7
+00:00:39.225 --> 00:00:42.029
+Soha ne gépeld be sehova. Soha ne oszd meg.
+
+8
+00:00:44.128 --> 00:00:50.332
+Még a Delta One-nal sem. A Delta One soha nem kéri a tizenkét szavadat. A papírt tartsd biztonságos helyen.
+
+9
+00:00:51.456 --> 00:00:55.569
+Az érmék utakon utaznak. Az USDT-nek több útja van.
+
+10
+00:00:55.569 --> 00:01:02.182
+A Delta One csak egyet használ: a BNB Smart Chain hálózatot, más néven B E P húsz.
+
+11
+00:01:02.688 --> 00:01:09.157
+A rossz úton küldött érmék elvesznek. Minden küldésnél a képernyő megkérdezi, melyik úton.
+
+12
+00:01:09.157 --> 00:01:11.529
+A válasz mindig: BNB Smart Chain.
+
+13
+00:01:12.768 --> 00:01:17.263
+Honnan jönnek az érmék? A legtöbben egy tőzsdén veszik, egy érmeboltban.
+
+14
+00:01:17.263 --> 00:01:22.069
+Igazold magad, fizess a bankodon át, aztán küldd az érméket a saját tárcádba.
+
+15
+00:01:24.768 --> 00:01:26.875
+A BNB Smart Chain az út.
+
+16
+00:01:26.875 --> 00:01:32.247
+Tarts egy kis BNB érmét is a tárcában: ez fizeti az útdíjat, pár centet.
+
+17
+00:01:32.247 --> 00:01:35.075
+BNB nélkül a tárca semmit nem tud elküldeni.
+
+18
+00:01:35.584 --> 00:01:40.829
+Most Maya megveszi a dobozát. Az app mutat egy fizetési címet. Maya kimásolja.
+
+19
+00:01:40.829 --> 00:01:46.276
+Ellenőrzi az első négy és az utolsó négy jelet. Aztán a pontos összeget küldi el.
+
+20
+00:01:49.088 --> 00:01:55.514
+Először küldj egy kis próbát. Aztán a valódi összeget. Nagyjából egy perc alatt megérkeznek az érmék.
+
+21
+00:01:55.514 --> 00:01:59.077
+Maya megőrzi a hosszú nyugtakódot, a tranzakció hash-ét.
+
+22
+00:02:03.232 --> 00:02:06.683
+Minden nap délben, UTC szerint megjön Maya kimutatása.
+
+23
+00:02:06.683 --> 00:02:11.733
+Mutatja Bolt napi eredményét, a doboza részét, hová ment, és hol tart a doboza.
+
+24
+00:02:16.096 --> 00:02:23.454
+Hová ment a rész? Az első tíz napon: újravétel, egy pici doboz. A tizenegyedik naptól be állásban: újravétel.
+
+25
+00:02:23.454 --> 00:02:25.345
+Ki állásban: az app-tárcája.
+
+26
+00:02:26.080 --> 00:02:32.835
+Érmét kivenni könnyű. Az app-tárcából, bármikor, öt érmétől. A Maya profiljában lévő tárcacímre mennek.
+
+27
+00:02:32.835 --> 00:02:34.540
+Csak az útdíjat vonják le.
+
+28
+00:02:38.464 --> 00:02:43.884
+Az első kivétel legyen kicsi, a tizenegyedik napon. Így tudod, hogy az egész út működik.
+
+29
+00:02:43.884 --> 00:02:46.471
+Utána vegyél ki érmét, amikor csak akarsz.
+
+30
+00:02:48.480 --> 00:02:55.904
+Hibák, amik miatt érmék vesznek el: rossz út, rossz cím, nincs BNB a díjra, a tizenkét szó megosztása, hamis
+
+31
+00:02:55.904 --> 00:02:57.417
+appok és hamis linkek.
+
+32
+00:03:00.224 --> 00:03:03.376
+A Delta One soha nem küld fizetési linket csetben.
+
+33
+00:03:03.376 --> 00:03:07.004
+Egy ügyfélszolgálatosnak sem kell soha a tizenkét szavad.
+
+34
+00:03:07.004 --> 00:03:10.045
+Ha valaki kéri, az csalás, egy horog, hogy elkapjon.
+
+35
+00:03:10.860 --> 00:03:15.322
+És még valami. A vételár soha nem jön vissza. Csak az eredményt lehet kivenni.
+
+36
+00:03:15.322 --> 00:03:18.239
+Csak olyan érmét használj, amit el bírsz veszíteni.
+
+37
+00:03:19.948 --> 00:03:26.193
+Mondjuk el együtt. BNB Smart Chain. Ellenőrizd a címet. A tizenkét szót tartsd papíron.
+
+38
+00:03:26.193 --> 00:03:29.064
+Vegyél ki érmét bármikor, öttől felfelé.
+
+39
+00:03:29.900 --> 00:03:35.565
+Már tudod, hogyan jönnek be és mennek ki az érmék. Legközelebb: a Momentum terv. Viszlát, barátom!
+

@@ -1,0 +1,202 @@
+WEBVTT
+
+1
+00:00:02.592 --> 00:00:08.666
+Bonjour, les amis. Aujourd'hui, Sam devient assistant. Son premier jour, étape par étape.
+
+2
+00:00:08.666 --> 00:00:11.707
+Maya s'assoit à côté de lui. Vous pouvez suivre.
+
+3
+00:00:12.224 --> 00:00:17.789
+Étape un : le compte. Sam ouvre l'appli Delta One avec le lien que Maya lui a envoyé.
+
+4
+00:00:17.789 --> 00:00:22.114
+Maya est sa marraine. Vérifiez le nom à l'écran ; il ne pourra plus changer.
+
+5
+00:00:24.704 --> 00:00:27.367
+Étape deux : la vérification d'identité.
+
+6
+00:00:27.367 --> 00:00:31.835
+Sam montre sa carte d'identité à la caméra et prend un selfie, une seule fois.
+
+7
+00:00:33.696 --> 00:00:38.182
+Étape trois : Sam ajoute l'adresse de son propre portefeuille sur BEP-20.
+
+8
+00:00:38.182 --> 00:00:40.843
+Delta One n'envoie des pièces qu'à cette adresse.
+
+9
+00:00:42.656 --> 00:00:44.736
+Puis la connexion en deux étapes.
+
+10
+00:00:44.736 --> 00:00:48.538
+Sam l'active et écrit les codes de récupération sur papier.
+
+11
+00:00:48.538 --> 00:00:50.592
+Le papier reste loin du téléphone.
+
+12
+00:00:52.704 --> 00:00:56.653
+Étape quatre : sa propre boîte. Fuji demande mille pièces.
+
+13
+00:00:56.653 --> 00:01:01.614
+Kilimanjaro, deux mille cinq cents. Matterhorn, six mille. Denali, douze mille.
+
+14
+00:01:05.216 --> 00:01:09.109
+Sam n'achète que ce qu'il peut perdre. Le prix ne revient jamais.
+
+15
+00:01:09.109 --> 00:01:10.812
+Il choisit la première boîte.
+
+16
+00:01:12.160 --> 00:01:16.651
+La question du Fidèle : bouton bloqué sur allumé pendant toute la vie de la boîte ?
+
+17
+00:01:16.651 --> 00:01:21.717
+Deux cent vingt au lieu de deux cents. Impossible de changer ensuite. Pas sûr ?
+
+18
+00:01:21.717 --> 00:01:22.905
+Choisissez standard.
+
+19
+00:01:24.288 --> 00:01:29.685
+Sam envoie le montant exact sur BNB Smart Chain. Il attend l'écran de confirmation.
+
+20
+00:01:29.685 --> 00:01:33.542
+Sa boîte démarre au premier décompte de midi UTC après ce jour-là.
+
+21
+00:01:36.608 --> 00:01:40.715
+Étape cinq : Sam lit les Faits clés, une page. Puis le guide produit.
+
+22
+00:01:40.715 --> 00:01:45.214
+Puis il lit la note de transparence à voix haute, une fois. Maya écoute.
+
+23
+00:01:51.744 --> 00:01:57.081
+Jours un à dix : chaque résultat ouvre tout seul une petite boîte. Sam ne fait rien.
+
+24
+00:01:57.081 --> 00:01:58.890
+Il les regarde juste apparaître.
+
+25
+00:02:01.728 --> 00:02:05.036
+Jour onze : le premier résultat que Sam peut retirer.
+
+26
+00:02:05.036 --> 00:02:08.943
+Il fait un petit retrait, cinq pièces, vers son propre portefeuille.
+
+27
+00:02:08.943 --> 00:02:11.074
+Maintenant, il sait que tout le chemin marche.
+
+28
+00:02:12.736 --> 00:02:17.480
+Dès le jour onze, Sam règle son bouton. Allumé, chaque résultat part en rachat.
+
+29
+00:02:17.480 --> 00:02:20.530
+Éteint, chaque résultat va dans le portefeuille de l'appli.
+
+30
+00:02:20.530 --> 00:02:22.412
+Il peut changer n'importe quel jour.
+
+31
+00:02:24.832 --> 00:02:26.411
+Étape six : les outils.
+
+32
+00:02:26.411 --> 00:02:32.784
+La présentation, les Faits clés, les Mots simples, le guide produit, l'aide-mémoire, la Carte du langage, et cette liste.
+
+33
+00:02:35.808 --> 00:02:38.602
+Sam regarde les trois films une fois chacun.
+
+34
+00:02:38.602 --> 00:02:42.121
+La présentation, le plan Momentum, la Ferme aux graines.
+
+35
+00:02:42.121 --> 00:02:46.231
+Puis il ouvre le planificateur et imprime sa page de quatre-vingt-dix jours.
+
+36
+00:02:46.784 --> 00:02:51.536
+Sam écrit sa liste de cinquante noms. Sans juger. Juste des noms.
+
+37
+00:02:51.536 --> 00:02:56.224
+Il prévoit dix conversations cette semaine et envoie d'abord les Faits clés à chaque personne.
+
+38
+00:02:59.360 --> 00:03:03.324
+Avant de parler à qui que ce soit, Sam lit deux fois la Carte du langage.
+
+39
+00:03:03.324 --> 00:03:06.749
+Il dit les cinq phrases à voix haute jusqu'à ce qu'elles soient à lui.
+
+40
+00:03:08.586 --> 00:03:11.439
+Il garde la note de transparence avec lui.
+
+41
+00:03:11.439 --> 00:03:16.039
+La plupart des membres ne gagnent aucune pièce en plus. Sam le dit, à chaque fois.
+
+42
+00:03:17.056 --> 00:03:21.090
+Les six règles, par cœur. Payé sur les gains, jamais sur les achats.
+
+43
+00:03:21.090 --> 00:03:25.739
+Pas de profit, pas de paiement. Équilibrez vos branches. Restez devant.
+
+44
+00:03:25.739 --> 00:03:29.082
+Les boîtes s'arrêtent à deux fois. Payé chaque jour, en pièces.
+
+45
+00:03:32.960 --> 00:03:35.360
+Maya n'a pas envoyé cette liste à Sam.
+
+46
+00:03:35.360 --> 00:03:38.360
+Elle s'est assise avec lui et l'a faite, écran par écran.
+
+47
+00:03:38.360 --> 00:03:40.371
+C'est le rôle d'un parrain le premier jour.
+
+48
+00:03:42.720 --> 00:03:47.535
+Disons-le ensemble. Compte, identité, portefeuille, boîte, onze jours, outils, mots.
+
+49
+00:03:47.535 --> 00:03:48.590
+Un après-midi.
+
+50
+00:03:52.384 --> 00:03:57.537
+Vous connaissez votre premier jour. La prochaine fois : bien le dire. À bientôt, les amis.
+

@@ -1,0 +1,170 @@
+WEBVTT
+
+1
+00:00:02.588 --> 00:00:07.434
+Hola, amigo. Hoy, la última gran pregunta. ¿Quién es Delta One?
+
+2
+00:00:07.434 --> 00:00:11.253
+Qué es, quién lo dirige, y cómo se mueven las monedas. Miremos.
+
+3
+00:00:14.684 --> 00:00:19.939
+Delta One vende una sola cosa: acceso a su motor de trading con inteligencia artificial.
+
+4
+00:00:19.939 --> 00:00:21.201
+Ese es Bolt.
+
+5
+00:00:21.201 --> 00:00:25.307
+Software que busca las operaciones correctas y hace todo el trading por sí mismo.
+
+6
+00:00:25.628 --> 00:00:30.688
+Los miembros compran el motor en cajas, desde mil monedas, como software como servicio.
+
+7
+00:00:30.688 --> 00:00:35.659
+Nada que operar tú mismo. Nada que gestionar. La compra es el producto.
+
+8
+00:00:37.920 --> 00:00:39.309
+¿Quién lo dirige?
+
+9
+00:00:39.309 --> 00:00:47.969
+Un equipo fundador, liderado por James, el fundador, con cuarenta años construyendo empresas, y Ricky, el presidente, cinturón negro de Jiu-Jitsu y entrenador.
+
+10
+00:00:49.317 --> 00:00:52.458
+Sus perfiles están en el conjunto de documentos.
+
+11
+00:00:52.458 --> 00:00:56.154
+El motor en sí lo dirige su arquitecto, bajo los controles de la empresa.
+
+12
+00:00:57.540 --> 00:01:01.107
+Cómo se mueven las monedas. Paso uno, la compra.
+
+13
+00:01:01.107 --> 00:01:05.031
+Pagas en USDT por BNB Smart Chain a la dirección de la aplicación.
+
+14
+00:01:05.031 --> 00:01:07.444
+Las monedas van a billeteras de custodia.
+
+15
+00:01:09.796 --> 00:01:15.480
+Ninguna persona sola puede mover esas monedas. Más de un portador de claves debe firmar.
+
+16
+00:01:15.480 --> 00:01:17.148
+Eso se llama multifirma.
+
+17
+00:01:18.788 --> 00:01:23.497
+Paso dos, el trading. Cuentas de trading aprobadas ejecutan el motor.
+
+18
+00:01:23.497 --> 00:01:29.842
+La ganancia real de cada día se confirma con los estados del exchange y se publica con el informe de operaciones.
+
+19
+00:01:30.212 --> 00:01:34.493
+Paso tres, la liquidación, cada día a las doce del mediodía, hora UTC.
+
+20
+00:01:34.493 --> 00:01:41.604
+La ganancia del día se divide: cincuenta a los miembros, veinticinco al plan de los ayudantes, veinticinco al granero, la Tesorería DAO.
+
+21
+00:01:43.396 --> 00:01:50.116
+Los resultados, las cajitas de recompra y la comisión se registran en las billeteras de la aplicación en ese momento.
+
+22
+00:01:50.116 --> 00:01:51.965
+Cada día. En monedas.
+
+23
+00:01:52.388 --> 00:01:54.152
+Paso cuatro, el retiro.
+
+24
+00:01:54.152 --> 00:02:00.210
+Desde la billetera de la aplicación, cuando quieras, cinco monedas o más, enviadas de inmediato a tu propia billetera.
+
+25
+00:02:00.210 --> 00:02:02.160
+Solo se cobra la tarifa del camino.
+
+26
+00:02:02.501 --> 00:02:03.420
+Control.
+
+27
+00:02:03.420 --> 00:02:08.482
+Los lotes de pago se hacen a partir de resultados aprobados y los firma más de un portador de claves.
+
+28
+00:02:08.482 --> 00:02:11.387
+Los grandes movimientos del granero tienen bloqueo de tiempo.
+
+29
+00:02:11.717 --> 00:02:15.529
+El ciclo diario se comprueba contra las reglas publicadas.
+
+30
+00:02:15.529 --> 00:02:18.711
+Cada día, las mismas reglas, la misma aritmética.
+
+31
+00:02:19.268 --> 00:02:21.290
+Los documentos que lo obligan.
+
+32
+00:02:21.290 --> 00:02:25.182
+La guía del producto y los Datos clave: qué compras y los riesgos.
+
+33
+00:02:25.182 --> 00:02:28.367
+La guía del plan: cada regla, calculada hasta la moneda.
+
+34
+00:02:29.252 --> 00:02:32.913
+La divulgación: lo que ganan de verdad los miembros del modelo.
+
+35
+00:02:32.913 --> 00:02:36.801
+La auditoría matemática: las cifras publicadas comprobadas mil veces.
+
+36
+00:02:38.276 --> 00:02:44.344
+Delta One no es un banco ni un fondo. No promete nada. El motor puede perder monedas.
+
+37
+00:02:44.344 --> 00:02:47.951
+USDT puede perder su paridad. Las redes pueden fallar.
+
+38
+00:02:49.248 --> 00:02:52.854
+Todo aquí es un borrador para revisión legal y de cumplimiento.
+
+39
+00:03:00.192 --> 00:03:06.916
+Digámoslo juntos. Un producto: el motor, en cajas. Un equipo fundador. Más de una clave.
+
+40
+00:03:06.916 --> 00:03:09.935
+Las doce del mediodía UTC. El granero.
+
+41
+00:03:13.416 --> 00:03:15.011
+Ahora sabes quién es Delta One.
+
+42
+00:03:15.011 --> 00:03:19.092
+La próxima vez: la presentación completa, construida con bloques. Hasta pronto, amigo.
+

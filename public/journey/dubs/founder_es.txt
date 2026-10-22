@@ -1,0 +1,182 @@
+WEBVTT
+
+1
+00:00:02.624 --> 00:00:07.281
+¡Hola otra vez! Este es el dibujo animado de los Asientos de Fundador de Delta One.
+
+2
+00:00:07.584 --> 00:00:14.103
+Conoce a Nora, que quiere un asiento en la cima de la montaña, y a Bolt, el motor de inteligencia artificial que hace el trading.
+
+3
+00:00:15.040 --> 00:00:20.144
+La misma regla de siempre: cada número es un promedio, y nada es una promesa. ¡A escalar!
+
+4
+00:00:23.104 --> 00:00:29.487
+Hay exactamente doscientos sesenta asientos de fundador, en seis niveles, desde la cima de la montaña hacia abajo.
+
+5
+00:00:29.487 --> 00:00:32.077
+Diez asientos Sherpa a doscientos mil USDT.
+
+6
+00:00:34.240 --> 00:00:39.999
+Veinticinco Montañista. Veinticinco Pionero de sendas. Cincuenta Explorador.
+
+7
+00:00:39.999 --> 00:00:44.518
+Cincuenta Pionero a diez mil. Y cien asientos Guía a cinco mil.
+
+8
+00:00:44.518 --> 00:00:49.137
+Nora elige un asiento Pionero. El número uno uno uno. ¡Es suyo!
+
+9
+00:00:51.360 --> 00:00:54.375
+Un asiento de fundador le da a Nora dos cosas.
+
+10
+00:00:54.375 --> 00:01:00.764
+Uno: una parte de fundador, una porción de la ganancia de Bolt, cada día con ganancia, durante toda la vida del proyecto.
+
+11
+00:01:02.368 --> 00:01:04.191
+Dos: un módulo de asiento.
+
+12
+00:01:04.191 --> 00:01:10.977
+Sus diez mil también trabajan como un módulo normal, ganando al promedio hasta haberle pagado el doble del precio del asiento.
+
+13
+00:01:10.977 --> 00:01:12.621
+Dos corrientes, un asiento.
+
+14
+00:01:15.264 --> 00:01:17.046
+Así funciona la parte.
+
+15
+00:01:17.046 --> 00:01:21.362
+Cada día que Bolt tiene ganancia, el uno por ciento va al frasco de los fundadores.
+
+16
+00:01:22.048 --> 00:01:29.789
+El frasco se reparte por precio de asiento: los diez mil de Nora, divididos entre ocho millones, el precio de los doscientos sesenta asientos.
+
+17
+00:01:29.789 --> 00:01:31.521
+Esa es su parte, para siempre.
+
+18
+00:01:33.568 --> 00:01:38.870
+¿Asientos sin vender? Su parte se queda en Delta One. La de Nora nunca cambia.
+
+19
+00:01:39.840 --> 00:01:41.065
+¿Cuánto vale?
+
+20
+00:01:41.065 --> 00:01:48.346
+El caso de planificación: mil millones de USDT en ventas de módulos generan dos mil millones de USDT de ganancia de trading con el tiempo.
+
+21
+00:01:48.832 --> 00:01:52.650
+El uno por ciento de eso es un frasco de veinte millones de USDT.
+
+22
+00:01:52.650 --> 00:01:55.769
+Un asiento Guía recibe doce mil quinientos de él.
+
+23
+00:01:55.769 --> 00:01:58.861
+El asiento Pionero de Nora recibe veinticinco mil.
+
+24
+00:02:00.768 --> 00:02:03.015
+Un asiento Sherpa, medio millón.
+
+25
+00:02:03.015 --> 00:02:06.750
+Con el tiempo, al promedio, y solo si la ganancia se produce de verdad.
+
+26
+00:02:08.064 --> 00:02:10.318
+Y hay una ventana de lanzamiento.
+
+27
+00:02:10.318 --> 00:02:19.364
+Los asientos pagados antes de la liquidación de las doce del mediodía UTC del once de octubre reciben el dos por ciento en lugar del uno, durante sus primeros doce meses.
+
+28
+00:02:21.032 --> 00:02:24.366
+El doble de parte sobre todo lo que gana Bolt en ese año.
+
+29
+00:02:25.132 --> 00:02:29.551
+Después de la ventana, es el uno por ciento para todos. ¡Tic tac, Nora!
+
+30
+00:02:31.180 --> 00:02:34.149
+Un trabajo para cada fundador: seguir activo.
+
+31
+00:02:34.149 --> 00:02:40.278
+Cuando el módulo de asiento de Nora llega al doble, empieza un período de gracia de treinta días, y su parte sigue llegando.
+
+32
+00:02:42.156 --> 00:02:47.363
+Renueva con un nuevo módulo de asiento al precio del asiento, desde su billetera o con un pago nuevo.
+
+33
+00:02:48.396 --> 00:02:52.016
+Si no lo hace, su parte se pausa, y se queda en Delta One.
+
+34
+00:02:52.016 --> 00:02:53.926
+¡Pero el asiento sigue siendo suyo!
+
+35
+00:02:55.564 --> 00:02:59.371
+Puede volver a activarlo cuando quiera, con un nuevo módulo de asiento.
+
+36
+00:02:59.371 --> 00:03:01.188
+El NFT es para siempre.
+
+37
+00:03:03.692 --> 00:03:08.982
+El asiento de Nora vive como un NFT en BNB Smart Chain, numerado en el orden en que se compró.
+
+38
+00:03:09.964 --> 00:03:18.077
+Es suyo para conservarlo, y suyo para transferirlo: la parte sigue al NFT hasta el nuevo dueño, que puede mantenerlo activo o volver a activarlo.
+
+39
+00:03:19.040 --> 00:03:21.809
+Incluso puede dejarlo en su testamento.
+
+40
+00:03:21.809 --> 00:03:26.500
+Se paga a diario a las doce del mediodía UTC, en USDT, a la billetera de la aplicación.
+
+41
+00:03:27.020 --> 00:03:28.402
+La parte seria.
+
+42
+00:03:28.402 --> 00:03:33.285
+Cada número es una ilustración hipotética al resultado diario promedio del motor.
+
+43
+00:03:34.316 --> 00:03:42.612
+La parte de fundador depende por completo de la ganancia realmente obtenida; los resultados no están garantizados, y el precio del asiento se puede perder.
+
+44
+00:03:43.436 --> 00:03:50.760
+La entidad emisora y los términos están todavía por publicar, y este dibujo animado es un borrador para revisión de cumplimiento.
+
+45
+00:03:50.760 --> 00:03:55.663
+Lee los Datos clave de fundador antes de comprar. ¡Adiós de parte de Nora y Bolt!
+

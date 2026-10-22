@@ -1,0 +1,198 @@
+WEBVTT
+
+1
+00:00:02.592 --> 00:00:05.637
+Bonjour, les amis. Aujourd'hui, les pièces.
+
+2
+00:00:05.637 --> 00:00:09.975
+Comment elles entrent, comment elles sortent, et les erreurs qui font perdre des pièces.
+
+3
+00:00:09.975 --> 00:00:11.209
+Doucement, ensemble.
+
+4
+00:00:12.896 --> 00:00:16.890
+Les pièces de Delta One sont des USDT. Un dollar numérique.
+
+5
+00:00:16.890 --> 00:00:19.230
+Une pièce est faite pour valoir un dollar.
+
+6
+00:00:19.230 --> 00:00:21.785
+Elle vit sur une blockchain, un grand cahier public.
+
+7
+00:00:23.648 --> 00:00:27.669
+Un portefeuille est une appli sur votre téléphone qui garde vos pièces.
+
+8
+00:00:27.669 --> 00:00:31.967
+Il a une adresse, comme un numéro de maison. L'adresse, vous pouvez la partager.
+
+9
+00:00:32.640 --> 00:00:36.990
+Le portefeuille a aussi un secret : douze mots. Qui a les mots possède les pièces.
+
+10
+00:00:36.990 --> 00:00:41.742
+Écrivez-les sur papier. Ne les tapez jamais nulle part. Ne les partagez jamais.
+
+11
+00:00:44.128 --> 00:00:48.967
+Même pas avec Delta One. Delta One ne vous demandera jamais vos douze mots.
+
+12
+00:00:48.967 --> 00:00:50.704
+Gardez le papier en lieu sûr.
+
+13
+00:00:51.456 --> 00:00:55.142
+Les pièces voyagent sur des routes. L'USDT a plusieurs routes.
+
+14
+00:00:55.142 --> 00:00:59.584
+Delta One n'en utilise qu'une : BNB Smart Chain, aussi appelée B E P vingt.
+
+15
+00:01:02.688 --> 00:01:05.547
+Les pièces envoyées sur la mauvaise route sont perdues.
+
+16
+00:01:05.547 --> 00:01:10.364
+À chaque envoi, l'écran demande quelle route. La réponse est toujours BNB Smart Chain.
+
+17
+00:01:12.768 --> 00:01:14.191
+D'où viennent les pièces ?
+
+18
+00:01:14.191 --> 00:01:18.777
+En général, on les achète sur une plateforme d'échange, une boutique de pièces.
+
+19
+00:01:18.777 --> 00:01:23.792
+Vérifiez votre identité, payez par la banque, puis envoyez-les sur votre propre portefeuille.
+
+20
+00:01:24.768 --> 00:01:26.854
+BNB Smart Chain, c'est la route.
+
+21
+00:01:26.854 --> 00:01:32.709
+Gardez aussi un peu de la pièce BNB dans le portefeuille : elle paie le péage de la route, quelques centimes.
+
+22
+00:01:32.709 --> 00:01:35.283
+Un portefeuille sans BNB ne peut rien envoyer.
+
+23
+00:01:35.584 --> 00:01:41.261
+Maintenant, Maya achète sa boîte. L'appli montre une adresse de paiement. Maya la copie.
+
+24
+00:01:41.261 --> 00:01:44.659
+Elle vérifie les quatre premiers et les quatre derniers signes.
+
+25
+00:01:44.659 --> 00:01:46.422
+Puis elle envoie le montant exact.
+
+26
+00:01:49.088 --> 00:01:52.521
+Envoyez d'abord un petit test. Puis le vrai montant.
+
+27
+00:01:52.521 --> 00:01:55.124
+En une minute environ, les pièces arrivent.
+
+28
+00:01:55.124 --> 00:01:58.555
+Maya garde le long code du reçu, le hash de la transaction.
+
+29
+00:02:03.232 --> 00:02:06.516
+Chaque jour à midi UTC, le relevé de Maya arrive.
+
+30
+00:02:06.516 --> 00:02:11.782
+Il montre le résultat de Bolt du jour, la part de sa boîte, où elle est allée, et où en est sa boîte.
+
+31
+00:02:16.096 --> 00:02:20.052
+Où est allée la part ? Jours un à dix : rachat, une petite boîte.
+
+32
+00:02:20.052 --> 00:02:24.593
+Dès le jour onze, bouton allumé : rachat. Bouton éteint : son portefeuille de l'appli.
+
+33
+00:02:26.080 --> 00:02:28.093
+Retirer des pièces, c'est facile.
+
+34
+00:02:28.093 --> 00:02:31.825
+Depuis le portefeuille de l'appli, à tout moment, cinq pièces ou plus.
+
+35
+00:02:31.825 --> 00:02:36.111
+Elles vont à l'adresse de portefeuille du profil de Maya. Seul le péage est pris.
+
+36
+00:02:38.464 --> 00:02:41.264
+Faites un premier petit retrait, le jour onze.
+
+37
+00:02:41.264 --> 00:02:43.796
+Ainsi, vous savez que tout le chemin marche.
+
+38
+00:02:43.796 --> 00:02:46.030
+Ensuite, retirez des pièces quand vous voulez.
+
+39
+00:02:48.480 --> 00:02:56.913
+Les erreurs qui font perdre des pièces : la mauvaise route, une mauvaise adresse, pas de BNB pour le péage, partager les douze mots, les fausses applis et les faux liens.
+
+40
+00:03:00.224 --> 00:03:03.695
+Delta One n'envoie jamais de liens de paiement dans un chat.
+
+41
+00:03:03.695 --> 00:03:06.659
+Aucun agent du support n'a besoin de vos douze mots.
+
+42
+00:03:06.659 --> 00:03:10.557
+Si quelqu'un vous les demande, c'est une arnaque, un hameçon pour vous attraper.
+
+43
+00:03:10.860 --> 00:03:14.263
+Et encore une chose. Le prix d'achat ne revient jamais.
+
+44
+00:03:14.263 --> 00:03:16.643
+Seuls les résultats peuvent être retirés.
+
+45
+00:03:16.643 --> 00:03:18.989
+N'utilisez que des pièces que vous pouvez perdre.
+
+46
+00:03:19.948 --> 00:03:26.617
+Disons-le ensemble. BNB Smart Chain. Vérifiez l'adresse. Gardez les douze mots sur papier.
+
+47
+00:03:26.617 --> 00:03:29.096
+Retirez des pièces quand vous voulez, cinq ou plus.
+
+48
+00:03:29.900 --> 00:03:34.866
+Vous savez comment les pièces entrent et sortent. La prochaine fois : le plan Momentum.
+
+49
+00:03:34.866 --> 00:03:36.041
+À bientôt, les amis.
+

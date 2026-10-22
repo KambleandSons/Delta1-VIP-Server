@@ -1,0 +1,106 @@
+WEBVTT
+
+1
+00:00:02.588 --> 00:00:08.239
+Hola, amigo. Hoy, una regla. Una corta. Decide en qué colina estás.
+
+2
+00:00:08.239 --> 00:00:10.626
+Se llama la regla del equilibrio de líneas.
+
+3
+00:00:13.659 --> 00:00:18.089
+Una línea es un amigo que trajiste, más todos los que están debajo de ese amigo.
+
+4
+00:00:18.089 --> 00:00:23.071
+Sam es una línea. Los amigos de Sam y sus amigos están todos en la línea de Sam.
+
+5
+00:00:24.992 --> 00:00:26.282
+Ahora la regla.
+
+6
+00:00:26.282 --> 00:00:30.916
+En las dos primeras colinas, una línea cuenta como máximo la mitad de lo que pide la colina.
+
+7
+00:00:31.237 --> 00:00:35.593
+En las dos colinas siguientes, una línea puede contar como máximo un tercio.
+
+8
+00:00:35.593 --> 00:00:39.882
+En la quinta colina, un cuarto. En las dos colinas de arriba, un quinto.
+
+9
+00:00:42.275 --> 00:00:46.334
+¿Por qué? Porque una colina es para quienes construyen ancho.
+
+10
+00:00:46.334 --> 00:00:50.937
+Muchas líneas, muchos amigos. No una torre alta debajo de un solo amigo.
+
+11
+00:00:51.300 --> 00:00:56.632
+Hagamos un ejemplo. El equipo de Maya tiene trece mil quinientas monedas en cajas.
+
+12
+00:00:56.632 --> 00:00:59.146
+Diez mil de ellas están en la línea de Sam.
+
+13
+00:01:01.476 --> 00:01:06.071
+La tercera colina necesita doce mil. Maya tiene más que eso.
+
+14
+00:01:06.071 --> 00:01:11.354
+Pero un tercio de doce mil son cuatro mil. La línea de Sam solo puede contar cuatro mil.
+
+15
+00:01:13.317 --> 00:01:19.248
+Cuatro mil de Sam. Tres mil quinientas de las otras líneas. Son siete mil quinientas.
+
+16
+00:01:19.248 --> 00:01:21.536
+No es suficiente para la tercera colina.
+
+17
+00:01:23.716 --> 00:01:30.009
+Así que Maya está en la segunda colina, Kilimanjaro. No en la tercera. La regla hizo eso.
+
+18
+00:01:30.009 --> 00:01:31.533
+No el tamaño de su equipo.
+
+19
+00:01:33.832 --> 00:01:40.610
+¿Qué hace Maya? No empuja la línea de Sam más alto. Abre una línea nueva. Un amigo nuevo.
+
+20
+00:01:40.610 --> 00:01:42.935
+Luego otro. Ancho, no alto.
+
+21
+00:01:44.776 --> 00:01:49.625
+Digámoslo juntos. Una línea cuenta la mitad, un tercio, un cuarto o un quinto.
+
+22
+00:01:49.625 --> 00:01:51.215
+Planta ancho, no alto.
+
+23
+00:01:54.743 --> 00:02:00.601
+Cada número aquí es al promedio. La mayoría de los ayudantes no gana ninguna moneda extra.
+
+24
+00:02:00.601 --> 00:02:03.466
+Usa solo monedas que puedas permitirte perder.
+
+25
+00:02:04.856 --> 00:02:10.420
+Ahora conoces la regla. La próxima vez: cómo se paga a los líderes, la brecha del líder.
+
+26
+00:02:10.420 --> 00:02:11.774
+Hasta pronto, amigo.
+

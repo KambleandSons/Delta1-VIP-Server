@@ -1,0 +1,190 @@
+WEBVTT
+
+1
+00:00:02.624 --> 00:00:07.204
+Re-bonjour ! Voici le dessin animé des places de fondateur Delta One.
+
+2
+00:00:07.584 --> 00:00:12.948
+Voici Nora, qui veut une place au sommet de la montagne, et Bolt, le moteur AI qui fait le trading.
+
+3
+00:00:15.040 --> 00:00:19.541
+Même règle que d'habitude : chaque chiffre est une moyenne, et rien n'est une promesse.
+
+4
+00:00:19.541 --> 00:00:20.315
+On grimpe !
+
+5
+00:00:23.104 --> 00:00:29.113
+Il y a exactement deux cent soixante places de fondateur, en six paliers, du sommet de la montagne vers le bas.
+
+6
+00:00:29.113 --> 00:00:31.118
+Dix places Sherpa à deux cent mille USDT.
+
+7
+00:00:34.240 --> 00:00:39.373
+Vingt-cinq Alpiniste. Vingt-cinq Éclaireur. Cinquante Explorateur.
+
+8
+00:00:39.373 --> 00:00:43.208
+Cinquante Pionnier à dix mille. Et cent places Guide à cinq mille.
+
+9
+00:00:43.208 --> 00:00:47.322
+Nora choisit une place Pionnier. Numéro un un un. À elle !
+
+10
+00:00:51.360 --> 00:00:54.103
+Une place de fondateur donne deux choses à Nora.
+
+11
+00:00:54.103 --> 00:01:00.056
+Un : une part de fondateur, une tranche du profit de Bolt, chaque jour de profit, pendant toute la vie du projet.
+
+12
+00:01:02.368 --> 00:01:04.082
+Deux : un module de place.
+
+13
+00:01:04.082 --> 00:01:11.144
+Ses dix mille marchent aussi comme un module normal, qui gagne à la moyenne jusqu'à lui avoir versé deux fois le prix de la place.
+
+14
+00:01:11.144 --> 00:01:12.392
+Deux flux, une place.
+
+15
+00:01:15.264 --> 00:01:17.088
+Voici comment marche la part.
+
+16
+00:01:17.088 --> 00:01:21.243
+Chaque jour où Bolt fait un profit, un pour cent va dans le bocal des fondateurs.
+
+17
+00:01:22.048 --> 00:01:29.461
+Le bocal est partagé selon le prix des places : les dix mille de Nora, divisés par huit millions, le prix des deux cent soixante places.
+
+18
+00:01:29.461 --> 00:01:30.900
+C'est sa part, pour toujours.
+
+19
+00:01:33.568 --> 00:01:38.687
+Des places invendues ? Leur part reste chez Delta One. Celle de Nora ne change jamais.
+
+20
+00:01:39.840 --> 00:01:41.177
+Combien ça vaut ?
+
+21
+00:01:41.177 --> 00:01:48.045
+Le scénario de planification : un milliard d'USDT de ventes de modules donne deux milliards d'USDT de profit de trading avec le temps.
+
+22
+00:01:48.832 --> 00:01:52.363
+Un pour cent de cela, c'est un bocal de vingt millions d'USDT.
+
+23
+00:01:52.363 --> 00:01:55.280
+Une place Guide en reçoit douze mille cinq cents.
+
+24
+00:01:55.280 --> 00:01:57.905
+La place Pionnier de Nora reçoit vingt-cinq mille.
+
+25
+00:02:00.768 --> 00:02:02.901
+Une place Sherpa, un demi-million.
+
+26
+00:02:02.901 --> 00:02:06.701
+Avec le temps, à la moyenne, et seulement si le profit est vraiment réalisé.
+
+27
+00:02:08.064 --> 00:02:09.852
+Et il y a une fenêtre de lancement.
+
+28
+00:02:09.852 --> 00:02:16.636
+Les places payées d'ici le décompte de midi UTC du onze octobre reçoivent deux pour cent au lieu d'un, pendant leurs douze premiers mois.
+
+29
+00:02:21.032 --> 00:02:24.167
+Le double de la part sur tout ce que Bolt gagne cette année-là.
+
+30
+00:02:25.132 --> 00:02:29.059
+Après la fenêtre, c'est un pour cent pour tout le monde. Tic-tac, Nora !
+
+31
+00:02:31.180 --> 00:02:34.189
+Une mission pour chaque fondateur : rester actif.
+
+32
+00:02:34.189 --> 00:02:40.691
+Quand le module de place de Nora atteint deux fois, un délai de grâce de trente jours commence, et sa part continue d'arriver.
+
+33
+00:02:42.156 --> 00:02:47.549
+Elle la renouvelle avec un nouveau module au prix de la place, depuis son portefeuille ou par un nouveau paiement.
+
+34
+00:02:48.396 --> 00:02:51.720
+Sinon, sa part est suspendue, et elle reste chez Delta One.
+
+35
+00:02:51.720 --> 00:02:53.337
+Mais la place est toujours à elle !
+
+36
+00:02:55.564 --> 00:02:59.434
+Elle peut la réactiver quand elle veut, avec un nouveau module de place.
+
+37
+00:02:59.434 --> 00:03:01.040
+Le NFT, c'est pour toujours.
+
+38
+00:03:03.692 --> 00:03:09.001
+La place de Nora existe sous forme de NFT sur BNB Smart Chain, numérotée dans l'ordre d'achat.
+
+39
+00:03:09.964 --> 00:03:17.271
+Elle peut la garder, et elle peut la céder : la part suit le NFT jusqu'au nouveau propriétaire, qui peut la garder active, ou la réactiver.
+
+40
+00:03:19.040 --> 00:03:21.195
+Elle peut même la léguer par testament.
+
+41
+00:03:21.195 --> 00:03:25.165
+Payé chaque jour à midi UTC, en USDT, dans le portefeuille de l'appli.
+
+42
+00:03:27.020 --> 00:03:28.615
+La partie sérieuse.
+
+43
+00:03:28.615 --> 00:03:33.204
+Chaque chiffre est un exemple hypothétique au résultat quotidien moyen du moteur.
+
+44
+00:03:34.316 --> 00:03:38.471
+La part de fondateur dépend entièrement du profit réellement réalisé.
+
+45
+00:03:38.471 --> 00:03:42.230
+Les résultats ne sont pas garantis, et le prix de la place peut être perdu.
+
+46
+00:03:43.436 --> 00:03:50.270
+L'entité émettrice et les conditions restent à publier, et ce dessin animé est un projet pour examen de conformité.
+
+47
+00:03:50.270 --> 00:03:54.835
+Lisez les Faits clés fondateur avant d'acheter. Au revoir de la part de Nora et Bolt !
+

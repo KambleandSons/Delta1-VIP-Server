@@ -1,0 +1,122 @@
+WEBVTT
+
+1
+00:00:02.588 --> 00:00:06.771
+Bonjour, les amis. Aujourd'hui, une règle. Une courte.
+
+2
+00:00:06.771 --> 00:00:09.072
+Elle décide sur quelle colline vous êtes.
+
+3
+00:00:09.072 --> 00:00:11.564
+Elle s'appelle la règle d'équilibre des branches.
+
+4
+00:00:13.659 --> 00:00:17.687
+Une branche, c'est un ami que vous avez amené, plus tout le monde sous cet ami.
+
+5
+00:00:17.687 --> 00:00:22.616
+Sam est une branche. Les amis de Sam et leurs amis sont tous dans la branche de Sam.
+
+6
+00:00:24.992 --> 00:00:26.376
+Maintenant, la règle.
+
+7
+00:00:26.376 --> 00:00:30.943
+Sur les deux premières collines, une branche compte au plus pour la moitié de ce que demande la colline.
+
+8
+00:00:31.237 --> 00:00:34.971
+Sur les deux collines suivantes, une branche compte au plus pour un tiers.
+
+9
+00:00:34.971 --> 00:00:38.816
+Sur la cinquième colline, un quart. Sur les deux plus hautes, un cinquième.
+
+10
+00:00:42.275 --> 00:00:45.943
+Pourquoi ? Parce qu'une colline est pour ceux qui bâtissent large.
+
+11
+00:00:45.943 --> 00:00:49.577
+Beaucoup de branches, beaucoup d'amis. Pas une haute tour sous un seul ami.
+
+12
+00:00:51.300 --> 00:00:56.184
+Prenons un exemple. L'équipe de Maya a treize mille cinq cents pièces de boîtes.
+
+13
+00:00:56.184 --> 00:00:58.074
+Dix mille sont dans la branche de Sam.
+
+14
+00:01:01.476 --> 00:01:05.379
+La troisième colline demande douze mille. Maya a plus que ça.
+
+15
+00:01:05.379 --> 00:01:07.975
+Mais un tiers de douze mille, c'est quatre mille.
+
+16
+00:01:07.975 --> 00:01:10.802
+La branche de Sam ne peut compter que quatre mille.
+
+17
+00:01:13.317 --> 00:01:17.052
+Quatre mille de Sam. Trois mille cinq cents des autres branches.
+
+18
+00:01:17.052 --> 00:01:20.916
+Cela fait sept mille cinq cents. Pas assez pour la troisième colline.
+
+19
+00:01:23.716 --> 00:01:28.139
+Alors Maya est sur la deuxième colline, Kilimanjaro. Pas la troisième.
+
+20
+00:01:28.139 --> 00:01:31.284
+C'est la règle qui a fait ça. Pas la taille de son équipe.
+
+21
+00:01:33.832 --> 00:01:37.258
+Que fait Maya ? Elle ne pousse pas la branche de Sam plus haut.
+
+22
+00:01:37.258 --> 00:01:42.597
+Elle ouvre une nouvelle branche. Un nouvel ami. Puis un autre. Large, pas haut.
+
+23
+00:01:44.776 --> 00:01:50.195
+Disons-le ensemble. Une branche compte pour la moitié, un tiers, un quart ou un cinquième.
+
+24
+00:01:50.195 --> 00:01:51.451
+Plantez large, pas haut.
+
+25
+00:01:54.743 --> 00:01:56.846
+Chaque chiffre ici est à la moyenne.
+
+26
+00:01:56.846 --> 00:02:00.271
+La plupart des assistants ne gagnent aucune pièce en plus.
+
+27
+00:02:00.271 --> 00:02:02.617
+N'utilisez que des pièces que vous pouvez perdre.
+
+28
+00:02:04.856 --> 00:02:06.448
+Vous connaissez la règle.
+
+29
+00:02:06.448 --> 00:02:10.056
+La prochaine fois : comment les leaders sont payés, l'écart du leader.
+
+30
+00:02:10.056 --> 00:02:11.230
+À bientôt, les amis.
+

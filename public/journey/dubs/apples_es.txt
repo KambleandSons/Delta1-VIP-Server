@@ -1,0 +1,142 @@
+WEBVTT
+
+1
+00:00:02.620 --> 00:00:06.594
+Hola, amigo. Hoy, una pequeña historia sobre cien manzanas.
+
+2
+00:00:06.594 --> 00:00:09.310
+Explica de dónde sale cada moneda en Delta One.
+
+3
+00:00:11.936 --> 00:00:16.610
+Bolt opera todos los días. En un buen día, trae manzanas a casa.
+
+4
+00:00:16.610 --> 00:00:20.149
+Cada manzana es una moneda. Digamos cien manzanas.
+
+5
+00:00:21.700 --> 00:00:26.012
+Las cien manzanas se reparten de tres maneras. Siempre igual.
+
+6
+00:00:26.012 --> 00:00:28.373
+Cincuenta, veinticinco, veinticinco.
+
+7
+00:00:31.460 --> 00:00:36.624
+Cincuenta manzanas van a los miembros. Maya, Sam, todos los que tienen una caja.
+
+8
+00:00:36.624 --> 00:00:39.184
+Cada caja recibe su parte de las cincuenta.
+
+9
+00:00:40.484 --> 00:00:43.410
+Veinticinco manzanas van al plan de los ayudantes.
+
+10
+00:00:43.410 --> 00:00:46.811
+Los ayudantes son miembros que hablaron a sus amigos de Delta One.
+
+11
+00:00:46.811 --> 00:00:49.431
+Sus recompensas salen de aquí. Solo de aquí.
+
+12
+00:00:49.732 --> 00:00:54.708
+Veinticinco manzanas van al granero. El granero es la Tesorería DAO.
+
+13
+00:00:54.708 --> 00:00:57.416
+Mantiene a Delta One en marcha y creciendo.
+
+14
+00:00:58.116 --> 00:01:00.310
+Ahora la regla más importante.
+
+15
+00:01:00.310 --> 00:01:04.453
+Las manzanas de un ayudante nunca salen de las monedas de un miembro nuevo.
+
+16
+00:01:04.453 --> 00:01:07.554
+Nunca de una compra. Solo de las manzanas de Bolt.
+
+17
+00:01:08.068 --> 00:01:13.566
+En un día de lluvia, Bolt no trae manzanas. Cero. Entonces nadie come.
+
+18
+00:01:13.566 --> 00:01:18.200
+Ni los miembros, ni los ayudantes, ni el granero. Sin manzanas, nadie come.
+
+19
+00:01:21.093 --> 00:01:25.486
+Algunos días Bolt trae muchas manzanas. Otros días, pocas.
+
+20
+00:01:25.486 --> 00:01:29.920
+Junta todos los días, y una caja de mil monedas recibe unas cinco monedas al día.
+
+21
+00:01:30.500 --> 00:01:36.172
+Eso es el promedio. Medio por ciento al día. No es una promesa. Puede cambiar.
+
+22
+00:01:38.408 --> 00:01:42.502
+¿Por qué cincuenta para los miembros? Porque las cajas son suyas.
+
+23
+00:01:42.502 --> 00:01:44.947
+¿Por qué veinticinco para los ayudantes?
+
+24
+00:01:44.947 --> 00:01:50.836
+Porque ayudan a las cajas de su equipo, y el plan paga con las ganancias de las operaciones, nunca con una compra.
+
+25
+00:01:51.176 --> 00:01:56.536
+¿Por qué veinticinco para el granero? Porque el granero guarda todo lo que nadie reclama.
+
+26
+00:01:56.536 --> 00:02:00.491
+Y cuando una caja llega al valor de dos cajas, el resto se queda en el granero.
+
+27
+00:02:03.660 --> 00:02:08.472
+Cada día a las doce del mediodía, hora UTC, las manzanas se cuentan y se reparten.
+
+28
+00:02:08.472 --> 00:02:10.840
+Cada miembro lo ve en su estado de cuenta.
+
+29
+00:02:11.180 --> 00:02:17.756
+Digámoslo juntos. Cien manzanas. Cincuenta a los miembros. Veinticinco a los ayudantes.
+
+30
+00:02:17.756 --> 00:02:19.206
+Veinticinco al granero.
+
+31
+00:02:20.492 --> 00:02:25.860
+Sin manzanas, nadie come. Los ayudantes nunca comen las monedas de un miembro nuevo.
+
+32
+00:02:25.860 --> 00:02:29.178
+Y la mayoría de los ayudantes no gana ninguna manzana extra.
+
+33
+00:02:29.512 --> 00:02:31.985
+Ahora sabes de dónde sale cada moneda.
+
+34
+00:02:31.985 --> 00:02:37.210
+La próxima vez: monedas que entran, monedas que salen, y cómo leer tu estado de cuenta.
+
+35
+00:02:37.210 --> 00:02:38.134
+Hasta pronto.
+

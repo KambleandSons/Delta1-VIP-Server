@@ -1,0 +1,118 @@
+WEBVTT
+
+1
+00:00:02.620 --> 00:00:06.420
+Halo, teman. Hari ini, cerita kecil tentang seratus apel.
+
+2
+00:00:06.420 --> 00:00:10.820
+Cerita ini menjelaskan dari mana setiap koin di Delta One berasal.
+
+3
+00:00:11.936 --> 00:00:17.876
+Bolt bertransaksi setiap hari. Saat Bolt punya hari yang baik, ia membawa pulang apel.
+
+4
+00:00:17.876 --> 00:00:21.300
+Tiap apel adalah satu koin. Misalnya seratus apel.
+
+5
+00:00:21.700 --> 00:00:31.000
+Seratus apel dibagi tiga. Selalu sama. Lima puluh, dua puluh lima, dua puluh lima.
+
+6
+00:00:31.460 --> 00:00:36.331
+Lima puluh apel untuk para anggota. Maya, Sam, semua yang punya kotak.
+
+7
+00:00:36.331 --> 00:00:39.810
+Tiap kotak mendapat bagiannya dari lima puluh itu.
+
+8
+00:00:40.484 --> 00:00:46.889
+Dua puluh lima apel untuk rencana penolong. Penolong adalah anggota yang memberi tahu teman tentang Delta One.
+
+9
+00:00:46.889 --> 00:00:49.334
+Imbalan mereka dari sini. Hanya dari sini.
+
+10
+00:00:49.732 --> 00:00:57.632
+Dua puluh lima apel ke lumbung. Lumbung adalah Kas DAO. Lumbung membuat Delta One tetap berjalan dan tumbuh.
+
+11
+00:00:58.116 --> 00:01:04.191
+Sekarang aturan paling penting. Apel penolong tidak pernah berasal dari koin anggota baru.
+
+12
+00:01:04.191 --> 00:01:07.566
+Tidak pernah dari pembelian. Hanya dari apel Bolt.
+
+13
+00:01:08.068 --> 00:01:13.919
+Di hari hujan, Bolt tidak membawa apel. Nol. Maka tak ada yang makan.
+
+14
+00:01:13.919 --> 00:01:20.618
+Bukan anggota, bukan penolong, bukan lumbung. Tak ada apel, tak ada yang makan.
+
+15
+00:01:21.093 --> 00:01:24.653
+Ada hari Bolt membawa banyak apel. Ada hari sedikit.
+
+16
+00:01:24.653 --> 00:01:29.993
+Gabungkan semua hari, dan kotak seribu koin mendapat sekitar lima koin sehari.
+
+17
+00:01:30.500 --> 00:01:36.950
+Itulah rata-ratanya. Setengah persen sehari. Bukan janji. Bisa berubah.
+
+18
+00:01:38.408 --> 00:01:41.917
+Kenapa lima puluh untuk anggota? Karena kotaknya milik mereka.
+
+19
+00:01:41.917 --> 00:01:44.046
+Kenapa dua puluh lima untuk penolong?
+
+20
+00:01:44.046 --> 00:01:50.776
+Karena mereka membantu kotak tim mereka, dan rencana membayar dari keuntungan transaksi, tidak pernah dari pembelian.
+
+21
+00:01:51.176 --> 00:01:58.583
+Kenapa dua puluh lima untuk lumbung? Karena lumbung menyimpan semua yang tidak diklaim siapa pun.
+
+22
+00:01:58.583 --> 00:02:03.776
+Dan saat kotak mencapai senilai dua kotak, sisanya tetap di lumbung.
+
+23
+00:02:03.660 --> 00:02:11.060
+Setiap hari pukul dua belas siang UTC, apel dihitung dan dibagi. Setiap anggota melihatnya di laporan.
+
+24
+00:02:11.180 --> 00:02:17.871
+Mari ucapkan bersama. Seratus apel. Lima puluh untuk anggota. Dua puluh lima untuk penolong.
+
+25
+00:02:17.871 --> 00:02:19.980
+Dua puluh lima untuk lumbung.
+
+26
+00:02:20.492 --> 00:02:24.982
+Tak ada apel, tak ada yang makan. Penolong tidak pernah memakan koin anggota baru.
+
+27
+00:02:24.982 --> 00:02:28.542
+Dan kebanyakan penolong tidak mendapat apel tambahan sama sekali.
+
+28
+00:02:29.512 --> 00:02:33.158
+Sekarang Anda tahu dari mana setiap koin berasal.
+
+29
+00:02:33.158 --> 00:02:38.812
+Berikutnya: koin masuk, koin keluar, dan cara membaca laporan. Sampai jumpa.
+

@@ -1,0 +1,110 @@
+WEBVTT
+
+1
+00:00:02.588 --> 00:00:09.595
+Ciao, amico. Oggi, una regola. Una regola breve. Decide su quale collina stai.
+
+2
+00:00:09.595 --> 00:00:12.173
+Si chiama la regola dell'equilibrio delle linee.
+
+3
+00:00:13.659 --> 00:00:19.117
+Una linea è un amico che hai portato, più tutti quelli sotto di lui. Sam è una linea.
+
+4
+00:00:19.117 --> 00:00:22.557
+Gli amici di Sam e i loro amici sono tutti nella linea di Sam.
+
+5
+00:00:24.992 --> 00:00:26.334
+Ora la regola.
+
+6
+00:00:26.334 --> 00:00:30.934
+Sulle prime due colline, una linea conta al massimo per metà di quello che chiede la collina.
+
+7
+00:00:31.237 --> 00:00:35.556
+Sulle due colline dopo, una linea può contare al massimo per un terzo.
+
+8
+00:00:35.556 --> 00:00:40.442
+Sulla quinta collina, un quarto. Sulle due colline più alte, un quinto.
+
+9
+00:00:42.275 --> 00:00:48.397
+Perché? Perché una collina è per chi costruisce largo. Tante linee, tanti amici.
+
+10
+00:00:48.397 --> 00:00:50.821
+Non una torre alta sotto un solo amico.
+
+11
+00:00:51.300 --> 00:00:57.091
+Facciamo un esempio. La squadra di Maya ha tredicimilacinquecento monete di scatole.
+
+12
+00:00:57.091 --> 00:00:59.287
+Diecimila sono nella linea di Sam.
+
+13
+00:01:01.476 --> 00:01:05.707
+La terza collina chiede dodicimila. Maya ne ha di più.
+
+14
+00:01:05.707 --> 00:01:11.226
+Ma un terzo di dodicimila è quattromila. La linea di Sam può contare solo quattromila.
+
+15
+00:01:13.317 --> 00:01:19.806
+Quattromila da Sam. Tremilacinquecento dalle altre linee. Fa settemilacinquecento.
+
+16
+00:01:19.806 --> 00:01:21.936
+Non basta per la terza collina.
+
+17
+00:01:23.716 --> 00:01:30.410
+Quindi Maya sta sulla seconda collina, Kilimanjaro. Non sulla terza. È stata la regola.
+
+18
+00:01:30.410 --> 00:01:32.559
+Non la grandezza della sua squadra.
+
+19
+00:01:33.832 --> 00:01:39.741
+Cosa fa Maya? Non spinge più in alto la linea di Sam. Apre una linea nuova.
+
+20
+00:01:39.741 --> 00:01:44.126
+Un nuovo amico. Poi un altro. Largo, non alto.
+
+21
+00:01:44.776 --> 00:01:50.122
+Diciamolo insieme. Una linea conta per metà, un terzo, un quarto o un quinto.
+
+22
+00:01:50.122 --> 00:01:51.784
+Pianta largo, non alto.
+
+23
+00:01:54.743 --> 00:01:57.488
+Ogni numero qui è calcolato sulla media.
+
+24
+00:01:57.488 --> 00:02:01.109
+La maggior parte degli aiutanti non guadagna niente in più.
+
+25
+00:02:01.109 --> 00:02:04.045
+Usa solo monete che puoi permetterti di perdere.
+
+26
+00:02:04.856 --> 00:02:06.709
+Ora conosci la regola.
+
+27
+00:02:06.709 --> 00:02:12.239
+La prossima volta: come sono pagati i leader, la differenza del leader. A presto, amico.
+
