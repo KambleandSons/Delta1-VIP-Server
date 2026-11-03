@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { Link, useLocation } from 'react-router-dom';
+import { Link, useLocation, useSearchParams } from 'react-router-dom';
 import ThemeToggle from '../components/ThemeToggle';
 import { order, DUBS, LANGS, NAMES } from '../data/journeyData';
 
@@ -263,6 +263,9 @@ export default function JourneyPage() {
   const audioRefs = useRef({});
   const location = useLocation();
 
+  const [searchParams, setSearchParams] = useSearchParams();
+  const refParam = searchParams.get("ref");
+
   useEffect(() => {
     // Check hash anchor e.g. #box_studio
     const hash = (location.hash || '').replace(/^#/, '').split('.')[0];
@@ -376,9 +379,17 @@ export default function JourneyPage() {
             </b>
           </div>
           <div className="flex items-center gap-3">
-            <Link to="/" className="text-xs font-semibold text-d1blue-ink hover:underline whitespace-nowrap">
-              ← Delta One VIP
-            </Link>
+            {
+              refParam ? (
+                <Link to={`http://landing.deltaoneai.com?ref=${refParam}`} className="text-xs font-semibold text-d1blue-ink hover:underline whitespace-nowrap">
+                  ← Delta One Landing
+                </Link>
+              ): (
+                <Link to="/" className="text-xs font-semibold text-d1blue-ink hover:underline whitespace-nowrap">
+                  ← Delta One VIP
+                </Link>
+              )
+            }
             <ThemeToggle />
           </div>
         </div>
